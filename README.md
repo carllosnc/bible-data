@@ -1,11 +1,11 @@
 # Bible Data
 
->Extract content from [Biblia online](https://www.bibliaonline.com.br/vc) and transform to Json and gzip and Sqlite.
+>Extract content from [Biblia online](https://www.bibliaonline.com.br) and transform to Json and gzip and Sqlite.
 
 ### Json Format
 ```json
 {
-  lang: string
+  lang: string,
   books: {
     [
       {
@@ -13,7 +13,7 @@
         link: string,
         abbrev: string,
         testament: number
-        chapters: [[string]]
+        chapters: string[]
       }
     ]
   }
