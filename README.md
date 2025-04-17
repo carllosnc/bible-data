@@ -3,7 +3,7 @@
 >Extract content from [Biblia online](https://www.bibliaonline.com.br) and transform to Json and gzip and Sqlite.
 
 ### Json Format
-```json
+```js
 {
   lang: string,
   books: {
