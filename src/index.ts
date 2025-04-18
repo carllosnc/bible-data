@@ -32,11 +32,11 @@ async function get_bible(bibleId: string, bibleLang: string){
 
       console.log("✅", bookName)
 
-      await getCapLinks(bookLink!, abbrev)
+      await get_cap_links(bookLink!, abbrev)
     }
   }
 
-  async function getCapLinks(bookUrl: string, abbrev: string){
+  async function get_cap_links(bookUrl: string, abbrev: string){
     const response = await fetch(bookUrl)
     const data = await response.text()
 
@@ -46,11 +46,11 @@ async function get_bible(bibleId: string, bibleLang: string){
 
     for await (const item of caps.toArray()) {
       const chapterLink = $(item).attr('href')
-      await getChapters(chapterLink!, abbrev)
+      await get_chapters(chapterLink!, abbrev)
     }
   }
 
-  async function getChapters(chapterUrl: string, abbrev: string){
+  async function get_chapters(chapterUrl: string, abbrev: string){
     const response = await fetch(chapterUrl)
     const data = await response.text()
 
@@ -69,13 +69,19 @@ async function get_bible(bibleId: string, bibleLang: string){
   return bible
 }
 
-async function saveAsJson(bibleId: string, bibleName: string, bibleLang: string){
+async function save_bible(bibleId: string, bibleName: string, bibleLang: string){
   let bible = await get_bible(bibleId, bibleLang)
 
-  let file = Bun.file(`output/json/${bibleLang}/bible-${bibleName}.json`)
-  await file.write(JSON.stringify(bible))
-  console.log("\nDone!")
+  //json
+  let file_json = Bun.file(`output/json/${bibleLang}/bible-${bibleName}.json`)
+  await file_json.write(JSON.stringify(bible))
+
+  //gzip
+  let file_gz = Bun.file(`output/gzip/${bibleLang}/bible-${bibleName}.json.gz`)
+  await file_gz.write(Bun.gzipSync(JSON.stringify(bible)))
+
+  console.log("\nDone\n!")
 }
 
-// saveAsJson('bkj', 'king-james', 'pt-BR')
-// saveAsJson('vc', 'versao-catolica', 'pt-BR')
+await save_bible('bkj', 'king-james', 'pt-BR')
+await save_bible('vc', 'versao-catolica', 'pt-BR')
