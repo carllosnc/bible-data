@@ -3,7 +3,7 @@ export type Book = {
   link: string;
   abbrev: string;
   testament: number;
-  chapters: string[];
+  chapters: string[][];
 }
 
 export type Bible = {
