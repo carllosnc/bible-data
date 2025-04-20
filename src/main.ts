@@ -169,7 +169,7 @@ async function saveBible(bibleId: string, bibleName: string, bibleLang: string):
 
     // Save as gzipped JSON
     console.log('Saving as gzipped JSON...')
-    const fileGz = Bun.file(`output/gzip/${bibleLang}/bible-${bibleName}.json.gz`)
+    const fileGz = Bun.file(`output/gzip/${bibleLang}/bible-${bibleName}.gz`)
     await fileGz.write(Bun.gzipSync(JSON.stringify(bible)))
 
     // Save as SQLite
