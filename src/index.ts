@@ -149,4 +149,3 @@ async function save_bible(bibleId: string, bibleName: string, bibleLang: string)
 }
 
 await save_bible('bkj', 'king-james', 'pt-BR')
-// await save_bible('vc', 'versao-catolica', 'pt-BR')
