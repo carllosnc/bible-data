@@ -1,5 +1,7 @@
 # Bible Data
 
+[![bible-data](https://github.com/carllosnc/bible-data/actions/workflows/node.js.yml/badge.svg)](https://github.com/carllosnc/bible-data/actions/workflows/node.js.yml)
+
 >Extract content from [Biblia online](https://www.bibliaonline.com.br) and transform to Json and gzip and Sqlite.
 
 ### Json format
