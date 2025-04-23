@@ -1,0 +1,29 @@
+name: bible-data
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  # build job
+  build-test:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        bun-version: [1.1.31]
+        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: use Node.js ${{ matrix.node-version }}
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: ${{ matrix.node-version }}
+          cache: 'bun'
+      - name: Install dependencies
+        run: bun install
+      - name: Tests
+        run: bun test
