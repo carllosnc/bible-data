@@ -184,9 +184,11 @@ async function saveBible(bibleId: string, bibleName: string, bibleLang: string):
 
 // Run the scraper
 async function main() {
-  await saveBible('bkj', 'king-james', 'pt-BR')
-  // Uncomment to scrape additional Bibles
+  // await saveBible('bkj', 'king-james', 'pt-BR')
   // await saveBible('vc', 'versao-catolica', 'pt-BR')
+  await saveBible('naa', 'nova-almeida-atualizada', 'pt-BR')
+  await saveBible('ntlh', 'nova-traducao-lang-hoje', 'pt-BR')
+  await saveBible('nvi', 'nova-versao-internacional', 'pt-BR')
 }
 
 main().catch(console.error)
