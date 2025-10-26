@@ -186,9 +186,12 @@ async function saveBible(bibleId: string, bibleName: string, bibleLang: string):
 async function main() {
   // await saveBible('bkj', 'king-james', 'pt-BR')
   // await saveBible('vc', 'versao-catolica', 'pt-BR')
-  await saveBible('naa', 'nova-almeida-atualizada', 'pt-BR')
-  await saveBible('ntlh', 'nova-traducao-lang-hoje', 'pt-BR')
-  await saveBible('nvi', 'nova-versao-internacional', 'pt-BR')
+  // await saveBible('naa', 'nova-almeida-atualizada', 'pt-BR')
+  // await saveBible('ntlh', 'nova-traducao-lang-hoje', 'pt-BR')
+  // await saveBible('nvi', 'nova-versao-internacional', 'pt-BR')
+  // await saveBible('nvt', 'nova-versao-transformadora', 'pt-BR')
+  // await saveBible('ol', 'o-livro', 'pt-BR')
+  // await saveBible('tb', 'sociedade-biblica-britania', 'pt-BR')
 }
 
 main().catch(console.error)
