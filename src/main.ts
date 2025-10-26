@@ -192,6 +192,9 @@ async function main() {
   // await saveBible('nvt', 'nova-versao-transformadora', 'pt-BR')
   // await saveBible('ol', 'o-livro', 'pt-BR')
   // await saveBible('tb', 'sociedade-biblica-britania', 'pt-BR')
+  // await saveBible('aa', 'almeida-revisada-imprensa-biblica', 'pt-BR')
+  // await saveBible('ara', 'almeida-revisada-atualizada', 'pt-BR')
+  // await saveBible('acf', 'almeida-corrigida-fiel', 'pt-BR')
 }
 
 main().catch(console.error)
