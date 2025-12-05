@@ -48,6 +48,11 @@ CREATE TABLE IF NOT EXISTS verses (
 );
 ```
 
+## What's inside
+
+- Bun
+- Typescript
+
 ---
 
 Carlos Costa @ 2025
