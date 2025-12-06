@@ -7,6 +7,9 @@
 ### Json format
 ```js
 {
+  id: string,
+  name: string,
+  category: string,
   lang: string,
   books: {
     [
@@ -14,7 +17,7 @@
         name: string,
         link: string,
         abbrev: string,
-        testament: number
+        testament: number,
         chapters: string[][];
       }
     ]
@@ -24,8 +27,11 @@
 
 ### SQLite schema
 ```sql
-CREATE TABLE IF NOT EXISTS language (
-  lang_code TEXT PRIMARY KEY
+CREATE TABLE IF NOT EXISTS info (
+  id TEXT NOT NULL,
+  name TEXT NOT NULL,
+  lang TEXT NOT NULL,
+  category TEXT NOT NULL
 );
 
 CREATE TABLE IF NOT EXISTS books (
