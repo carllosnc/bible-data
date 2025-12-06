@@ -1,4 +1,6 @@
-function getBibleBookCategory(code: string) {
+import type { BookCategory } from "./types";
+
+export function getCategory(code: string): BookCategory {
   const key = code.trim().toLowerCase();
 
   const categoryMap = new Map([
@@ -26,7 +28,7 @@ function getBibleBookCategory(code: string) {
     ["et", "Historical Books"],  // Ester / Esther
 
     // Poesia e Sabedoria
-    ["jb", "Poetry and Wisdom"], // Jó / Job
+    ["jó", "Poetry and Wisdom"], // Jó / Job
     ["sl", "Poetry and Wisdom"], // Salmos / Psalms
     ["pv", "Poetry and Wisdom"], // Provérbios / Proverbs
     ["ec", "Poetry and Wisdom"], // Eclesiastes / Ecclesiastes
@@ -61,7 +63,7 @@ function getBibleBookCategory(code: string) {
     ["lc", "Gospels"],           // Lucas / Luke
     ["jo", "Gospels"],           // João / John
 
-    ["at", "History"],           // Atos / Acts
+    ["atos", "History"],           // Atos / Acts
 
     // Epístolas Paulinas
     ["rm", "Pauline Epistles"],  // Romanos / Romans
@@ -89,8 +91,12 @@ function getBibleBookCategory(code: string) {
     ["jd", "General Epistles"],  // Judas / Jude
 
     // Apocalipse
-    ["ap", "Apocalypse"]         // Apocalipse / Revelation
+    ["ap", "Prophetic"]         // Apocalipse / Revelation
   ]);
 
-  return categoryMap.get(key) || "Unknown book";
+  if(!categoryMap.has(key)){
+    throw new Error(`Category error: ${key}`)
+  }
+
+  return categoryMap.get(key) as BookCategory;
 }
