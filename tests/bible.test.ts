@@ -5,7 +5,7 @@ import Database from 'bun:sqlite'
 import { file } from 'bun'
 
 test("Bible King James JSON", () => {
-  const bible: Bible = BibleKingJames
+  const bible: Bible = BibleKingJames as Bible
 
   expect(bible.books.length).toBe(66)
 })
