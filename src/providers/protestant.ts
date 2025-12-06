@@ -62,5 +62,7 @@ export async function getBible(bible: Bible): Promise<Bible> {
     console.log(`${book.name}`)
   }
 
+  bible.books = books
+
   return bible
 }
