@@ -1,7 +1,7 @@
 export type BookCategory =
   "Pentateuch" |
   "Historical Books" |
-  "Poetry and Wisdom Books" |
+  "Poetry and Wisdom" |
   "Major Prophets" |
   "Minor Prophets" |
   "Gospels" |
@@ -10,18 +10,21 @@ export type BookCategory =
   "General Epistles" |
   "Prophetic"
 
+export type BibleCategory = "Protestant" | "Catholic" | "Othodox"
+
 export type Book = {
-  name: string;
-  link: string;
-  abbrev: string;
-  testament: number;
-  chapters: string[][];
+  name: string
+  link: string
+  category: BookCategory
+  abbrev: string
+  testament: number
+  chapters: string[][]
 }
 
 export type Bible = {
-  lang: string;
-  books: Book[];
-};
-
-
-//x + y = 200, 170 = 
+  id: string
+  name: string
+  category: BibleCategory
+  lang: string
+  books: Book[]
+}
