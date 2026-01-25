@@ -117,10 +117,18 @@ async function saveBible(bible: Bible, action: (bible: Bible) => Promise<Bible>)
 
 // Run the scraper
 async function main() {
+  // await saveBible({
+  //   id: 'bkj',
+  //   name: 'king-james',
+  //   lang: 'pt-BR',
+  //   category: 'Protestant',
+  //   books: []
+  // }, getBible)
+
   await saveBible({
-    id: 'bkj',
-    name: 'king-james',
-    lang: 'pt-BR',
+    id: 'acv',
+    name: 'A Conservative Version',
+    lang: 'en',
     category: 'Protestant',
     books: []
   }, getBible)
