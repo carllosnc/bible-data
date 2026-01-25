@@ -2,30 +2,51 @@
 
 [![bible-data](https://github.com/carllosnc/bible-data/actions/workflows/node.js.yml/badge.svg)](https://github.com/carllosnc/bible-data/actions/workflows/node.js.yml)
 
->Extract content from [Biblia online](https://www.bibliaonline.com.br) and transform to Json and gzip and Sqlite.
+> Extract content from [Biblia online](https://www.bibliaonline.com.br) and transform to Json, Gzip and Sqlite.
 
-### Json format
-```js
+## Getting Started
+
+To install dependencies:
+
+```bash
+bun install
+```
+
+To run the scraper:
+
+```bash
+bun run src/main.ts
+```
+
+## Output Formats
+
+### JSON format
+
+```json
 {
-  id: string,
-  name: string,
-  category: string,
-  lang: string,
-  books: {
-    [
-      {
-        name: string,
-        link: string,
-        abbrev: string,
-        testament: number,
-        chapters: string[][];
-      }
-    ]
-  }
+  "id": "string",
+  "name": "string",
+  "category": "string",
+  "lang": "string",
+  "books": [
+    {
+      "name": "string",
+      "link": "string",
+      "category": "string",
+      "abbrev": "string",
+      "testament": "number",
+      "chapters": [
+        [
+          "string" // verses
+        ]
+      ]
+    }
+  ]
 }
 ```
 
 ### SQLite schema
+
 ```sql
 CREATE TABLE IF NOT EXISTS info (
   id TEXT NOT NULL,
@@ -38,6 +59,7 @@ CREATE TABLE IF NOT EXISTS books (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   name TEXT NOT NULL,
   link TEXT NOT NULL,
+  category TEXT NOT NULL,
   abbrev TEXT NOT NULL,
   testament INTEGER NOT NULL CHECK (testament IN (0, 1)),
   UNIQUE(abbrev)
@@ -56,8 +78,9 @@ CREATE TABLE IF NOT EXISTS verses (
 
 ## What's inside
 
-- Bun
-- Typescript
+- [Bun](https://bun.sh)
+- [TypeScript](https://www.typescriptlang.org)
+- [Cheerio](https://cheerio.js.org)
 
 ---
 
