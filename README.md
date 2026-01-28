@@ -1,43 +1,76 @@
-# Bible Data
+# Bible Data Scraper
 
-[![bible-data](https://github.com/carllosnc/bible-data/actions/workflows/node.js.yml/badge.svg)](https://github.com/carllosnc/bible-data/actions/workflows/node.js.yml)
+![License](https://img.shields.io/github/license/carllosnc/bible-data)
+[![Status](https://github.com/carllosnc/bible-data/actions/workflows/node.js.yml/badge.svg)](https://github.com/carllosnc/bible-data/actions/workflows/node.js.yml)
 
-> Extract content from [Biblia online](https://www.bibliaonline.com.br) and transform to Json, Gzip and Sqlite.
+A high-performance Bible scraper written in **TypeScript** using **Bun**. This tool extracts Bible content from [Biblia Online](https://www.bibliaonline.com.br), transforming it into multiple useful formats for developers.
+
+## Features
+
+- **Fast Extraction**: Powered by Bun and Cheerio.
+- **Multiple Output Formats**:
+  - **JSON**: Hierarchical structure (Book > Chapter > Verse).
+  - **Gzip**: Compressed JSON for efficient storage/transport.
+  - **SQLite**: Relational database ready for querying.
+- **Smart Categorization**: Automatically categorizes books (Pentateuch, Gospels, etc.).
+
+## Prerequisites
+
+- [Bun](https://bun.sh) (v1.0 or later)
 
 ## Getting Started
 
-To install dependencies:
+1. **Install dependencies:**
 
-```bash
-bun install
+   ```bash
+   bun install
+   ```
+
+2. **Run the scraper:**
+
+   ```bash
+   bun run src/main.ts
+   ```
+
+   The data will be saved in the `output/` directory.
+
+## Configuration
+
+To download a different Bible version, modify the `main` function in `src/main.ts`:
+
+```typescript
+await saveBible({
+  id: 'your-version-id', // e.g., 'nvi', 'acf', 'kjv'
+  name: 'your-version-name',
+  lang: 'en', // or 'pt-BR', etc.
+  category: 'Protestant', // or 'Catholic'
+  books: []
+}, getBible)
 ```
 
-To run the scraper:
-
-```bash
-bun run src/main.ts
-```
+The `id` must match the version identifier used in the URL on [Biblia Online](https://www.bibliaonline.com.br) (e.g., `https://www.bibliaonline.com.br/acf` -> id is `acf`).
 
 ## Output Formats
 
-### JSON format
+### JSON Structure
 
 ```json
 {
-  "id": "string",
-  "name": "string",
-  "category": "string",
-  "lang": "string",
+  "id": "acv",
+  "name": "A Conservative Version",
+  "category": "Protestant",
+  "lang": "en",
   "books": [
     {
-      "name": "string",
-      "link": "string",
-      "category": "string",
-      "abbrev": "string",
-      "testament": "number",
+      "name": "Genesis",
+      "link": ".../gn",
+      "category": "Pentateuch",
+      "abbrev": "gn",
+      "testament": 0, // 0 = Old, 1 = New
       "chapters": [
         [
-          "string" // verses
+          "In the beginning...", // Verse 1
+          "And the earth was..." // Verse 2
         ]
       ]
     }
@@ -45,27 +78,28 @@ bun run src/main.ts
 }
 ```
 
-### SQLite schema
+### SQLite Schema
+
+The generated SQLite database (`output/sqlite/<lang>/bible-<name>.sqlite`) includes the following schema:
 
 ```sql
-CREATE TABLE IF NOT EXISTS info (
+CREATE TABLE info (
   id TEXT NOT NULL,
   name TEXT NOT NULL,
   lang TEXT NOT NULL,
   category TEXT NOT NULL
 );
 
-CREATE TABLE IF NOT EXISTS books (
+CREATE TABLE books (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   name TEXT NOT NULL,
   link TEXT NOT NULL,
   category TEXT NOT NULL,
-  abbrev TEXT NOT NULL,
-  testament INTEGER NOT NULL CHECK (testament IN (0, 1)),
-  UNIQUE(abbrev)
+  abbrev TEXT NOT NULL UNIQUE,
+  testament INTEGER NOT NULL CHECK (testament IN (0, 1))
 );
 
-CREATE TABLE IF NOT EXISTS verses (
+CREATE TABLE verses (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   content TEXT NOT NULL,
   book_abbrev TEXT NOT NULL,
@@ -76,12 +110,13 @@ CREATE TABLE IF NOT EXISTS verses (
 );
 ```
 
-## What's inside
+## Tech Stack
 
-- [Bun](https://bun.sh)
-- [TypeScript](https://www.typescriptlang.org)
-- [Cheerio](https://cheerio.js.org)
+- **Runtime**: [Bun](https://bun.sh)
+- **Language**: [TypeScript](https://www.typescriptlang.org)
+- **Scraping**: [Cheerio](https://cheerio.js.org)
+- **Database**: [bun:sqlite](https://bun.sh/docs/api/sqlite)
 
 ---
 
-Carlos Costa @ 2025
+Developed by [Carlos Costa](https://github.com/carllosnc)
