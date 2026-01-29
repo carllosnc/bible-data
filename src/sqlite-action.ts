@@ -3,10 +3,11 @@ import { mkdir } from "node:fs/promises"
 import type { Bible } from './types'
 
 export async function saveAsSqlite(bible: Bible): Promise<void> {
-  const outputDir = `output/sqlite/${bible.lang}/`
+  const category = bible.category.toLowerCase();
+  const outputDir = `output/sqlite/${category}/${bible.lang}/`
   await mkdir(outputDir, {recursive: true})
 
-  const db = new Database(`${outputDir}bible-${bible.name}.sqlite`)
+  const db = new Database(`${outputDir}bible-${bible.id}.sqlite`)
 
   // Create tables in a transaction
   db.exec(`
