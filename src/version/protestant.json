@@ -1,7 +1,7 @@
 [
   {
     "name": "Portuguese",
-    "type": "Protestant",
+    "category": "Protestant",
     "pt-BR": [
       {
         "name": "Almeida Corrigida Fiel",
@@ -59,7 +59,7 @@
   },
   {
     "name": "English",
-    "type": "Protestant",
+    "category": "Protestant",
     "en": [
       {
         "name": "A Conservative Version",
@@ -245,7 +245,7 @@
   },
   {
     "name": "Spanish",
-    "type": "Protestant",
+    "category": "Protestant",
     "es": [
       {
         "name": "Las Sagradas Escrituras",
@@ -259,7 +259,7 @@
   },
   {
     "name": "French",
-    "type": "Protestant",
+    "category": "Protestant",
     "fr": [
       {
         "name": "Bible de Genève de 1669",
@@ -333,7 +333,7 @@
   },
   {
     "name": "German",
-    "type": "Protestant",
+    "category": "Protestant",
     "de": [
       {
         "name": "Abraham Meister NT",
@@ -439,7 +439,7 @@
   },
   {
     "name": "Hebrew",
-    "type": "Protestant",
+    "category": "Protestant",
     "he": [
       {
         "name": "Aleppo Codex",
@@ -465,7 +465,7 @@
   },
   {
     "name": "Greek",
-    "type": "Protestant",
+    "category": "Protestant",
     "gr": [
       {
         "name": "Modern Greek",
@@ -479,7 +479,7 @@
   },
   {
     "name": "Lithuanian",
-    "type": "Protestant",
+    "category": "Protestant",
     "lt": [
       {
         "name": "Lithuanian",
@@ -489,7 +489,7 @@
   },
   {
     "name": "Afrikaans",
-    "type": "Protestant",
+    "category": "Protestant",
     "af": [
       {
         "name": "1933/1953 Afrikaans Bybel",
@@ -499,7 +499,7 @@
   },
   {
     "name": "Arabic",
-    "type": "Protestant",
+    "category": "Protestant",
     "ar": [
       {
         "name": "Smith Van Dyke Arabic Bible",
@@ -509,7 +509,7 @@
   },
   {
     "name": "Bulgarian",
-    "type": "Protestant",
+    "category": "Protestant",
     "bg": [
       {
         "name": "Tsarigrad Edition",
@@ -523,7 +523,7 @@
   },
   {
     "name": "Chamorro",
-    "type": "Protestant",
+    "category": "Protestant",
     "ch": [
       {
         "name": "Chamorro: Y Santa Biblia (1908)",
@@ -533,7 +533,7 @@
   },
   {
     "name": "Czech",
-    "type": "Protestant",
+    "category": "Protestant",
     "cs": [
       {
         "name": "Bible Kralicka",
@@ -547,7 +547,7 @@
   },
   {
     "name": "Esperanto",
-    "type": "Protestant",
+    "category": "Protestant",
     "eo": [
       {
         "name": "Esperanto",
@@ -557,7 +557,7 @@
   },
   {
     "name": "Estonian",
-    "type": "Protestant",
+    "category": "Protestant",
     "et": [
       {
         "name": "Estonian",
@@ -567,7 +567,7 @@
   },
   {
     "name": "Basque",
-    "type": "Protestant",
+    "category": "Protestant",
     "eu": [
       {
         "name": "Basque(Navarro-Labourdin)NT",
@@ -577,7 +577,7 @@
   },
   {
     "name": "Finnish",
-    "type": "Protestant",
+    "category": "Protestant",
     "fi": [
       {
         "name": "Pyhä Raamattu",
@@ -591,7 +591,7 @@
   },
   {
     "name": "Scottish Gaelic",
-    "type": "Protestant",
+    "category": "Protestant",
     "gd": [
       {
         "name": "Gaelic Scripture (Manx Gaelic)",
@@ -601,7 +601,7 @@
   },
   {
     "name": "Haitian",
-    "type": "Protestant",
+    "category": "Protestant",
     "ht": [
       {
         "name": "Haitian Creole Version",
@@ -611,7 +611,7 @@
   },
   {
     "name": "Hungarian",
-    "type": "Protestant",
+    "category": "Protestant",
     "hu": [
       {
         "name": "Hungarian Version",
@@ -629,7 +629,7 @@
   },
   {
     "name": "Italian",
-    "type": "Protestant",
+    "category": "Protestant",
     "it": [
       {
         "name": "Giovanni Diodati Bibbia",
@@ -651,7 +651,7 @@
   },
   {
     "name": "Korean",
-    "type": "Protestant",
+    "category": "Protestant",
     "ko": [
       {
         "name": "Korean Version",
@@ -661,7 +661,7 @@
   },
   {
     "name": "Latin",
-    "type": "Protestant",
+    "category": "Protestant",
     "la": [
       {
         "name": "Biblia Sacra Vulgata",
@@ -679,7 +679,7 @@
   },
   {
     "name": "Latvian",
-    "type": "Protestant",
+    "category": "Protestant",
     "lv": [
       {
         "name": "Lativian Version",
@@ -689,7 +689,7 @@
   },
   {
     "name": "Maori",
-    "type": "Protestant",
+    "category": "Protestant",
     "mi": [
       {
         "name": "Maori Version",
@@ -699,7 +699,7 @@
   },
   {
     "name": "Burmese",
-    "type": "Protestant",
+    "category": "Protestant",
     "my": [
       {
         "name": "Judson - Myanmar/Burmse",
@@ -709,7 +709,7 @@
   },
   {
     "name": "Dutch",
-    "type": "Protestant",
+    "category": "Protestant",
     "nl": [
       {
         "name": "Dutch",
@@ -719,7 +719,7 @@
   },
   {
     "name": "Norwegian",
-    "type": "Protestant",
+    "category": "Protestant",
     "no": [
       {
         "name": "Det Norsk Bibelselskap",
@@ -737,7 +737,7 @@
   },
   {
     "name": "Polish",
-    "type": "Protestant",
+    "category": "Protestant",
     "pl": [
       {
         "name": "Polska Biblia",
@@ -747,7 +747,7 @@
   },
   {
     "name": "Romanian",
-    "type": "Protestant",
+    "category": "Protestant",
     "ro": [
       {
         "name": "Cornilescu",
@@ -761,7 +761,7 @@
   },
   {
     "name": "Russian",
-    "type": "Protestant",
+    "category": "Protestant",
     "ru": [
       {
         "name": "Russian New Testament Strongs",
@@ -783,7 +783,7 @@
   },
   {
     "name": "Albanian",
-    "type": "Protestant",
+    "category": "Protestant",
     "sq": [
       {
         "name": "Albanian Version",
@@ -793,7 +793,7 @@
   },
   {
     "name": "Swedish",
-    "type": "Protestant",
+    "category": "Protestant",
     "sv": [
       {
         "name": "Svenska Folkbibeln (1998)",
@@ -807,7 +807,7 @@
   },
   {
     "name": "Swahili",
-    "type": "Protestant",
+    "category": "Protestant",
     "sw": [
       {
         "name": "Swahili NT",
@@ -817,7 +817,7 @@
   },
   {
     "name": "Thai",
-    "type": "Protestant",
+    "category": "Protestant",
     "th": [
       {
         "name": "KJV-Thai",
@@ -827,7 +827,7 @@
   },
   {
     "name": "Filipino",
-    "type": "Protestant",
+    "category": "Protestant",
     "tl": [
       {
         "name": "Ang Dating Biblia",
@@ -837,7 +837,7 @@
   },
   {
     "name": "Turkish",
-    "type": "Protestant",
+    "category": "Protestant",
     "tr": [
       {
         "name": "Türkçe",
@@ -847,7 +847,7 @@
   },
   {
     "name": "Vietnamese",
-    "type": "Protestant",
+    "category": "Protestant",
     "vi": [
       {
         "name": "New Vietnamese Bible",
@@ -861,7 +861,7 @@
   },
   {
     "name": "Chinese",
-    "type": "Protestant",
+    "category": "Protestant",
     "zh": [
       {
         "name": "Chinese Union Version",
