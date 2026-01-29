@@ -1,28 +1,28 @@
 import { mkdir } from "node:fs/promises"
 import type { Bible } from './types'
 import { getBible } from './providers/protestant'
-import { saveAsSqlite } from './sqlite'
-
-
+import { saveAsSqlite } from './sqlite-action'
+import { selectBibleVersion } from './select-version'
 
 async function saveBible(bible: Bible, action: (bible: Bible) => Promise<Bible>): Promise<void> {
   try {
-    console.log(`Starting to save Bible: ${bible.name} (${bible.name})`)
+    console.log(`Starting to save Bible: ${bible.name} (${bible.lang})`)
 
     const bibleResult = await action(bible)
 
     // Create output directories
-    await mkdir(`output/json/${bible.lang}/`, {recursive: true})
-    await mkdir(`output/gzip/${bible.lang}/`, {recursive: true})
+    const category = bible.category.toLowerCase();
+    await mkdir(`output/json/${category}/${bible.lang}/`, {recursive: true})
+    await mkdir(`output/gzip/${category}/${bible.lang}/`, {recursive: true})
 
     // Save as JSON
     console.log('Saving as JSON...')
-    const fileJson = Bun.file(`output/json/${bible.lang}/bible-${bible.name}.json`)
-    await fileJson.write(JSON.stringify(bibleResult))
+    const fileJson = Bun.file(`output/json/${category}/${bible.lang}/bible-${bible.id}.json`)
+    await fileJson.write(JSON.stringify(bibleResult, null, 2))
 
     // Save as gzipped JSON
     console.log('Saving as gzipped JSON...')
-    const fileGz = Bun.file(`output/gzip/${bible.lang}/bible-${bible.name}.gz`)
+    const fileGz = Bun.file(`output/gzip/${category}/${bible.lang}/bible-${bible.id}.gz`)
     await fileGz.write(Bun.gzipSync(JSON.stringify(bibleResult)))
 
     // Save as SQLite
@@ -37,21 +37,8 @@ async function saveBible(bible: Bible, action: (bible: Bible) => Promise<Bible>)
 
 // Run the scraper
 async function main() {
-  // await saveBible({
-  //   id: 'bkj',
-  //   name: 'king-james',
-  //   lang: 'pt-BR',
-  //   category: 'Protestant',
-  //   books: []
-  // }, getBible)
-
-  await saveBible({
-    id: 'acv',
-    name: 'A Conservative Version',
-    lang: 'en',
-    category: 'Protestant',
-    books: []
-  }, getBible)
+  const bibleSelection = await selectBibleVersion();
+  await saveBible(bibleSelection as Bible, getBible)
 }
 
 main().catch(console.error)
