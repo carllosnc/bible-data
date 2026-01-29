@@ -1,6 +1,5 @@
 # Bible Data Scraper
 
-![License](https://img.shields.io/github/license/carllosnc/bible-data)
 [![Status](https://github.com/carllosnc/bible-data/actions/workflows/node.js.yml/badge.svg)](https://github.com/carllosnc/bible-data/actions/workflows/node.js.yml)
 
 A high-performance Bible scraper written in **TypeScript** using **Bun**. This tool extracts Bible content from [Biblia Online](https://www.bibliaonline.com.br), transforming it into multiple useful formats for developers.
