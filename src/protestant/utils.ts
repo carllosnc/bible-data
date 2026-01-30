@@ -1,4 +1,4 @@
-import type { BookCategory } from "./types";
+import type { BookCategory } from "../types";
 
 export function getCategory(code: string): BookCategory {
   const key = code.trim().toLowerCase();

@@ -1,5 +1,5 @@
 import type { Bible, Book } from '../types'
-import { getCategory } from '../utils'
+import { getCategory } from './utils'
 import { loadingEnd, loadingStart } from '../loading'
 import { fetchContent } from '../fetch-content'
 

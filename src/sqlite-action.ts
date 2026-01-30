@@ -4,7 +4,7 @@ import type { Bible } from './types'
 
 export async function saveAsSqlite(bible: Bible): Promise<void> {
   const category = bible.category.toLowerCase();
-  const outputDir = `output/sqlite/${category}/${bible.lang}/`
+  const outputDir = `output/${category}/sqlite/${bible.lang}/`
   await mkdir(outputDir, {recursive: true})
 
   const db = new Database(`${outputDir}bible-${bible.id}.sqlite`)

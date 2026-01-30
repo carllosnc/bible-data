@@ -1,6 +1,6 @@
 import { select } from '@inquirer/prompts';
-import type { Bible } from './types'
-import protestantVersions from './version/protestant.json'
+import type { Bible } from '../types'
+import protestantVersions from './version.json'
 
 export async function selectBibleVersion(): Promise<Partial<Bible>> {
   const selectedLanguage = await select({
