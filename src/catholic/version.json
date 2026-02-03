@@ -1,0 +1,216 @@
+[
+  {
+    "name": "Portuguese",
+    "category": "Catholic",
+    "pt-BR": [
+      {
+        "name": "Bíblia Ave Maria",
+        "abbrev": "biblia-ave-maria"
+      },
+      {
+        "name": "Bíblia Matos Soares (1956)",
+        "abbrev": "biblia-matos-soares-1956"
+      }
+    ]
+  },
+  {
+    "name": "Spanish",
+    "category": "Catholic",
+    "es": [
+      {
+        "name": "Biblia Latinoamericana",
+        "abbrev": "biblia-latinoamericana"
+      },
+      {
+        "name": "La Biblia de Jerusalén",
+        "abbrev": "la-biblia-de-jerusalen"
+      },
+      {
+        "name": "El Libro del Pueblo de Dios",
+        "abbrev": "el-libro-del-pueblo-de-dios"
+      },
+      {
+        "name": "La Santa Biblia",
+        "abbrev": "la-santa-biblia"
+      }
+    ]
+  },
+  {
+    "name": "English",
+    "category": "Catholic",
+    "en": [
+      {
+        "name": "The New American Bible",
+        "abbrev": "the-new-american-bible"
+      },
+      {
+        "name": "Douay-Rheims Version",
+        "abbrev": "douay-rheims-version"
+      },
+      {
+        "name": "King James Version",
+        "abbrev": "king-james-version"
+      },
+      {
+        "name": "Revised Standard Version",
+        "abbrev": "revised-standard-version"
+      },
+      {
+        "name": "Christian Community Bible",
+        "abbrev": "christian-community-bible"
+      },
+      {
+        "name": "New Jerusalem Bible",
+        "abbrev": "new-jerusalem-bible"
+      },
+      {
+        "name": "Catholic Public Domain Version",
+        "abbrev": "catholic-public-domain-version"
+      },
+      {
+        "name": "The Knox Bible",
+        "abbrev": "the-knox-bible"
+      }
+    ]
+  },
+  {
+    "name": "Italian",
+    "category": "Catholic",
+    "it": [
+      {
+        "name": "La Sacra Bibbia (Versione CEI 1974)",
+        "abbrev": "la-sacra-bibbia"
+      },
+      {
+        "name": "La Sacra Bibbia (Versione CEI 2008)",
+        "abbrev": "la-sacra-bibbia-versione-cei-2008"
+      },
+      {
+        "name": "Sacra Bibbia (Edizione Liber Liber)",
+        "abbrev": "sacra-bibbia-edizione-liber-liber"
+      },
+      {
+        "name": "La Bibbia",
+        "abbrev": "la-bibbia"
+      }
+    ]
+  },
+  {
+    "name": "French",
+    "category": "Catholic",
+    "fr": [
+      {
+        "name": "La Bible de Jérusalem",
+        "abbrev": "la-bible-de-jerusalem"
+      },
+      {
+        "name": "La Bible Des Communautés Chrétiennes",
+        "abbrev": "la-bible-des-communautes-chretiennes"
+      },
+      {
+        "name": "La Sainte Bible (Augustin Crampon 1923)",
+        "abbrev": "la-sainte-bible-augustin-crampon"
+      },
+      {
+        "name": "La Sainte Bible (Traduction catholique de Fillion)",
+        "abbrev": "la-sainte-bible-traduction-catholique-de-fillion"
+      }
+    ]
+  },
+  {
+    "name": "Latin",
+    "category": "Catholic",
+    "la": [
+      {
+        "name": "Vulgata Latina",
+        "abbrev": "vulgata-latina"
+      },
+      {
+        "name": "Neo Vulgata Latina",
+        "abbrev": "neo-vulgata-latina"
+      },
+      {
+        "name": "Vulgata Clementina",
+        "abbrev": "vulgata-clementina"
+      }
+    ]
+  },
+  {
+    "name": "Greek",
+    "category": "Catholic",
+    "gr": [
+      {
+        "name": "Septuaginta + NT",
+        "abbrev": "septuaginta"
+      },
+      {
+        "name": "Septuaginta + NT (transliterada)",
+        "abbrev": "septuaginta-transliterada"
+      }
+    ]
+  },
+  {
+    "name": "German",
+    "category": "Catholic",
+    "de": [
+      {
+        "name": "Die Bibel",
+        "abbrev": "die-bibel"
+      },
+      {
+        "name": "Revidierte Einheitsübersetzung 2016",
+        "abbrev": "revidierte-einheitsubersetzung-2016"
+      }
+    ]
+  },
+  {
+    "name": "Polish",
+    "category": "Catholic",
+    "pl": [
+      {
+        "name": "Biblia Tysiąclecia",
+        "abbrev": "biblia-tysiaclecia"
+      }
+    ]
+  },
+  {
+    "name": "Croatian",
+    "category": "Catholic",
+    "hr": [
+      {
+        "name": "Biblija Hrvatski",
+        "abbrev": "biblija-hrvatski"
+      }
+    ]
+  },
+  {
+    "name": "Hungarian",
+    "category": "Catholic",
+    "hu": [
+      {
+        "name": "Katolikus Biblia",
+        "abbrev": "katolikus-biblia"
+      }
+    ]
+  },
+  {
+    "name": "Finnish",
+    "category": "Catholic",
+    "fi": [
+      {
+        "name": "Raamattu ja Biblia",
+        "abbrev": "raamattu-ja-biblia"
+      }
+    ]
+  },
+  {
+    "name": "Romanian",
+    "category": "Catholic",
+    "ro": [
+      {
+        "name": "Biblia Romano-Catolică",
+        "abbrev": "biblia-romano-catolica"
+      }
+    ]
+  }
+]
