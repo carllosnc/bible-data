@@ -2,11 +2,17 @@
 
 [![Status](https://github.com/carllosnc/bible-data/actions/workflows/node.js.yml/badge.svg)](https://github.com/carllosnc/bible-data/actions/workflows/node.js.yml)
 
-A high-performance Bible scraper written in **TypeScript** using **Bun**. This tool extracts Bible content from [Biblia Online](https://www.bibliaonline.com.br), transforming it into multiple useful formats for developers.
+A high-performance Bible scraper written in **TypeScript** using **Bun**. This tool extracts Bible content from:
+- [Biblia Online](https://www.bibliaonline.com.br) (Protestant versions)
+- [Bíblia Católica](https://www.bibliacatolica.com.br) (Catholic versions)
+
+It transforms the data into multiple useful formats for developers.
 
 ## Features
 
 - **Fast Extraction**: Powered by Bun and Cheerio.
+- **Support for Multiple Sources**: Dedicated scrapers for Protestant and Catholic bibles.
+- **Interactive CLI**: Easy version selection via command-line prompts.
 - **Multiple Output Formats**:
   - **JSON**: Hierarchical structure (Book > Chapter > Verse).
   - **Gzip**: Compressed JSON for efficient storage/transport.
@@ -27,31 +33,27 @@ A high-performance Bible scraper written in **TypeScript** using **Bun**. This t
 
 2. **Run the scraper:**
 
+   **For Protestant Bibles:**
    ```bash
-   bun run src/main.ts
+   bun run src/protestant/main.ts
    ```
 
-   The data will be saved in the `output/` directory.
+   **For Catholic Bibles:**
+   ```bash
+   bun run src/catholic/main.ts
+   ```
 
-## Configuration
+3. **Follow the interactive prompts** to select the language and Bible version you wish to download.
 
-To download a different Bible version, modify the `main` function in `src/main.ts`:
-
-```typescript
-await saveBible({
-  id: 'your-version-id', // e.g., 'nvi', 'acf', 'kjv'
-  name: 'your-version-name',
-  lang: 'en', // or 'pt-BR', etc.
-  category: 'Protestant', // or 'Catholic'
-  books: []
-}, getBible)
-```
-
-The `id` must match the version identifier used in the URL on [Biblia Online](https://www.bibliaonline.com.br) (e.g., `https://www.bibliaonline.com.br/acf` -> id is `acf`).
+   The data will be saved in the `output/<category>/` directory (e.g., `output/protestant/` or `output/catholic/`).
 
 ## Output Formats
 
+The output is organized by category (protestant/catholic), format (json/gzip/sqlite), and language.
+
 ### JSON Structure
+
+File path: `output/<category>/json/<lang>/bible-<id>.json`
 
 ```json
 {
@@ -79,7 +81,9 @@ The `id` must match the version identifier used in the URL on [Biblia Online](ht
 
 ### SQLite Schema
 
-The generated SQLite database (`output/sqlite/<lang>/bible-<name>.sqlite`) includes the following schema:
+File path: `output/<category>/sqlite/<lang>/bible-<id>.sqlite`
+
+The generated SQLite database includes the following schema:
 
 ```sql
 CREATE TABLE info (
@@ -115,11 +119,8 @@ CREATE TABLE verses (
 - **Language**: [TypeScript](https://www.typescriptlang.org)
 - **Scraping**: [Cheerio](https://cheerio.js.org)
 - **Database**: [bun:sqlite](https://bun.sh/docs/api/sqlite)
+- **CLI**: [Inquirer](https://github.com/SBoudrias/Inquirer.js)
 
 ---
 
 Developed by [Carlos Costa](https://github.com/carllosnc)
-
-
-
-
