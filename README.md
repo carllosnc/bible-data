@@ -37,6 +37,8 @@ It transforms the data into multiple useful formats for developers.
 
    ```bash
    bun start
+   # Or run in watch mode for development:
+   bun run dev
    ```
 
    Follow the prompts to select Protestant/Catholic, Language, and Version.
@@ -51,6 +53,9 @@ It transforms the data into multiple useful formats for developers.
 
    # Download all Catholic bibles
    bun run download:catholic
+   
+   # Download ALL bibles
+   bun run download:all
    ```
 
    The data will be saved in the `output/<category>/` directory (e.g., `output/protestant/` or `output/catholic/`).

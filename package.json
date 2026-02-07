@@ -11,8 +11,10 @@
   },
   "scripts": {
     "start": "bun run main.ts",
+    "dev": "bun run --watch main.ts",
     "download:protestant": "bun run src/protestant/download-all.ts",
-    "download:catholic": "bun run src/catholic/download-all.ts"
+    "download:catholic": "bun run src/catholic/download-all.ts",
+    "download:all": "bun run download:protestant && bun run download:catholic"
   },
   "dependencies": {
     "@inquirer/prompts": "^8.2.0",
