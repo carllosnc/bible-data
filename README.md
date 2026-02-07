@@ -31,19 +31,27 @@ It transforms the data into multiple useful formats for developers.
    bun install
    ```
 
-2. **Run the scraper:**
+2. **Interactive Mode:**
 
-   **For Protestant Bibles:**
+   Run the main CLI to select a category and download a specific bible version:
+
    ```bash
-   bun run src/protestant/main.ts
+   bun start
    ```
 
-   **For Catholic Bibles:**
-   ```bash
-   bun run src/catholic/main.ts
-   ```
+   Follow the prompts to select Protestant/Catholic, Language, and Version.
 
-3. **Follow the interactive prompts** to select the language and Bible version you wish to download.
+3. **Bulk Download:**
+   
+   To download ALL available bibles at once:
+
+   ```bash
+   # Download all Protestant bibles
+   bun run download:protestant
+
+   # Download all Catholic bibles
+   bun run download:catholic
+   ```
 
    The data will be saved in the `output/<category>/` directory (e.g., `output/protestant/` or `output/catholic/`).
 
