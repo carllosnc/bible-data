@@ -36,9 +36,12 @@ async function saveBible(bible: Bible, action: (bible: Bible) => Promise<Bible>)
 }
 
 // Run the scraper
-async function main() {
+// Run the scraper
+export async function run() {
   const bibleSelection = await selectBibleVersion();
   await saveBible(bibleSelection as Bible, getBible)
 }
 
-main().catch(console.error)
+if (import.meta.main) {
+  run().catch(console.error)
+}
