@@ -1,8 +1,16 @@
 import type { Bible, Book } from '../types'
-import { getCategory } from './book-category'
+import { getCategory_ptbr } from './book-category/book-category_ptbr'
+import { getCategory_en } from './book-category/book-category_en'
+import { getCategory_es } from './book-category/book-category_es'
+import { getCategory_fr } from './book-category/book-category_fr'
+import { getCategory_it } from './book-category/book-category_it'
 import { loadingEnd, loadingStart } from '../loading'
 import { fetchContent } from '../fetch-content'
-import { catholicBookIds } from './books'
+import { catholicBookIds_ptbr } from './books/books_ptbr'
+import { catholicBookIds_en } from './books/books_en'
+import { catholicBookIds_es } from './books/books_es'
+import { catholicBookIds_fr } from './books/books_fr'
+import { catholicBookIds_it } from './books/books_it'
 
 const BASE_URL = 'https://www.bibliacatolica.com.br'
 
@@ -11,7 +19,24 @@ export async function getBible(bible: Bible): Promise<Bible> {
 
   const books: Book[] = []
 
-  for (const [index, bookDef] of catholicBookIds.entries()) {
+  let bookIds = catholicBookIds_ptbr
+  let getCategory = getCategory_ptbr
+
+  if (bible.lang === 'en') {
+    bookIds = catholicBookIds_en
+    getCategory = getCategory_en
+  } else if (bible.lang === 'es') {
+    bookIds = catholicBookIds_es
+    getCategory = getCategory_es
+  } else if (bible.lang === 'fr') {
+    bookIds = catholicBookIds_fr
+    getCategory = getCategory_fr
+  } else if (bible.lang === 'it') {
+    bookIds = catholicBookIds_it
+    getCategory = getCategory_it
+  }
+
+  for (const [index, bookDef] of bookIds.entries()) {
     const bookTimer = loadingStart(`Processing ${bookDef.name}`)
     const chapters: string[][] = []
     let bookProperName = bookDef.name

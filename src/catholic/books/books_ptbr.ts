@@ -1,4 +1,4 @@
-export const catholicBookIds = [
+export const catholicBookIds_ptbr = [
   { id: "genesis",              name: "Gênesis",              size: 50 },
   { id: "exodo",                name: "Êxodo",                size: 40 },
   { id: "levitico",             name: "Levítico",             size: 27 },

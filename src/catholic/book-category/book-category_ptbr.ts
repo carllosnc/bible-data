@@ -1,6 +1,6 @@
-import type { BookCategory } from "../types";
+import type { BookCategory } from "../../types";
 
-export function getCategory(code: string): BookCategory {
+export function getCategory_ptbr(code: string): BookCategory {
   const key = code.trim().toLowerCase();
 
   const categoryMap = new Map([
