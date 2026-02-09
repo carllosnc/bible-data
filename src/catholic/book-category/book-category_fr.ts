@@ -37,7 +37,7 @@ export function getCategory_fr(code: string): BookCategory {
 
     ["isaie", "Major Prophets"],
     ["jeremie", "Major Prophets"],
-    ["lamentations", "Major Prophets"],
+    ["lamentaciones", "Major Prophets"],
     ["baruch", "Major Prophets"],
     ["ezechiel", "Major Prophets"],
     ["daniel", "Major Prophets"],
@@ -60,12 +60,12 @@ export function getCategory_fr(code: string): BookCategory {
     ["luc", "Gospels"],
     ["jean", "Gospels"],
 
-    ["actes", "History"],
+    ["actes-des-apotres", "History"],
 
     ["romains", "Pauline Epistles"],
     ["1-corinthiens", "Pauline Epistles"],
     ["2-corinthiens", "Pauline Epistles"],
-    ["galates", "Pauline Epistles"],
+    ["galatas", "Pauline Epistles"],
     ["ephesiens", "Pauline Epistles"],
     ["philippiens", "Pauline Epistles"],
     ["colossiens", "Pauline Epistles"],
