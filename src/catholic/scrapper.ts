@@ -5,6 +5,7 @@ import { getCategory_es } from './book-category/book-category_es'
 import { getCategory_fr } from './book-category/book-category_fr'
 import { getCategory_it } from './book-category/book-category_it'
 import { getCategory_de } from './book-category/book-category_de'
+import { getCategory_la } from './book-category/book-category_la'
 import { loadingEnd, loadingStart } from '../loading'
 import { fetchContent } from '../fetch-content'
 import { catholicBookIds_ptbr } from './books/books_ptbr'
@@ -13,6 +14,7 @@ import { catholicBookIds_es } from './books/books_es'
 import { catholicBookIds_fr } from './books/books_fr'
 import { catholicBookIds_it } from './books/books_it'
 import { catholicBookIds_de } from './books/books_de'
+import { catholicBookIds_la } from './books/books_la'
 
 const BASE_URL = 'https://www.bibliacatolica.com.br'
 
@@ -39,6 +41,9 @@ export async function getBible(bible: Bible): Promise<Bible> {
   } else if (bible.lang === 'de') {
     bookIds = catholicBookIds_de
     getCategory = getCategory_de
+  } else if (bible.lang === 'la') {
+    bookIds = catholicBookIds_la
+    getCategory = getCategory_la
   }
 
   for (const [index, bookDef] of bookIds.entries()) {
