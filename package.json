@@ -17,9 +17,9 @@
     "download:all": "bun run download:protestant && bun run download:catholic"
   },
   "dependencies": {
-    "@inquirer/prompts": "^8.2.0",
-    "cheerio": "^1.0.0",
-    "inquirer": "^13.2.2"
+    "@inquirer/prompts": "^8.3.0",
+    "cheerio": "^1.2.0",
+    "inquirer": "^13.3.0"
   }
 }
 
