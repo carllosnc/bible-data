@@ -12,6 +12,8 @@
   "scripts": {
     "start": "bun run main.ts",
     "dev": "bun run --watch main.ts",
+    "test": "bun test",
+    "typecheck": "tsc --noEmit",
     "download:protestant": "bun run src/protestant/download-all.ts",
     "download:catholic": "bun run src/catholic/download-all.ts",
     "download:all": "bun run download:protestant && bun run download:catholic"
