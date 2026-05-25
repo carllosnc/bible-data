@@ -9,10 +9,8 @@ export async function saveAsSqlite(bible: Bible): Promise<void> {
 
   const db = new Database(`${outputDir}bible-${bible.id}.sqlite`)
 
-  // Create tables in a transaction
+  // Create tables
   db.exec(`
-    BEGIN TRANSACTION;
-
     CREATE TABLE IF NOT EXISTS info (
       id TEXT NOT NULL,
       name TEXT NOT NULL,
@@ -39,12 +37,14 @@ export async function saveAsSqlite(bible: Bible): Promise<void> {
       verse_number INTEGER NOT NULL,
       FOREIGN KEY (book_abbrev) REFERENCES books(abbrev)
     );
-
-    INSERT INTO info (id, name, lang, category)
-    VALUES ("${bible.id}", "${bible.name}", "${bible.lang}", "${bible.category}");
-
-    COMMIT;
   `)
+
+  // Insert bible info using parameterized query
+  const insertInfoStmt = db.prepare(`
+    INSERT INTO info (id, name, lang, category)
+    VALUES (?, ?, ?, ?);
+  `)
+  insertInfoStmt.run(bible.id, bible.name, bible.lang, bible.category)
 
   // Prepare statements for better performance
   const insertBookStmt = db.prepare(`
