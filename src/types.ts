@@ -10,7 +10,7 @@ export type BookCategory =
   "General Epistles" |
   "Prophetic"
 
-export type BibleCategory = "Protestant" | "Catholic" | "Othodox"
+export type BibleCategory = "Protestant" | "Catholic" | "Orthodox"
 
 export type Book = {
   name: string
@@ -27,4 +27,23 @@ export type Bible = {
   category: BibleCategory
   lang: string
   books: Book[]
+}
+
+export type VersionEntry = {
+  name: string
+  abbrev: string
+}
+
+export type VersionGroup = {
+  name: string
+  category: BibleCategory
+  [lang: string]: VersionEntry[] | string | BibleCategory
+}
+
+export type BibleSelection = {
+  id: string
+  name: string
+  category: BibleCategory
+  lang: string
+  books: []
 }
