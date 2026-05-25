@@ -89,7 +89,6 @@ export function getCategory_de(code: string): BookCategory {
   ]);
 
   if(!categoryMap.has(key)){
-    console.log("key here!", key)
     throw new Error(`Category error: ${key}`)
   }
 
