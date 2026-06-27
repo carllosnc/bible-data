@@ -15,7 +15,8 @@ export async function saveAsSqlite(bible: Bible): Promise<void> {
       id TEXT NOT NULL,
       name TEXT NOT NULL,
       lang TEXT NOT NULL,
-      category TEXT NOT NULL
+      category TEXT NOT NULL,
+      PRIMARY KEY (id, lang)
     );
 
     CREATE TABLE IF NOT EXISTS books (
@@ -35,7 +36,8 @@ export async function saveAsSqlite(bible: Bible): Promise<void> {
       book_name TEXT NOT NULL,
       chapter_number INTEGER NOT NULL,
       verse_number INTEGER NOT NULL,
-      FOREIGN KEY (book_abbrev) REFERENCES books(abbrev)
+      FOREIGN KEY (book_abbrev) REFERENCES books(abbrev),
+      UNIQUE(book_abbrev, chapter_number, verse_number)
     );
   `)
 
