@@ -3,878 +3,365 @@
     "name": "Portuguese",
     "category": "Protestant",
     "pt-BR": [
-      {
-        "name": "Almeida Corrigida Fiel",
-        "abbrev": "acf"
-      },
-      {
-        "name": "Almeida Revisada Imprensa Bíblica",
-        "abbrev": "aa"
-      },
-      {
-        "name": "Almeida Revista e Atualizada",
-        "abbrev": "ara"
-      },
-      {
-        "name": "Almeida Revista e Corrigida",
-        "abbrev": "arc"
-      },
-      {
-        "name": "Almeida Revista e Corrigida 1969",
-        "abbrev": "rc69"
-      },
-      {
-        "name": "Bíblia King James",
-        "abbrev": "bkj"
-      },
-      {
-        "name": "Nova Almeida Atualizada",
-        "abbrev": "naa"
-      },
-      {
-        "name": "Nova Tradução na Linguagem de Hoje",
-        "abbrev": "ntlh"
-      },
-      {
-        "name": "Nova Versão Internacional",
-        "abbrev": "nvi"
-      },
-      {
-        "name": "Nova Versão Transformadora",
-        "abbrev": "nvt"
-      },
-      {
-        "name": "O Livro",
-        "abbrev": "ol"
-      },
-      {
-        "name": "Sociedade Bíblica Britânica",
-        "abbrev": "tb"
-      },
-      {
-        "name": "Versão Católica",
-        "abbrev": "vc"
-      }
+      { "name": "Almeida Corrigida Fiel", "abbrev": "acf" },
+      { "name": "Almeida Revista e Atualizada", "abbrev": "ara" },
+      { "name": "Almeida Revista e Corrigida", "abbrev": "arc" },
+      { "name": "Almeida Revista e Corrigida 1969", "abbrev": "rc69" },
+      { "name": "Biblia Livre Para Todos", "abbrev": "blt" },
+      { "name": "Bíblia para Todos", "abbrev": "bpt09dc" },
+      { "name": "King James Fiel", "abbrev": "bkj" },
+      { "name": "Nova Almeida Atualizada", "abbrev": "naa" },
+      { "name": "Nova Bíblia Viva 2007", "abbrev": "nbv" },
+      { "name": "Nova Tradução na Linguagem de Hoje", "abbrev": "ntlh" },
+      { "name": "Nova Versão Internacional", "abbrev": "nvi" },
+      { "name": "Nova Versão Transformadora", "abbrev": "nvt" },
+      { "name": "O Livro", "abbrev": "ol" },
+      { "name": "Tradução para Tradutores", "abbrev": "tftp" }
     ]
   },
   {
     "name": "English",
     "category": "Protestant",
     "en": [
-      {
-        "name": "A Conservative Version",
-        "abbrev": "acv"
-      },
-      {
-        "name": "American King James Version",
-        "abbrev": "akjv"
-      },
-      {
-        "name": "American Standard Version of the Holy Bible",
-        "abbrev": "asv"
-      },
-      {
-        "name": "Bible in Basic English",
-        "abbrev": "bbe"
-      },
-      {
-        "name": "Bible in Worldwide English NT",
-        "abbrev": "bwe"
-      },
-      {
-        "name": "Darby Bible",
-        "abbrev": "darby"
-      },
-      {
-        "name": "Diaglot NT - 1865",
-        "abbrev": "diaglot"
-      },
-      {
-        "name": "Douay Rheims",
-        "abbrev": "dour"
-      },
-      {
-        "name": "English Jubilee 2000 Bible",
-        "abbrev": "jubl2000"
-      },
-      {
-        "name": "English Majority Text Version",
-        "abbrev": "emtv"
-      },
-      {
-        "name": "Geneva Bible",
-        "abbrev": "gnv"
-      },
-      {
-        "name": "ISV NT",
-        "abbrev": "isv"
-      },
-      {
-        "name": "Jewish Publication Society AT",
-        "abbrev": "jps"
-      },
-      {
-        "name": "John Wycliffe Bible",
-        "abbrev": "wycliffe"
-      },
-      {
-        "name": "King James 2000",
-        "abbrev": "kj2000"
-      },
-      {
-        "name": "King James Version",
-        "abbrev": "kjv"
-      },
-      {
-        "name": "Leeser Old Testament",
-        "abbrev": "leeser"
-      },
-      {
-        "name": "Living Oracles NT",
-        "abbrev": "lont"
-      },
-      {
-        "name": "Modern KJV 1963",
-        "abbrev": "mkjv1962"
-      },
-      {
-        "name": "Montgomery New Testament",
-        "abbrev": "mont"
-      },
-      {
-        "name": "New Heart English Bible",
-        "abbrev": "nheb"
-      },
-      {
-        "name": "New International Version",
-        "abbrev": "niv"
-      },
-      {
-        "name": "New Simplified Bible",
-        "abbrev": "nsb"
-      },
-      {
-        "name": "Revised 1833 Webster Version",
-        "abbrev": "rwebster"
-      },
-      {
-        "name": "Revised Standard Version",
-        "abbrev": "rsv"
-      },
-      {
-        "name": "Revised Version 1885",
-        "abbrev": "engrv"
-      },
-      {
-        "name": "Revised Young's Literal Translation NT",
-        "abbrev": "rylt"
-      },
-      {
-        "name": "Rotherham Version",
-        "abbrev": "roth"
-      },
-      {
-        "name": "The Book of Mormon",
-        "abbrev": "bom"
-      },
-      {
-        "name": "The Common Edition: New Testament",
-        "abbrev": "tce"
-      },
-      {
-        "name": "The Lexham English Bible",
-        "abbrev": "leb"
-      },
-      {
-        "name": "The Peschito Syriac New Testament",
-        "abbrev": "etheridge"
-      },
-      {
-        "name": "The Riverside New Testament",
-        "abbrev": "rnt"
-      },
-      {
-        "name": "Updated Bible Version",
-        "abbrev": "updv"
-      },
-      {
-        "name": "Updated King James Version",
-        "abbrev": "ukjv"
-      },
-      {
-        "name": "VW-Edition 2006",
-        "abbrev": "xxx"
-      },
-      {
-        "name": "Webster",
-        "abbrev": "wbs"
-      },
-      {
-        "name": "Wesley's NT",
-        "abbrev": "wesley"
-      },
-      {
-        "name": "Weymouth NT",
-        "abbrev": "wmth"
-      },
-      {
-        "name": "Willam Tyndale Bible",
-        "abbrev": "tyndale"
-      },
-      {
-        "name": "World English Bible",
-        "abbrev": "web"
-      },
-      {
-        "name": "World English Bible British Edition",
-        "abbrev": "webbe"
-      },
-      {
-        "name": "World Messianic Bible",
-        "abbrev": "wmb"
-      },
-      {
-        "name": "World Messianic Bible British Edition",
-        "abbrev": "wmbbe"
-      },
-      {
-        "name": "YLT",
-        "abbrev": "ylt"
-      }
+      { "name": "American Standard Version 1901", "abbrev": "asv" },
+      { "name": "Berean Standard Bible", "abbrev": "bsb" },
+      { "name": "Darby's Translation 1890", "abbrev": "darby" },
+      { "name": "English Majority Text Version", "abbrev": "emtv" },
+      { "name": "Free Bible Version", "abbrev": "fbv" },
+      { "name": "Geneva Bible", "abbrev": "gnv" },
+      { "name": "King James Version", "abbrev": "kjv" },
+      { "name": "Lexham English Bible", "abbrev": "leb" },
+      { "name": "Literal Standard Version", "abbrev": "lsv" },
+      { "name": "Majority Standard Bible", "abbrev": "mbsb" },
+      { "name": "New Messianic Version Bible", "abbrev": "nmv" },
+      { "name": "Revised Version 1885", "abbrev": "engrv" },
+      { "name": "The Cambridge Paragraph Bible of the Authorized English Version", "abbrev": "kjvcpb" },
+      { "name": "Wycliffe's Bible with Modern Spelling", "abbrev": "wbms" },
+      { "name": "World English Bible (American Edition)", "abbrev": "web" },
+      { "name": "World English Bible Updated", "abbrev": "webu" },
+      { "name": "World English Bible (British Edition)", "abbrev": "webbe" },
+      { "name": "World English Bible, American English Edition, without Strong's numbers", "abbrev": "webus" },
+      { "name": "World Messianic Bible (American English)", "abbrev": "wmb" },
+      { "name": "World Messianic Bible (British Edition)", "abbrev": "wmbbe" },
+      { "name": "Young's Literal Translation 1898", "abbrev": "ylt98" },
+      { "name": "Jubilee Bible", "abbrev": "jub" }
     ]
   },
   {
     "name": "Spanish",
     "category": "Protestant",
     "es": [
-      {
-        "name": "Las Sagradas Escrituras",
-        "abbrev": "sev"
-      },
-      {
-        "name": "Reina Valera",
-        "abbrev": "rv"
-      }
+      { "name": "La Biblia en Español Sencillo", "abbrev": "bes" },
+      { "name": "Nueva Biblia Viva 2008", "abbrev": "onbv" },
+      { "name": "Palabra de Dios para ti", "abbrev": "pddpt" },
+      { "name": "Reina Valera 1909", "abbrev": "rv" },
+      { "name": "Reina-Valera Antigua", "abbrev": "rves" },
+      { "name": "Versión Biblia Libre", "abbrev": "vbl" }
     ]
   },
   {
     "name": "French",
     "category": "Protestant",
     "fr": [
-      {
-        "name": "Bible de Genève de 1669",
-        "abbrev": "bgnt1669"
-      },
-      {
-        "name": "Bible Martin 1844",
-        "abbrev": "bm1844"
-      },
-      {
-        "name": "Bible Perret-Gentil et Rilliet",
-        "abbrev": "frepgr"
-      },
-      {
-        "name": "Bible Pirot-Clamer",
-        "abbrev": "bdc"
-      },
-      {
-        "name": "French Bible Bovet Bonnet (1900)",
-        "abbrev": "frebbb"
-      },
-      {
-        "name": "French Darby",
-        "abbrev": "frdarb"
-      },
-      {
-        "name": "French Louis Segond",
-        "abbrev": "fren"
-      },
-      {
-        "name": "King James Française",
-        "abbrev": "kjf"
-      },
-      {
-        "name": "La Bible Augustin Crampon 1923",
-        "abbrev": "cramp23"
-      },
-      {
-        "name": "La Bible de l'Épée",
-        "abbrev": "apee"
-      },
-      {
-        "name": "La Bible de Saci 1759",
-        "abbrev": "sacc"
-      },
-      {
-        "name": "La Bible de Zadoc Khan",
-        "abbrev": "bzkh"
-      },
-      {
-        "name": "La Bible Fillion de Louis Claude Fillion",
-        "abbrev": "fill"
-      },
-      {
-        "name": "La Bible J.F. Ostervald 1996",
-        "abbrev": "ostv1996"
-      },
-      {
-        "name": "Louis Segond",
-        "abbrev": "lsg"
-      },
-      {
-        "name": "Martin",
-        "abbrev": "martin"
-      },
-      {
-        "name": "Ostervald",
-        "abbrev": "ostervald"
-      }
+      { "name": "Bible J.N. Darby", "abbrev": "jnd" },
+      { "name": "Crampon 1923", "abbrev": "bcc1923" },
+      { "name": "Louis Segond 1910", "abbrev": "lsg" },
+      { "name": "Martin 1744", "abbrev": "fmar" },
+      { "name": "Ostervald", "abbrev": "ost" }
     ]
   },
   {
     "name": "German",
     "category": "Protestant",
     "de": [
-      {
-        "name": "Abraham Meister NT",
-        "abbrev": "amnt"
-      },
-      {
-        "name": "Albrecht Bibel 1926",
-        "abbrev": "albrecht1926"
-      },
-      {
-        "name": "Alemannische Bibel NT",
-        "abbrev": "almnt"
-      },
-      {
-        "name": "Bengel NT",
-        "abbrev": "gerben"
-      },
-      {
-        "name": "Elberfelder 1871",
-        "abbrev": "elb1871"
-      },
-      {
-        "name": "Elberfelder 1871 NT Original",
-        "abbrev": "elb1871nt"
-      },
-      {
-        "name": "Elberfelder 1905",
-        "abbrev": "elb1905"
-      },
-      {
-        "name": "FreeBible2004",
-        "abbrev": "fb2004"
-      },
-      {
-        "name": "Interlinearübersetzung",
-        "abbrev": "ilgrde"
-      },
-      {
-        "name": "Johannes Greber 1936 NT",
-        "abbrev": "greb"
-      },
-      {
-        "name": "Konkordantes NT",
-        "abbrev": "knt"
-      },
-      {
-        "name": "Leander van Ess, rev.2",
-        "abbrev": "vaness"
-      },
-      {
-        "name": "Luther 1545",
-        "abbrev": "luth1545"
-      },
-      {
-        "name": "Luther 1545 (Letzte Hand)",
-        "abbrev": "lut-1545-lh"
-      },
-      {
-        "name": "Luther 1912",
-        "abbrev": "luth1912"
-      },
-      {
-        "name": "Luther 1912 - mit Apokryphen",
-        "abbrev": "luth1912ap"
-      },
-      {
-        "name": "Menge-Bibel",
-        "abbrev": "meng39"
-      },
-      {
-        "name": "Neue Evangelistische Übersetzung",
-        "abbrev": "gerneue"
-      },
-      {
-        "name": "Pattloch Bibel",
-        "abbrev": "pat80"
-      },
-      {
-        "name": "Reinhardt 1910 Evangelien",
-        "abbrev": "rei10ev"
-      },
-      {
-        "name": "Schlachter 1951",
-        "abbrev": "sch1951"
-      },
-      {
-        "name": "Tafelbibel",
-        "abbrev": "taf"
-      },
-      {
-        "name": "Textbibel",
-        "abbrev": "textbibelat"
-      },
-      {
-        "name": "Textbibel",
-        "abbrev": "textbibel"
-      },
-      {
-        "name": "Volxbibel 3.0",
-        "abbrev": "vlx3"
-      }
+      { "name": "1912 Lutherbibel mit Strongs Zahlen", "abbrev": "luther1912" },
+      { "name": "Albrecht NT und Psalmen", "abbrev": "gantp" },
+      { "name": "Darby Unrevidierte Elberfelder 1905", "abbrev": "elo" },
+      { "name": "Elberfelder 1871", "abbrev": "elb71" },
+      { "name": "Elberfelder Übersetzung", "abbrev": "elbbk" },
+      { "name": "Neue evangelistische Übersetzung", "abbrev": "neu" },
+      { "name": "Schlachter 1951", "abbrev": "sch1951" },
+      { "name": "Textbibel von Kautzsch und Weizsäcker", "abbrev": "tkw" }
     ]
   },
   {
     "name": "Hebrew",
     "category": "Protestant",
     "he": [
-      {
-        "name": "Aleppo Codex",
-        "abbrev": "alep"
-      },
-      {
-        "name": "Biblia hebraica",
-        "abbrev": "bhs"
-      },
-      {
-        "name": "Modern Hebrew Bible",
-        "abbrev": "hebm"
-      },
-      {
-        "name": "Open Scriptures Morphological Hebrew Bible",
-        "abbrev": "osmhb"
-      },
-      {
-        "name": "Westminster Leningrad Codex",
-        "abbrev": "wlc"
-      }
+      { "name": "Westminster Leningrad Codex", "abbrev": "wlc" },
+      { "name": "כתבי הקודש", "abbrev": "wlchbo" }
     ]
   },
   {
     "name": "Greek",
     "category": "Protestant",
     "gr": [
-      {
-        "name": "Modern Greek",
-        "abbrev": "greek"
-      },
-      {
-        "name": "Textus Receptus",
-        "abbrev": "receptus"
-      }
-    ]
-  },
-  {
-    "name": "Lithuanian",
-    "category": "Protestant",
-    "lt": [
-      {
-        "name": "Lithuanian",
-        "abbrev": "lt"
-      }
+      { "name": "Η Καινή Διαθήκη", "abbrev": "grctr" },
+      { "name": "Η Καινή Διαθήκη (Byzantine 1904)", "abbrev": "byz1904" },
+      { "name": "The Greek New Testament According to Family 35", "abbrev": "f35" },
+      { "name": "μετάφραση των εβδομήκοντα", "abbrev": "grcbrent" },
+      { "name": "Solid Rock Greek New Testament, Scholar's Edition", "abbrev": "srgnt" },
+      { "name": "Text-Critical Greek Majority Text", "abbrev": "tcgnt" }
     ]
   },
   {
     "name": "Afrikaans",
     "category": "Protestant",
     "af": [
-      {
-        "name": "1933/1953 Afrikaans Bybel",
-        "abbrev": "afr3353"
-      }
-    ]
-  },
-  {
-    "name": "Arabic",
-    "category": "Protestant",
-    "ar": [
-      {
-        "name": "Smith Van Dyke Arabic Bible",
-        "abbrev": "arasvd"
-      }
-    ]
-  },
-  {
-    "name": "Bulgarian",
-    "category": "Protestant",
-    "bg": [
-      {
-        "name": "Tsarigrad Edition",
-        "abbrev": "bulcarigradnt"
-      },
-      {
-        "name": "Veren's Contemporary Bible",
-        "abbrev": "bulveren"
-      }
-    ]
-  },
-  {
-    "name": "Chamorro",
-    "category": "Protestant",
-    "ch": [
-      {
-        "name": "Chamorro: Y Santa Biblia (1908)",
-        "abbrev": "chamorro"
-      }
-    ]
-  },
-  {
-    "name": "Czech",
-    "category": "Protestant",
-    "cs": [
-      {
-        "name": "Bible Kralicka",
-        "abbrev": "czbkr"
-      },
-      {
-        "name": "Ekumenicky Cesky Preklad",
-        "abbrev": "czecep"
-      }
-    ]
-  },
-  {
-    "name": "Esperanto",
-    "category": "Protestant",
-    "eo": [
-      {
-        "name": "Esperanto",
-        "abbrev": "esperanto"
-      }
-    ]
-  },
-  {
-    "name": "Estonian",
-    "category": "Protestant",
-    "et": [
-      {
-        "name": "Estonian",
-        "abbrev": "estonian"
-      }
-    ]
-  },
-  {
-    "name": "Basque",
-    "category": "Protestant",
-    "eu": [
-      {
-        "name": "Basque(Navarro-Labourdin)NT",
-        "abbrev": "basq1571"
-      }
-    ]
-  },
-  {
-    "name": "Finnish",
-    "category": "Protestant",
-    "fi": [
-      {
-        "name": "Pyhä Raamattu",
-        "abbrev": "pr"
-      },
-      {
-        "name": "Pyhä Raamattu",
-        "abbrev": "pr-1938"
-      }
-    ]
-  },
-  {
-    "name": "Scottish Gaelic",
-    "category": "Protestant",
-    "gd": [
-      {
-        "name": "Gaelic Scripture (Manx Gaelic)",
-        "abbrev": "gla2"
-      }
-    ]
-  },
-  {
-    "name": "Haitian",
-    "category": "Protestant",
-    "ht": [
-      {
-        "name": "Haitian Creole Version",
-        "abbrev": "hat"
-      }
-    ]
-  },
-  {
-    "name": "Hungarian",
-    "category": "Protestant",
-    "hu": [
-      {
-        "name": "Hungarian Version",
-        "abbrev": "hun"
-      },
-      {
-        "name": "Károli",
-        "abbrev": "karoli"
-      },
-      {
-        "name": "Magyar Újfordítású",
-        "abbrev": "hunuj"
-      }
-    ]
-  },
-  {
-    "name": "Italian",
-    "category": "Protestant",
-    "it": [
-      {
-        "name": "Giovanni Diodati Bibbia",
-        "abbrev": "itadio"
-      },
-      {
-        "name": "Italian Version",
-        "abbrev": "italian1"
-      },
-      {
-        "name": "La Nuova Diodati 1991",
-        "abbrev": "lnd-1991"
-      },
-      {
-        "name": "Riveduta",
-        "abbrev": "irv"
-      }
-    ]
-  },
-  {
-    "name": "Korean",
-    "category": "Protestant",
-    "ko": [
-      {
-        "name": "Korean Version",
-        "abbrev": "kor"
-      }
-    ]
-  },
-  {
-    "name": "Latin",
-    "category": "Protestant",
-    "la": [
-      {
-        "name": "Biblia Sacra Vulgata",
-        "abbrev": "vulgata"
-      },
-      {
-        "name": "Clementine Vulgate",
-        "abbrev": "clvul"
-      },
-      {
-        "name": "Nova Vulgata",
-        "abbrev": "nvla"
-      }
-    ]
-  },
-  {
-    "name": "Latvian",
-    "category": "Protestant",
-    "lv": [
-      {
-        "name": "Lativian Version",
-        "abbrev": "latv"
-      }
-    ]
-  },
-  {
-    "name": "Maori",
-    "category": "Protestant",
-    "mi": [
-      {
-        "name": "Maori Version",
-        "abbrev": "mao"
-      }
-    ]
-  },
-  {
-    "name": "Burmese",
-    "category": "Protestant",
-    "my": [
-      {
-        "name": "Judson - Myanmar/Burmse",
-        "abbrev": "judson"
-      }
-    ]
-  },
-  {
-    "name": "Dutch",
-    "category": "Protestant",
-    "nl": [
-      {
-        "name": "Dutch",
-        "abbrev": "dutch"
-      }
-    ]
-  },
-  {
-    "name": "Norwegian",
-    "category": "Protestant",
-    "no": [
-      {
-        "name": "Det Norsk Bibelselskap",
-        "abbrev": "dnb"
-      },
-      {
-        "name": "Norwegian Version",
-        "abbrev": "nor"
-      },
-      {
-        "name": "Studentmållagsbibelen frå 1921",
-        "abbrev": "norsmb"
-      }
-    ]
-  },
-  {
-    "name": "Polish",
-    "category": "Protestant",
-    "pl": [
-      {
-        "name": "Polska Biblia",
-        "abbrev": "poland"
-      }
-    ]
-  },
-  {
-    "name": "Romanian",
-    "category": "Protestant",
-    "ro": [
-      {
-        "name": "Cornilescu",
-        "abbrev": "cornilescu"
-      },
-      {
-        "name": "Rumanian Version",
-        "abbrev": "ru"
-      }
-    ]
-  },
-  {
-    "name": "Russian",
-    "category": "Protestant",
-    "ru": [
-      {
-        "name": "Russian New Testament Strongs",
-        "abbrev": "rusvzh"
-      },
-      {
-        "name": "Russian Version",
-        "abbrev": "russub"
-      },
-      {
-        "name": "Ukrainian Version",
-        "abbrev": "ukrub"
-      },
-      {
-        "name": "Синодальный перевод (Synodal)",
-        "abbrev": "synodal"
-      }
+      { "name": "Afrikaans 1933/1953", "abbrev": "afr53" }
     ]
   },
   {
     "name": "Albanian",
     "category": "Protestant",
     "sq": [
-      {
-        "name": "Albanian Version",
-        "abbrev": "alb1"
-      }
+      { "name": "Bibla Shqip 1994", "abbrev": "albb" }
     ]
   },
   {
-    "name": "Swedish",
+    "name": "Arabic",
     "category": "Protestant",
-    "sv": [
-      {
-        "name": "Svenska Folkbibeln (1998)",
-        "abbrev": "swefolk1998"
-      },
-      {
-        "name": "Swedish 1917 Version",
-        "abbrev": "svd"
-      }
+    "ar": [
+      { "name": "Ketab El Hayat Majani", "abbrev": "kehm" },
+      { "name": "المعنى الصحيح لإنجيل المسيح", "abbrev": "arbtma" }
     ]
   },
   {
-    "name": "Swahili",
+    "name": "Basque",
     "category": "Protestant",
-    "sw": [
-      {
-        "name": "Swahili NT",
-        "abbrev": "swa"
-      }
+    "eu": [
+      { "name": "Navarro-Labourdin Basque NT", "abbrev": "bhnt" }
     ]
   },
   {
-    "name": "Thai",
+    "name": "Bulgarian",
     "category": "Protestant",
-    "th": [
-      {
-        "name": "KJV-Thai",
-        "abbrev": "kjvthai"
-      }
+    "bg": [
+      { "name": "Верен (Veren)", "abbrev": "vbg" }
     ]
   },
   {
-    "name": "Filipino",
+    "name": "Burmese",
     "category": "Protestant",
-    "tl": [
-      {
-        "name": "Ang Dating Biblia",
-        "abbrev": "tlgangbiblia"
-      }
-    ]
-  },
-  {
-    "name": "Turkish",
-    "category": "Protestant",
-    "tr": [
-      {
-        "name": "Türkçe",
-        "abbrev": "bb31"
-      }
-    ]
-  },
-  {
-    "name": "Vietnamese",
-    "category": "Protestant",
-    "vi": [
-      {
-        "name": "New Vietnamese Bible",
-        "abbrev": "vietnvb"
-      },
-      {
-        "name": "Tiếng Việt",
-        "abbrev": "vie"
-      }
+    "my": [
+      { "name": "Judson Bible", "abbrev": "jbmle" }
     ]
   },
   {
     "name": "Chinese",
     "category": "Protestant",
     "zh": [
-      {
-        "name": "Chinese Union Version",
-        "abbrev": "cuv"
-      },
-      {
-        "name": "Chinese Union Version Simplified",
-        "abbrev": "cuv-s"
-      },
-      {
-        "name": "New Chinese Version Simplified",
-        "abbrev": "cvs"
-      }
+      { "name": "圣经当代译本开放资源", "abbrev": "occb" },
+      { "name": "中文标准译本", "abbrev": "csbs" },
+      { "name": "聖經，當代譯本開放資源", "abbrev": "occb-a6e06d2c" },
+      { "name": "中文標準譯本", "abbrev": "csbt" },
+      { "name": "免费的易读圣经 Free Easy-to-read Bible", "abbrev": "feb" },
+      { "name": "新译本 (New Chinese Version, Simplified)", "abbrev": "cnvs" },
+      { "name": "新标点和合本 神版 (Chinese Union Version, Simplified)", "abbrev": "cunpss" }
+    ]
+  },
+  {
+    "name": "Croatian",
+    "category": "Protestant",
+    "hr": [
+      { "name": "Knjiga O Kristu", "abbrev": "okok" }
+    ]
+  },
+  {
+    "name": "Czech",
+    "category": "Protestant",
+    "cs": [
+      { "name": "Bible Kralická 1613", "abbrev": "bkr" },
+      { "name": "Slovo na cestu", "abbrev": "osnc" }
+    ]
+  },
+  {
+    "name": "Esperanto",
+    "category": "Protestant",
+    "eo": [
+      { "name": "La Sankta Biblio 1926", "abbrev": "esp" }
+    ]
+  },
+  {
+    "name": "Estonian",
+    "category": "Protestant",
+    "et": [
+      { "name": "Vaba kasutusega Uus Testament, Pühakiri kaasaegses eesti keeles", "abbrev": "opkek" },
+      { "name": "Piibel Kõigile", "abbrev": "pkp" }
+    ]
+  },
+  {
+    "name": "Filipino",
+    "category": "Protestant",
+    "tl": [
+      { "name": "Ang Biblia 1905 (Ang Dating Biblia)", "abbrev": "abtag" },
+      { "name": "Ang Salita ng Diyos", "abbrev": "oasd" }
+    ]
+  },
+  {
+    "name": "Finnish",
+    "category": "Protestant",
+    "fi": [
+      { "name": "Avoin Elävä uutinen: Uusi testamentti vapaasti kerrottuna", "abbrev": "aeuut" },
+      { "name": "Kirkkoraamattu 1933/38", "abbrev": "fb38" }
+    ]
+  },
+  {
+    "name": "Haitian",
+    "category": "Protestant",
+    "ht": [
+      { "name": "Bib Sen An: Kreyòl Ayisyen", "abbrev": "bsa" }
+    ]
+  },
+  {
+    "name": "Hindi",
+    "category": "Protestant",
+    "hi": [
+      { "name": "हिंदी समकालीन संस्करण-स्वतंत्र उपलब्धि", "abbrev": "ohss" },
+      { "name": "हिंदी लिटरल टेक्स्ट", "abbrev": "hlt" },
+      { "name": "Hindi Standard Bible", "abbrev": "hsb" }
+    ]
+  },
+  {
+    "name": "Hungarian",
+    "category": "Protestant",
+    "hu": [
+      { "name": "Károli 1908", "abbrev": "hunk" },
+      { "name": "Magyar Bibliatársulat új fordítású Bibliája", "abbrev": "hunb" },
+      { "name": "Nyitott Újszövetség: élet, igazság és világosság", "abbrev": "neiv" }
+    ]
+  },
+  {
+    "name": "Italian",
+    "category": "Protestant",
+    "it": [
+      { "name": "Diodati Bibbia 1885", "abbrev": "db1885" },
+      { "name": "Sacra Bibbia Versione Riveduta 2020", "abbrev": "irb20" }
+    ]
+  },
+  {
+    "name": "Korean",
+    "category": "Protestant",
+    "ko": [
+      { "name": "개역한글 (Korean Revised)", "abbrev": "krv" }
+    ]
+  },
+  {
+    "name": "Latin",
+    "category": "Protestant",
+    "la": [
+      { "name": "Vulgata latina", "abbrev": "vulg" }
+    ]
+  },
+  {
+    "name": "Latvian",
+    "category": "Protestant",
+    "lv": [
+      { "name": "Glika Bībele", "abbrev": "lg8" }
+    ]
+  },
+  {
+    "name": "Lithuanian",
+    "category": "Protestant",
+    "lt": [
+      { "name": "Naudojimo teisės atviros „Jėzus ir Jo pasekėjai“", "abbrev": "ojjp" }
+    ]
+  },
+  {
+    "name": "Maori",
+    "category": "Protestant",
+    "mi": [
+      { "name": "Paipera Tapu 2012", "abbrev": "mri2012" },
+      { "name": "Te Kawenata Hou", "abbrev": "mrnt" }
+    ]
+  },
+  {
+    "name": "Dutch",
+    "category": "Protestant",
+    "nl": [
+      { "name": "De Heilige Schrift, Petrus Canisiusvertaling, 1939", "abbrev": "nld1939" },
+      { "name": "Gods Boek", "abbrev": "gbv" }
+    ]
+  },
+  {
+    "name": "Norwegian",
+    "category": "Protestant",
+    "no": [
+      { "name": "Bibel 1930", "abbrev": "bibel1930" },
+      { "name": "Bibel 2011", "abbrev": "bibel2011" },
+      { "name": "En Levende Bok: Det Nye Testamentet", "abbrev": "oelb" }
+    ]
+  },
+  {
+    "name": "Polish",
+    "category": "Protestant",
+    "pl": [
+      { "name": "UWSPÓŁCZEŚNIONA BIBLIA GDAŃSKA", "abbrev": "ubg" },
+      { "name": "Słowo Życia, otwarty dostęp", "abbrev": "opsz" }
+    ]
+  },
+  {
+    "name": "Romanian",
+    "category": "Protestant",
+    "ro": [
+      { "name": "Biblia Cornilescu 1924", "abbrev": "vdc" }
+    ]
+  },
+  {
+    "name": "Russian",
+    "category": "Protestant",
+    "ru": [
+      { "name": "Синодальный перевод", "abbrev": "synod" }
+    ]
+  },
+  {
+    "name": "Scottish Gaelic",
+    "category": "Protestant",
+    "gd": [
+      { "name": "Am Bìoball Gàidhlig 1992", "abbrev": "abg1992" }
+    ]
+  },
+  {
+    "name": "Swahili",
+    "category": "Protestant",
+    "sw": [
+      { "name": "Toleo Wazi Neno: Maandiko Matakatifu", "abbrev": "onmm" },
+      { "name": "Swahili Revised Union Version", "abbrev": "sruv" },
+      { "name": "Toleo Wazi la Neno: Biblia Takatifu", "abbrev": "onen" }
+    ]
+  },
+  {
+    "name": "Swedish",
+    "category": "Protestant",
+    "sv": [
+      { "name": "Svenska 1917", "abbrev": "sven" },
+      { "name": "Svenska Folkbibeln 2015", "abbrev": "sfb15" },
+      { "name": "Svenska Kärnbibeln - en expanderad översättning", "abbrev": "skb" },
+      { "name": "Svenska Reformationsbibeln 2026", "abbrev": "srb26" }
+    ]
+  },
+  {
+    "name": "Thai",
+    "category": "Protestant",
+    "th": [
+      { "name": "พระคัมภีร์ภาษาไทยฉบับ KJV", "abbrev": "kjvthai" },
+      { "name": "พระคริสตธรรมคัมภีร์ ฉบับไทยสามัญแบบเปิด", "abbrev": "otcv" },
+      { "name": "พระคริสตธรรมคัมภีร์ไทย ฉบับอมตธรรมร่วมสมัยแบบเปิด", "abbrev": "otncv" }
+    ]
+  },
+  {
+    "name": "Turkish",
+    "category": "Protestant",
+    "tr": [
+      { "name": "Yorumsuz Türkçe Çeviri", "abbrev": "ytc" }
+    ]
+  },
+  {
+    "name": "Vietnamese",
+    "category": "Protestant",
+    "vi": [
+      { "name": "Kinh Thánh", "abbrev": "vie" },
+      { "name": "Thiên Ban Kinh Thánh Hiện Đại", "abbrev": "ovcb" }
     ]
   }
 ]
