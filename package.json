@@ -4,10 +4,7 @@
   "type": "module",
   "devDependencies": {
     "@types/bun": "latest",
-    "@types/inquirer": "^9.0.9"
-  },
-  "peerDependencies": {
-    "typescript": "^5.0.0"
+    "typescript": "^5.9.3"
   },
   "scripts": {
     "start": "bun run main.ts",
@@ -19,9 +16,7 @@
     "download:all": "bun run download:protestant && bun run download:catholic"
   },
   "dependencies": {
-    "@inquirer/prompts": "^8.3.0",
-    "cheerio": "^1.2.0",
-    "inquirer": "^13.3.0"
+    "@inquirer/prompts": "^8.5.2",
+    "cheerio": "^1.2.0"
   }
 }
-
