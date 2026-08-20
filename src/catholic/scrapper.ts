@@ -2,7 +2,50 @@ import type { Bible, Book, BookCategory } from '../types'
 import { loadingEnd, loadingStart } from '../loading'
 import { fetchContent } from '../fetch-content'
 
+import { catholicBookIds_ptbr } from './books/books_ptbr'
+import { catholicBookIds_es } from './books/books_es'
+import { catholicBookIds_en } from './books/books_en'
+import { catholicBookIds_fr } from './books/books_fr'
+import { catholicBookIds_it } from './books/books_it'
+import { catholicBookIds_la } from './books/books_la'
+import { catholicBookIds_de } from './books/books_de'
+
+import { getCategory_ptbr } from './book-category/book-category_ptbr'
+import { getCategory_es } from './book-category/book-category_es'
+import { getCategory_en } from './book-category/book-category_en'
+import { getCategory_fr } from './book-category/book-category_fr'
+import { getCategory_it } from './book-category/book-category_it'
+import { getCategory_la } from './book-category/book-category_la'
+import { getCategory_de } from './book-category/book-category_de'
+
 const BASE_URL = 'https://www.bibliacatolica.com.br'
+
+const NT_CATEGORIES = new Set<BookCategory>([
+  'Gospels', 'History', 'Pauline Epistles', 'General Epistles', 'Prophetic'
+])
+
+type BookDef = { id: string; name: string; size: number }
+type CategoryFn = (code: string) => BookCategory
+
+const bookLists: Record<string, BookDef[]> = {
+  'pt-BR': catholicBookIds_ptbr,
+  'es': catholicBookIds_es,
+  'en': catholicBookIds_en,
+  'fr': catholicBookIds_fr,
+  'it': catholicBookIds_it,
+  'la': catholicBookIds_la,
+  'de': catholicBookIds_de,
+}
+
+const categoryFns: Record<string, CategoryFn> = {
+  'pt-BR': getCategory_ptbr,
+  'es': getCategory_es,
+  'en': getCategory_en,
+  'fr': getCategory_fr,
+  'it': getCategory_it,
+  'la': getCategory_la,
+  'de': getCategory_de,
+}
 
 function getCategoryByPosition(index: number): BookCategory {
   if (index <= 4) return "Pentateuch"
@@ -12,7 +55,7 @@ function getCategoryByPosition(index: number): BookCategory {
   if (index <= 45) return "Minor Prophets"
   if (index <= 49) return "Gospels"
   if (index === 50) return "History"
-  if (index <= 64) return "Pauline Epistles"
+  if (index <= 63) return "Pauline Epistles"
   if (index <= 71) return "General Epistles"
   return "Prophetic"
 }
@@ -25,15 +68,17 @@ async function getBookLinks(bibleId: string): Promise<{ id: string; name: string
 
   for (const item of links) {
     const href = $(item).attr('href')!
-    const parts = href.replace(`/${bibleId}/`, '').split('/').filter(Boolean)
-    if (parts.length !== 1) continue
-    if (/^\d+$/.test(parts[0])) continue
-    if (seen.has(parts[0])) continue
-    seen.add(parts[0])
+    const url = new URL(href, BASE_URL)
+    const parts = url.pathname.split('/').filter(Boolean)
+    if (parts.length < 2 || parts[0] !== bibleId) continue
+    const bookId = parts[1]
+    if (/^\d+$/.test(bookId)) continue
+    if (seen.has(bookId)) continue
+    seen.add(bookId)
 
     const name = $(item).text().trim()
     if (name) {
-      books.push({ id: parts[0], name })
+      books.push({ id: bookId, name })
     }
   }
 
@@ -47,9 +92,10 @@ async function getChapterCount(bibleId: string, bookId: string): Promise<number>
 
   for (const item of links) {
     const href = $(item).attr('href')!
-    const parts = href.replace(`/${bibleId}/${bookId}/`, '').split('/').filter(Boolean)
-    if (parts.length === 1 && /^\d+$/.test(parts[0])) {
-      const num = parseInt(parts[0], 10)
+    const url = new URL(href, BASE_URL)
+    const parts = url.pathname.split('/').filter(Boolean)
+    if (parts.length === 3 && parts[0] === bibleId && parts[1] === bookId && /^\d+$/.test(parts[2])) {
+      const num = parseInt(parts[2], 10)
       if (num > maxChapter) maxChapter = num
     }
   }
@@ -71,45 +117,75 @@ async function getChapterVerses(url: string): Promise<string[]> {
   return verses
 }
 
+async function scrapeBook(
+  bibleId: string,
+  bookId: string,
+  bookName: string,
+  chapterCount: number,
+  category: BookCategory,
+  testament: number
+): Promise<Book> {
+  const bookTimer = loadingStart(`Processing: ${bookName}`)
+  const chapters: string[][] = []
+
+  for (let c = 1; c <= chapterCount; c++) {
+    const url = `${BASE_URL}/${bibleId}/${bookId}/${c}/`
+    try {
+      const verses = await getChapterVerses(url)
+      if (verses.length > 0) {
+        chapters.push(verses)
+      } else {
+        console.warn(`Warning: No verses found for ${bookName} chapter ${c}`)
+      }
+    } catch (e) {
+      console.error(`Error fetching ${bookName} ${c}:`, e)
+    }
+  }
+
+  loadingEnd(bookTimer, "")
+  console.log(`${bookName} (${chapters.length} chapters)`)
+
+  return {
+    name: bookName,
+    link: `${BASE_URL}/${bibleId}/${bookId}/`,
+    category,
+    abbrev: bookId,
+    testament,
+    chapters
+  }
+}
+
 export async function getBible(bible: Bible): Promise<Bible> {
   console.log(`Starting to scrape Bible: ${bible.id} (${bible.lang})`)
 
-  const bookLinks = await getBookLinks(bible.id)
-  console.log(`Found ${bookLinks.length} books`)
-
+  const bookList = bookLists[bible.lang]
+  const categoryFn = categoryFns[bible.lang]
   const books: Book[] = []
 
-  for (const [index, bookDef] of bookLinks.entries()) {
-    const bookTimer = loadingStart(`Processing: ${bookDef.name}`)
-    const chapters: string[][] = []
+  if (bookList && categoryFn) {
+    console.log(`Using pre-defined book list for ${bible.lang} (${bookList.length} books)`)
 
-    const chapterCount = await getChapterCount(bible.id, bookDef.id)
-
-    for (let c = 1; c <= chapterCount; c++) {
-      const url = `${BASE_URL}/${bible.id}/${bookDef.id}/${c}/`
-      try {
-        const verses = await getChapterVerses(url)
-        if (verses.length > 0) {
-          chapters.push(verses)
-        } else {
-          console.warn(`Warning: No verses found for ${bookDef.name} chapter ${c}`)
-        }
-      } catch (e) {
-        console.error(`Error fetching ${bookDef.name} ${c}:`, e)
-      }
+    for (const bookDef of bookList) {
+      const category = categoryFn(bookDef.id)
+      const testament = NT_CATEGORIES.has(category) ? 1 : 0
+      books.push(await scrapeBook(
+        bible.id, bookDef.id, bookDef.name, bookDef.size, category, testament
+      ))
     }
+  } else {
+    console.log(`No pre-defined book list for ${bible.lang}, scraping from site...`)
 
-    loadingEnd(bookTimer, "")
-    console.log(`${bookDef.name} (${chapters.length} chapters)`)
+    const bookLinks = await getBookLinks(bible.id)
+    console.log(`Found ${bookLinks.length} books`)
 
-    books.push({
-      name: bookDef.name,
-      link: `${BASE_URL}/${bible.id}/${bookDef.id}/`,
-      category: getCategoryByPosition(index),
-      abbrev: bookDef.id,
-      testament: index <= 45 ? 0 : 1,
-      chapters
-    })
+    for (const [index, bookDef] of bookLinks.entries()) {
+      const category = getCategoryByPosition(index)
+      const testament = NT_CATEGORIES.has(category) ? 1 : 0
+      const chapterCount = await getChapterCount(bible.id, bookDef.id)
+      books.push(await scrapeBook(
+        bible.id, bookDef.id, bookDef.name, chapterCount, category, testament
+      ))
+    }
   }
 
   bible.books = books

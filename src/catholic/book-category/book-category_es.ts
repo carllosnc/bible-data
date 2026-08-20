@@ -48,7 +48,7 @@ export function getCategory_es(code: string): BookCategory {
     ["abdias", "Minor Prophets"],
     ["jonas", "Minor Prophets"],
     ["miqueas", "Minor Prophets"],
-    ["nahum", "Minor Prophets"],
+    ["nahun", "Minor Prophets"],
     ["habacuc", "Minor Prophets"],
     ["sofonias", "Minor Prophets"],
     ["ageo", "Minor Prophets"],

@@ -62,8 +62,8 @@ describe("Protestant getCategory", () => {
 });
 
 describe("Spanish Catholic getCategory_es", () => {
-  it("maps nahum to Minor Prophets", () => {
-    expect(getCategory_es("nahum")).toBe("Minor Prophets");
+  it("maps nahun to Minor Prophets", () => {
+    expect(getCategory_es("nahun")).toBe("Minor Prophets");
   });
 
   it("maps genesis to Pentateuch", () => {
