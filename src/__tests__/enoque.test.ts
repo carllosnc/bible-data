@@ -4,10 +4,13 @@ import { existsSync } from 'node:fs'
 import type { ParallelEnoch, ParallelVerse } from '../enoque/types'
 import { getSource, parseVerses } from '../enoque/scrapper'
 
-const DATA_AVAILABLE = existsSync('enoque/json/enoque.paralela.json')
+const DATA_DIR = 'output/enoque'
+const RAW_AVAILABLE =
+  existsSync(`${DATA_DIR}/raw/1ENOQUE.html`) && existsSync(`${DATA_DIR}/raw/1ENOCH.html`)
+const DATA_AVAILABLE = existsSync(`${DATA_DIR}/json/enoque.paralela.json`)
 
 const data = DATA_AVAILABLE
-  ? (JSON.parse(await Bun.file('enoque/json/enoque.paralela.json').text()) as ParallelEnoch)
+  ? (JSON.parse(await Bun.file(`${DATA_DIR}/json/enoque.paralela.json`).text()) as ParallelEnoch)
   : null
 
 function allVerses(enoch: ParallelEnoch): Array<ParallelVerse & { chapter: number }> {
@@ -26,7 +29,7 @@ function findVerse(enoch: ParallelEnoch, refPt: string): ParallelVerse | undefin
   return allVerses(enoch).find((v) => v.ref.pt === refPt)
 }
 
-describe('enoque scrapper', () => {
+describe.skipIf(!RAW_AVAILABLE)('enoque scrapper', () => {
   it('parseia as duas fontes com os totais esperados', async () => {
     const ptHtml = await getSource('pt')
     const enHtml = await getSource('en')
@@ -114,7 +117,7 @@ describe.skipIf(!DATA_AVAILABLE)('enoque dataset', () => {
   })
 
   it('sqlite com FTS5 responde a busca bilingue', () => {
-    using db = new Database('enoque/sqlite/enoque.sqlite', { readonly: true })
+    using db = new Database(`${DATA_DIR}/sqlite/enoque.sqlite`, { readonly: true })
     const count = db.query('SELECT COUNT(*) AS n FROM versos').get() as { n: number }
     expect(count.n).toBe(1059)
 

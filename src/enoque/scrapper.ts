@@ -6,8 +6,8 @@ const USER_AGENT =
   'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36'
 
 export const SOURCES: Record<Lang, { url: string; file: string }> = {
-  pt: { url: 'https://faithofgod.net/1ENOQUE.html', file: 'enoque/raw/1ENOQUE.html' },
-  en: { url: 'https://faithofgod.net/1ENOCH.html', file: 'enoque/raw/1ENOCH.html' },
+  pt: { url: 'https://faithofgod.net/1ENOQUE.html', file: 'output/enoque/raw/1ENOQUE.html' },
+  en: { url: 'https://faithofgod.net/1ENOCH.html', file: 'output/enoque/raw/1ENOCH.html' },
 }
 
 const VERSE_RE =
@@ -48,7 +48,7 @@ export async function getSource(lang: Lang, force = false): Promise<string> {
   if (!force && existsSync(file)) {
     return await Bun.file(file).text()
   }
-  await mkdir('enoque/raw', { recursive: true })
+  await mkdir('output/enoque/raw', { recursive: true })
   const html = await fetchWindows1252(url)
   await Bun.write(file, html)
   return html

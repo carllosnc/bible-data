@@ -286,21 +286,21 @@ async function main(): Promise<void> {
 
   const data = buildParallel(ptVerses, enVerses, ptToEn, transposedPt, colophon, stats)
 
-  await mkdir('enoque/json', { recursive: true })
-  await mkdir('enoque/gzip', { recursive: true })
-  await mkdir('enoque/sqlite', { recursive: true })
-  await mkdir('enoque/markdown', { recursive: true })
+  await mkdir('output/enoque/json', { recursive: true })
+  await mkdir('output/enoque/gzip', { recursive: true })
+  await mkdir('output/enoque/sqlite', { recursive: true })
+  await mkdir('output/enoque/markdown', { recursive: true })
 
   const json = JSON.stringify(data, null, 2)
-  await Bun.write('enoque/json/enoque.paralela.json', json)
-  await Bun.write('enoque/gzip/enoque.paralela.json.gz', Bun.gzipSync(json))
-  console.log('Wrote enoque/json/enoque.paralela.json + gzip')
+  await Bun.write('output/enoque/json/enoque.paralela.json', json)
+  await Bun.write('output/enoque/gzip/enoque.paralela.json.gz', Bun.gzipSync(json))
+  console.log('Wrote output/enoque/json/enoque.paralela.json + gzip')
 
-  writeSqlite(data, 'enoque/sqlite/enoque.sqlite')
-  console.log('Wrote enoque/sqlite/enoque.sqlite (FTS5)')
+  writeSqlite(data, 'output/enoque/sqlite/enoque.sqlite')
+  console.log('Wrote output/enoque/sqlite/enoque.sqlite (FTS5)')
 
-  writeMarkdown(data, 'enoque/markdown/enoque.paralela.md')
-  console.log('Wrote enoque/markdown/enoque.paralela.md')
+  writeMarkdown(data, 'output/enoque/markdown/enoque.paralela.md')
+  console.log('Wrote output/enoque/markdown/enoque.paralela.md')
 
   console.log('Done.')
 }
