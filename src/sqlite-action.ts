@@ -7,7 +7,10 @@ export async function saveAsSqlite(bible: Bible): Promise<void> {
   const outputDir = `output/${category}/sqlite/${bible.lang}/`
   await mkdir(outputDir, {recursive: true})
 
-  const db = new Database(`${outputDir}bible-${bible.id}.sqlite`)
+  const dbPath = `${outputDir}bible-${bible.id}.sqlite`
+  try { await (await import("node:fs/promises")).unlink(dbPath) } catch {}
+
+  const db = new Database(dbPath)
 
   // Create tables
   db.exec(`
