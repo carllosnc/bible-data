@@ -177,3 +177,7 @@ dist
 # Scraper output
 output/
 src/catholic/output/
+
+# Cloudflare bypass cookie cache
+scripts/.cf-cache.json
+scripts/__pycache__/

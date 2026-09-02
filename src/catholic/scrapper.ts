@@ -1,6 +1,6 @@
 import type { Bible, Book, BookCategory } from '../types'
 import { loadingEnd, loadingStart } from '../loading'
-import { fetchContent } from '../fetch-content'
+import { cfFetchContent as fetchContent } from '../cf-fetch'
 
 import { catholicBookIds_ptbr } from './books/books_ptbr'
 import { catholicBookIds_es } from './books/books_es'
@@ -9,6 +9,11 @@ import { catholicBookIds_fr } from './books/books_fr'
 import { catholicBookIds_it } from './books/books_it'
 import { catholicBookIds_la } from './books/books_la'
 import { catholicBookIds_de } from './books/books_de'
+import { catholicBookIds_gr } from './books/books_gr'
+import { catholicBookIds_pl } from './books/books_pl'
+import { catholicBookIds_hr } from './books/books_hr'
+import { catholicBookIds_hu } from './books/books_hu'
+import { catholicBookIds_fi } from './books/books_fi'
 
 import { getCategory_ptbr } from './book-category/book-category_ptbr'
 import { getCategory_es } from './book-category/book-category_es'
@@ -35,6 +40,11 @@ const bookLists: Record<string, BookDef[]> = {
   'it': catholicBookIds_it,
   'la': catholicBookIds_la,
   'de': catholicBookIds_de,
+  'gr': catholicBookIds_gr,
+  'pl': catholicBookIds_pl,
+  'hr': catholicBookIds_hr,
+  'hu': catholicBookIds_hu,
+  'fi': catholicBookIds_fi,
 }
 
 const categoryFns: Record<string, CategoryFn> = {
@@ -103,7 +113,7 @@ async function getChapterCount(bibleId: string, bookId: string): Promise<number>
   return maxChapter
 }
 
-async function getChapterVerses(url: string): Promise<string[]> {
+async function getChapterVerses(url: string): Promise<{ verses: string[]; h1: string }> {
   const $ = await fetchContent(url)
   const verses: string[] = []
 
@@ -114,7 +124,8 @@ async function getChapterVerses(url: string): Promise<string[]> {
     if (text) verses.push(text)
   })
 
-  return verses
+  const h1 = $('h1').text().trim()
+  return { verses, h1 }
 }
 
 async function scrapeBook(
@@ -127,26 +138,32 @@ async function scrapeBook(
 ): Promise<Book> {
   const bookTimer = loadingStart(`Processing: ${bookName}`)
   const chapters: string[][] = []
+  let nativeName: string | undefined
 
   for (let c = 1; c <= chapterCount; c++) {
     const url = `${BASE_URL}/${bibleId}/${bookId}/${c}/`
     try {
-      const verses = await getChapterVerses(url)
+      const { verses, h1 } = await getChapterVerses(url)
       if (verses.length > 0) {
         chapters.push(verses)
       } else {
         console.warn(`Warning: No verses found for ${bookName} chapter ${c}`)
+      }
+      if (c === 1 && h1 && !h1.includes('Página não encontrada')) {
+        nativeName = h1.replace(/,\s*\d+$/, '').trim()
       }
     } catch (e) {
       console.error(`Error fetching ${bookName} ${c}:`, e)
     }
   }
 
+  const finalName = nativeName || bookName
+
   loadingEnd(bookTimer, "")
-  console.log(`${bookName} (${chapters.length} chapters)`)
+  console.log(`${finalName} (${chapters.length} chapters)`)
 
   return {
-    name: bookName,
+    name: finalName,
     link: `${BASE_URL}/${bibleId}/${bookId}/`,
     category,
     abbrev: bookId,
@@ -159,10 +176,13 @@ export async function getBible(bible: Bible): Promise<Bible> {
   console.log(`Starting to scrape Bible: ${bible.id} (${bible.lang})`)
 
   const bookList = bookLists[bible.lang]
-  const categoryFn = categoryFns[bible.lang]
   const books: Book[] = []
 
-  if (bookList && categoryFn) {
+  if (bookList) {
+    const categoryFn = categoryFns[bible.lang] ?? ((code: string) => {
+      const index = bookList.findIndex(b => b.id === code)
+      return getCategoryByPosition(index >= 0 ? index : 0)
+    })
     console.log(`Using pre-defined book list for ${bible.lang} (${bookList.length} books)`)
 
     for (const bookDef of bookList) {

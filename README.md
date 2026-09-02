@@ -4,7 +4,7 @@
 
 A high-performance Bible scraper written in **TypeScript** using **Bun**. This tool extracts Bible content from:
 - [Biblia Online](https://www.bibliaonline.com.br) (Protestant versions)
-- [Bíblia Católica](https://www.bibliacatolica.com.br) (Catholic versions)
+- [BibleGateway](https://www.biblegateway.com) (Catholic versions)
 
 It transforms the data into multiple useful formats for developers.
 
@@ -22,6 +22,9 @@ It transforms the data into multiple useful formats for developers.
 ## Prerequisites
 
 - [Bun](https://bun.sh) (v1.0 or later)
+- **Python 3.10+** with `curl_cffi` and `nodriver` (only required by the Catholic
+  source, which sits behind a Cloudflare managed challenge — see
+  [Cloudflare Bypass](#cloudflare-bypass-catholic-source) below)
 
 ## Getting Started
 
@@ -29,6 +32,7 @@ It transforms the data into multiple useful formats for developers.
 
    ```bash
    bun install
+   pip install -r scripts/requirements.txt
    ```
 
 2. **Interactive Mode:**
@@ -128,7 +132,59 @@ CREATE TABLE verses (
 );
 ```
 
-## Viable Sources for Apocryphal Texts
+## Cloudflare Bypass (Catholic Source)
+
+The Catholic source (`bibliacatolica.com.br`) is behind a Cloudflare managed
+challenge ("Just a moment..."). Bun's `fetch` and plain `curl` get HTTP 403, so
+the Catholic scraper delegates fetching to a small Python helper that bypasses
+the challenge using a hybrid strategy:
+
+1. **Solve once** — [`nodriver`](https://github.com/ultrafunkamsterdam/nodriver)
+   (an undetected Chrome) loads the site, lets the challenge auto-resolve, and
+   captures the `cf_clearance` cookie plus a real (non-headless) Chrome
+   User-Agent. The `HeadlessChrome` token in the default headless UA is what
+   Cloudflare flags on replay, so the helper overrides it at launch.
+2. **Serve fast** — [`curl_cffi`](https://github.com/lexiforest/curl_cffi)
+   performs every subsequent request impersonating Chrome's TLS/HTTP2 fingerprint
+   and reusing the cached cookie/UA. This is roughly as fast as a normal HTTP
+   request, so scraping thousands of chapters stays practical.
+3. **Auto-refresh** — if a request comes back 403 (cookie expired, ~1h), the
+   helper re-solves the challenge and retries automatically.
+
+The cookie cache lives in `scripts/.cf-cache.json` (gitignored).
+
+### Setup
+
+```bash
+pip install -r scripts/requirements.txt   # curl_cffi + nodriver
+```
+
+A Chromium-based browser must be installed (Chrome, Edge, Brave, ...). `nodriver`
+locates it automatically.
+
+### Configuration
+
+The TypeScript wrapper (`src/cf-fetch.ts`) launches Python with sensible
+defaults. Override them via environment variables if needed:
+
+| Variable       | Default (Windows) | Default (other) | Purpose                                      |
+|----------------|-------------------|-----------------|----------------------------------------------|
+| `PYTHON_BIN`   | `py`              | `python3`       | Python executable to invoke                  |
+| `PYTHON_ARGS`  | `-3.12`           | *(none)*        | Extra args passed to the Python interpreter  |
+
+For example, if `py` is unavailable, point directly at a Python 3.12 binary:
+
+```bash
+$env:PYTHON_BIN = "C:\Path\To\python.exe"
+$env:PYTHON_ARGS = ""
+```
+
+The Protestant source (`bibliaonline.com.br`) is not Cloudflare-protected and
+keeps using the original Bun `fetch` path.
+
+---
+
+
 
 The following sources have been verified for scraping viability. Each provides free, public-domain translations of apocryphal, gnostic, and pseudepigraphal texts in HTML format.
 
