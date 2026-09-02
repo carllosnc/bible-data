@@ -2,10 +2,11 @@ import type { Bible, Book } from '../types'
 import { getCategory } from './book-category'
 import { loadingEnd, loadingStart } from '../loading'
 import { fetchContent } from '../fetch-content'
+import { getProtestantBookName } from './books'
 
 const BASE_URL = 'https://www.bibliaonline.com.br'
 
-async function getBookLinks(bibleId: string): Promise<Book[]> {
+async function getBookLinks(bibleId: string, lang?: string): Promise<Book[]> {
   const $ = await fetchContent(`${BASE_URL}/${bibleId}/livros`)
   const links = $(`main ul li a[href^="/${bibleId}/"]`).toArray()
   const books: Book[] = []
@@ -19,7 +20,14 @@ async function getBookLinks(bibleId: string): Promise<Book[]> {
     seen.add(bookLink)
 
     const abbrev = parts[1]
-    const bookName = $(item).text().trim()
+    let bookName = $(item).text().trim()
+
+    if (lang) {
+      const nativeName = getProtestantBookName(lang, abbrev)
+      if (nativeName) {
+        bookName = nativeName
+      }
+    }
 
     books.push({
       name: bookName,
@@ -62,8 +70,11 @@ async function getChapterContent(chapterUrl: string): Promise<string[]> {
   return verses
 }
 
-async function getBookChapters(bookUrl: string): Promise<string[][]> {
+async function getBookChapters(bookUrl: string): Promise<{ nativeName?: string; chapters: string[][] }> {
   const $ = await fetchContent(`${BASE_URL}${bookUrl}`)
+  const h1 = $('h1').text().trim()
+  const nativeName = h1 && !h1.includes('Página não encontrada') ? h1 : undefined
+
   const chapLinks = $(`main a[href^="${bookUrl}/"]`).toArray()
   const chapters: string[][] = []
 
@@ -77,17 +88,21 @@ async function getBookChapters(bookUrl: string): Promise<string[][]> {
     chapters.push(chapter)
   }
 
-  return chapters
+  return { nativeName, chapters }
 }
 
 export async function getBible(bible: Bible): Promise<Bible> {
   console.log(`Starting to scrape Bible: ${bible.id} (${bible.lang})`)
 
-  const books = await getBookLinks(bible.id)
+  const books = await getBookLinks(bible.id, bible.lang)
 
   for (const book of books) {
     let timer = loadingStart(`Processing: ${book.name}`)
-    book.chapters = await getBookChapters(book.link)
+    const { nativeName, chapters } = await getBookChapters(book.link)
+    if (nativeName) {
+      book.name = nativeName
+    }
+    book.chapters = chapters
     loadingEnd(timer, "")
     console.log(`${book.name}`)
   }
