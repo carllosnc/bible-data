@@ -1,0 +1,6589 @@
+# Primeiro Livro de Enoque (Etíope) — Edição Paralela
+
+**PT** O Livro de Enoque, o Profeta · https://faithofgod.net/1ENOQUE.html
+
+**EN** The Book of Enoch the Prophet · https://faithofgod.net/1ENOCH.html
+
+## Livro dos Vigilantes · Book of the Watchers (caps. 1–36)
+
+### Capítulo 1
+
+**1:1** (pt 1:1 · en 1:1)
+
+> **PT** Palavras de bênção com as que benzeu Enoque aos eleitos justos que viverão no dia da tribulação, quando serão rechaçados todos os malvados e ímpios, enquanto os justos serão salvos. Enoque, homem justo a quem com Deus foi revelada uma visão do Santíssimo e do céu pronunciou seu oráculo
+
+> **EN** The word of the blessing of Enoch, by which he blessed the elect and the righteous, who were to live in the time of tribulation, to the rejection of all the wicked and ungodly. Enoch a righteous man, who was with God, answered and spoke, when his eyes were open, and he saw a holy vision in the heavens. This the angels shewed me.
+
+**1:2** (pt 1:2 · en 1:2)
+
+> **PT** e disse: a visão do Santo dos céus foi revelada e ouvi todas as palavras dos Vigilantes e dos Santos e porque as escutei aprendi tudo deles e compreendi que não falarei para esta geração senão para uma longínqua que está por vir.
+
+> **EN** From them I heard all things, and understood what I saw, that which will not be done in this generation, but in a generation which is to come at a future time, on account of the elect.
+
+**1:3** (pt 1:3 · en 1:3)
+
+> **PT** É a respeito de quão eleitos falo e por causa deles que pronuncio meu oráculo: o Único Grande Santo virá desde sua morada.
+
+> **EN** On their account I spoke and talked with him, who will then go forth from his mansion, the holy and mighty One, the God of this world.
+
+**1:4** (pt 1:4 · en 1:4)
+
+> **PT** O Deus Eterno andará sobre a terra, sobre o monte Sinai aparecerá com seu grande exército e surgirá na força de seu poder desde o altíssimo dos céus.
+
+> **EN** Who will then walk upon Mount Sinai, appear with his hosts, and be revealed in the strength of his power from heaven.
+
+**1:5** (pt 1:5 · en 1:5)
+
+> **PT** E todos os Vigilantes tremerão e serão castigados em lugares secretos e todas as extremidades da terra se racharão e o temor e um grande tremor se apoderarão deles até os confins da terra.
+
+> **EN** All shall be afraid, and the watchers shall be terrified.
+
+**1:6** (pt 1:6 · en 1:6)
+
+> **PT** As altas montanhas se racharão e derrubarão e as colinas se rebaixarão e fundirão, como a cera ante a chama.
+
+> **EN** Great fear and trembling shall seize them, even to the ends of the earth, the lofty mountains shall be shaken, and the high hills depressed, and melt like a honey comb in the fire, the earth shall be overflowed, and all which is upon it shall perish, when judgment shall come upon all, even upon the righteous.
+
+**1:7** (pt 1:7 · en 1:7)
+
+> **PT** E a terra se dividirá e tudo o que está sobre a terra perecerá e haverá um juízo sobre todos.
+
+> **EN** But to them he will give peace, he will save the elect, and towards them be merciful.
+
+**1:8** (pt 1:8 · en 1:8)
+
+> **PT** Mas com os justos Ele fará a paz e protegerá aos eleitos e sobre eles recairá a clemência e todos eles pertencerão a Deus, serão ditosos e benditos, ajudará-os a todos e para eles brilhará a luz de Deus.
+
+> **EN** So then all shall be made happy and blessed by God, and the splendour of God shall them enlighten.
+
+### Capítulo 2
+
+**2:1** (pt 2:1 · en 2:1)
+
+> **PT** Olhem que Ele vem com uma multidão de seus Santos, para executar o julgamento sobre todos e aniquilará aos ímpios e castigará a toda carne por todas suas obras ímpias, as quais eles hão perversamente cometido e de todas as palavras altivas e duras que os malvados pecadores falaram contra Ele.
+
+> **EN** Behold he cometh with ten thousand of his saints, to execute judgment upon them, and to destroy the wicked, and punish all the carnal, for every thing which the sinful and ungodly have done, and committed against him.
+
+### Capítulo 3
+
+**3:1** (pt 3:1 · en 3:1)
+
+> **PT** Todos os que estão no céu sabem o que ocorre nele,
+
+> **EN** All who are in the heavens know what there is done.
+
+**3:2** (pt 3:2 · en 3:2)
+
+> **PT** como as luminárias do céu não trocam sua rota nas posições de suas luzes e como todas nascem e ficam, ordenadas cada uma segundo sua estação e não desobedecem sua ordem. Olhem a terra e presta atenção a suas obras, desde o começo até o fim,
+
+> **EN** That the lights of heaven change not their paths, that every one rises and sets according to its regulation, every one at its time, without transgression of the divine commands, they see the earth, and understand what there is done, from the beginning of it to the end.
+
+**3:3** (pt 3:3 · en 3:3)
+
+> **PT** como nenhuma obra de Deus sobre a terra troca, e todas são visíveis para vós. Vejam os sinais do verão e os sinais do inverno, como a terra inteira se enche de água e as nuvens orvalham a chuva sobre ela.
+
+> **EN** That every work of God is unchangeable in the time of its appearance, they behold summer and winter, that the whole earth is full of water, and that it is refreshed by the clouds, the dew, and the rain.
+
+### Capítulo 4
+
+**4:1** (pt 4:1 · en 4:1)
+
+> **PT** Observem e vejam como todas as árvores se secam e cai toda sua folhagem; exceto quatorze árvores cuja folhagem permanece e esperam com todas suas folhas velhas até que venham novas detrás dois ou três anos.
+
+> **EN** They consider and view every tree how it withers, and every leaf falls off, except fourteen trees, which cast not off their leaves, but wait from the old to the new leaf for two or three winters.
+
+**4:2** (pt 4:1 · en 5:1)
+
+> **PT** E outra vez observem os sinais do verão, como nele o sol queima e rescalda e então sobre a superfície ardente da terra procuram sombra e refúgio do ardor do sol, sem encontrar forma de partir nem pelo chão e nem pelas rochas, a causa do calor.
+
+> **EN** Again they observe the days of summer, that the sun is direct upon it at their beginning, when you seek for a covered and shady tree, by reason of the burning sun, when the earth is scorched with fervid heat, and you are neither able to walk upon the ground or upon the rocks, because of that heat.
+
+### Capítulo 5
+
+**5:1** (pt 5:1 · en 6:1)
+
+> **PT** Observem e vejam todas as árvores, como em todas elas despontam as folhas verdes e as cobrem e todos seus frutos são para adorno e glória, Elogiem e considerem tudo destas obras e saibam como o Deus vivo, que vive eternamente, Ele tem feito todas essas coisas.
+
+> **EN** They observe how the trees when they put forth their green leaves, cover themselves, and bear fruit, they understand all, and know that he who lives for ever, does all these things for you.
+
+**5:2** (pt 5:2 · en 6:2)
+
+> **PT** Como todas suas obras prosseguem de ano em ano até sempre e todas lhe obedecem sem alterações e tudo passa como Deus o estatuiu.
+
+> **EN** That the works at the beginning of every equal year, that all his works are subservient to him, and unchangeable, yet as God has appointed, so must all things be done.
+
+**5:3** (pt 5:3 · en 6:3)
+
+> **PT** E vejam como os mares e os rios de igual forma cumprem e não trocam suas tarefas, segundo os mandamentos Dele.
+
+> **EN** They also behold how the seas and the rivers together perform their labours.
+
+**5:4** (pt 5:4 · en 6:4)
+
+> **PT** Mas vós que trocam suas tarefas e não cumprem sua palavra e em troca a transgredistes e ultrajastes sua grandeza com palavras altivas e dolorosos de vossa boca impura. Duros de coração, não haverá paz para vós!
+
+> **EN** But you wait not in patience, nor perform the commands of the Lord, but you oppose and defame his greatness, and the words in your defiled mouths are malignant against his Majesty.
+
+**5:5** (pt 5:5 · en 6:6)
+
+> **PT** Por isso amaldiçoarão vossos dias e os anos de vossa vida se perderão; mas os anos de vossa destruição se multiplicarão como uma maldição eterna, e não haverá misericórdia nem paz para vós.
+
+> **EN** Therefore you shall curse your days, and the years of your lives shall pass away, incessant cursing shall be increased, and you shall obtain no mercy.
+
+**5:6** (pt 5:6 · en 6:7)
+
+> **PT** Nesses dias vossos nomes significarão maldição eterna para todos os justos e em vós serão malditos todos os malditos e por vós jurarão todos os pecadores e malvados.
+
+> **EN** In those days you shall resign your peace with the eternal maledictions of all the righteous, and sinners shall continually execrate you.
+
+**5:7** (pt 5:7 · en 6:9)
+
+> **PT** Para os eleitos haverá luz, alegria e paz e herdarão a terra, mas para vós ímpios haverá maldição.
+
+> **EN** The elect shall possess light, joy, and peace, and they shall inherit the earth.
+
+**5:8** (pt 5:8 · en 6:11)
+
+> **PT** E então a sabedoria se dará aos eleitos e viverão todos, e não pecarão mais nem por esquecimento nem por orgulho, mas sim em troca os que sejam sábios serão humildes.
+
+> **EN** Then wisdom shall be given to the elect, they shall live and shall not again commit offences by wickedness or pride, but they shall humble themselves in the possession of prudence, and shall not repeat offences.
+
+**5:9** (pt 5:9 · en 6:12)
+
+> **PT** Não transgredirão mais nem pecarão o resto de sua vida, nem morrerão pelo castigo ou pela ira divina, mas sim completarão o número dos dias de sua vida. Sua vida será aumentada em paz e seus anos de regozijo serão multiplicados em eterna alegria e paz por todos os dias de sua vida.
+
+> **EN** They shall not be condemned during the whole time of their lives, nor die in torment and wrath, but the number of their days shall be fulfilled, and they shall grow old in peace, and the years of their happiness shall be increased with joy and with peace, for ever, so long as they shall live.
+
+### Capítulo 6
+
+**6:1** (pt 6:1 · en 7:1)
+
+> **PT** Assim sucedeu, que quando naqueles dias se multiplicaram os filhos dos homens, nasceram-lhes filhas formosas e bonitas;
+
+> **EN** It happened after the children of men had increased in those days, that daughters were born unto them elegant and beautiful.
+
+**6:2** (pt 6:2 · en 7:2)
+
+> **PT** e os Vigilantes, filhos do céu as viram e as desejaram, e se disseram uns aos outros: Vamos e escolhamos mulheres de entre as filhas dos homens e engendremos filhos.
+
+> **EN** And when the angels the sons of heaven saw them, they were inflamed with love of them, and said to each other, Come, let us choose for ourselves wives from the daughters of men, and let us beget children.
+
+**6:3** (pt 6:3 · en 7:3)
+
+> **PT** Então Samiaza que era seu chefe, disse-lhes: Temo que não queiram cumprir com esta ação e eu seja o único responsável por um grande pecado.
+
+> **EN** Then Samiaza their leader said to them, I fear that you may perhaps be averse to the performance of this undertaking,
+
+**6:4** (pt 6:4 · en 7:4)
+
+> **PT** Mas eles lhe responderam: Façamos todos um juramento e nos comprometamos todos sob uma anátema a não retroceder deste projeto até executá-lo realmente.
+
+> **EN** And that I alone shall suffer for so great a crime.
+
+**6:5** (pt 6:5 · en 7:5)
+
+> **PT** Então todos juraram unidos e se comprometeram ao respeito os uns com os outros, sob anátema.
+
+> **EN** But they answered, and said unto him, We all swear:
+
+**6:6** (pt 6:6 · en 7:7-7:8)
+
+> **PT** E eram em total duzentos os que descenderam nos dias de Járede sobre o topo do monte que chamaram Hermon, porque sobre ele tinham jurado e se comprometeram mutuamente sob anátema.
+
+> **EN** Then they all swore one another, and bound themselves by mutual execrations. Their whole number was two hundred, who descended in the days of Jared, upon the top of Mount Armon. Therefore they called that mountain Armon, because they had sworn upon it, and bound them selves by mutual execrations.
+
+**6:7** (pt 6:7 · en 7:9)
+
+> **PT** Estes são os nomes de seus chefes: Samiaza, quem era o principal, o segundo Artekifa, o terceiro Armen, o quarto Akibu, o quinto Tamio, o sexto Ramio, o sétimo Danju, o oitavo Zekio, o nono Baraku, o décimo Azaso, o décimo primeiro Harmer, o décimo segundo Matréu, o décimo treceiro Ananu, o décimo quarto Satã, o décimo quinto Samio, o décimo sexto Sahário, o décimo sétimo Tumã, o décimo oitavo Taru, o décimo nono Jomjã, e o vigésimo Jehádio.
+
+> **EN** These are the names of their chiefs, the first Samiaza, who was their leader; the second Arstikapha; the third, Armen; the fourth, Akibeel; the fifth, Tamiel; the sixth, Ramiel; the seventh, Danyal; the eight, Zakiel; the ninth, Barakel; the tenth, Azaziel; the eleventh, Armers; the twelfth, Bataryal; the thirteenth, Ananel; the fourteenth, Thausael; the fifteenth, Samiel; the sixteenth, Ertael; the seventeenth, Tumael; the eighteenth, Tarel; the nineteenth, Yomyael; the twentieth, Sariel.
+
+**6:8** (pt 6:8 · en 7:10)
+
+> **PT** Estes, com todos os outros, no mil e cento e septuagésimo ano do mundo, tomaram para si esposas, e eles continuaram em sua loucura com elas até o dilúvio.
+
+> **EN** These, with all the others, in the thousand one hundred and seventieth year of the world, took to themselves wives, and they continued in their madness with them until the flood. *
+
+**6:9** (pt 6:9 · en 7:11-7:12)
+
+> **PT** Elas deram-lhes três raças: primeiro os grandes gigantes, e dos gigantes aos nefilins, e dos nefilins ao eljo. E eles aumentaram em seu poder, ensinando um ao outro e a suas esposas bruxaria e encantamentos.
+
+> **EN** And there were born unto them three sorts, the first were great giants, and to the giants were born Nephilim, and to the Nephilim were born Elioud. And they increased in their power, and taught each other and their wives sorcery and incantations.
+
+### Capítulo 7
+
+**7:1** (pt 7:1 · en 8:1)
+
+> **PT** Ademais, Azaso ensinou aos homens a fazer espadas, facas, escudos, couraças, a fabricação de espelhos, pulseiras, ornamentos, o uso de tinta, o embelezamento das sobrancelhas, o uso de pedras selecionadas de todo tipo e valor, e de corantes, que então o mundo ficou alterado.
+
+> **EN** Moreover, Azaziel taught men to make swords, knives, shields, breastplates, the fabrication of mirrors, the workmanship of bracelets, ornaments, the use of paint, beautifying of the eyebrows, the use of stones of every valuable and select kind, and of all sorts of dyes, so that the world became altered.
+
+**7:2** (pt 7:2 · en 8:2)
+
+> **PT** E então cresceu a muita impiedade, fornicaram-se e tomaram os caminhos equivocados, transgrediram e chegaram a corromper-se em todas as formas.
+
+> **EN** Impiety increased, fornication multiplied, and they transgressed and corrupted all their ways.
+
+### Capítulo 8
+
+**8:1** (pt 8:1 · en 8:7)
+
+> **PT** Samiaza ensinou encantamentos e a cortar raízes; Harmer a solução de feitiçaria; Baraku os signos dos raios; Akibu os símbolos; Tamio a astronomia, Tumã a astrologia; Zekio a inspeção do ar; Armen ensinou os sinais da terra; Danju os presságios do sol; e Sahário os movimentos da lua.
+
+> **EN** Tamiel taught astronomy. Zakiel taught the inspection of the air. Armen taught the signs of the earth. Danyal taught the signs of the sun.
+
+**8:2** (pt 8:2 · en 8:8)
+
+> **PT** E os gigantes devoravam o trabalho todo dos homens até que já não conseguiam lhes abastecer.
+
+> **EN** And Sariel taught the motions of the moon.
+
+**8:3** (pt 8:3 · en 8:9)
+
+> **PT** Depois comecaram a comer a carne dos homens, e os homens estavam sendo poucos na terra; e os que permaneceram, clamaram aos céus desse mal, dizendo: Que uma lembrança de nós seja levada ao Altíssimo.
+
+> **EN** And the giants devoured all that the labour of men produced, until it became impossible to feed them, and after that they began to eat the flesh of men, and men began to be few on earth, and they who remained called to heaven concerning that evil, saying, Let a remembrance of us be brought before the Most High.
+
+### Capítulo 9
+
+**9:1** (pt 9:1 · en 9:1)
+
+> **PT** Então Miguel, Gabriel, Rafael, e Uriel observaram a terra do santuário dos céus e viram muito sangue derramado sobre a terra e estava toda cheia da injustiça e da violência que se cometia sobre ela.
+
+> **EN** And the four great archangels, Michael, Gabriel, Raphael, and Uriel, heard, and from the saints of heaven they looked upon the earth, and saw the quantity of blood which was shed on earth, and all the iniquity which was done upon it, and they said one to another, It is the voice of their cries.
+
+**9:2** (pt 9:2 · en 9:2)
+
+> **PT** Considerando isto, os quatro foram e se disseram: o grito e o lamento pela destruição dos filhos da terra sobe até as portas do céu.
+
+> **EN** The earth bereaved of her children cries even to the gate of heaven.
+
+**9:3** (pt 9:3)
+
+> **PT** E disseram aos Santos do céu: É agora a vós a quem as almas dos filhos dos homens suplicam dizendo levem nossa causa ante o Altíssimo, nossa destruição ante a glória majestosa e ante o Senhor de todos os senhores quanto à majestade.
+
+> **EN** —
+
+**9:4** (pt 9:4 · en 9:3)
+
+> **PT** E disseram ao Senhor Eterno: Ó Senhor de senhores, Deus de deuses, e Rei de reis; os céus são o trono de sua glória por todas as gerações dos séculos dos séculos; toda a terra é a banqueta ante ti para sempre, e seu nome é grande, santo e bendito por toda a eternidade.
+
+> **EN** And now, Oh ye holy ones of heaven, to you the souls of men complain, and say, Procure us justice from the Highest; then they said to their Lord the King, You are Lord of lords, God of gods, King of kings, the throne of your glory is for ever and ever, and for ever and ever, your name shall be sanctified and glorified, you are praised and glorified.
+
+**9:5** (pt 9:5 · en 9:4)
+
+> **PT** É você quem todo o criou e em ti reside o poder sobre todas as coisas; tudo é descoberto em toda sua nudez ante ti; você o vê tudo e nada te pode esconder.
+
+> **EN** You have made all things, you have power over all things, and all things are open and manifest before you; you see all things, and nothing can be concealed from you.
+
+**9:6** (pt 9:6 · en 9:5)
+
+> **PT** Você viu o que tem feito Azaso, como ensinou toda injustiça sobre a terra seca e revelação dos segredos eternos que se cumprem nos céus;
+
+> **EN** You have seen what Azaziel has done, how he has taught every kind of wickedness upon the earth, and has discovered to the world all the secret things which are done in the heavens.
+
+**9:7** (pt 9:7 · en 9:6)
+
+> **PT** e vês o que fez Samiaza, ao que você tinha dado a faculdade de governar sobre seus companheiros.
+
+> **EN** Samiaza also has taught sorcery, to whom you have given power over those who are associated with him, and they have gone together to the daughters of men, have laid with them, and have been defiled.
+
+**9:8** (pt 9:8 · en 9:7)
+
+> **PT** Eles foram para as filhas dos homens e se deitaram com elas e se profanaram a si mesmos lhes descobrindo todo pecado.
+
+> **EN** And have disclosed crimes to them. *
+
+**9:9** (pt 9:9 · en 9:8-9:9)
+
+> **PT** Logo, estas mulheres pariram no mundo gigantes, por isso a terra se encheu de sangue e injustiça.
+
+> **EN** The women likewise have brought forth giants. So the whole earth has been filled with blood, and with wickedness.
+
+**9:10** (pt 9:10 · en 9:10-9:11)
+
+> **PT** E agora olhe que as almas dos que morreram gritam e se lamentam até as portas do céu e seu gemido subiu e não pode cessar devido à injustiça que se comete na terra.
+
+> **EN** And now, behold, the souls of those who are dead cry out, And complain even to the gate of heaven.
+
+**9:11** (pt 9:11 · en 9:12)
+
+> **PT** Mas você que conhece todas as coisas antes de que aconteçam, você que sabe aquilo, você os tolera e não nos diz o que devemos lhes fazer ao observar isso.
+
+> **EN** Their groanings ascend, but they cannot escape from the wickedness which is done on the earth. You know all things before they exist.
+
+### Capítulo 10
+
+**10:1** (pt 10:1 · en 10:1-10:2)
+
+> **PT** Então o Altíssimo, Grande e Santo, falou e enviou a Uriel ao filho de Lamec.
+
+> **EN** Then the Most High, the Great and Holy One spoke, And sent Uriel to the son of Lamech,
+
+**10:2** (pt 10:2 · en 10:3)
+
+> **PT** E lhe disse: Vê a Noé e diga-lhe em meu nome, esconda-te; e revele-lhe a consumação que vem, pois a terra inteira vai perecer, um dilúvio está por vir sobre toda a terra e tudo o que se encontre sobre ela perecerá.
+
+> **EN** Saying, Go to Noah, and say unto him in my name, Conceal thyself.
+
+**10:3** (pt 10:3 · en 10:4)
+
+> **PT** Em seguida ensina ao Justo, ao filho do Lamec, o que deve fazer para preservar sua alma para a vida e escapar definitivamente, pois por ele será semeada uma planta e serão estabelecidas todas as gerações.
+
+> **EN** Then declare unto him an account of the end which is to take place, for the whole earth shall be destroyed, the waters of a flood shall come over the whole earth, and all things which are upon shall be destroyed.
+
+**10:4** (pt 10:4 · en 10:6)
+
+> **PT** E além disso, o Senhor disse ao Rafael: Encadeia a Azaso de pés e mãos, arroja-o nas trevas, abre o deserto que está em Dudael e arroja-o nele;
+
+> **EN** Again the Lord said to Raphael, Bind Azaziel hand and foot, cast him into darkness, open the desert which is in Dudael, and thrust him in there.
+
+**10:5** (pt 10:5 · en 10:7-10:8)
+
+> **PT** bota sobre ele pedras ásperas e cortantes, cobre-o de trevas, deixa-o ali eternamente sem que possa ver a luz,
+
+> **EN** Throw upon him rugged and pointed stones, and cover him with darkness. There he shall remain for ever, cover his face, that he may not see the light.
+
+**10:6** (pt 10:6 · en 10:9)
+
+> **PT** e no grande dia do Julgamento que seja arrojado ao fogo.
+
+> **EN** And in the great day of judgment let him be cast into the fire.
+
+**10:7** (pt 10:7 · en 10:11)
+
+> **PT** Depois, sana a terra que os Vigilantes corromperam e anuncia sua cura, a fim de que se sanem da praga e que todos os filhos dos homens não se percam devido ao mistério que os Vigilantes descobriram e ensinaram a seus filhos.
+
+> **EN** All the sons of men shall not perish in consequence of every secret, by which the watchers have caused destruction, and which they have taught their offspring.
+
+**10:8** (pt 10:8 · en 10:12)
+
+> **PT** Toda a terra foi corrompida por meio das obras que foram ensinadas por Azaso, lhe imputa então todo pecado.
+
+> **EN** All the earth has been corrupted by the operation of the doctrine of Azaziel, therefore ascribe the whole crime to him.
+
+**10:9** (pt 10:9 · en 10:13)
+
+> **PT** E o Senhor disse ao Gabriel: Procede contra os bastardos e réprobos filhos da fornicação e deixa desaparecer aos filhos dos Vigilantes de entre os humanos e faz-os entrar em uma guerra de destruição, pois não haverá para eles muitos dias.
+
+> **EN** Also the Lord said to Gabriel, Go to the giants, the reprobates, the children of whoredom, and destroy the children of whoredom, the offspring of the watchers from among men; lead them out, and move them one against another, let them perish by slaughter, for they shall not have length of days.
+
+**10:10** (pt 10:10 · en 10:14)
+
+> **PT** Nenhuma petição em seu favor será concedida, pois esperam viver uma vida eterna, e que cada um viva quinhentos anos.
+
+> **EN** They shall all intreat thee, but their fathers shall obtain nothing in regard to them, for they shall hope for eternal life, and that each of them may live five hundred years.
+
+**10:11** (pt 10:11)
+
+> **PT** E a Miguel disse o Senhor: vê e anuncia a Samiaza e a todos seus cúmplices que se uniram com mulheres e se poluíram com elas em sua impureza,
+
+> **EN** —
+
+**10:12** (pt 10:12 · en 10:15)
+
+> **PT** que seus filhos perecerão e eles verão a destruição de seus queridos! Encadeia-os durante setenta gerações nos vales da terra até o grande dia de seu julgamento.
+
+> **EN** Also the the Lord said to Michael, Go, and declare his crime to Samiaza, and to the others who are with him who have been united with women, that they might be defiled with all their impurity, and when all their sons shall be slain, when they shall see the destruction of their beloved, bind them for seventy generations in the caverns of the earth, even to the day of judgment and of termination, until the termination of the everlasting judgment.
+
+**10:13** (pt 10:13 · en 10:16)
+
+> **PT** Nesses dias lhes levará ao abismo de fogo, aos torturas e ao fechamento na prisão eterna.
+
+> **EN** Then they shall be taken to the lowest depths of the fire in torments, and they shall be shut up in prison for ever and ever.
+
+**10:14** (pt 10:14 · en 10:17)
+
+> **PT** Tudo o que seja condenado, estará perdido daí em adiante e será encadeado com eles até a destruição de sua geração. E na época do julgamento que eu julgarei, perecerão por todas as gerações.
+
+> **EN** Immediately after this he, together with them, shall burn and perish, they shall be bound until many generations shall be fulfilled.
+
+**10:15** (pt 10:15 · en 10:18)
+
+> **PT** Destrói todas as almas viciadas em luxúria e dos filhos dos Vigilantes porque têm feito obrar mal aos humanos.
+
+> **EN** Exterminate all the souls devoted to foolishness, and the offspring of the watchers, for they have oppressed mankind.
+
+**10:16** (pt 10:16 · en 10:21)
+
+> **PT** Destrói a opressão da face da terra, faz perecer toda obra de impiedade e deixa que apareça a planta de justiça; ela será uma bênção e as obras dos justos serão plantadas em alegria para sempre.
+
+> **EN** The plant of righteousness and integrity shall appear, and its produce shall become a blessing.
+
+**10:17** (pt 10:17 · en 10:22)
+
+> **PT** Nesse tempo todos os justos escaparão e viverão até que engendrem milhares. Todos os dias de sua juventude e sua velhice se completarão em paz.
+
+> **EN** Righteousness and integrity shall be planted with rejoicing for evermore.
+
+**10:18** (pt 10:18 · en 10:23)
+
+> **PT** Então toda a terra será cultivada em justiça e toda ela será plantada de árvores e cheia de bênção.
+
+> **EN** And then all the saints shall give thanks, and live until they have begotten a thousand children, while the whole time of their youth, and their Sabbaths shall be finished in-peace; and in those days the whole earth shall be cultivated in righteousness, it shall be planted with trees, and filled with blessing, for upon it every tree of delight shall be planted.
+
+**10:19** (pt 10:19 · en 10:24)
+
+> **PT** Todas as árvores da terra que desejem serão plantadas nela e semearão ali vinhas e cada uma delas produzirá mil jarras de vinho e cada semente produzirá mil medidas por uma, e uma medida de azeitonas produzirá dez lagares de azeite.
+
+> **EN** Upon it vineyards shall be planted, and the vine which shall be planted on it shall bring forth fruit in abundance, every seed which is sown on it shall bring forth for one measure a thousand, and one measure of olives shall yield ten presses of oil.
+
+**10:20** (pt 10:20 · en 10:25)
+
+> **PT** E limpa tu a terra de toda opressão, de toda violência, de todo pecado, de toda impiedade e de toda maldade que ocorre nela, e lhes faça desaparecer da terra.
+
+> **EN** Purify the earth from all oppression, from all unrighteousness, from all crime, from all ungodliness, and from all the corruption which upon it has been committed, and destroy them from the earth.
+
+**10:21** (pt 10:21 · en 10:26)
+
+> **PT** E todos os filhos dos homens chegarão a ser justos e todas as nações me adorarão, dirigirão-se em oração a mim e me louvarão.
+
+> **EN** Then all the children of men shall be righteous, and all nations shall give to me divine honours, and bless me, all shall adore me.
+
+**10:22** (pt 10:22 · en 10:27)
+
+> **PT** E a terra estará limpa de toda corrupção, de todo pecado, de todo castigo e de toda dor e eu não enviarei mais pragas sobre a terra de gerações a gerações para sempre.
+
+> **EN** The earth shall be purified from all corruption, from all offences, from all pain, and from all suffering, and I will not again send a flood upon it from generation to generation for ever.
+
+### Capítulo 11
+
+**11:1** (pt 11:1 · en 11:1)
+
+> **PT** E nesses dias abrirei os tesouros de bênção que estão no céu, para fazê-los descender sobre a terra, sobre as obras e o trabalho dos filhos dos homens.
+
+> **EN** In those days I will open the treasures of blessing which are in heaven, that I may cause them to descend on the earth, and on all the works and labours of men.
+
+**11:2** (pt 11:2 · en 11:2)
+
+> **PT** E a paz e o património estarão unidos todos os dias do mundo e por todas as gerações.
+
+> **EN** Peace and equity shall be associates with the sons of men, all the days of the world in all its generations.
+
+### Capítulo 12
+
+**12:1** (pt 12:1 · en 12:1)
+
+> **PT** Ante esses sucessos Enoque tinha sido oculto e não havia nenhum humano que soubesse onde foi escondido nem onde esteve nem o que lhe aconteceu.
+
+> **EN** Before all these things Enoch was concealed, but none of the sons of men knew where he was concealed, where he had been and what had been done.
+
+**12:2** (pt 12:2 · en 12:2)
+
+> **PT** Ele fazia todas suas ações com os Vigilantes e passava seus dias com os Santos.
+
+> **EN** He was entirely employed with the holy ones, and with the watchers in his days.
+
+**12:3** (pt 12:3 · en 12:3-12:4)
+
+> **PT** Assim, eu Enoque estava começando a benzer ao Senhor de majestade, ao Rei dos tempos, e hei aqui que o Vigilante do grande Santo me chamou, Enoque ó escrivão, e me disse:
+
+> **EN** I, Enoch, praised the great Lord and King of peace. And behold the watchers called me Enoch the scribe.
+
+**12:4** (pt 12:4 · en 12:5)
+
+> **PT** Enoque, escreva da justiça; vá aos Vigilantes do céu que abandonaram as alturas do céu, o eterno lugar santo e que se poluíram com as mulheres fazendo como fazem os filhos dos homens, e tomaram mulheres e forjaram uma grande obra de corrupção sobre a terra,
+
+> **EN** Then the Lord said to me, Enoch, scribe of righteousness, go, and declare to the watchers of heaven, who have forsaken the exalted heaven, and their everlasting mansion, and have defiled them selves with women;
+
+**12:5** (pt 12:5 · en 12:6)
+
+> **PT** e lhes faça saber que não haverá para eles paz nem redenção de seu pecado.
+
+> **EN** And have done actions like the sons of men by taking to themselves wives, and they have been greatly polluted on the earth;
+
+**12:6** (pt 12:6 · en 12:7)
+
+> **PT** E assim como gozaram por causa de seus filhos eles verão a morte de seus bem-amados e chorarão pela perda de seus filhos e suplicarão eternamente, mas não haverá para eles misericórdia nem paz.
+
+> **EN** That on the earth they never shall obtain peace and forgiveness of sin, for they shall not rejoice in their offspring, they shall see the slaughter of their beloved, they shall lament over the destruction of their sons, and shall solicit for ever, but they shall not obtain mercy and peace.
+
+### Capítulo 13
+
+**13:1** (pt 13:1 · en 13:1)
+
+> **PT** Logo, Enoque foi-se e disse a Azaso: Não haverá paz para ti, contra ti foi pronunciado um grande julgamento para te encadear.
+
+> **EN** Then I Enoch went on further, and said to Azaziel, Thou shalt not obtain peace, for a great sentence is gone forth against thee, He will bind thee.
+
+**13:2** (pt 13:2 · en 13:2)
+
+> **PT** Não haverá para ti nem trégua nem intercessão, porque ensinaste a injustiça e por causa de todas as obras de impiedade, violência e pecado que ensinaste aos humanos.
+
+> **EN** Neither shall ease, mercy, and intercession be thine, by reason of the oppression which thou hast taught.
+
+**13:3** (pt 13:3 · en 13:4)
+
+> **PT** E avançando falei com todos eles e todos temeram e se espantaram e o tremor se apoderou deles.
+
+> **EN** Then I went away, and spake to them all gathered together.
+
+**13:4** (pt 13:4 · en 13:5)
+
+> **PT** Me suplicaram que elevasse uma petição por eles para que pudessem encontrar perdão por seus pecados e que a lesse em presença do Senhor do céu.
+
+> **EN** And they were all affrightned, and trembled.
+
+**13:5** (pt 13:5 · en 13:6)
+
+> **PT** Porque após eles não podem falar com Deus nem levantar seus olhos ao céu, devido à vergonha pelos crimes pelos quais foram condenados.
+
+> **EN** They besought me to prepare for them a petition, that they might obtain forgiveness, and that I would convey the petition of their prayer before the God of heaven, because they were not able themselves from that time to turn to him, or to lift up their eyes unto heaven, by reason of the ignominious crime for which they had been judged.
+
+**13:6** (pt 13:6 · en 13:7)
+
+> **PT** Então escrevi sua oração com todas suas petições por suas almas e por cada uma de suas obras e pelo que suplicavam todos, que houvesse para eles perdão e larga vida.
+
+> **EN** Then I wrote a petition of their prayer and supplication for their souls, concerning all that they had done, and for the object of their entreaty, that they might obtain forgiveness and rest.
+
+**13:7** (pt 13:7 · en 13:8)
+
+> **PT** Fui e me sentei junto às águas de Dão, na terra de Dão, ao sul do Hermínio, a seu lado ocidental e estive lendo o livro onde anotei suas petições, até que dormi.
+
+> **EN** Going further, I passed over the waters of Danbadan, which is on the right side of the west of Armon, and read the memorial of their petition until I fell asleep.
+
+**13:8** (pt 13:8 · en 13:9)
+
+> **PT** Hei aqui que me vieram sonhos e caíram sobre mim visões até que levantei minhas pálpebras às portas do palácio do céu e vi uma visão do rigor do castigo. E veio uma voz e me disse: Fala com os filhos do céu para lhes repreender.
+
+> **EN** And behold a dream came to me, and visions appeared above me, I fell down, and saw a vision of punishment, that I might describe it to the sons of heaven, and reprove them. When I awoke, I went to them, they all stood weeping together in Oubelseyael, which is between Libanus and Senezer, with their faces veiled.
+
+**13:9** (pt 13:9)
+
+> **PT** Quando despertei fui a eles. Todos estavam reunidos juntos e sentados chorando, na Fonte do Pranto que está entre o Líbano e Senir, com os rostos cobertos.
+
+> **EN** —
+
+**13:10** (pt 13:10 · en 13:10)
+
+> **PT** Contei diante deles todas as visões que tinha visto em sonhos e me pus a falar com palavras de justiça e de visão e a repreender aos Vigilantes celestiais.
+
+> **EN** I related in their presence all the visions which I had seen, and my dream;
+
+### Capítulo 14
+
+**14:1** (pt 14:1 · en 13:11)
+
+> **PT** Este é o livro das palavras da verdade e da repreensão de quão vigilantes desde a eternidade existem sempre conforme o que ordenou o Grande Santíssimo no sonho que tive.
+
+> **EN** And began to declare these words of righteousness, and reprove the watchers of heaven.
+
+**14:2** (pt 14:2 · en 14:1)
+
+> **PT** Nesta visão vi em meu sonho o que digo agora com a língua de carne, com o fôlego de minha boca, que o Todo-poderoso deu aos humanos para que falem com ela e para que compreendam no coração. Assim como Deus criou e destinou aos filhos dos homens para que entendam as palavras de conhecimento, assim me criou, feito e destinado a mim para que repreenda aos Vigilantes, aos filhos do céu.
+
+> **EN** This is the book of the words of righteousness, and of the reproof of the watchers who belong to the world, in consequence of that which He, who is Great and Holy, commanded in the vision. I understood in my dream, that I now spake with a tongue of flesh, and with my breath, which the Almighty has put in the mouth of men, that with it they may speak,
+
+**14:3** (pt 14:3 · en 14:2)
+
+> **PT** Eu escrevi sua petição e em uma visão me revelou que nunca será concedida e que haverá julgamento por decisão e decreto contra vós,
+
+> **EN** And understand with the heart. As He has created and given to men to understand the words of wisdom, so He has created and given to me to reprove the watchers, the offspring of heaven. I have written your petition, and in my vision it has been shewn to me, that what you desire will not be given you, as long as the world remains.
+
+**14:4** (pt 14:4 · en 14:3)
+
+> **PT** que a partir de agora não voltarão para o céu e por todas as épocas não subirão,
+
+> **EN** Judgment has been passed upon you, nothing will be granted to you.
+
+**14:5** (pt 14:5 · en 14:4)
+
+> **PT** porque foi decretada a sentença para lhes encadear nas prisões da terra por todos os dias do mundo.
+
+> **EN** From this time forth you never shall ascend into heaven, He has said that he will bind you on the earth, as long as the world remains.
+
+**14:6** (pt 14:6 · en 14:5)
+
+> **PT** Mas antes verão que todos seus seres queridos irão à destruição com todos seus filhos e as riquezas de seus seres queridos e de seus filhos não as desfrutarão, e eles cairão em sua presença pela espada de destruição.
+
+> **EN** But before these things you shall see the destruction of your beloved sons, you shall not enjoy them, but they shall fall before you by the sword.
+
+**14:7** (pt 14:7 · en 14:7)
+
+> **PT** Pois nem sua petição por eles nem a petição por vós serão concedidas. Nem mesmo pedindo e suplicando e enquanto choram pronunciem todas as palavras que tenho escrito.
+
+> **EN** But ye shall weep and supplicate in silence. The words of the book which I wrote,
+
+**14:8** (pt 14:8 · en 14:8-14:9)
+
+> **PT** Isto foi revelado na visão: Hei aqui que as nuvens me chamavam, a neblina me convocava, as estrelas agitadas me gritavam, e os relâmpagos e trovões me apressavam e me despediam, e na visão os ventos me faziam voar, levantavam-me no alto, levavam-me e me entravam nos céus.
+
+> **EN** A vision that appeared to me; Behold, in that vision, clouds and a mist invited me on, agitated stars and rays of light incited and pressed me forwards, while winds in the vision assisted my flight hastening my going on.
+
+**14:9** (pt 14:9 · en 14:10)
+
+> **PT** Entrei neles até que cheguei ao muro de um edifício construído com pedras de granizo, rodeado e cercado completamente com línguas de fogo que começaram a me assustar.
+
+> **EN** They raised me to the height of heaven, I went forward until I came to a wall built with stones of crystal, a moving flame surrounded it, which began to make me afraid,
+
+**14:10** (pt 14:10)
+
+> **PT** Entrei por essas línguas de fogo até que cheguei a uma casa grande construída com pedras de granizo cujos muros eram como pranchas de cristal todas elas de neve e seu chão era feito de gelo.
+
+> **EN** —
+
+**14:11** (pt 14:11 · en 14:11)
+
+> **PT** Seu teto era como o curso das estrelas, relâmpagos e trovoada e entre eles querubins de fogo e seu céu era de água.
+
+> **EN** I entered into this moving flame;
+
+**14:12** (pt 14:12)
+
+> **PT** Um fogo ardente rodeava todos seus muros cercando-os por completo e as portas eram de fogo ardente.
+
+> **EN** —
+
+**14:13** (pt 14:13 · en 14:12)
+
+> **PT** Entrei nesta casa que era quente como fogo e fria como gelo. Não havia nela nenhum dos prazeres da vida. Consumiu-me o medo e o tremor se apoderou de mim.
+
+> **EN** And I came near to an extensive residence, which also was built with stones of crystal, for its walls as well as its floor were stones of crystal, and the ground also was crystal, its roof had the appearance of stars violently agitated, and flashes of lightning, and among them were cherubim of fire, and their heaven was water. A flame burned round its wall, and its portal flamed with fire. When I entered into this dwelling, it was hot as fire, and cold as ice. No trace of joy or of life was there; fear overcame me and a dreadful trembling seized me.
+
+**14:14** (pt 14:14 · en 14:13)
+
+> **PT** Tiritando e tremendo caí sobre meu rosto e se me revelou uma visão:
+
+> **EN** Violently agitated and trembling, I fell on my face. In the vision I saw,
+
+**14:15** (pt 14:15 · en 14:14)
+
+> **PT** Hei aqui que vi uma porta que se abria diante de mim e outra casa que era maior que a anterior, construída toda com línguas de fogo.
+
+> **EN** And behold there was another far more extensive habitation, to which every entrance before me was open, established in a moving flame.
+
+**14:16** (pt 14:16 · en 14:15)
+
+> **PT** Toda ela era superior à outra em esplendor, glória e majestade, tanto que não posso lhes descrever seu esplendor e majestade.
+
+> **EN** So great was the appearance in every respect, in glory, in magnificence, and in magnitude, that it is impossible to describe to you either its magnificence or extent.
+
+**14:17** (pt 14:17 · en 14:16)
+
+> **PT** Seu piso era de fogo, e sua parte superior de relâmpagos e trovões e o caminho das estrelas, e seu teto de fogo ardente.
+
+> **EN** Its floor was all on fire, above were lightnings and agitated stars, while its roof displayed a flaming fire.
+
+**14:18** (pt 14:18 · en 14:17)
+
+> **PT** Foi revelada e vi nela um trono elevado cujo aspecto era o do cristal e cujo contorno era como o sol brilhante, e visão de Querubim.
+
+> **EN** I beheld it attentively, and saw that it contained an elevated throne;
+
+**14:19** (pt 14:19 · en 14:19)
+
+> **PT** Por cima do trono saíam rios de fogo ardente que eu não podia olhar para lá.
+
+> **EN** From beneath this mighty throne flowed rivers of flaming fire,
+
+**14:20** (pt 14:20 · en 14:21-14:22)
+
+> **PT** A Grande Glória tinha sede no trono e seu vestido luzia mais brilhante que o sol e mais branco que qualquer neve.
+
+> **EN** One great in glory sat thereon; Whose robe was brighter than the sun, and whiter than snow:
+
+**14:21** (pt 14:21 · en 14:23)
+
+> **PT** Nenhum anjo podia entrar e lhe ver a cara devido à magnífica Glória e nenhum ser de carne podia olhá-lo.
+
+> **EN** No angel was able to press forward to view the face of Him, the Glorious, and the Effulgent, nor could any mortal behold Him; a fire was flaming around Him.
+
+**14:22** (pt 14:22)
+
+> **PT** Um fogo ardente lhe rodeava e um grande fogo se levantava ante Ele. Nenhum dos que lhe rodeava podia aproximar-se; miríades de miríades estavam de pé ante Ele, porém não necessitava conselheiros.
+
+> **EN** —
+
+**14:23** (pt 14:23)
+
+> **PT** E as santidades dos Santos que estavam perto Dele não se afastavam durante a noite nem se separavam Dele.
+
+> **EN** —
+
+**14:24** (pt 14:24 · en 14:24)
+
+> **PT** Eu até este momento estava prostrado sobre meu rosto, tremendo e o Senhor por sua própria boca me chamou e me disse: Vem aqui Enoque e escuta minha Palavra.
+
+> **EN** Also a fire of great compass continued to rise up before him, so that none of those who stood around him came near to him, among the myriads of myriads who were before him. To him holy consultation was unnecessary, yet the sanctified, who were near him, departed not far from him either by day or by night, nor were they withdrawn far from him; I also was so far gone forward with a veil before my face and trembling; Then the Lord with his mouth called me, and said, Come near hither, Enoch, at my holy word.
+
+**14:25** (pt 14:25 · en 14:25)
+
+> **PT** E veio para mim um dos Santos, me despertou, fez-me levantar e me aproximar da porta, e inclinei para baixo minha cabeça.
+
+> **EN** And he raised me up, and caused me to come near even to the entrance. My eye was directed to the ground.
+
+### Capítulo 15
+
+**15:1** (pt 15:1 · en 15:1)
+
+> **PT** E ele me correspondeu e me falou e eu ouvi sua voz: Não tema Enoque, homem justo, escriba de justiça; te aproxima e escuta minha voz.
+
+> **EN** Then turning himself to me, he spake and said, Hear and fear not, Oh righteous Enoch, thou scribe of righteousness, draw near hither, and hear my voice, Go say to the watchers of heaven, who have sent thee to pray for them, you ought to pray for men and not men for you.
+
+**15:2** (pt 15:2)
+
+> **PT** Vê e lhe diga aos Vigilantes do céu que lhe enviaram a suplicar por eles: A vós corresponde interceder pelos humanos e não aos humanos por vós.
+
+> **EN** —
+
+**15:3** (pt 15:3 · en 15:2)
+
+> **PT** Por que hão abandonando o céu alto, santo e eterno, haveis deitado com mulheres e profanado a vós mesmos com as filhas dos homens e tomado esposas como os filhos da terra e engendrastes filhos gigantes?
+
+> **EN** Wherefore have ye forsaken the exalted and holy heaven which remains for ever, and have laid with women, have polluted yourselves with the daughters of men, have taken to yourselves wives, have done like the sons of the earth and begotten a wicked offspring.
+
+**15:4** (pt 15:4 · en 15:3)
+
+> **PT** Vós que foram Santos espirituais vivendo uma vida eterna lho manchastes com o sangue das mulheres e engendrastes com o sangue da carne e como os filhos do homem desejastes depois carne e sangue como aqueles que morrem e perecem.
+
+> **EN** Ye who were spiritual, holy, and live a life which is eternal, have defiled yourselves with women, have begotten in carnal blood, have lusted in the blood of men, and have done like those of flesh and blood.
+
+**15:5** (pt 15:5 · en 15:5)
+
+> **PT** Por isso eu lhes dei mulheres para que as fecundem e engendrem filhos por elas e para que assim não faltem eles sobre a terra.
+
+> **EN** Therefore I have given unto them wives, that they might cohabit with them, that sons might be born of them, and that this might be done on earth.
+
+**15:6** (pt 15:6 · en 15:6)
+
+> **PT** Quanto a vós, foram primeiro espirituais, vivendo uma vida eterna, imortal por todas as gerações do mundo;
+
+> **EN** But you were made spirits from the beginning, and possess a life which is eternal, and are not subject to death for ever.
+
+**15:7** (pt 15:7 · en 15:7)
+
+> **PT** por isso não lhes atribuíram mulheres, pois a morada dos espíritos celestiais é o céu.
+
+> **EN** Therefore I made not wives for you, because ye are spiritual, and your dwelling was in heaven.
+
+**15:8** (pt 15:8 · en 15:8-15:9)
+
+> **PT** E agora, quão gigantes que nasceram dos espíritos e da carne, serão chamados na terra espíritos imundos e sobre a terra estará sua morada.
+
+> **EN** Now the giants who have been born of spirit and flesh, shall be called evil spirits on earth, and on earth shall be their abode, evil spirits shall come forth from their flesh, because they were created from above, their beginning and original foundation was from the holy watchers; they shall be evil spirits on earth, and they shall be called the spirits of the wicked; the habitation of the spirits of heaven shall be in heaven, but terrestrial spirits who are born on earth shall have their habitation on the earth. The spirits of the giants shall be like clouds, which shall oppress, corrupt, fall, quarrel, and wound on earth.
+
+**15:9** (pt 15:9)
+
+> **PT** Os espíritos maus procedem de seus corpos, porque nasceram dos humanos e dos Santos Vigilantes é seu começo e origem primitiva. Estarão os espíritos maus sobre a terra e serão chamados espíritos imundos.
+
+> **EN** —
+
+**15:10** (pt 15:10 · en 18:8 · transposto)
+
+> **PT** Os espíritos do céu têm sua casa no céu e os espíritos da terra que foram engendrados sobre a terra têm sua casa na terra.
+
+> **EN** I perceived at the end of the earth, the expanse of heaven above it; then I went on towards the south,
+
+**15:11** (pt 15:11)
+
+> **PT** E os espíritos dos gigantes, dos nefilim, que afligem, oprimem, invadem, combatem e destroem sobre a terra e causam penalidades, eles embora que não comem têm fome e sede e causam danos.
+
+> **EN** —
+
+**15:12** (pt 15:12 · en 15:10 · transposto)
+
+> **PT** Estes espíritos se levantarão contra os filhos dos homens e contra as mulheres porque deles procedem.
+
+> **EN** They shall cause lamentation, they shall eat no food, and they shall be thirsty, they shall be hidden, and shall not rise up against the sons of men and against women, for they shall come forth during the days of slaughter and destruction.
+
+### Capítulo 16
+
+**16:1** (pt 16:1 · en 16:1)
+
+> **PT** Depois da morte dos gigantes quando os espíritos sairão de seu corpo, sua carne será destruída antes do julgamento. Serão assim destruídos até o dia da grande consumação, do grande julgamento no qual o tempo terminará para os Vigilantes e ímpios e serão totalmente consumados.
+
+> **EN** And concerning the death of the giants, the Nephilim, and mighty of the earth, those famous chiefs, wheresoever their spirits may depart from their bodies, let that which in them is fleshly perish before the judgment, and thus they shall perish until the day of the great termination of the great world, for there shall be a destruction of the watchers and the ungodly.
+
+**16:2** (pt 16:2 · en 16:2)
+
+> **PT** E agora, aos Vigilantes, que lhe enviaram a suplicar por eles, que em outra época habitavam no céu, diga-lhes:
+
+> **EN** And now say to the watchers, who have sent thee to pray for them, who in the beginning were in heaven
+
+**16:3** (pt 16:3 · en 16:3-16:4)
+
+> **PT** Vós estavam no céu mas todos os mistérios não lhes tinham revelado. Não conhecestes a não ser um mistério indigno e no endurecimento de vosso coração o comunicastes às mulheres e por esse mistério elas e os homens multiplicaram o mal sobre a terra.
+
+> **EN** In heaven you have been, secret things indeed have not been revealed to you, but you have known a reprobated secret; And this you have related to women in the hardness of your heart, and by that secret, women and men have multiplied evils upon the earth.
+
+**16:4** (pt 16:4 · en 16:5)
+
+> **PT** Diga-lhes pois: Não terão paz.
+
+> **EN** Say to them, Therefore you never shall obtain peace.
+
+**16:5** (pt 16:5 · en 16:6)
+
+> **PT** E a respeito do monte sobre o qual juraram, e se anatematizaram um ao outro, para que não se apartem dele frio, nem neve, nem geada, nem orvalho, e o que desce sobre ele não desce a menos que seja amaldiçoado até o dia do grande julgamento, quando será queimado, será abatido e queimado e derretido como cera no fogo, e todas as suas obras serão destruídas pelo fogo.
+
+> **EN** And concerning the mount on which they swore, and anathematized themselves by one another, that to the end there shall not depart from it cold, and snow, and frost, and dew, and that which descends upon it shall not descend unless to a curse, until the day of the great judgment, at which time it shall be burned, it shall be made low, and it shall be burned and melted as wax from the fire, and all the works of it shall be destroyed by fire.
+
+**16:6** (pt 16:6 · en 16:7 · syncellus)
+
+> **PT** (E agora vos digo, filhos dos homens, que há grande ira contra vós e contra vossos filhos, e essa ira não cessará de vós até o tempo da matança de vossos filhos; e vosso amado perecerá, e aqueles que honras morrerão de toda a terra; porque todos os dias de suas vidas, a partir deste momento, não serão mais de cento e vinte anos, e não pensais que ainda deves viver mais anos: desta vez eles não terão como escapar, por causa da ira que se acendeu contra vocês no Rei de todas as Idades. Você não imagina que deve escapar desses julgamentos.)
+
+> **EN** (And now I say unto you, ye sons of men, that there is great wrath against you, and against your sons, and this wrath shall not cease from you until the time of the slaughter of your sons; and your beloved shall perish, and those you honour shall die from off the whole earth; For all the days of their life, from this time, shall be not more than an hundred and twenty years. And do not you think that you shall still live more years: for from this time they shall have no way of escaping, because of the wrath which is kindled against you in the King of all Ages. Do not you imagine that you shall escape these judgements.) excerpt*
+
+### Capítulo 17
+
+**17:1** (pt 17:1 · en 17:8)
+
+> **PT** Depois me levaram a um sítio cujos habitantes são como o fogo ardente, mas quando desejam aparecem como humanos.
+
+> **EN** They raised me upon high on a place, where there was the appearance of a burning fire, and when they pleased, they assumed the appearance of men.
+
+**17:2** (pt 17:2 · en 17:9)
+
+> **PT** Me levaram a casa da tempestade, sobre uma montanha cujo topo tocava o céu,
+
+> **EN** They carried me to a high place, to a mountain, the top of which reached to heaven.
+
+**17:3** (pt 17:3 · en 17:10)
+
+> **PT** e vi as mansões das luminárias e os tesouros das estrelas e do trovão, nas profundidades onde estão o arco de fogo, suas flechas e aljava, a espada ardente e todos os relâmpagos.
+
+> **EN** And I saw the receptacles of lightning and of thunder at the end of the place where it was deepest, there was a bow of fire, and arrows in their quiver, a sword of fire, and every sort of lightning.
+
+**17:4** (pt 17:4)
+
+> **PT** Logo me levaram até as águas viventes e até o fogo do ocidente, que recolheu todas as postas de sol.
+
+> **EN** —
+
+**17:5** (pt 17:5 · en 17:11)
+
+> **PT** Cheguei até um rio de fogo cujas chamas correm como água e desemboca no grande mar que está ao lado do poente;
+
+> **EN** They raised me on high to a splashing stream, and to a fire in the west, which received all the setting of the sun, I came to a river of fire which flowed like water, and emptied itself into the great sea towards the west.
+
+**17:6** (pt 17:6 · en 18:11 · transposto)
+
+> **PT** vi grandes rios e cheguei a um rio e uma grande escuridão e até onde nenhum ser carnal caminha;
+
+> **EN** And there I saw a place on the other side of an extended country, where waters were gathered.
+
+**17:7** (pt 17:7 · en 17:12 · transposto)
+
+> **PT** vi as montanhas das trevas de inverno e o sítio para onde fluem todas as águas do abismo;
+
+> **EN** I saw every large river until I came to the great darkness, I went to where all flesh go, and I saw the mountains of obscurity which produce winter, and the place from whence the water comes forth in every gulf.
+
+**17:8** (pt 17:8 · en 17:13)
+
+> **PT** e vi a desembocadura de todos os rios da terra e a desembocadura do abismo.
+
+> **EN** I also saw the mouths of all the rivers in the world and the mouths of the deep.
+
+### Capítulo 18
+
+**18:1** (pt 18:1 · en 18:1-18:2)
+
+> **PT** Vi os tesouros dos ventos e vi que com eles Ele adornou toda a criação e os alicerces da terra;
+
+> **EN** I then beheld the receptacles of all the winds, and perceived that in them were the embellishments of the whole creation, and the foundation of the earth. I beheld the stone corners of the earth.
+
+**18:2** (pt 18:2 · en 18:3)
+
+> **PT** e vi também o pilar da terra e os quatro ventos que sustentam a terra e o firmamento;
+
+> **EN** I also saw the four winds, which sustain the earth, and the firmament of heaven.
+
+**18:3** (pt 18:3 · en 18:5 · transposto)
+
+> **PT** vi como os ventos estendem o véu do céu no alto e como têm seu posto entre o céu e a terra: que são as colunas do céu;
+
+> **EN** Which arise in the midst of heaven and earth, and compose the pillars of heaven.
+
+**18:4** (pt 18:4 · en 18:4 · transposto)
+
+> **PT** vi os ventos que tornam o céu e conduzem o curso do sol e dos astros em suas estâncias;
+
+> **EN** And I saw the winds working in the height of heaven,
+
+**18:5** (pt 18:5 · en 18:6-18:7)
+
+> **PT** vi os ventos que sustentam as nuvens sobre a terra; vi os caminhos dos anjos; vi nos limites da terra o firmamento no alto.
+
+> **EN** I saw the winds which turn the sky, which cause the orb of the sun and all the stars to set, and above the earth, I saw the winds which bear up the clouds. * I saw the path of the angels.
+
+**18:6** (pt 18:6 · en 18:9)
+
+> **PT** Depois fui ao sul e vi um sítio que ardia dia e noite, aonde se encontravam sete montanhas de pedras preciosas, três do lado oriental e três do lado suis.
+
+> **EN** Where burnt both by day and night six mountains formed of glorious stones, three towards the east, and three towards the south.
+
+**18:7** (pt 18:7 · en 18:10)
+
+> **PT** Assim, entre as que estavam no oriente, uma era de pedra multicolorida, uma de pérolas, e a outra de pedras jacinto; e as que estavam no sul eram de pedra vermelha.
+
+> **EN** Those which were towards the east were of a variegated stone, one of which was like pearl, and another of antimony, and those towards the south were of a red stone, the middle one reached to heaven, like the throne of God, of alabaster, the top of which was of sapphire; I also saw a sparkling fire which was over all the mountains.
+
+**18:8** (pt 18:8 · en 18:11)
+
+> **PT** A do meio se elevava até o céu como o trono do Senhor e a parte alta do trono era de safira.
+
+> **EN** And there I saw a place on the other side of an extended country, where waters were gathered.
+
+**18:9** (pt 18:9 · en 18:12)
+
+> **PT** E vi um fogo ardente, e além dessas montanhas está uma região onde termina a grande terra, e aí culminam os céus.
+
+> **EN** I also saw earthly fountains deep in the fiery columns of heaven.
+
+**18:10** (pt 18:10)
+
+> **PT** Logo foi mostrado um profundo abismo, entre colunas de fogo celeste, e vi nele colunas de fogo que descendiam ao fundo e cuja altura e profundidade eram incomensuráveis.
+
+> **EN** —
+
+**18:11** (pt 18:11 · en 18:13)
+
+> **PT** E além deste abismo vi um sítio sobre o qual não se estendia o firmamento, sob o qual não havia tampouco alicerces da terra; sobre o que não havia nem água nem pássaros, mas sim era um lugar deserto e terrível.
+
+> **EN** And in the columns of heaven I saw fires which descended without number, but not on high, or into the deep, and over these fountains I perceived a place which had neither the expanse of heaven above it, or the solid ground beneath it, neither was the water above it, or aught on the side, but the place was a desert.
+
+**18:12** (pt 18:12 · en 18:14)
+
+> **PT** Ali vi sete estrelas parecidas com grandes montanhas, que ardiam, e quando perguntei sobre isto,
+
+> **EN** And there I saw seven stars like great flaming mountains, and like spirits praying to me.
+
+**18:13** (pt 18:13 · en 18:15)
+
+> **PT** O anjo me disse: Este sítio é o final do céu e da terra; chegou a ser a prisão das estrelas e dos poderes do céu.
+
+> **EN** Then the angel said, This place will be the prison of the stars, and of the hosts of heaven, until the termination of heaven and earth.
+
+**18:14** (pt 18:14 · en 18:16)
+
+> **PT** As estrelas que rodam sobre o fogo são as que transgrediram o mandamento do Senhor, do começo de sua ascensão, porque não chegaram ao seu devido tempo;
+
+> **EN** The stars which move over fire, are those who transgressed the commandment of the Lord before their time was come, for they came not in the right time, therefore he was angry with them, and bound until the time of the termination of their crimes in the secret year.
+
+**18:15** (pt 18:15 · en 19:1)
+
+> **PT** e Ele se irritou contra elas e as encadeou até o tempo da consumação de sua culpa, até dez mil anos.
+
+> **EN** Then Uriel said, Here the angels who cohabited with women appointed their leaders,
+
+### Capítulo 19
+
+**19:1** (pt 19:1 · en 19:2)
+
+> **PT** Depois Uriel me disse: Aqui estarão os Vigilantes que se conectaram com mulheres, e seus espíritos assumindo muitas diversas aparências se corromperam e desencaminharam aos humanos para que sacrifiquem a demónios e deuses, até o dia do grande julgamento, em que serão julgados e encontrarão seu fim.
+
+> **EN** And being numerous in appearance caused men to be wicked, and seduced them into errors, so that they sacrificed to devils as to gods, but in the great day there shall be a judgment, with which they shall be judged, until they are destroyed, and their wives also shall be judged, who led astray the angels of heaven that they might salute them.
+
+**19:2** (pt 19:2)
+
+> **PT** Quanto a suas mulheres, as que foram seduzidas pelos Vigilantes, tornarão-se sirenes.
+
+> **EN** —
+
+**19:3** (pt 19:3 · en 19:3 · transposto)
+
+> **PT** Eu Enoque, sozinho, vi a visão, os fins de todas as coisas e nenhum humano viu o que eu vi.
+
+> **EN** And I, Enoch, I alone saw the likeness of the end of all things, and no human being saw it as I saw it.
+
+### Capítulo 20
+
+**20:1** (pt 20:1)
+
+> **PT** Hei aqui os nomes dos Santos anjos que vigiam:
+
+> **EN** —
+
+**20:2** (pt 20:2 · en 17:2 · transposto)
+
+> **PT** Uriel, um dos Santos anjos, sobre o mundo e sobre tártaro; (anjo de trovão, sobre clamor e terror)
+
+> **EN** Uriel, one of the holy angels, who is appointed over alarm and terror.
+
+**20:3** (pt 20:3 · en 17:3)
+
+> **PT** Rafael, um dos Santos anjos, sobre os espíritos dos humanos;
+
+> **EN** Raphael, one of the holy angels, who is appointed over the souls of men.
+
+**20:4** (pt 20:4 · en 17:4)
+
+> **PT** Eaguel, um dos Santos anjos, que se vinga do mundo das luminárias;
+
+> **EN** Eaguel, one of the holy angels, who inflicts punishment on the world, and on the luminaries.
+
+**20:5** (pt 20:5 · en 17:5)
+
+> **PT** Miguel, um dos Santos anjos, encarregado da melhor parte do povo e sagacidade sobre caos;
+
+> **EN** Michael, one of the holy angels, who is placed over human virtue, rules the nation.
+
+**20:6** (pt 20:6 · en 17:6)
+
+> **PT** Sarakiel, um dos Santos anjos, sobre os espíritos que pecam no espírito;
+
+> **EN** Sarakiel, one of the holy angels, who is placed over the souls of the children of men that offend.
+
+**20:7** (pt 20:7 · en 17:7)
+
+> **PT** Gabriel, um dos Santos anjos, sobre o paraíso, as serpentes e os Querubins;
+
+> **EN** Gabriel, one of the holy angels, who is appointed over Ikisat, over Paradise, and over the cherubim; and Phanuel, one of the holy angels, who presides over repentance, and the hope of those who will inherit eternal life.
+
+**20:8** (pt 20:8 · en 20:6)
+
+> **PT** Remiel, um dos Santos anjos, ao que Deus encarregou sobre os que ressuscitam.
+
+> **EN** *
+
+### Capítulo 21
+
+**21:1** (pt 21:1 · en 20:7)
+
+> **PT** Depois voltei até onde tudo era caótico.
+
+> **EN** *
+
+**21:2** (pt 21:2 · en 21:1)
+
+> **PT** E lá vi algo horrível: não vi nem céu no alto nem terra firme fundamentada, a não ser um sítio informe e terrível.
+
+> **EN** Then I made a circuit to a place in which no thing was furnished.
+
+**21:3** (pt 21:3 · en 21:2)
+
+> **PT** Vi ali quatro estrelas do céu encadeadas que pareciam como grandes montanhas ardendo com fogo.
+
+> **EN** And there I saw neither the commanding work of a lofty heaven nor of a steadfast earth, but a waste place prepared and terrible. There also I saw in it seven stars of heaven bound together like great mountains, and like a flaming fire: I exclaimed, For what sort of crime have they been bound, and why have they been taken to this place. Then Uriel one of the holy angels who was with me and who conducted me, answered, Enoch, wherefore askest thou, wherefore reasonest thou with thyself, and anxiously searchest out? these are those of the stars who have transgressed the commandment of the most high God, and are here bound until the infinite number of the days of their crime be finished.
+
+**21:4** (pt 21:4)
+
+> **PT** Então perguntei: por que pecado estão encadeadas e por que motivo foram arrojadas para cá?
+
+> **EN** —
+
+**21:5** (pt 21:5 · en 21:3)
+
+> **PT** Uriel o Vigilante e o Santo que estava comigo e me guiava, disse-me: Enoque por que perguntas e te inquietas pela verdade?
+
+> **EN** *
+
+**21:6** (pt 21:6 · en 21:4)
+
+> **PT** Esta quantidade de estrelas dos céus são as que transgrediram o mandamento do Senhor e foram encadeadas aqui até que passem dez mil anos, o tempo imposto segundo seus pecados.
+
+> **EN** Afterwards I went further to another terrible place,
+
+**21:7** (pt 21:7 · en 21:5 · transposto)
+
+> **PT** De ali passei a outro lugar mais terrível que o anterior e vi algo horrível: havia lá um grande fogo ardendo e ondulando e o lugar tinha gretas até o abismo, cheias de colunas descendentes de fogo, mas não pude ver nem suas dimensões nem sua magnitude nem faria conjeturas.
+
+> **EN** Where I saw the activity of a great flaming and glittering fire, in the middle of which there was a separation, and fiery columns struggled together to the end of the gulf, and their declivity was deep, but I was not able to discover either its measure or magnitude, and I could not perceive its origin, then I exclaimed, How terrible is this place, and how difficult to search out.
+
+**21:8** (pt 21:8 · en 19:1 · transposto)
+
+> **PT** Então disse: Que espantoso e terrível é olhar a este lugar!
+
+> **EN** Then Uriel said, Here the angels who cohabited with women appointed their leaders,
+
+**21:9** (pt 21:9 · en 21:6)
+
+> **PT** Me respondendo, Uriel o Santo Vigilante que estava comigo, me disse: Enoque por que está tão atemorizado e espantado? Respondi-lhe: É por este lugar terrível e pelo espetáculo do sofrimento.
+
+> **EN** Uriel, one of the holy angels who was with me, answered and said, Enoch, why art thou frightened and amazed at this terrible place, at the sight of this place of suffering, he said, This is the prison of the angels, and here they are kept for ever.
+
+**21:10** (pt 21:10)
+
+> **PT** E ele me disse: Este sítio é a prisão dos anjos e aqui estarão prisioneiros por sempre.
+
+> **EN** —
+
+### Capítulo 22
+
+**22:1** (pt 22:1 · en 22:1)
+
+> **PT** De ali fui a outra parte, a ver no oeste outra montanha alta de rocha dura.
+
+> **EN** I passed on from there to another place, where I saw on the west a great and high mountain, a strong rock, and four pleasant places.
+
+**22:2** (pt 22:2 · en 22:2)
+
+> **PT** E havia aí quatro poços profundos, largos e muito lisos. Três deles eram escuros e um brilhante; e havia uma fonte de água no meio dele. E disse: Que lisos são estes lugares ocos e que profundos e escuros se vêem!
+
+> **EN** Internally it was deep, spacious, and very smooth, as smooth as it had been rolled over, it was both deep and dark to behold.
+
+**22:3** (pt 22:3 · en 22:3)
+
+> **PT** Nesse momento, Rafael o Santo Vigilante, que estava comigo, respondeu-me dizendo: Estas cavidades foram criadas com o seguinte propósito; para que os espíritos das almas dos mortos possam reunir-se e que todas as almas dos filhos dos homens se reúnam aí.
+
+> **EN** Then Raphael, one of the holy angels who were with me, answered and said, These are the pleasant places where the spirits, the souls of the dead will be gathered, for them they were prepared, and here will be gathered all the souls of the sons of men.
+
+**22:4** (pt 22:4 · en 22:4)
+
+> **PT** Estes lugares foram feitos para os receber até o dia em que sejam julgados, até o momento do grande julgamento que virá sobre eles.
+
+> **EN** They shall occupy these places in which they dwell until the day of judgment, and until their ap pointed time.
+
+**22:5** (pt 22:5 · en 22:5)
+
+> **PT** Vi ali ao espírito de um homem morto acusando, e seu lamento subia até o céu, gritando e acusando.
+
+> **EN** Their appointed time will be long, even until the great judgment. And I saw the spirits of the sons of men who were dead, and their voices reached to heaven while they accused.
+
+**22:6** (pt 22:6 · en 22:6)
+
+> **PT** Então perguntei a Rafael o Santo Vigilante, que estava comigo: De quem é este espírito que está acusando que se queixa de tal modo que sobe até o céu gritando e acusando?
+
+> **EN** Then I asked of Raphael, an angel who was with me, and said, Whose spirit is that, the voice of which reaches to heaven and accuses?
+
+**22:7** (pt 22:7 · en 22:7)
+
+> **PT** Me respondeu dizendo: Este é o espírito que saiu do Abel, a quem seu irmão Caín assassinou; ele o acusa até que sua semente seja eliminada da face da terra e sua semente desapareça da linhagem dos homens.
+
+> **EN** He answered and said, This is the spirit of Abel, who was slain by Cain his brother, and he will accuse him, until his seed be destroyed from the surface of the earth,
+
+**22:8** (pt 22:8 · en 22:8)
+
+> **PT** Então perguntei observando todos os poços: por que estão separados uns dos outros?
+
+> **EN** Until his seed perish from the seed of the human generation.
+
+**22:9** (pt 22:9 · en 22:9-22:10)
+
+> **PT** Me respondeu dizendo: Estes três foram feitos para que os espíritos dos mortos possam estar separados. E esta divisão foi feita para os espíritos dos justos, na qual brota a brilhante fonte de água.
+
+> **EN** Therefore at that time I enquired concerning him, and concerning the general judgment, and said, Wherefore is one divided from another? he answered, Three divisions have been made between the souls of the dead, and thus the spirits of the righteous have been divided, Namely, by a gulf, by water, and by light above it;
+
+**22:10** (pt 22:10 · en 22:11)
+
+> **PT** E esta foi tal feita para os pecadores quando morrem e são sepultados e não se executou julgamento contra eles na sua vida.
+
+> **EN** And in the same manner also sinners shall be divided when they die, and shall be buried in the earth, they whom judgment has not overtaken in their lifetime.
+
+**22:11** (pt 22:11 · en 22:12)
+
+> **PT** Aqui seus espíritos serão colocados à parte, para esta grande pena, até o dia do grande julgamento e castigo e tormento para sempre quem merece tal retribuição por seus espíritos.
+
+> **EN** Here their souls shall be divided, moreover their suffering is great until the time of the great judgment, the punishment and the torment of those who forever execrate, whose souls are punished and bound there for ever.
+
+**22:12** (pt 22:12 · en 22:13)
+
+> **PT** E esta divisão foi separada para quem apresenta sua queixa e denunciam sua destruição quando foram assassinados nos dias dos pecadores.
+
+> **EN** And so it has been from the beginning of the world, thus a division has there existed between the souls of those who bring forth complaints, and of those who watch for their destruction, to murder them in the day of sinners.
+
+**22:13** (pt 22:13 · en 22:14)
+
+> **PT** E esta foi feita para os espíritos dos homens que não serão justos mas pecadores, para todos os transgressores e os cúmplices da transgressão; que no dia do julgamento serão afligidos fora dali, mas não serão ressuscitados desde ali.
+
+> **EN** A receptacle of this sort has been made for the souls of ungodly men and of sinners, of those who have committed crimes, and joined with the impious, to whom they are like; but their souls shall not be destroyed in the day of judgment, nor shall they arise from this place. Then I praised God,
+
+**22:14** (pt 22:14 · en 22:15)
+
+> **PT** Então benzi ao Senhor de Majestade e disse: Bendito seja o juízo de justiça e bendito seja o Senhor da Gloria e Soberania que governa todas as coisas para a Eternidade.
+
+> **EN** And said, Praised be my Lord, the Lord of glory and of righteousness, who reigns over all for ever and ever.
+
+### Capítulo 23
+
+**23:1** (pt 23:1 · en 23:1)
+
+> **PT** De ali fui transportado a outro lugar ao ocidente, nas extremidades da terra;
+
+> **EN** I went from there to another place towards the west, unto the ends of the earth,
+
+**23:2** (pt 23:2 · en 23:2)
+
+> **PT** foi mostrado um fogo que corria sem descanso e sem interromper sua carreira nem de dia nem de noite, permanecendo constante, enquanto isso.
+
+> **EN** Where I saw a fire, flaming and running on without ceasing, which intermitted not its course either by day or by night, but continued always the same.
+
+**23:3** (pt 23:3)
+
+> **PT** Eu perguntei dizendo: O que é isto que não tem repouso algum?
+
+> **EN** —
+
+**23:4** (pt 23:4 · en 23:5)
+
+> **PT** Me respondeu Eaguel: A função deste fogo que corre para o ocidente é guiar a todas as luminárias do céu.
+
+> **EN** And said, This flaming fire which thou seest running towards the west, is that of all the lights of heaven.
+
+### Capítulo 24
+
+**24:1** (pt 24:1)
+
+> **PT** E me mostrou as montanhas: o chão entre elas era de fogo ardente e flamejava pelas noites.
+
+> **EN** —
+
+**24:2** (pt 24:2 · en 24:1)
+
+> **PT** Fui para lá e vi sete montanhas magníficas, diferentes entre si e de pedras preciosas e formosas e todas eram esplêndidas, de aparência gloriosa e belo aspecto: três pelo oriente, apoiadas uma contra a outra; e três pelo sul, uma sob a outra; e vi gargantas profundas e sinuosas, nenhuma das quais se unia às demais.
+
+> **EN** I went from there to another place and saw a mountain of fire flaming both by day and night, I went towards it, and beheld seven splendid mountains, which were all different from each other.
+
+**24:3** (pt 24:3 · en 24:2 · transposto)
+
+> **PT** A sétima montanha estava em meio de todas, as superando em altura à maneira de um trono, rodeada por árvores aromáticas,
+
+> **EN** Their stones were brilliant and beautiful, all were brilliant and splendid to behold, and their surface was beautiful. Three were towards the east, and strengthened by being placed one upon another, and three were towards the south, strengthened in a similar manner, and there were deep valleys, which did not come near one another, and the seventh mountain was in the midst of them. In position they were like the seat of a throne, and odoriferous trees surrounded them.
+
+**24:4** (pt 24:4)
+
+> **PT** entre os quais havia uma árvore cujo eu perfume não tinha cheirado nunca e não havia perfume similar entre estas nem entre outros árvores: exala uma fragrância superior a qualquer e suas folhas, flores e madeira não se secam nunca, seu fruto é formoso e se parece com as tâmaras das Palmas.
+
+> **EN** —
+
+**24:5** (pt 24:5 · en 23:3 · transposto)
+
+> **PT** Então disse: Que árvore tão formosa! É belo à vista, sua folhagem graciosa e seu fruto tem um aspecto muito agradável.
+
+> **EN** Then I enquired and said, What is this which never ceases?
+
+**24:6** (pt 24:6 · en 23:4, 24:3-24:4)
+
+> **PT** Então, Miguel o Vigilante e santo, que estava comigo e que estava encarregado dessas árvores, respondeu-me.
+
+> **EN** Then answered Eaguel, one of the holy angels who was with me, There was among them a tree of an unceasing smell, and there was none of all the sweet-scented trees which were in Eden like this in smell; for its leaf, its blossom, and its bark never withered, and its fruit was beautiful, Its fruit was like the clusters of the palm. I exclaimed, Behold, this tree is excellent in appearance, pleasant in its leaf, and the sight of its fruit is delightful to the eye. Then answered Michael, one of the holy and glorious angels who were with me, and who presided over them,
+
+### Capítulo 25
+
+**25:1** (pt 25:1 · en 24:5)
+
+> **PT** E ele me disse: Enoque, para que me pergunta pelo perfume dessa árvore e para que quer saber a verdade?
+
+> **EN** And said, Enoch, why enquirest thou concerning the odour of this tree?
+
+**25:2** (pt 25:2 · en 24:7)
+
+> **PT** Então, eu, Enoque, respondi-lhe assim: Desejo aprender de tudo, mas especialmente a respeito desta árvore.
+
+> **EN** Then I Enoch answered to him, and said, I am desirous of information concerning every thing, but particularly concerning this tree.
+
+**25:3** (pt 25:3 · en 24:8)
+
+> **PT** E ele me respondeu dizendo: Esta montanha alta que viu e cujo topo é como o trono de Deus, é seu trono, onde se sentará o Grande Santo, o Senhor de Glória, o Rei Eterno, quando descender a visitar a terra com bondade.
+
+> **EN** He answered me and said; That mountain which thou seest, whose head in extension is like the seat of the Lord, will be the seat on which the holy and great Lord of glory, the everlasting King, shall sit when he shall come and descend to visit the earth with goodness.
+
+**25:4** (pt 25:4 · en 24:9)
+
+> **PT** Não se permite que nenhum ser de carne toque esta árvore aromática, até o grande julgamento quando Ele se vingará de tudo e levará todas as coisas a sua consumação para sempre, mas então será dado aos justos e aos humildes.
+
+> **EN** And that tree of a pleasant smell, not one of carnal odour, they shall not be able to touch until the time of the great judgment, when all shall be punished and cast off for ever, this shall be appointed for the righteous and humble, and the fruit of this tree, the tree of life, shall be given to the elect; for towards the north, life shall be planted in the holy place, towards the habitation of the everlasting King.
+
+**25:5** (pt 25:5)
+
+> **PT** Seu fruto servirá como alimento aos escolhidos e será transplantado ao lugar santo, ao templo do Senhor, o Rei Eterno.
+
+> **EN** —
+
+**25:6** (pt 25:6 · en 24:10)
+
+> **PT** Então eles se regozijarão e estarão alegres; entrarão no lugar santo e a fragrância penetrará seus ossos; e eles viverão uma larga vida, tal e como a que seus antepassados viveram. Em seus dias não os tocará nenhum sofrimento nem praga nem tortura nem calamidade.
+
+> **EN** Then they shall greatly rejoice and triumph in the Holy One, the sweet odour shall enter into their bones, and they shall live a long life on earth as thy ancestors have lived; neither in their days shall sorrow, distress, trouble, and punishment afflict them.
+
+**25:7** (pt 25:7 · en 24:11)
+
+> **PT** Então benzi ao Deus da Glória, ao Rei Eterno, porque tinha preparado tais coisas para os humanos, para os justos. Estas coisas Ele as criou e prometeu as dar-lhe.
+
+> **EN** And I praised the Lord of glory, the everlasting King, because he has made this tree, prepared it for the saints, and declared that he would give it to them.
+
+### Capítulo 26
+
+**26:1** (pt 26:1)
+
+> **PT** Fui transladado de ali até o centro da terra e vi um lugar bendito no qual havia árvores cujos ramos brotavam permanentemente.
+
+> **EN** —
+
+**26:2** (pt 26:2 · en 25:1)
+
+> **PT** Ali foi mostrada uma montanha Santa e saía água de debaixo da montanha, do oriente e descendendo para o sul.
+
+> **EN** I went from thence to the middle of the earth, and saw a happy and fruitful land, in which branches continually germinated from the trees which were planted thereon; there I saw a holy mountain, and beneath it water on the eastern side, which flowed towards the south, I saw also on the east side another mountain as high as that, and there were deep but not wide valleys between them.
+
+**26:3** (pt 26:3 · en 25:2)
+
+> **PT** E vi o oriente outra montanha mais alta que aquela e entre elas um canhão profundo e estreito pelo que corria a água que saía da montanha.
+
+> **EN** Water ran towards the mountain to the west of this; and beneath them there was also another mountain.
+
+**26:4** (pt 26:4 · en 25:3)
+
+> **PT** E ao ocidente outra montanha, mais baixa que a anterior, pouco elevada, e por debaixo, entre as duas, um terreno baixo profundo e seca, e outro terreno baixo entre as três montanhas.
+
+> **EN** There was a valley but not wide below it, and in the midst of them there were other deep and dry valleys towards the ends of the three, and all these valleys which were deep, but not wide, consisted of a strong rock, and a tree which was planted on them, and I wondered at the rock and valleys, and was much surprised.
+
+**26:5** (pt 26:5)
+
+> **PT** Todas eram ravinas profundos de rocha dura e não havia árvores plantadas neles.
+
+> **EN** —
+
+**26:6** (pt 26:6)
+
+> **PT** Eu me maravilhava das montanhas e me assombrava dos ravinas, assombrava-me muito.
+
+> **EN** —
+
+### Capítulo 27
+
+**27:1** (pt 27:1 · en 26:1)
+
+> **PT** Então disse: por que esta terra está bendita e cheia de árvores e no meio estão estes ravinas malditos?
+
+> **EN** Then I said, What signifies this blessed land, all these lofty trees, and the accursed valley between them?
+
+**27:2** (pt 27:2 · en 26:2)
+
+> **PT** Então Uriel, o Vigilante e o santo, que estava comigo, respondeu-me e disse: Este ravina maldito é para aqueles que estão malditos para sempre; aí serão reunidos todos quão malditos com sua boca pronunciam palavras indecorosas contra o Senhor e ofendem sua Glória, aí serão reunidos e aí estará o lugar de seu julgamento.
+
+> **EN** Then Uriel, one of the holy angels who were with me, answered, This is the accursed valley of the accursed for ever. Here shall be gathered together all who with their mouths have spoken unseemly words against God, and have said disagreeable things of his glory: here they shall be gathered together, here shall be their land.
+
+**27:3** (pt 27:3 · en 26:3)
+
+> **PT** O os últimos tempos se executará sobre eles em justiça o espetáculo do julgamento, em presença dos justos para sempre; aí se manifestará a misericórdia e a bênção do Senhor de Glória e o Rei Eterno.
+
+> **EN** In the latter days, an example shall be made of them in the judgment of righteousness, before the Holy One, while those who have received mercy, shall for ever all their days praise God the everlasting King.
+
+**27:4** (pt 27:4 · en 26:4)
+
+> **PT** O dia do julgamento sobre os anteriores, eles lhe benzerão pela misericórdia que lhes reservou.
+
+> **EN** And at the time of the judgment they shall praise him for his mercy as he has given it to them. Then I praised God, and turned myself to him, and mentioned his greatness as it was right for me.
+
+**27:5** (pt 27:5)
+
+> **PT** Então eu benzi ao Senhor de Glória, promulguei sua Glória e elogiei sua grandeza.
+
+> **EN** —
+
+### Capítulo 28
+
+**28:1** (pt 28:1 · en 27:1)
+
+> **PT** Fui de ali para o oriente, em meio da cordilheira do deserto e vi o deserto: estava solitário e cheio de árvores e novelo;
+
+> **EN** I went from thence to the east, to the middle of the mountain, in the desert of which I only perceived the level surface.
+
+**28:2** (pt 28:2 · en 27:2)
+
+> **PT** brotava água de acima,
+
+> **EN** It was full of trees of the seed mentioned, and water ran down upon it.
+
+**28:3** (pt 28:3 · en 27:3)
+
+> **PT** atacando como um rio caudaloso que fluía para o noroeste levando a água e o rocio por todos lados.
+
+> **EN** There appeared a cataract composed as of many cataracts both towards the west, and towards the east; there were trees on one side; on the other, water and dew.
+
+### Capítulo 29
+
+**29:1** (pt 29:1 · en 28:1)
+
+> **PT** De ali fui a outro lugar no deserto e me afastei muito, para o oriente deste sítio.
+
+> **EN** Then I went to another mountain from the desert, towards the east of that mountain to which I was near,
+
+**29:2** (pt 29:2 · en 28:2)
+
+> **PT** Ali vi árvores silvestres que exsudavam perfumes de incenso e mirra e seus frutos são parecidos com as nozes.
+
+> **EN** There I saw trees of judgment, particularly those of the sweet smell of frankincense and myrrh.
+
+### Capítulo 30
+
+**30:1** (pt 30:1 · en 28:3-29:1)
+
+> **PT** E além deles, afastei-me muito ao oriente e vi outro grande lugar, com vales de muitas águas,
+
+> **EN** And over it above them was the elevation of the eastern mountain at small distance. I also saw another place with valleys of water which never diminished,
+
+**30:2** (pt 30:2 · en 29:2)
+
+> **PT** no que havia canos doces aromáticas semelhantes ao lentisco;
+
+> **EN** Where I perceived a beautiful tree which in smell was like Mastich.
+
+**30:3** (pt 30:3 · en 29:3)
+
+> **PT** e nas bordas destes vales vi o fragrante cinamomo. E além destes vales me afastei para o oriente.
+
+> **EN** And towards the sides of these valleys I perceived cinnamon of a sweet odour; over them I passed on towards the east.
+
+### Capítulo 31
+
+**31:1** (pt 31:1 · en 30:1)
+
+> **PT** Me foram mostradas outras montanhas e também nelas vi árvores dos quais saía a resina chamada Sarira e Kálboneba.
+
+> **EN** Then I saw another mountain containing trees, from which water flowed like neketro. Its name was Sarira, and Kalboneba, and upon this mountain I saw another mountain upon which were aloe-trees.
+
+**31:2** (pt 31:2)
+
+> **PT** Mais à frente tudas as árvores tudas as árvores estavam cheias de resina que era semelhante à casca da amendoeira.
+
+> **EN** —
+
+**31:3** (pt 31:3 · en 30:2)
+
+> **PT** Quando se quebra nestas árvores sai deles um aroma perfumado e quando se demolem as cascas são superiores a qualquer perfume.
+
+> **EN** These trees were full like almond trees, and when they brought forth fruit it was superior to all perfume.
+
+### Capítulo 32
+
+**32:1** (pt 32:1 · en 31:1)
+
+> **PT** além de tais montanhas, para o nordeste delas, foram-me mostradas outras montanhas, cheias de nardo escolhido, lentisco, cardamomo e pimenta.
+
+> **EN** After these things, I beheld the entrances of the north above the mountains, and perceived seven mountains filled with pure spikenard, odoriferous trees, cinnamon, and papyrus.
+
+**32:2** (pt 32:2 · en 31:2)
+
+> **PT** de ali continuei para o oriente de todas estas montanhas, longe delas, ao oriente da terra, fui levado por cima do mar Vermelho e me afastei muito dele, passei por cima da escuridão, longe dela;
+
+> **EN** From thence I went on above the tops of these mountains to some distance towards the east, and went over the Erythroean sea, and when I was advanced far beyond it, I went on above the angel Zateel, and came to the garden of righteousness, and in this garden I saw among other trees, some which were numerous and large, and which flourished there.
+
+**32:3** (pt 32:3 · en 31:3)
+
+> **PT** e fui levado a lado do Paraíso de Justiça, e me foram mostrados desde longe árvores nele, árvores numerosas em excesso e grandes, diferentes uns de outros. Vi ali uma árvore que era distinto de todos outros, muito grande, belo e magnífico, a árvore da sabedoria, os que comem de seu fruto aprendem grande sabedoria.
+
+> **EN** Their fragrance was good and strong, and their appearance was various and beautiful; the tree of knowledge also was there, and if any one eats of it he will obtain more wisdom.
+
+**32:4** (pt 32:4 · en 31:4)
+
+> **PT** A árvore é tão alta como um abeto, suas folhas se parecem com as do algarrobo e seu fruto é como um cacho de uvas, muito bonito; e a fragrância dessa árvore penetra até muito longe.
+
+> **EN** It was like a sort of the tamarind tree, and bare fruit like very fine grapes, and its fragrance extended to a considerable distance. I exclaimed, How beautiful is this tree, and how pleasant is its appearance.
+
+**32:5** (pt 32:5)
+
+> **PT** E eu disse: Que formoso é esta árvore e como atrai olhá-lo!
+
+> **EN** —
+
+**32:6** (pt 32:6 · en 31:5)
+
+> **PT** Remeiel o Vigilante e o santo, que estava comigo, respondeu-me e disse: É a árvore da sabedoria, do qual comeram seu primeiro pai e sua primeira mãe e aprenderam a sabedoria e seus olhos se abriram e compreenderam que estavam nus e foram expulsos do jardim do Éden.
+
+> **EN** Then answered Raphael, an angel who was with me, and said, This is the tree of knowledge of which thy ancient father, and thy aged mother ate, who were before thee, and who received knowledge, when their eyes were opened they saw that they were naked, but they were driven out of the garden.
+
+### Capítulo 33
+
+**33:1** (pt 33:1 · en 32:1)
+
+> **PT** De ali fui até os limites da terra e vi ali grandes bestas diferentes umas de outras e também pássaros que diferiam em seus aspectos, formosura e gorjeios.
+
+> **EN** From thence I passed on to the ends of the earth, where I saw large beasts different from each other, and birds different in their appearances and forms, as well as with notes of different sounds.
+
+**33:2** (pt 33:2 · en 32:2)
+
+> **PT** Ao oriente dessas bestas vi o final da terra, onde o céu descansa, e onde se abrem os portais do céu.
+
+> **EN** To the east of these beasts I perceived the ends of the earth where heaven ceased, the gates of heaven stood open, and I saw the celestial stars come forth. I numbered them as they came forth out of the gate, and wrote them all down as they came out one after another, according to their numbers, their names altogether, their times, and their years, as the angel Uriel who was with me, had shewn them to me.
+
+**33:3** (pt 33:3)
+
+> **PT** Vi como nascem as estrelas do céus e os portais dos que procedem e anotei as saídas de cada uma das estrela, segundo seu número, nome, curso e posição e segundo seu tempo e meses, segundo me mostrava isso Uriel, um dos Vigilantes.
+
+> **EN** —
+
+**33:4** (pt 33:4 · en 32:3-32:4)
+
+> **PT** E me mostrou e escreveu para mim tudo, inclusive escreveu para mim seus nomes de acordo com seus tempos.
+
+> **EN** He shewed them all to me, and wrote them down. He also wrote down for me their names, their regulations, and their operations.
+
+### Capítulo 34
+
+**34:1** (pt 34:1 · en 33:1-33:2)
+
+> **PT** De ali fui transportado à extremidade norte da terra e me foram mostradas grandes obra:
+
+> **EN** From there I passed on towards the north to the ends of the earth; And there I saw a great and glorious wonder at the ends of the whole earth.
+
+**34:2** (pt 34:2 · en 33:3)
+
+> **PT** Vi três portas do céu abertas; através de cada uma delas vêm os ventos do norte e quando sopram há frio, granizo, geada, neve, rocio e chuva.
+
+> **EN** There I saw heavenly gates opening into heaven, and three of them distinctly divided. The north winds came out from them, and blew cold, hail, frost, snow, dew, and rain.
+
+**34:3** (pt 34:3 · en 33:4)
+
+> **PT** Se saírem por uma só das portas, sopram para bem; mas quando sopram através das outras duas é com violência e calamidade sobre a terra pois sopram com força.
+
+> **EN** They blew mildly from one of the gates; but when they blew from the other two, it was with force and violence, they blew strongly over the earth.
+
+### Capítulo 35
+
+**35:1** (pt 35:1 · en 34:2)
+
+> **PT** E de ali fui até a extremidade ocidental da terra e vi três portas do céu abertas, o mesmo número de portas e saídas que tinha visto no oriente.
+
+> **EN** Where I perceived three gates open as I had seen in the north, the gates and passages through them were of the same extent.
+
+### Capítulo 36
+
+**36:1** (pt 36:1 · en 35:1)
+
+> **PT** De ali fui transportado à extremidade sul da terra e ali me foram mostradas suas três portas abertas do vento sul: para o rocio, a chuva e o vento.
+
+> **EN** Then I went to the ends of the earth towards the south, where I saw three gates open to the south, from which came forth dew, rain, and wind.
+
+**36:2** (pt 36:2 · en 35:2)
+
+> **PT** E de ali fui transportado ao limite oriental do céu e vi as três portas orientais abertas as três portas orientais do céu e ainda por cima delas umas portas pequenas
+
+> **EN** From there I went to the ends of heaven towards the east, where I saw three heavenly gates open to the east, which had lesser gates within them. Through each of these lesser gates the stars of heaven passed on, and went towards the west by a path which was seen by them, and that at every time.
+
+**36:3** (pt 36:3)
+
+> **PT** Por cada uma destas portas pequenas passam as estrelas do céu e correm pelo curso esboçado para elas para o ocidente.
+
+> **EN** —
+
+**36:4** (pt 36:4)
+
+> **PT** Ao ver isto benzi todo o tempo ao Senhor de Glória, e continuarei benzendo ao Senhor de Glória, que realizou grandes e magníficos prodígios para mostrar a grandeza de sua obra aos anjos, aos espíritos e aos humanos, para que eles possam elogiar essa obra, toda sua criação, para que possam ver a manifestação de seu poder e elogiem a grandiosa obra de suas mãos e lhe benzam por sempre.
+
+> **EN** —
+
+## Livro das Parábolas · Book of Parables (caps. 37–71)
+
+### Capítulo 37
+
+**37:1** (pt 37:1 · en 37:1)
+
+> **PT** A segunda visão que ele viu, visão de sabedoria, que viu Enoque, filho do Jared, filho do Mahalalel, filho do Kainan, filho do Enos, filho de Set, filho do Adão.
+
+> **EN** The vision which he saw, the second vision of wisdom, which Enoch saw, the son of Jared, the son of Malaleel, the son of Canan, the son of Enos, the son of Seth, the son of Adam. This is the beginning of the word of wisdom, which I obtained to proclaim and relate to them who dwell on earth. Hear from the beginning, and understand to the end, the holy things which I declare in the presence of the Lord of spirits. Those who were before held it for good to speak.
+
+**37:2** (pt 37:2)
+
+> **PT** Este é o começo das palavras soube o que fiz sair com minha voz, para lhe falar e lhe dizer aos habitantes da terra: Escutem homens de épocas passadas e do futuro, as palavras do santo que fala em presença do Senhor dos espíritos.
+
+> **EN** —
+
+**37:3** (pt 37:3)
+
+> **PT** Foi excelente as declarar aos homens de antigamente mas igualmente aos do futuro, não vamos negar lhes o princípio de sabedoria.
+
+> **EN** —
+
+**37:4** (pt 37:4 · en 37:2)
+
+> **PT** até agora tal sabedoria não foi dada pelo senhor dos espíritos, mas eu a recebi de acordo com meu discernimento e com o bom parecer do Senhor dos espíritos graças a quem me foi dada minha parte na vida eterna.
+
+> **EN** And let not us who come after, hinder the beginning of wisdom, for until the present time, there never has been given before the Lord of spirits, that which I have obtained, wisdom according to the ability of my understanding, and according to the pleasure of the Lord of spirits, that which has been given to me by him, a portion of eternal life.
+
+**37:5** (pt 37:5 · en 37:3)
+
+> **PT** Três parábolas me foram comunicadas já e eu elevei minha voz para as relatar a quem habita sobre a terra.
+
+> **EN** What I received, which was in three parables, I declared to the inhabitants of the world.
+
+### Capítulo 38
+
+**38:1** (pt 38:1 · en 38:1)
+
+> **PT** Primeira Parábola.- Quando aparecer a assembleia dos justos e os pecadores sejam julgados por seus pecados e expulsos da superfície da terra.
+
+> **EN** The first parable: When the assembly of the righteous shall be revealed, and sinners judged for their crimes, and be punished in the sight of the world;
+
+**38:2** (pt 38:2 · en 38:2)
+
+> **PT** quando o Justo se manifeste aos olhos dos justos, dos escolhidos cujas obras dependem do senhor dos espíritos; quando a luz brilhe para os justos e para quão escolhidos habitam sobre a terra: Onde estará então a morada dos pecadores? Onde estará o lugar de descanso de quem tem renegado do Senhor dos espíritos? Teria sido melhor para eles não ter nascido.
+
+> **EN** When righteousness shall be revealed in the presence of the righteous themselves, who will be chosen for the sake of their good works weighed by the Lord of spirits, and when the light of the righteous and the elect who dwell on earth shall be revealed, where will the habitation of sinners be, and where the place of peace for those who have forsaken the Lord of spirits, it would have been better for them if they never had been born.
+
+**38:3** (pt 38:3 · en 38:3)
+
+> **PT** Quando os mistérios dos justos sejam manifestos e os pecadores julgados e expulsos da presença dos justos e os escolhidos,
+
+> **EN** Also when the secrets of the righteous shall be disclosed, then sinners shall be judged, and ungodly men shall be grieved in the presence of the righteous and the elect.
+
+**38:4** (pt 38:4 · en 38:4)
+
+> **PT** desde esse momento os que dominam a terra não serão poderosos nem escolhidos por mais tempo nem poderão eles olhar à cara dos Santos, porque será a luz do Senhor dos espíritos a que brilhará sobre a cara dos Santos, dos justos, dos escolhidos.
+
+> **EN** From that time they who possess the earth shall not be mighty and elevated, nor shall they be able to behold the faces of the holy, for the light of the faces of the holy, the righteous, and the elect, has been seen by the Lord of spirits.
+
+**38:5** (pt 38:5 · en 38:5)
+
+> **PT** Então, os reis e os poderosos perecerão e serão entregues às mãos dos justos e dos Santos.
+
+> **EN** Yet the mighty kings of that time shall not be destroyed, but shall be given into the hands of the righteous and the holy.
+
+**38:6** (pt 38:6 · en 38:6)
+
+> **PT** E daí em adiante ninguém procurará para eles a misericórdia do Senhor dos espíritos porque sua vida encontrou seu final.
+
+> **EN** And from that time none shall obtain compassion from the Lord of spirits, because their lives in this world will be terminated.
+
+### Capítulo 39
+
+**39:1** (pt 39:1 · en 39:1)
+
+> **PT** E ocorrerá nesses dias que os filhos dos escolhidos e Santos descenderão do alto do céu e sua linhagem chegará a ser um com o dos filhos dos homens.
+
+> **EN** In those days the elect and holy generation shall descend from the higher heavens, and their seed shall then be with the sons of men. Enoch received books of indignation and wrath, and books of perplexity and commotion.
+
+**39:2** (pt 39:2 · en 39:2)
+
+> **PT** Enoque recebeu os livros do zelo e a ira e os livros da angústia e o desterro: Nunca mais obterão misericórdia, disse o Senhor dos espíritos.
+
+> **EN** The wicked shall never obtain mercy, saith the Lord of spirits.
+
+**39:3** (pt 39:3 · en 39:3)
+
+> **PT** E as nuvens me cobriram, e o vento me levantou da superfície da terra e me deixou no limite dos céus.
+
+> **EN** A cloud then took me up, and the wind raised me above the surface of the earth, and placed me at the end of the heavens.
+
+**39:4** (pt 39:4)
+
+> **PT** Ali tive outra visão: vi o lugar onde habitam os Santos e o lugar de descanso dos justos.
+
+> **EN** —
+
+**39:5** (pt 39:5 · en 39:4)
+
+> **PT** Aí contemplei com meus olhos as moradas em meio dos anjos de justiça e seus lugares de descanso entre os Santos. Enquanto suplicam e oram pelos filhos dos homens, a justiça brota entre eles como a água e a misericórdia se pulveriza sobre eles como o sobre o rocio sobre a terra, pelos séculos dos séculos.
+
+> **EN** There I saw another vision, the habitation and resting place of the saints; there my eyes saw their habitation with the angels, and their resting place with the holy ones. They entreated, supplicated, and prayed for the sons of men, while righteousness flowed before them like water, and mercy like dew over the earth, and so it is with them for ever and ever.
+
+**39:6** (pt 39:6 · en 39:5-39:6)
+
+> **PT** Nesse lugar com meus olhos vi o Eleito de Justiça e de Fé; a justiça prevalecerá em seus dias e os justos e os escolhidos serão inumeráveis ante ele pelos séculos dos séculos.
+
+> **EN** At that time I saw with my eyes the place of the elect, of faith, truth, and righteousness. The number of the holy and the elect shall be innumerable in the presence of God for ever and ever.
+
+**39:7** (pt 39:7 · en 39:7)
+
+> **PT** Vi sua morada sob as asas do Senhor dos espíritos; todos os justos e os escolhidos brilharão frente a ele como o resplendor do fogo; sua boca estará cheia de bênção; seus lábios glorificarão o nome do Senhor dos espíritos; e a justiça e a verdade não falharão ante ele.
+
+> **EN** I saw their habitation under the wings of the Lord of spirits, all the holy and the elect sung before him, in appearance like a flame of fire, their mouths were full of blessings, and their lips glorified the name of the Lord of spirits, and righteousness continually dwelt before him.
+
+**39:8** (pt 39:8 · en 39:8)
+
+> **PT** Eu desejava viver ali e meu espírito desejava essa morada: essa era desde antes minha herança, tal e como tinha sido estabelecida para mim ante o Senhor dos espíritos.
+
+> **EN** There I wished to remain, and my soul longed for that habitation, there was my portion before, for so it was appointed for me by theLord of spirits.
+
+**39:9** (pt 39:9 · en 39:9)
+
+> **PT** Nesses dias elogiei e louvei o nome do Senhor dos espíritos com bênções e louvores porque Ele me destinou para a bênção e a glória de acordo com o bom parecer do Senhor dos espíritos.
+
+> **EN** At that time I glorified and exalted the name of the Lord of spirits with blessing and with praise, for he has appointed it with blessing and with praise according to his own will.
+
+**39:10** (pt 39:10 · en 39:10)
+
+> **PT** Por muito tempo meus olhos observaram esse lugar e o benzi a Ele e o louvei dizendo: Bendito é Ele e bendito seja desde o começo e para sempre.
+
+> **EN** My eyes a long time beheld that place, I praised and said, Praised be he, praised from the beginning for ever. In the beginning before the world was created, and without end is his knowledge,
+
+**39:11** (pt 39:11 · en 39:11)
+
+> **PT** Ante Ele não há renúncia; Ele sabe desde antes de que o mundo fora criado o que é para sempre e o que será de geração em geração.
+
+> **EN** What is this world? They who sleep not of every existing generation shall praise you, and stand before your glory, praising, glorifying, and exalting you, and saying, The holy, holy, Lord of spirits fills the whole world of spirits.
+
+**39:12** (pt 39:12)
+
+> **PT** Aqueles que não dormem benzem; eles estão ante sua Glória e benzem, elogiam e louvam dizendo: Santo, Santo, santo é o Senhor dos espíritos, Ele enche a terra com espíritos.
+
+> **EN** —
+
+**39:13** (pt 39:13 · en 39:12)
+
+> **PT** Meus olhos viram lá a todos aqueles que não dormem, benzendo e dizendo: Bendito você seja e bendito seja o nome do Senhor dos espíritos pelos séculos dos séculos.
+
+> **EN** There my eyes saw all who without sleeping stand before him and praise him, and say, Praised be you, and praised be the name of God for ever and ever, then my countenance became altered, until I was unable to see.
+
+**39:14** (pt 39:14)
+
+> **PT** Meu rosto foi trocado e não podia sustentar o olhar.
+
+> **EN** —
+
+### Capítulo 40
+
+**40:1** (pt 40:1 · en 40:1)
+
+> **PT** depois disso vi milhares de milhares e miríades, vi uma multidão inumerável e incalculável, que se sustenta ante o Senhor dos espíritos.
+
+> **EN** After this I saw thousands of thousands, and myriads of myriads, and an infinite number of people stand before the Lord of spirits.
+
+**40:2** (pt 40:2 · en 40:2)
+
+> **PT** E sobre os quatro custados do Senhor dos espíritos vi quatro presenças diferentes daqueles que não dormem e aprendi seus nomes porque o anjo que vai comigo me deu isso a conhecer e me mostrou todas as coisas ocultas.
+
+> **EN** On the four wings also of the Lord of spirits on the four sides, I perceived others, besides those who stood before him. Their names also I know, because the angel who went with me explained them all to me, and discovered to me every secret.
+
+**40:3** (pt 40:3 · en 40:3)
+
+> **PT** E escutei as vozes dessas quatro presenças e como elas pronunciam louvores ante o Senhor da Glória.
+
+> **EN** Then I heard the voices of those on the four sides praising the Lord of glory.
+
+**40:4** (pt 40:4 · en 40:4)
+
+> **PT** A primeira voz benze ao Senhor dos espíritos pelos séculos dos séculos.
+
+> **EN** The first voice praised the Lord of spirits for ever and ever.
+
+**40:5** (pt 40:5 · en 40:5)
+
+> **PT** À segunda voz a escutei benzendo Eleito e a quão escolhidos dependem do Senhor dos espíritos.
+
+> **EN** I heard the second voice praising the Elect One, and the elect who suffer for the sake of the Lord of spirits.
+
+**40:6** (pt 40:6 · en 40:6)
+
+> **PT** À terceira voz a ouvi orar e interceder pelos que vivem sobre a terra e suplicar em nome do Senhor dos espíritos.
+
+> **EN** I heard the third voice petitioning and praying for them who dwell on earth, and supplicate the name of the Lord of spirits.
+
+**40:7** (pt 40:7 · en 40:7)
+
+> **PT** E escutei a quarta voz expulsando aos Satãs e impedindo que cheguem até o Senhor dos espíritos a acusar a Ele quem vive na terra.
+
+> **EN** I heard the fourth voice driving out the evil angels, and preventing them from entering into the presence of the Lord of spirits, to bring forth complaints against the inhabitants of the earth.
+
+**40:8** (pt 40:8 · en 40:8)
+
+> **PT** depois disso perguntei ao anjo de paz que ia comigo e me mostrava todas as coisas que estão ocultas: Quais são essas quatro presenças que vi e cujas palavras ouvi e escrito abaixo?
+
+> **EN** After this, I desired the angel of peace, who went with me to declare all that was concealed, I said to him, Who are these on the four sides, whom I have seen, and whose words I have heard, and written down? He answered, The first is the merciful, the patient, the holy Michael;
+
+**40:9** (pt 40:9 · en 40:9)
+
+> **PT** Me disse: O primeiro, muito misericordioso e longânimo, é Miguel; o segundo, que está sobre os sofrimentos e de todas as aflições dos filhos dos homens, é Rafael; o terceiro, que está sobre todas as virtudes, é Gabriel; o quarto, que está sobre o arrependimento, e a esperança de quem herdará a vida eterna, é chamado Fénuel.
+
+> **EN** The second is he who is over every suffering and every wound of the sons of men, the holy Raphael; the third who is over all that is powerful, is Gabriel; and the fourth, who is over repentance, and the hope of those who will inherit eternal life, is Phanuel. These are the four angels of the most high God, and their four voices which I heard at that time.
+
+**40:10** (pt 40:10)
+
+> **PT** Estes são os quatro anjos do Senhor dos espíritos e as quatro vozes que escutei esses dias.
+
+> **EN** —
+
+### Capítulo 41
+
+**41:1** (pt 41:1)
+
+> **PT** Depois vi todos os mistérios dos céus e como o reino está dividido e como as ações dos humanos são pesadas na balança.
+
+> **EN** —
+
+**41:2** (pt 41:2 · en 41:1)
+
+> **PT** Ali vi a habitação dos escolhidos e a morada dos Santos e meus olhos viram os pecadores quando eram expulsos dali porque rechaçaram o nome do Senhor dos espíritos e não podiam ficar por causa do castigo que procede do Senhor dos espíritos.
+
+> **EN** After this I saw the secrets of the heavens, and of the heavenly kingdom according to its divisions, and of the work of men as they weigh it there in balances; I saw the habitations of the elect, and the habitations of the holy; and then my eyes saw all the sinners who denied the Lord of glory, and whom they were driving out thence, and dragging them away, because punishment was not gone forth against them from the Lord of spirits.
+
+**41:3** (pt 41:3 · en 41:2)
+
+> **PT** Ali meus olhos viram os mistérios do relâmpago e do trovão; e os segredos dos ventos e como se distribuem para soprar sobre a terra; e os segredos das nuvens e o rocio, de onde procedem nesse lugar e desde onde saturam o poeira.
+
+> **EN** There also my eyes saw the secrets of the lightning and the thunder, and the secrets of the winds, how they are divided when they blow over the earth, the secrets of the winds, of the dew, and of the clouds; there I perceived the place from which they came forth, and were filled with the dust of the earth.
+
+**41:4** (pt 41:4 · en 41:3)
+
+> **PT** Ali vi as câmaras fechadas de onde são distribuídos os ventos, o depósito do granizo e do vento, o depósito da neblina e as nuvens que revoam sobre a terra do começo do mundo.
+
+> **EN** There I saw the closed receptacles, out of which the winds were divided, the receptacle of hail, the receptacle of snow, the receptacle of the clouds, and the cloud which remained in suspense over the the earth before the world.
+
+**41:5** (pt 41:5 · en 41:4)
+
+> **PT** E vi as câmaras do sol e da lua, de onde procedem e para onde retornam, e seu maravilhoso retorno; como um é superior à outra; seu magnífico curso e como não se afastam dele e mantêm fielmente o juramento que têm feito um a outro.
+
+> **EN** I also saw the receptacles of the moon, from whence they came, whither they run, their glorious return, and how one became more splendid than another, their magnificent course, their unchangeable course, their divided and undiminished course, their observance of a mutual fidelity by a decree to which they adhered, their going forth before the sun, and their attachment to their path in obedience to the command of the Lord of spirits, whose name is powerful for ever and ever.
+
+**41:6** (pt 41:6)
+
+> **PT** O sol sai primeiro e segue sua rota segundo o mandamento do Senhor dos espíritos, cujo nome é Omnipotente pelos séculos dos séculos.
+
+> **EN** —
+
+**41:7** (pt 41:7 · en 41:5)
+
+> **PT** E depois disso vi o caminho oculto da lua e o visível e ela cumpre o percurso de seu caminho nesse lugar de dia e de noite; e um mantém uma posição oposta ao outro, ante o Senhor dos espíritos. Eles dão graças e louvor sem descanso, porque para eles é o seu descanso.
+
+> **EN** After this, both the concealed and visible path of the moon, as well as the progress of its path was there finished by day and by night, while each, one with another, looking toward the Lord of spirits, exalting and extolling without ceasing, since praise to them is rest; for in the splendid sun there is a frequent changing to blessing and to execration.
+
+**41:8** (pt 41:8 · en 41:6)
+
+> **PT** O sol gira frequentemente para benzer, ou para amaldiçoar e o percurso da rota da lua é bênção para os justos e trevas para os pecadores, no nome do Senhor, que separou a luz das trevas, repartiu os espíritos dos humanos e fortaleceu os espíritos dos justos em nome de sua justiça.
+
+> **EN** The course of the path of the moon is light to the righteous, but darkness to sinners, in the name of the Lord of spirits, who created between light and darkness, and divided the spirits of men, and strengthened the spirits of the righteous in the name of his own righteousness.
+
+**41:9** (pt 41:9 · en 41:7)
+
+> **PT** Porque nenhum anjo o impede e nenhum poder é capaz de impedi-lo, porque Ele cita um julgamento para todos eles e os julga a todos ante Ele.
+
+> **EN** And the angel comes not before this, and he is not endowed with power to come before it, for the judge beholds them all, and judges them all himself in his own presence.
+
+### Capítulo 42
+
+**42:1** (pt 42:1 · en 42:1)
+
+> **PT** A Sabedoria não encontra um lugar onde possa habitar, então sua casa está nos céus.
+
+> **EN** Wisdom found no place on earth where she could dwell, therefore her dwelling is in heaven.
+
+**42:2** (pt 42:2 · en 42:2)
+
+> **PT** A Sabedoria foi habitar entre os filhos dos homens e não encontrou sítio. Então a Sabedoria retornou a seu lar e tomou sua cadeira entre os anjos.
+
+> **EN** Wisdom walked forth to dwell among the sons of men, but she received no habitation. Wisdom turned back to her place, and seated herself in the middle of the angels; but wickedness walked forth after her return, who without will found a dwelling, and dwelt among them as rain in the desert, and as dew in a thirsty land.
+
+**42:3** (pt 42:3)
+
+> **PT** E a injustiça saiu que suas covas, encontrou aos que não procuravam e habitou entre eles, como a chuva no deserto e como o rocio sobre a terra sedenta.
+
+> **EN** —
+
+### Capítulo 43
+
+**43:1** (pt 43:1)
+
+> **PT** Depois vi outros relâmpagos e estrelas do céu e vi como Ele as chamava por seus nomes e elas lhe punham atenção.
+
+> **EN** —
+
+**43:2** (pt 43:2 · en 43:1)
+
+> **PT** E vi como elas eram pesadas em balanças justas, de acordo com sua luminosidade, suas dimensões e o dia de sua aparição e como seu movimento gera relâmpagos; e vi seu curso de acordo com o número dos anjos e como se guardam fidelidade entre elas.
+
+> **EN** I beheld another splendour, and the stars of heaven. I remarked that he called them all by their individual names, and that they heard. I saw that he weighed out in a righteous balance with their light, the extent of their places, and the day of their appearance and their conversion, splendour brought forth splendour, and their conversion was into the number of the angels and of the faithful.
+
+**43:3** (pt 43:3)
+
+> **PT** Lhe perguntei ao anjo que ia comigo e me mostrou os que estava oculto: O que é isso?
+
+> **EN** —
+
+**43:4** (pt 43:4 · en 43:2)
+
+> **PT** Me disse: O Senhor dos espíritos te mostrou sua parábola; estes são os nomes dos Santos que vivem sobre a terra e acreditam no Senhor dos espíritos pelos séculos dos séculos.
+
+> **EN** Then I enquired of the angel who went with me, and expounded to me secret things, what they were, he answered, The Lord of spirits has shewn thee a likeness of these, they are the names of the righteous who dwell on earth, and who believe on the name of the Lord of spirits for ever and ever.
+
+### Capítulo 44
+
+**44:1** (pt 44:1 · en 44:1)
+
+> **PT** Vi também outros fenómenos relativos aos relâmpagos: como algumas estrelas surgem, chegam a ser relâmpagos e não podem abandonar sua nova forma.
+
+> **EN** I also saw another thing in regard to splendour, that it rises out of the stars and becomes splendour, being unable to leave them.
+
+### Capítulo 45
+
+**45:1** (pt 45:1 · en 45:1)
+
+> **PT** Esta é a segunda parábola, a respeito de quem rechaça a comunidade dos Santos e ao Senhor dos espíritos.
+
+> **EN** The second parable concerning those who deny the name of the habitation of the holy ones, and the name of the Lord of spirits.
+
+**45:2** (pt 45:2 · en 45:2)
+
+> **PT** Eles não subirão ao interior do céu nem voltarão para a terra, tal será a sorte quão pecadores renegaram que nome do Senhor dos espíritos a quem você reservaste para o dia do sofrimento e a tribulação.
+
+> **EN** They shall not ascend the renewed heaven, and they shall not come on the renewed earth; this shall be the portion of sinners who deny the name of the Lord of spirits, and are thus reserved for the day of punishment and torment.
+
+**45:3** (pt 45:3 · en 45:3)
+
+> **PT** Neste meu dia Eleito se sentará sobre o trono de glória e julgará suas obras; seus sítios de descanso serão inumeráveis e dentro deles seus espíritos se fortalecerão quando virem a meu Eleito e a aqueles que apelaram a meu nome glorioso.
+
+> **EN** In that day the Elect One shall sit on a throne of glory, and shall appoint their conditions and countless habitations; and when they behold my Elect One, the spirits of those shall be strengthened, who have fled for protection to my holy and glorious name.
+
+**45:4** (pt 45:4 · en 45:4)
+
+> **PT** Então, farei que meu Eleito habite entre eles; transformarei o céu e o converterei em bênção e luz eternas;
+
+> **EN** In that day, I will cause my Elect One to dwell in the midst of them, will renew heaven, will bless it, and enlighten it for ever.
+
+**45:5** (pt 45:5)
+
+> **PT** transformarei a terra e farei que meus escolhidos a habitem, mas os pecadores e os malvados não porão os pés ali.
+
+> **EN** —
+
+**45:6** (pt 45:6 · en 45:5)
+
+> **PT** Porque abasteci e satisfeito com paz a meus justos e os tenho feito viver ante mim; mas o juízo dos pecadores é iminente, de maneira que os destruirei na face da terra.
+
+> **EN** I also will renew the earth, will bless it, and will cause those whom I have chosen to dwell upon it, but they who have committed sin and wickedness shall not walk upon it, for I have seen them, I will satisfy my righteous ones with peace, and place them before me, but the condemnation of sinners shall draw near, that I may destroy them from the face of the earth.
+
+### Capítulo 46
+
+**46:1** (pt 46:1)
+
+> **PT** Ali vi alguém que tinha uma Cabeça dos Dias e sua cabeça era branca como lã; com Ele havia outro, cuja figura tinha a aparência de um homem e sua cara era cheia de graça como a dos Santos anjos.
+
+> **EN** —
+
+**46:2** (pt 46:2 · en 46:1)
+
+> **PT** Lhe perguntei ao anjo que ia comigo e que me mostrava todas as coisas secretas com respeito a este Filho do Homem: Quem é este, de onde vem e por que vai com a Cabeça dos Dias?
+
+> **EN** There I saw the Creator of days, whose head was like white wool, and another was with him, whose face was like that of men, and his countenance was full of grace, like one of the holy angels. Then I enquired of one of the holy angels, who went with me, and who shewed me every secret thing respecting the Son of man, who he was, whence he was, and why he accompanied the Creator of days.
+
+**46:3** (pt 46:3 · en 46:2)
+
+> **PT** Me respondeu e me disse: Este é o Filho do Homem, que possui a justiça e com quem vive a justiça e que revelará todos os tesouros ocultos, porque o Senhor dos espíritos o escolheu e tem como destino a maior dignidade ante o Senhor dos espíritos, justamente e por sempre.
+
+> **EN** He answered and said to me, This is the Son of man, who is righteousness, with whom righteousness has dwelt, and who will reveal all the treasures of that which is concealed for the Lord of spirits has chosen him, and his portion has conquered all before the Lord of spirits in everlasting righteousness.
+
+**46:4** (pt 46:4 · en 46:3)
+
+> **PT** O Filho do Homem que viu, levantará os reis e aos poderosos de seus leitos e aos fortes de seus tronos; desatará os freios dos fortes e lhes partirá os dentes aos pecadores;
+
+> **EN** This Son of man whom thou beholdest shall raise up kings, and the mighty from their conches, and the powerful from their thrones, shall loosen the bridles of the mighty, and break in pieces the teeth of sinners
+
+**46:5** (pt 46:5)
+
+> **PT** derrocará aos reis de seus tronos e reino, porque eles não o elogiaram e lhe louvaram nem reconheceram humildemente de onde foi outorgada a realeza.
+
+> **EN** —
+
+**46:6** (pt 46:6 · en 46:4)
+
+> **PT** Trocará-lhe a cara aos fortes enchendo os de temor; as trevas serão sua morada e os vermes sua cama, e não terão esperança de levantar-se dessa cama, porque não exaltaram o nome do Senhor dos espíritos.
+
+> **EN** He shall drive kings from their thrones, and their dominions, because they will not exalt and praise him, nor humble themselves before him, by whom their kingdoms were bestowed upon them, and he will cast down the countenances of the mighty, and fill them with confusion, for their habitation shall be darkness, and their bed worms, and they shall never again expect to be raised from that bed, because they exalted not the name of the Lord of spirits.
+
+**46:7** (pt 46:7 · en 46:5)
+
+> **PT** Estes que julgam às estrelas do céu, que levantam suas mãos contra o Altíssimo, que oprimem a terra e habitam sobre ela, cujas ações expressam todas injustiça, cujo poder reside em sua riqueza, cuja confiança está posta nos deuses que eles têm feito com suas mãos: eles negam o nome do Senhor dos espíritos;
+
+> **EN** They shall disdain the stars of heaven, shall lift up their hands against the most High, shall tread upon and inhabit the earth, while they shew forth all their works of wickedness, even all their works of wickedness, and their strength shall be in their riches and their faith in the gods which they have made with their own hands, and they shall deny the name of the Lord of spirits, and shall drive him out of the temples in which they assemble,
+
+**46:8** (pt 46:8 · en 46:6)
+
+> **PT** eles perseguem suas congregações e aos fiéis, a quem condena em nome do Senhor dos espíritos.
+
+> **EN** And with him the faithful who suffer in the name of the Lord of spirits.
+
+### Capítulo 47
+
+**47:1** (pt 47:1 · en 47:1)
+
+> **PT** Nesses dias a oração dos justos e o sangue dos justos terão subido da terra, até o Senhor dos espíritos.
+
+> **EN** In that day, the prayer of the holy and righteous, and the blood of the righteous, shall ascend from the earth into the presence of the Lord of spirits.
+
+**47:2** (pt 47:2 · en 47:2)
+
+> **PT** Em tais dias os Santos que habitam no alto dos céus se unirão em uma só voz: suplicarão, orarão, elogiarão, darão obrigado e benzerão o nome do Senhor dos espíritos, em nome do sangue de quão justos foi derramada e para que a oração dos justos não seja em vão ante o Senhor dos espíritos, faça-se justiça e sua paciência não seja eterna.
+
+> **EN** The holy ones who dwell above the heavens shall assemble in that day, and with united voice petition, supplicate, praise, laud, and glorify the name of the Lord of spirits, on account of the blood of the righteous which has been shed, that the prayer of the righteous may not be interrupted before the Lord of spirits, that for their sake he would execute judgment, and that his patience may not endure for ever.
+
+**47:3** (pt 47:3 · en 47:3)
+
+> **PT** Nesses tempos vi a Cabeça dos Dias quando se sentou no trono de sua glória e os livros dos vivos foram abertos ante Ele. Todas suas hostes que habitam no alto do céu e seu corte estavam ante Ele.
+
+> **EN** At that time, I saw the Creator of days, while he sat upon the throne of his glory, the book of the living was opened in his presence, and all the powers which were in the heavens stood around and before him.
+
+**47:4** (pt 47:4 · en 47:4)
+
+> **PT** E o coração dos Santos se encheu de alegria, porque o número dos justos foi estabelecido, a oração dos justos foi escutada e o sangue dos justo foi denunciada ante o Senhor dos espíritos.
+
+> **EN** Then the hearts of the saints were full of joy, because the accomplishment of righteousness was come, the supplication of the saints heard, and the blood of the righteous esteemed by the Lord of spirits.
+
+### Capítulo 48
+
+**48:1** (pt 48:1 · en 48:1)
+
+> **PT** Nesse lugar vi a fonte da justiça, a qual era inesgotável, e a seu redor havia muitas fontes de sabedoria, todos os sedentos bebiam delas e se enchiam de sabedoria e habitavam com os Santos, os justos e os escolhidos.
+
+> **EN** In that place I saw a fountain of righteousness, which had no scarcity, surrounded by many springs of wisdom, and of these all the thirsty drank, and were filled with wisdom, and had their dwelling with the righteous, the Elect, and the Holy One.
+
+**48:2** (pt 48:2 · en 48:2)
+
+> **PT** Nesse momento esse Filho do Homem foi renomado em presença do Senhor dos espíritos e seu nome ante a Cabeça dos Dias.
+
+> **EN** In that hour this Son of man was invoked before the Lord of spirits, and his name in the presence of the Creator of days.
+
+**48:3** (pt 48:3 · en 48:3)
+
+> **PT** Já antes de que o sol e os signos fossem criados, antes de que as estrelas do céu fossem feitas, seu nome foi pronunciado ante o Senhor dos espíritos.
+
+> **EN** Before the sun and the signs were created, before the stars of heaven were formed, his name was invoked in the presence of the Lord of spirits. He shall be a support for the righteous and holy to lean upon without falling, and he shall be the light of nations.
+
+**48:4** (pt 48:4)
+
+> **PT** Ele será para os justos um fortificação no que possam apoiar-se e não cair; será luz para as nações e esperança para os que sofrem.
+
+> **EN** —
+
+**48:5** (pt 48:5 · en 48:4)
+
+> **PT** Todos os que habitam sobre a terra se prosternarão e o adorarão; elogiarão, benzerão e celebrarão com canções ao Senhor dos espíritos.
+
+> **EN** He shall be the hope of those whose hearts are in trouble. All who dwell on earth shall fall down and worship before him, shall praise and glorify him, and sing hymns of praise to the name of the Lord of spirits.
+
+**48:6** (pt 48:6 · en 48:5)
+
+> **PT** Por tal razão foi ele Eleito e reservado ante Ele, desde antes da criação do mundo e para sempre.
+
+> **EN** Therefore the Elect and the Concealed One existed in his presence, before the world was created and for ever.
+
+**48:7** (pt 48:7 · en 48:6)
+
+> **PT** A sabedoria do Senhor dos espíritos o revelou aos Santos e aos justos, porque Ele preservou o destino dos justos, porque eles odiaram e desprezou a este mundo de injustiça e odiaram todas suas obras e caminhos, no nome do Senhor dos espíritos, porque por seu nome serão salvos eles e Ele vingará suas vidas.
+
+> **EN** And in his presence he has revealed to the saints and to the righteous the wisdom of the Lord of spirits, for he has preserved the lot of the righteous, because they have hated, and forsaken this world of wickedness, and have abhorred all its works and ways in the name of the Lord of spirits.
+
+**48:8** (pt 48:8 · en 48:7-48:8)
+
+> **PT** Nestes dias os reis da terra e quão poderosos dominam a terra terão o rosto abatido por causa da obra de suas mãos, porque do dia da sua angústia e aflição não se salvarão.
+
+> **EN** For in his name they shall be saved, and his will shall be their life. In those days the kings of the earth, and the mighty men who have gained the world by the work of their hands, shall be lowly in appearance. For in the day of their anguish and commotion, their souls shall not be saved, and they shall be in the hands of those whom I have chosen.
+
+**48:9** (pt 48:9 · en 48:9)
+
+> **PT** Os entregarei nas mãos de meus escolhidos, como a palha no fogo arderão frente a cara dos Santos e como o chumbo na água serão afundados frente à cara dos justos, e não se encontrará mais rastro deles.
+
+> **EN** I will cast them like hay into the fire, and like lead into the water, thus they shall burn in the presence of the righteous, and sink in the presence of the holy, and a tenth part of them shall not be found.
+
+**48:10** (pt 48:10 · en 48:11)
+
+> **PT** No dia de sua aflição haverá descanso na terra, ante eles cairão e não se levantarão jamais e ninguém estará para levantá-los, porque renegaram quão Senhor dos espíritos e seu Ungido. O que seja bendito o nome do de Senhor dos espíritos!
+
+> **EN** They shall fall in his presence, and not be raised up again, for there shall be none to take them out of his hands, and to lift them up for they have denied the Lord of spirits and his Messiah. The name of the Lord of spirits shall be praised.
+
+### Capítulo 49
+
+**49:1** (pt 49:1 · en 48:12)
+
+> **PT** Porque ante Ele, a Sabedoria está brotando como água e a Glória não decai pelos séculos dos séculos.
+
+> **EN** Wisdom is poured forth like water, and glory fails not before him for ever and ever, for he is powerful in all the secrets of righteousness.
+
+**49:2** (pt 49:2 · en 48:13)
+
+> **PT** Como tem poder sobre todos os segredos de justiça, a injustiça desaparecerá como a sombra e não terá refúgio, porque o Eleito está de pé ante o Senhor dos espíritos e sua glória permanece pelos séculos dos séculos e seu poder por todas as gerações.
+
+> **EN** But wickedness vanishes away like a shadow, and has no fixed station, for the Elect One stands before the Lord of spirits, and his glory is for ever and ever, and his power from generation to generation.
+
+**49:3** (pt 49:3 · en 48:14)
+
+> **PT** No habita o espírito da sabedoria, o espírito que ilumina e dá discernimento, o espírito de entendimento e de poder, o espírito de quem tem dormido em justiça.
+
+> **EN** With him dwell the spirit of intelligent wisdom, the spirit of understanding and of power, and the spirits of those who sleep in righteousness, and he shall judge secret things.
+
+**49:4** (pt 49:4 · en 48:15)
+
+> **PT** Ele é quem julga as coisas secretas e ninguém pode pronunciar palavras vãs frente a ele, porque é o Eleito ante o Senhor dos espíritos, segundo sua vontade.
+
+> **EN** And none shall be able to stand to speak a single word before him, for the Elect One is in the presence of the Lord of spirits, according to his own pleasure.
+
+### Capítulo 50
+
+**50:1** (pt 50:1 · en 49:1)
+
+> **PT** Nesses dias terá lugar uma mudança para os Santos e escolhidos: a Luz dos Dias residirá sobre eles e a glória e a honra virarão para os Santos.
+
+> **EN** In those days the saints and the chosen shall suffer a change, the light of day shall rest upon them, and the splendour and glory of the saints shall be changed.
+
+**50:2** (pt 50:2 · en 49:2)
+
+> **PT** No dia da aflição, quando a desgraça se acumule sobre os pecadores, os justos triunfarão pelo nome do Senhor dos espíritos e fará que outros atestem que podem arrepender-se e renunciar à obra de suas mãos.
+
+> **EN** In the day of tribulation evil shall be heaped upon sinners, but the righteous shall rejoice in the name of the Lord of spirits.
+
+**50:3** (pt 50:3 · en 49:3)
+
+> **PT** Eles não terão nenhum mérito em nome do Senhor dos espíritos, entretanto serão salvos por seu nome e o Senhor dos espíritos terá compaixão deles porque sua misericórdia é grande.
+
+> **EN** It will be shewn to others, that they must repent and forsake the works of their hands, and that honour attends them not in the presence of the Lord of spirits, yet that they may be saved by his name, the Lord of spirits will have compassion on them, for his mercy is great, and righteousness is in his judgment, and in the presence of his glory, and in his judgment unrighteousness shall not stand; he who repents not before him shall perish.
+
+**50:4** (pt 50:4)
+
+> **PT** Além Ele é justo em seu julgamento e em presença de sua Glória, a injustiça não poderá manter-se; em seu julgamento o que não se arrependa perecerá ante Ele.
+
+> **EN** —
+
+**50:5** (pt 50:5 · en 49:4)
+
+> **PT** E desde esse momento não terei mais misericórdia com eles, disse o Senhor dos espíritos.
+
+> **EN** Henceforth I will not have mercy on the wicked, saith the Lord of spirits.
+
+### Capítulo 51
+
+**51:1** (pt 51:1 · en 50:1)
+
+> **PT** Nesses dias a terra devolverá o que foi depositado nela; o sheol também devolverá o que recebeu e os infernos devolverão o que devem.
+
+> **EN** In those days the earth shall give up from her womb, and the subterranean world give up from hers what it contains, and the abyss shall give again that which it is indebted.
+
+**51:2** (pt 51:2)
+
+> **PT** Pelos mesmos dias o Eleito se levantará
+
+> **EN** —
+
+**51:3** (pt 51:3 · en 50:2)
+
+> **PT** e de entre eles selecionará aos justos e aos Santos, porque se aproxima o dia em que serão salvos.
+
+> **EN** He shall separate the righteous and holy from among them, for the day of their redemption has appeared.
+
+**51:4** (pt 51:4 · en 50:3)
+
+> **PT** O Eleito se sentará em meu trono nesses dias e de sua boca fluirão todos os mistérios da sabedoria e conselho, porque o Senhor dos espíritos o concedeu e o glorificou.
+
+> **EN** And in those days the Elect One shall sit upon his throne, while every secret of instructing wisdom shall come forth out of his mouth, for the Lord of spirits has endowed and glorified him.
+
+**51:5** (pt 51:5 · en 50:4-50:5)
+
+> **PT** Nesses dias as montanhas se moverão como aríetes e as colinas saltarão como cordeiros que tomaram leite até ficar satisfeitos; os rostos dos anjos do céu brilharão alegremente; a terra se regozijará, os justos a habitarão e os escolhidos se passearão por ela.
+
+> **EN** In those days the mountains shall skip like rams, and the hills shall hop like young sheep satisfied with milk, and all the righteous shall become angels in heaven. Their faces shall shine with joy, for in those days the Elect One shall be exalted, the earth shall rejoice, the righteous shall inhabit it, and the elect go and walk upon it.
+
+### Capítulo 52
+
+**52:1** (pt 52:1 · en 51:1)
+
+> **PT** Depois desses dias, no sítio onde tinha visto todas as visões do que está oculto, porque tinha sido miserável por um ciclone e conduzido para o ocidente,
+
+> **EN** After that time, in the place where I had seen every secret vision, I was taken up in a whirlwind, and carried towards the west,
+
+**52:2** (pt 52:2 · en 51:2)
+
+> **PT** ali meus olhos viram os todos secretos do céu que chegará: uma montanha de cobre, outra de prata, outra de ouro, outra de estanho e outra de chumbo.
+
+> **EN** There my eyes saw the secrets of heaven, and all which was on the earth, a mountain of iron, a mountain of copper, a mountain of silver, a mountain of gold, a mountain of fluid metal, and a mountain of lead.
+
+**52:3** (pt 52:3 · en 51:3)
+
+> **PT** Perguntei ao anjo que ia comigo, dizendo: Que coisas são estas que vi em segredo?
+
+> **EN** And I enquired of the angel who went with me, and said, What are these things, which in secret I behold?
+
+**52:4** (pt 52:4 · en 51:4)
+
+> **PT** Me disse: Tudo o que viu servirá para o governo de seu Ungido, para que possa ser forte e poderoso sobre a terra.
+
+> **EN** He said, All these things which thou seest shall be for the dominion of the Messiah, that he may reign and be powerful on the earth.
+
+**52:5** (pt 52:5 · en 51:5)
+
+> **PT** E logo este anjo de paz disse: Espera um pouco e lhe serão revelados todos os mistérios que rodeiam ao Senhor dos espíritos:
+
+> **EN** And that angel of peace answered me and said, Wait but a short time, and thou shalt see, and every secret thing shall be disclosed to thee which the Lord of spirits hath determined, for these mountains which thou hast seen, the mountain of iron, the mountain of copper, the mountain of silver, the mountain of gold, the mountain of fluid metal, and the mountain of lead, all these in the presence of the Elect One shall be like a honeycomb before the fire, and like water descending from above upon the mountains, and shall become weakened before his feet;
+
+**52:6** (pt 52:6 · en 51:6)
+
+> **PT** Essas montanhas que seus olhos viram, de ferro, cobre, prata, ouro, estanho e chumbo, em presença do Eleito serão como a cera frente ao fogo e como a água derramada e se derreterão a seus pés.
+
+> **EN** In those days they shall not be saved by gold and by silver,
+
+**52:7** (pt 52:7 · en 51:7)
+
+> **PT** Acontecerá nesses dias que ninguém será salvado nem pelo ouro nem pela prata e ninguém poderá escapar;
+
+> **EN** And they will not have it in their power to defend themselves and to fly.
+
+**52:8** (pt 52:8 · en 51:9)
+
+> **PT** não haverá ferro para a guerra, nem revestimento para couraças; o bronze será inútil, o estanho não será estimado e o chumbo será indesejável.
+
+> **EN** Copper shall be useless, also that shall be useless which neither rusts nor wastes away, and lead shall not be desired.
+
+**52:9** (pt 52:9 · en 51:10)
+
+> **PT** Todas estas coisas serão eliminadas da superfície da terra quando aparecer o Eleito ante o rosto do Senhor dos espíritos.
+
+> **EN** All these things shall be rejected, and perish from the earth, when the Elect One shall appear in the presence of the Lord of spirits.
+
+### Capítulo 53
+
+**53:1** (pt 53:1 · en 52:1)
+
+> **PT** Meus olhos viram ali um profundo vale com amplas entradas e todos os que vivem nos continentes, o mar e as ilhas lhe levam presentes, pressente e símbolos de honra, sem que esse profundo vale chegasse a encher-se.
+
+> **EN** There my eyes saw a deep valley, and its entrance was wide.
+
+**53:2** (pt 53:2 · en 52:2)
+
+> **PT** Suas mãos perpetraram crimes e os pecadores devoram tudo o que produzem com aqueles fadiga a quem criminalmente oprime; assim os pecadores serão destruídos ante o rosto do Senhor dos espíritos, serão desterrados da face da terra e perecerão para sempre.
+
+> **EN** All who dwell on the land, on the sea, and in islands shall bring to it presents, gifts, and offerings, yet that deep valley shall not be full, their hands shall commit wickedness, for all which they bring forth by labour, the sinners shall devour with crime, but they shall perish from the face of the Lord of spirits and from the surface of his earth, for the righteous shall stand up, and shall not fail for ever and ever.
+
+**53:3** (pt 53:3 · en 52:3)
+
+> **PT** Porque vi todos os anjos do castigo estabelecer-se ali e preparar todos os instrumentos de Satanás.
+
+> **EN** And I saw the angels of punishment, who dwelt there, and prepared every instrument of Satan.
+
+**53:4** (pt 53:4 · en 52:4)
+
+> **PT** E lhe perguntei ao anjo de paz que ia comigo: Para que preparam esses instrumentos?
+
+> **EN** Then I enquired of the angel of peace, who went with me, for whom these instruments were prepared,
+
+**53:5** (pt 53:5 · en 52:5)
+
+> **PT** Me disse: Preparam isso para que os reis e os poderosos da terra possam ser destruídos.
+
+> **EN** He said they were prepared for the kings and mighty of the earth, that by these they may perish.
+
+**53:6** (pt 53:6 · en 52:6)
+
+> **PT** Depois disto o Justo, o Eleito, fará aparecer a casa de sua congregação e após, eles não serão estorvados mais em nome do Senhor dos espíritos.
+
+> **EN** After this the righteous and chosen house of his congregation shall appear henceforth unchangeable in the name of the Lord of spirits;
+
+**53:7** (pt 53:7 · en 52:7)
+
+> **PT** Em presença de sua justiça, estas montanhas não estarão mais na terra, as colinas se converterão em fontes de água e os justos descansarão da opressão dos pecadores.
+
+> **EN** And these mountains shall not be in his presence as the earth, the hills, and the fountains of water, and the righteous shall be free from the molestation of sinners.
+
+### Capítulo 54
+
+**54:1** (pt 54:1 · en 53:1)
+
+> **PT** Voltei o olhar para outra parte da terra e vi ali um vale profundo com fogo ardente,
+
+> **EN** Then I looked, and turned myself to another part of the earth, where I saw a deep valley burning with fire.
+
+**54:2** (pt 54:2 · en 53:2)
+
+> **PT** e levaram aos reis e aos poderosos e começaram a jogá-los neste vale profundo.
+
+> **EN** To this valley they brought rulers and the mighty.
+
+**54:3** (pt 54:3 · en 53:3)
+
+> **PT** Ali meus olhos viram como fabricavam seus instrumentos: cadeias de um peso incomensurável.
+
+> **EN** And there my eyes saw the instruments which they made, fetters of iron in which there was not weight.
+
+**54:4** (pt 54:4 · en 53:4)
+
+> **PT** Lhe perguntei ao anjo de paz que ia comigo, dizendo: Para que estão sendo preparadas essas cadeias?
+
+> **EN** Then I enquired of the angel of peace who went with me, and said, For whom are these fetters and instruments prepared.
+
+**54:5** (pt 54:5 · en 53:5)
+
+> **PT** E me disse: Essas estão sendo preparadas para as tropas de Azaso, para que possam agarrá-los e lançá-los ao abismo de total condenação e cobrir suas queixadas com pedras ásperas tal como mandou o Senhor dos espíritos.
+
+> **EN** He answered, They are prepared for the host of Azaziel, that they may be delivered over and condemned to the lowest damnation, and that their angels may be overwhelmed with rugged stones, as the Lord of spirits has appointed.
+
+**54:6** (pt 54:6 · en 53:6)
+
+> **PT** Miguel, Gabriel, Rafael e Fénuel nesse grande dia os agarrarão e os jogarão no forno ardente, para que o Senhor dos espíritos possa vingar-se deles por converter-se em súditos de Satanás e desencaminhar a aqueles que habitam sobre a terra.
+
+> **EN** Michael and Gabriel, Raphael and Phanuel, shall be strengthened in that day, and shall then cast them into a furnace of flaming fire, that the Lord of spirits may be avenged of them for their crimes, because they became servants of Satan, and deceived those who dwell on earth.
+
+**54:7** (pt 54:7 · en 53:7)
+
+> **PT** Como nos tempos em que veio o castigo do Senhor dos espíritos e Ele abriu os depósitos de água que estão sobre os céus e as fontes subterrâneas.
+
+> **EN** In those days punishment shall go forth from the Lord of spirits, and the receptacles which are above the heavens shall be opened, and also the fountains which are under the heavens, and under the earth.
+
+**54:8** (pt 54:8 · en 53:8-53:9)
+
+> **PT** E todas essas águas se juntaram, água com águas: as que estão sobre os céus são masculinas e as que estão sob a terra são femininas.
+
+> **EN** All the waters which are in the heavens, and above them shall be mixed together. The water which is above the heaven shall be the agent.
+
+**54:9** (pt 54:9 · en 53:10)
+
+> **PT** E foram exterminados os que habitavam sobre a terra e sob os limites do céu,
+
+> **EN** And the water which is under the earth shall be the recipient, and all shall be destroyed who dwell upon the earth, and who dwell under the ends of heaven.
+
+**54:10** (pt 54:10 · en 53:11)
+
+> **PT** para que reconhecessem a injustiça que perpetraram sobre a terra e por ela pereceram.
+
+> **EN** By this they shall learn to understand the wickedness which they have committed on earth, and by this they shall perish.
+
+### Capítulo 55
+
+**55:1** (pt 55:1 · en 54:1)
+
+> **PT** Atrás disso a cabeça dos Dias se lamentou e disse: Em vão destruí a todos os que habitam sobre a terra.
+
+> **EN** Afterwards the Creator of days repented, and said, In vain I have destroyed all the inhabitants of the earth.
+
+**55:2** (pt 55:2 · en 54:2-54:3)
+
+> **PT** E jurou por seu grande nome: de agora em diante não atuarei mais assim com os que habitantes da terra; colocarei um símbolo nos céus como objeto de minha fidelidade para com eles pelo tempo que os céus estejam sobre a terra.
+
+> **EN** And he swear by his great name, Henceforth I will not do thus towards all those who dwell on earth. But I will place a sign in the heavens, and it shall be a fidelity between me and them for ever, so long as the days of heaven and earth continue upon the earth.
+
+**55:3** (pt 55:3 · en 54:4)
+
+> **PT** Esta é o que está de acordo com minha decisão: Quando desejar apanhá-los por mãos dos anjos no dia da tribulação e o sofrimento por causa disto, desatarei meu castigo e minha ira sobre eles, disse o Senhor dos espíritos;
+
+> **EN** Afterwards, conformable to this my decree, when I shall be disposed to take them unexpectedly by the operation of angels, in the days of affliction and trouble, my wrath and my punishment shall continue upon them, my punishment and my wrath, saith the Lord of spirits.
+
+**55:4** (pt 55:4 · en 54:5)
+
+> **PT** reis e poderosos que habitam sobre a terra, verão meu Eleito sentar-se sobre o trono de glória e julgar a Azaso, seus cúmplices e suas tropas, no nome do Senhor dos espíritos.
+
+> **EN** Oh ye kings, Oh ye mighty, who inhabit the world, ye shall see my Elect One sitting on the throne of my glory, and he shall judge Azaziel, all his confederates, and all his armies, in the name of the Lord of spirits.
+
+### Capítulo 56
+
+**56:1** (pt 56:1 · en 54:6)
+
+> **PT** Vi as hostes dos anjos de castigo que foram sustentando látegos e cadeias de ferro e bronze.
+
+> **EN** There also I saw multitudes of angels, who were moving in punishment, shut up in a network of iron and brass. Then I enquired of the angel of peace, who went with me, To whom those under confinement were going,
+
+**56:2** (pt 56:2)
+
+> **PT** Perguntei ao anjo de paz que ia comigo, dizendo: Aonde quem vão aqueles que levam látegos?
+
+> **EN** —
+
+**56:3** (pt 56:3 · en 54:7)
+
+> **PT** Me disse: para seus queridos escolhidos, para que sejam jogados nos profundo do abismo do vale;
+
+> **EN** He said, To each of their chosen and their be loved, that they may be cast into the fountains and deep glens of the valley.
+
+**56:4** (pt 56:4 · en 54:8)
+
+> **PT** então este vale será cheio com seus escolhidos queridos, os dias de sua vida chegarão a seu fim e a partir daí, o tempo de sua extravia não será contado.
+
+> **EN** And that valley shall be filled with their chosen and beloved, the days of whose life shall be terminated, but the days of their failure shall be innumerable.
+
+**56:5** (pt 56:5 · en 54:9)
+
+> **PT** Nesses dias os anjos retornarão e se lançarão para o oriente, onde os partos e medos e sacudirão aos reis, tanto que um espírito de desassossego os invadirá, e os derrocarão de seus tronos, de maneira que fugirão como leões de suas guaridas e como lobos famintos entre sua manada.
+
+> **EN** Then princes shall combine together, and conspire. The chiefs of the east among the Parthians and Medes shall dethrone kings, in whom a spirit of amazement shall enter, they shall tumble them from their thrones, springing as lions out of the thickets, and like hungry wolves into the middle of the flock.
+
+**56:6** (pt 56:6)
+
+> **PT** Eles irão e pisarão na terra de seus escolhidos e a terra de seus escolhidos será ante eles um caminho trilhado.
+
+> **EN** —
+
+**56:7** (pt 56:7 · en 54:10-54:11)
+
+> **PT** Mas a cidade de meus justos será um obstáculos para seus cavalos: começarão a combater contra eles e sua mão direita desdobrará sua força contra eles. Um homem não conhecerá seu irmão nem um filho a seu pai nem a sua mãe, até que o número de cadáveres complete sua matança e seu castigo não será em vão.
+
+> **EN** They shall go up, and tread upon the land of their chosen, which shall be before them, but the threshing floor, the path, and the city of my righteous people shall obstruct their horses, they shall rise up to destroy each other, their right hand shall be strengthened, and a man shall not acknowledge his friend or his brother, Nor the son his father and mother, until the number of the dead bodies shall be full by their death and punishment, and this shall not be done without reason.
+
+**56:8** (pt 56:8 · en 54:12)
+
+> **PT** Nesse tempo o sheol abrirá suas mandíbulas, serão engolidos por ele e sua destruição culminará: a morte devorará aos pecadores em presença dos escolhidos.
+
+> **EN** In those days the mouth of hell shall be opened, into which they shall be thrust, hell shall destroy and swallow up sinners from the face of the elect.
+
+### Capítulo 57
+
+**57:1** (pt 57:1 · en 55:1-55:2)
+
+> **PT** Aconteceu depois disso que vi um exército de carros conduzidos por homem e que foram sobre os ventos do oriente e do ocidente para o sul.
+
+> **EN** After this I saw another army of chariots, which conveyed men, And they came upon the wind from the east, and from the west, and from the south.
+
+**57:2** (pt 57:2 · en 55:3-55:4)
+
+> **PT** Se escutava o ruído dos carros e quando ocorreu tal alvoroço os Santos notaram que as colunas da terra se moveram de seu sítio e o som que se produziu se ouviu de um extremo ao outro do céu durante um dia.
+
+> **EN** The sound of the noise of their chariots was heard. And when that agitation began, the saints of heaven perceived it, the pillar of the earth was shaken from its foundation, and the sound was heard from the ends of the earth unto the ends of heaven at the same time.
+
+**57:3** (pt 57:3 · en 55:5)
+
+> **PT** E eles se prosternaram e adoraram ao Senhor dos espíritos. Este é o fim da segunda parábola.
+
+> **EN** Then the saints all fell down, and worshipped the Lord of spirits.
+
+### Capítulo 58
+
+**58:1** (pt 58:1 · en 55:6-56:1)
+
+> **PT** Comecei a recitar a terceira parábola a respeito dos justos e dos escolhidos.
+
+> **EN** This is the end of the second parable. I now begin to declare the third parable, concerning the righteous and the elect.
+
+**58:2** (pt 58:2 · en 56:2)
+
+> **PT** Felizes vós justos e escolhidos pois sua sorte será gloriosa!
+
+> **EN** Happy are ye, Oh ye righteous and elect, for your lot is glorious.
+
+**58:3** (pt 58:3 · en 56:3)
+
+> **PT** Os justos estarão à luz do sol e os escolhidos na luz da vida eterna; os dias de sua vida não terão fim e os dias dos Santos serão inumeráveis.
+
+> **EN** The righteous shall exist in the light of the sun, and the elect in the light of everlasting life, the days of whose life shall never end, and the days of the saints shall not be numbered, who seek for light, and obtain righteousness with the Lord of spirits.
+
+**58:4** (pt 58:4 · en 56:4)
+
+> **PT** Procurarão a luz e encontrarão justiça com o Senhor dos espíritos: haverá paz para os justos em nome do Senhor Eterno.
+
+> **EN** Peace be to the righteous with the Lord of the world.
+
+**58:5** (pt 58:5)
+
+> **PT** depois disto serão enviados os Santos do céu a procurar os mistérios da justiça, património da fé, pois brilha como o sol sobre a terra e as trevas estão desaparecendo.
+
+> **EN** —
+
+**58:6** (pt 58:6 · en 56:5)
+
+> **PT** Haverá uma luz infinita embora por determinados dias eles não virão, porque antes terão sido destruídas as trevas, a luz terá sido afirmada ante o Senhor dos espíritos e a luz da verdade terá sido estabelecida para sempre ante o Senhor dos espíritos.
+
+> **EN** Henceforth the saints shall be told that they must seek in heaven for the secrets of righteousness, the portion of faith, for like the sun it has risen upon the earth, and darkness has vanished away, and there shall be light which shall never end, and they shall never attempt to number their days, for before that darkness shall be destroyed, and light will become strong before the Lord of spirits, the light of uprightness will become strong before the Lord of spirits for ever and ever.
+
+### Capítulo 59
+
+**59:1** (pt 59:1 · en 57:1-57:2)
+
+> **PT** Nesses dias meus olhos viram os mistérios dos relâmpagos, das luzes e de seu julgamento: eles resplandecem para uma bênção ou para uma maldição segundo a vontade do Senhor dos espíritos.
+
+> **EN** In those days my eyes beheld the secrets of the lightnings, and the glances, and their judgment. They lighten for a blessing, and an execration, according to the will of the Lord of spirits.
+
+**59:2** (pt 59:2 · en 57:3-57:4)
+
+> **PT** Ali vi os mistérios do trovão e como quando ressona em acima no céu, sua voz é escutada e me faz ver o julgamento executado sobre a terra, já seja que seja para bem-estar e bênção, ou para maldição, segundo a voluntas do Senhor dos espíritos.
+
+> **EN** And there I saw the secrets of the thunder, when it cracks above in heaven, and its sound is heard. Also the habitations of the earth were shewn to me, the sound of the thunder is for peace, and for blessing, as well as for an execration, according to the word of the Lord of spirits.
+
+**59:3** (pt 59:3 · en 57:5)
+
+> **PT** E depois disto todos os mistérios das luzes e dos relâmpagos me foram mostrados: eles brilham para benzer e satisfazer.
+
+> **EN** Afterward every secret of the glances, and of the lightnings was seen by me, for blessing and for fertility they lighten.
+
+### Capítulo 60
+
+**60:1** (pt 60:1 · en 59:2)
+
+> **PT** No décimo quarto dia, do sétimo mês, do ano quinhentos da vida de Noé; Vi que um poderoso tremor sacudiu o céu dos céus e as hostes do Altíssimo, multidões de anjos, milhares e milhares se viam angustiados por uma grande agitação.
+
+> **EN** In the five hundredth year, in the seventh month, on the fourteenth day of the month of the lifetime of Enoch, in that parable, I saw that the heaven of heavens shook with a powerful shake, and that the powers of the Most High, and the angels, thousands of thousands, and myriads of myriads, were agitated with a great agitation, and immediately I saw the Creator of days sitting on the throne of his glory, and the angels, and the righteous standing around him. A great trembling came upon me, and terror seized me, my loins were bowed down and relaxed, my whole were loosened, and I fell on my face. The holy Michael, another holy angel, one of the holy ones, was sent to me, and he raised me up.
+
+**60:2** (pt 60:2)
+
+> **PT** A Cabeça dos Dias estava sentado sobre o trono de sua glória e os anjos e os justos permaneciam a seu redor.
+
+> **EN** —
+
+**60:3** (pt 60:3)
+
+> **PT** Se apoderou de mim um grande tremor e me sobressaltou o temor: minhas vísceras se abriram, meus rins se derreteram e caí sobre meu rosto.
+
+> **EN** —
+
+**60:4** (pt 60:4 · en 59:3)
+
+> **PT** Então Miguel outro dos anjos Santos, foi enviado para me levantar. Quando me levantou meu espírito retornou, mas eu não era capaz de suportar a visão destas hostes, de sua agitação e das sacudidas do céu.
+
+> **EN** And when he had raised me up, my spirit returned, for I was not able to endure this vision of power, its agitation, and the concussion of heaven.
+
+**60:5** (pt 60:5 · en 59:4)
+
+> **PT** E Miguel me disse: por que te assusta a visão destas coisas? até agora foi o tempo de sua misericórdia e Ele foi misericordioso e lento para a ira para aqueles que vivem sobre a terra.
+
+> **EN** Then holy Michael said to me, Wherefore art thou affrightned at such a vision?
+
+**60:6** (pt 60:6 · en 59:6)
+
+> **PT** Mas quando vier o dia, do poder, do castigo, do julgamento que o Senhor dos espíritos preparou para aqueles que não se inclinam ante a lei da justiça, para aqueles que rechaçam o juízo da justiça e para aqueles que tomam seu nome em vão, esse dia está preparado para os escolhidos um pacto, mas para os pecadores castigo.
+
+> **EN** But when the day shall come, and the power, and the punishment, and the judgment, which the Lord of spirits has prepared for those who humble themselves before the judgment of righteousness, for those who deny that judgment of righteousness, and for those who take his name in vain.
+
+**60:7** (pt 60:7 · en 59:8)
+
+> **PT** Esse dia se farão sair separados dois monstros, uns feminino e outro masculino. O monstro feminino se chama Leviatã e habita no fundo do mar sobre a fonte das águas.
+
+> **EN** In that day there shall be distributed two monsters, a female monster, whose name is Leviathan, because it dwells in the depths of the sea above the springs of water.
+
+**60:8** (pt 60:8 · en 59:9)
+
+> **PT** O monstro masculino se chama Behemoth, posa-se sobre seu peito em um deserto imenso chamado Duindaín, ao oriente do jardim que habitam os escolhidos e os justos, onde meu avô foi tomado, o sétimo desde o Adão o primeiro homem a quem o Senhor dos espíritos criou.
+
+> **EN** And a male monster whose name is Behemoth, which occupies with his breast the invisible desert;
+
+**60:9** (pt 60:9 · en 59:11)
+
+> **PT** Supliquei a outro anjo que me revelasse o poder desses monstros, como foram separados em um só dia e arrojados o um ao fundo do mar e o outro ao chão seco do deserto.
+
+> **EN** And I asked that angel to shew me the power of these monsters, how they became divided on the same day, one being put into the depths of the sea, and one on the earth in the desert.
+
+**60:10** (pt 60:10 · en 59:12 · transposto)
+
+> **PT** Me disse: Filho de homem, aqui vais conhecer os que é um mistério.
+
+> **EN** And he said, Son of man, thou here desirest to know what is concealed.
+
+**60:11** (pt 60:11 · en 58:1-58:3 · transposto)
+
+> **PT** Me falou outro anjo que ia comigo, que me revelava o que estava oculto, o princípio e o fim, no alto do céu e sob a terra no profundo, nas extremidades do céu e em seus alicerces;
+
+> **EN** Then another angel, who went with me spoke to me. * And he shewed me the first and last secrets in the height of heaven, and in the depths of the earth. And in the ends and foundations of heaven, and in the receptacles of the winds.
+
+**60:12** (pt 60:12 · en 58:4-58:5)
+
+> **PT** e nos depósitos dos ventos, como os ventos são divididos, como são pesados e como em suas portas os ventos são registrados de acordo com sua força; e o poder da luz da lua como é o poder que lhe corresponde; e a diferenciação entre as estrelas de acordo com seus nomes e como estão subdivididas e classificadas;
+
+> **EN** He shewed me how their spirits were divided, how they were balanced, and how both the springs and the winds were numbered according to the strength of the spirits. He shewed me the power of the light of the moon, that its power is justice, and the divisions of the stars, their particular names;
+
+**60:13** (pt 60:13 · en 58:6)
+
+> **PT** e o trovão nos lugares onde retumba e toda a distinção que é feita entre os relâmpagos para que eles brilhem e entre suas hostes para que elas obedeçam rapidamente.
+
+> **EN** That every division is divided, that the thunder falls down, that every part which is parted is flash with flash;
+
+**60:14** (pt 60:14 · en 58:7)
+
+> **PT** O trovão faz pausas enquanto espera seu eco. Trovão e relâmpago são inseparáveis, são unidos por meio do espírito e não estão separados,
+
+> **EN** That their host immediately obey, that the thunder has a resting place, it is endowed with a perseverance in its sound, and the thunder and lightning are not divided, nor move they both with one spirit, yet they are not divided,
+
+**60:15** (pt 60:15 · en 58:8)
+
+> **PT** pois quando o relâmpago resplandece, o trovão faz ouvir sua voz e o espírito o aplaca enquanto repica, e distribui por igual entre ambos, pois o depósito de seus ecos é como areia e cada um deles como seus ecos são retidos com um freio e devolvidos pelo poder do espírito, são impulsionados para muitas regiões da terra.
+
+> **EN** For when the lightning lightens, the thunder gives a sound, and at its time the spirit rests, and makes an equal division between them, for the provision of their time is as sand, and each of them at its time is restrained with a bridle, and turned by the power of the spirit, which thus propels them according to the abundance of the land of the earth.
+
+**60:16** (pt 60:16 · en 58:9)
+
+> **PT** O espírito do mar é masculino e vigoroso e segundo sua força o devolve com um freio e assim é afastado e dispersado entre todas as montanhas da terra.
+
+> **EN** The spirit of the sea also is powerful and strong, and like a strong power draws it back with a bridle, so it is driven forward, and dispersed against the mountains of the earth. The spirit of the frost has its angel, in the spirit of hail there is a good angel, the spirit of snow on account of its strength has a separate spirit, which ascends from it like vapour, and its name is refrigeration.
+
+**60:17** (pt 60:17 · en 58:10)
+
+> **PT** O espírito da geada é seu próprio anjo e o espírito do granizo é um bom anjo.
+
+> **EN** The spirit of mist is not in union with them in their receptacle, but it has a receptacle by itself, for its mutation is in splendour.
+
+**60:18** (pt 60:18)
+
+> **PT** O espírito da neve a deixa cair de sua por sua própria força desde seus depósitos; ela tem um espírito especial que sobe dela como fumaça e se chama geada.
+
+> **EN** —
+
+**60:19** (pt 60:19 · en 58:11)
+
+> **PT** O espírito da neblina não está unido com eles em seu depósito, mas sim tem um depósito próprio, já que sua rota é maravilhosa, tanto na luz como na escuridão, no inverno como no verão e seu mesmo depósito é um anjo.
+
+> **EN** In light, and in darkness, in winter, and in summer, its receptacle is bright, and an angel is there.
+
+**60:20** (pt 60:20 · en 58:12)
+
+> **PT** O espírito do rocio habita nos limites do céu e está conectado com os depósitos da chuva; viaja de inverno ou no verão e sua nuvem e a nuvem da neblina estão relacionadas e a uma dá à outra.
+
+> **EN** The spirit of dew has its place in the ends of heaven in connection with the receptacle of rain, and its mutation is in winter and in summer, and its cloud and the cloud of the mist are united, one gives to the other, and when the spirit of rain moves from its receptacle, angels come, and open its receptacle, and bring it forth.
+
+**60:21** (pt 60:21 · en 58:13)
+
+> **PT** Quando o espírito da chuva sai do depósito, os anjos vão, abrem o depósito e a deixam sair, e quando ela se derrama sobre toda a terra, une-se à água que está sobre a terra.
+
+> **EN** When it is scattered over all the earth, it unites at every time with the water on the earth, for the waters are a part which is found on the earth to be nourishment for the earth from the Most High, who is in heaven.
+
+**60:22** (pt 60:22 · en 58:14)
+
+> **PT** Porque as águas são para os que vivem sobre a terra e são um alimento para a terra seca, que vem do Altíssimo que está no céu, por isso há uma medida para a chuva e os anjos se encarregam dela.
+
+> **EN** Therefore there is a measure in the rain, which the angels receive.
+
+**60:23** (pt 60:23 · en 59:1, 59:10)
+
+> **PT** Estas coisas vi nos arredores do jardim dos justos
+
+> **EN** I saw all these things, even to the garden of the righteous. His name was Dendayen in the east of the garden, where the elect and the righteous will dwell, where he received it from my ancestor who was man, from Adam the first of men, whom the Lord of spirits made.
+
+**60:24** (pt 60:24 · en 59:7, 59:13)
+
+> **PT** e o anjo de paz que estava comigo me disse: Esses dois monstros foram preparados para o grande dia de Deus e são alimentados
+
+> **EN** That day has been prepared for the covenant of the elect, and for the examination of sinners. And the angel of peace who was with me said to me, These two monsters are by the power of the Almighty prepared to become needful of food, that the punishment of the Almighty may not be in vain.
+
+**60:25** (pt 60:25 · en 59:14-59:15)
+
+> **PT** a fim de que o castigo do Senhor dos espíritos não caia em vão sobre eles, farão morrer os meninos com suas mães e os filhos com seus pais e logo terá lugar o julgamento acorde com sua misericórdia e sua paciência.
+
+> **EN** Then children shall be slain with their mothers, and sons with their fathers. And when the punishment of the Lord of spirits rests upon them, so it shall rest upon them, that the punishment of the Lord of spirits may not come upon them in vain. In the end there will be a judgment according to his mercy and forbearance. *
+
+### Capítulo 61
+
+**61:1** (pt 61:1 · en 60:1)
+
+> **PT** Hei aqui que nesses dias vi como umas cordas largas foram dadas a esses anjos e eles se colocaram asas e voaram para o norte.
+
+> **EN** And I saw in those days that there were long ropes given to those angels, who lifted up their wings and went towards the north.
+
+**61:2** (pt 61:2 · en 60:2)
+
+> **PT** Lhe perguntei ao anjo lhe dizendo: por que tomaram essas cordas e se foram? O me disse Foram-se a medir.
+
+> **EN** And I enquired of the angel and said, Wherefore have they taken these long ropes and gone forth; he said to me, They are gone forth to measure.
+
+**61:3** (pt 61:3 · en 60:3)
+
+> **PT** O anjo que ia comigo me disse: Eles levam aos justos as medidas dos justos e as cordas dos justos para que se apóiem no nome do Senhor dos espíritos pelos séculos dos séculos.
+
+> **EN** The angel who went me said to me, These are measures of the righteous, and the righteous shall bring cords that they may rest upon the name of the Lord of spirits, for ever and ever.
+
+**61:4** (pt 61:4 · en 60:4)
+
+> **PT** Escolhido-los começaram a residir com o Eleito e essas são quão medidas serão dadas para fé e que fortalecerão a justiça.
+
+> **EN** The elect shall begin to dwell with the Elect One.
+
+**61:5** (pt 61:5 · en 60:6-60:7)
+
+> **PT** Estas medidas revelarão todos os mistérios das profundidades da terra e os que foram destruídos pelo deserto ou tragados pelas feras ou pelos peixes do mar, esses poderão retornar sustentados pelo dia do Eleito, porque nenhum será destruído ante o senhor dos espíritos, nenhum poderá ser destruído.
+
+> **EN** And these measures shall disclose all the secrets in the depth of the earth. And they who have been destroyed in the desert, and they who have been devoured by the fish of the sea, and by wild beasts, shall return, and trust in the day of the Elect One, for none shall perish in the presence of the Lord of spirits, nor shall any be able to perish.
+
+**61:6** (pt 61:6 · en 60:8)
+
+> **PT** Todos os que habitam no alto do céu receberam um mandamento, um poder, uma só voz e uma luz como fogo.
+
+> **EN** Then they altogether kept the commandment above in the heaven; and a power, and a splendour like fire, to them there was given.
+
+**61:7** (pt 61:7 · en 60:9)
+
+> **PT** A ele com suas primeiras palavras o benzeram, elogiaram e louvaram com sabedoria e foram sábios na palavra e o espírito de vida.
+
+> **EN** And first with their voice, they praised him, they exalted him, they glorified him, with wisdom, and displayed wisdom with the word, and with the spirit of life.
+
+**61:8** (pt 61:8 · en 60:10)
+
+> **PT** O Senhor dos Espíritos colocou ao Eleito sobre o trono de glória e o julgará todas as obras dos Santos e suas ações serão pesadas na balança.
+
+> **EN** Then the Lord of spirits placed the Elect One upon the throne of his glory.
+
+**61:9** (pt 61:9 · en 60:11-60:12)
+
+> **PT** Quando elevar a cara para julgar suas vidas secretas segundo a palavra do nome do Senhor dos espíritos, seu atalho pela via do julgamento justo do Senhor dos espíritos, então a uma só voz falarão, benzerão, glorificarão, exaltarão e proclamarão santo o nome do Senhor dos espíritos.
+
+> **EN** And he shall judge all the works of the holy above in heaven, and he shall weigh their actions in a balance, and when he shall lift up his countenance to judge their secret ways by the word of the name of the Lord of spirits, and their conduct in the way of the righteous judgment of the great exalted Ruler. They shall altogether speak with united voice, and bless, glorify, exalt, and praise, in the name of the Lord of spirits.
+
+**61:10** (pt 61:10 · en 60:13)
+
+> **PT** Ele convocará a todas as hostes dos céus, a todos os Santos, às hostes de Deus, aos Querubins, aos Serafines, aos Ofanines, a todos os anjos de poder, a todos os anjos dos principados e ao Eleito e a outros poderes sobre a terra e sobre a água.
+
+> **EN** He shall call to every power of the heavens, to all the holy above, and to the power of the Almighty Ruler, the Cherubim, the Seraphim, and the Ophanin, all the angels of power, and all the angels of the Rulers, namely of the Elect One, and of the other Power, who was upon earth over the water on that day,
+
+**61:11** (pt 61:11 · en 60:14)
+
+> **PT** Esse dia eles elevarão uma só voz, benzerão, elogiarão e exaltarão em espírito de fidelidade, em espírito de sabedoria, em espírito de paciência, em espírito de misericórdia, em espírito de justiça, em espírito de paz e em espírito de verdade e dirão a uma só voz: Bendito é Ele e bendito seja o nome do Senhor dos espíritos para sempre e por toda a eternidade.
+
+> **EN** Shall raise their united voice, shall bless, glorify, praise, and exalt, with the spirit of faith, with the spirit of wisdom and patience, with the spirit of mercy, with the spirit of judgment and peace, and with the spirit of benevolence, all shall say with united voice, Praised be he, and praised be the name of the Lord of spirits for ever and ever, praise him all ye who never sleep in heaven above.
+
+**61:12** (pt 61:12 · en 60:15)
+
+> **PT** Todos os que não dormem no céu alto lhe benzerão; todos os santo que estão no céu lhe benzerão; todos os escolhidos que habitam no jardim da vida e todo espírito de luz que seja capaz de benzer, elogiar, louvar e proclamar santo seu nome e toda carne glorificará e benzerá seu nome além de toda medida pelos séculos dos séculos.
+
+> **EN** Praise him all his saints, who are in heaven, and all the elect who dwell in the garden of life, and all the spirits of light, who are able to bless, glorify, exalt, and praise your holy Name, and all of flesh, more than the powers shall glorify and praise your Name for evermore.
+
+**61:13** (pt 61:13 · en 60:16)
+
+> **PT** Porque grande é a misericórdia do Senhor dos espíritos, Ele é paciente e todas suas obras e toda sua criação as revelou aos justos e aos escolhidos, em nome do Senhor dos espíritos.
+
+> **EN** For the mercy of the Lord of spirits is great, he is longsuffering, and all his works, all his power, by the greatness of his operations, he has revealed to the saints, and to the elect in his own name.
+
+### Capítulo 62
+
+**62:1** (pt 62:1 · en 61:1)
+
+> **PT** Assim ordenou o Senhor aos reis, aos poderosos, aos dignitários e a todos os que vivem sobre a terra, dizendo: Abram os olhos e levantem suas frentes se por acaso são capazes de reconhecer ao Eleito.
+
+> **EN** Thus the Lord commanded the kings, the mighty and the elevated, and those who dwell on earth, and said, Open your eyes, and lift up your horns, if ye are able to understand the Elect One.
+
+**62:2** (pt 62:2 · en 61:2-61:4)
+
+> **PT** O Senhor dos espíritos se sentou em seu trono de glória, o espírito de justiça se pulverizou sobre Ele e a palavra de sua boca exterminou a todos os pecadores e injustos e nenhum deles subsistirá frente a Ele.
+
+> **EN** The Lord of spirits sat upon the throne of his glory, And the spirit of righteousness was poured out over him. The word of his mouth shall destroy all the sinners, and all the ungodly, who shall be exterminated by his presence.
+
+**62:3** (pt 62:3 · en 61:5-61:6)
+
+> **PT** Esse dia todos os reis e os poderosos e os que dominam a terra se levantarão, verão-lhe e lhe reconhecerão quando se sente sobre o trono de sua glória; a justiça será julgada ante Ele e não se pronunciará palavra vã frente a Ele.
+
+> **EN** In that day all the kings, the mighty, and the elevated, and they who possess the earth, shall see and understand that he sits on the throne of his glory, and that the saints shall be judged in righteousness before Him. And that no word which shall be spoken before him shall be in vain.
+
+**62:4** (pt 62:4 · en 61:7)
+
+> **PT** A dor virá sobre eles como a uma mulher em um parto difícil, quando seu filho vem pela abertura da pélvis e sofre para dar a luz.
+
+> **EN** Sorrow shall come upon them as upon a woman in travail, whose labour is hard, when the child comes to the mouth of the womb, and it is made difficult to bring forth.
+
+**62:5** (pt 62:5 · en 61:9)
+
+> **PT** Se olharão os uns aos outros aterrorizados, baixarão o olhar e a pena se apoderará deles quando virem a este Filho de Mulher sentar-se sobre o trono de sua glória.
+
+> **EN** And grief shall seize them, when they shall see this Son of woman sitting on the throne of his glory.
+
+**62:6** (pt 62:6 · en 61:10, 61:12)
+
+> **PT** E os reis, os poderosos e todos os que dominam a terra elogiarão, benzerão e louvarão a quem reina sobre tudo o que é secreto.
+
+> **EN** Then the kings, the mighty, and all who possess the earth, shall glorify, praise, and exalt him who rules over all things, Him who was concealed, for from the beginning the Son of man was concealed, whom the Highest approved by his power, and revealed him to the elect. And all the kings, the mighty, and the elevated, and they who rule over the earth shall fall down on their faces before him, and shall worship him.
+
+**62:7** (pt 62:7 · en 61:13 · transposto)
+
+> **PT** Porque desde o começo o Filho do Homem foi oculto e o Altíssimo o preservou em meio de seu poder e o revelou aos escolhidos.
+
+> **EN** They shall place their hopes on this Son of man, shall implore him, and pray to him for mercy.
+
+**62:8** (pt 62:8 · en 61:11 · transposto)
+
+> **PT** A assembleia dos escolhidos e os Santos será semeada e todos os escolhidos se sustentarão em pé nesse dia;
+
+> **EN** He shall sow the congregation of the holy and of the elect, and all the elect shall stand before him on that day.
+
+**62:9** (pt 62:9)
+
+> **PT** mas os reis, os poderosos, os dignitários e os que dominam a terra cairão ante Ele sobre seus rostos, adorarão e porão sua esperança neste Filho do Homem, suplicarão-lhe e lhe pedirão misericórdia.
+
+> **EN** —
+
+**62:10** (pt 62:10 · en 61:14)
+
+> **PT** Entretanto, o Senhor dos espíritos os apressará para que se apressem a sair de sua presença, envergonhará suas caras e as trevas se acumularão sobre seus rostos;
+
+> **EN** Then an address shall be given to the Lord of spirits, that they may hasten to expel the wicked from his presence, and their faces shall be full of shame, and shall be covered with darkness, and the angel of punishment shall seize them, that vengeance may be taken on those who have oppressed his children and his elect and they shall become an example to the saints and to his elect, over them these shall rejoice, for the indignation of the Lord of spirits shall rest upon them.
+
+**62:11** (pt 62:11)
+
+> **PT** Ele os entregará aos de castigo para executar a vingança porque oprimiram a seus filhos, a seus escolhidos.
+
+> **EN** —
+
+**62:12** (pt 62:12)
+
+> **PT** Serão um espetáculo para os justos e os escolhidos, quem se alegrará a costa deles, porque a ira do Senhor dos espíritos caiu sobre eles e sua espada se embebedou com seu sangue.
+
+> **EN** —
+
+**62:13** (pt 62:13 · en 61:15)
+
+> **PT** Em troca os justos e os escolhidos serão salvos esse dia e nunca mais lhe verão a cara aos pecadores nem aos injustos.
+
+> **EN** Then the sword of the Lord of spirits shall be drunk from them, but the righteous and the elect shall be safe in that day, and from that time they shall not behold the faces of the sinners and the ungodly.
+
+**62:14** (pt 62:14 · en 61:16)
+
+> **PT** O Senhor dos espíritos residirá sobre eles e com este Filho do Homem comerão, descansarão e se levantarão pelos séculos dos séculos.
+
+> **EN** The Lord of spirits shall remain over them.
+
+**62:15** (pt 62:15 · en 61:17)
+
+> **PT** Os justos e os escolhidos se levantaram da terra, deixarão de estar cabisbaixos e se vestirão com objetos de glória.
+
+> **EN** And with this Son of man they shall dwell, eat, lie down, and stand up for ever and ever.
+
+**62:16** (pt 62:16 · en 61:18)
+
+> **PT** Tais serão os objetos de vida do Senhor dos espíritos: sua roupa não envelhecerá e sua glória não terminará ante o Senhor dos espíritos.
+
+> **EN** The righteous and the elect have risen from the earth, and have left off to cast down their countenances, and have been clothed with the garment of life, and that garment of life shall be with the Lord of spirits, and your garment shall not become old, and your glory shall not diminish, in the presence of the Lord of spirits.
+
+### Capítulo 63
+
+**63:1** (pt 63:1 · en 62:1)
+
+> **PT** Nesses dias os reis, os poderosos e os que dominam a terra suplicarão aos anjos do castigo, a quem terá sido entregues, para que lhes dêem um pouco de descanso, e possam prostrar-se ante o Senhor dos espíritos, adorá-lo e reconhecer seus pecados ante Ele.
+
+> **EN** In those days the kings and the mighty who possess the earth shall pray to the angels of his punishment, wheresoever they shall be delivered up, that he may give a little rest, and that they may fall down and worship before the Lord of spirits, and confess their sins before him.
+
+**63:2** (pt 63:2 · en 62:2)
+
+> **PT** Benzerão e elogiarão ao Senhor dos espíritos e dirão: Bendito é o Senhor dos espíritos, Senhor de reis, Senhor dos poderosos, Senhor dos ricos, Senhor de glória, Senhor de sabedoria;
+
+> **EN** They shall praise and glorify him the Lord of spirits, and say, Praised be the Lord of spirits, the Lord of kings, the Lord of the mighty, the Lord of lords, the Lord of glory, and the Lord of wisdom.
+
+**63:3** (pt 63:3 · en 62:4)
+
+> **PT** Sobre todas as coisas secretas é esplendoroso seu poder de geração em geração e sua glória pelos séculos dos séculos; profundos e inumeráveis são seus mistérios e incomensurável é sua justiça.
+
+> **EN** Your power is from generation to generation, and your glory for ever and ever.
+
+**63:4** (pt 63:4 · en 62:6)
+
+> **PT** Agora aprendemos que devemos elogiar e benzer ao Senhor dos reis pois reina sobre todos os reis.
+
+> **EN** We have known that we should glorify and praise the Lord of kings, Him who is King over all kings.
+
+**63:5** (pt 63:5 · en 62:7)
+
+> **PT** E eles dirão: Oxalá houvesse descanso para glorificar e dar obrigado e confessar nossa fé ante sua glória.
+
+> **EN** And they shall say, Who has given us rest to glorify, laud, praise, and confess in the presence of his glory.
+
+**63:6** (pt 63:6 · en 62:8)
+
+> **PT** Agora suspiramos por um pequeno descanso, mas não o encontramos, insistimos mas não o obtemos; a luz se desvanece ante nós e as trevas são nossa morada pelos séculos dos séculos.
+
+> **EN** And now the rest is short which we desire, but we find it not, we might obtain it, but we lay not hold of it, light has always been wasted before us, and darkness has covered our thrones for ever.
+
+**63:7** (pt 63:7 · en 62:9)
+
+> **PT** Porque ante Ele não acreditamos nem elogiamos o nome do Senhor dos espíritos e em troca nossas esperanças estiveram no cetro de nosso reinado e em nossa glória.
+
+> **EN** For we have not confessed before him, and we have not glorified the name of the Lord of kings, we have not glorified the Lord in all his works, but we have confided in our royalty and our glory.
+
+**63:8** (pt 63:8 · en 62:10)
+
+> **PT** Assim, o dia de nosso sofrimento e tribulação Ele não nos salvou e não encontramos trégua para confessar que nosso Senhor é veraz em todas suas obras e sua justiça e que em seu julgamento não faz acepção de pessoas.
+
+> **EN** In the day of our tribulation and distress he will not save us, neither shall we find rest. We confess that our Lord is faithful in all his works, in all his judgments, and in his righteousness.
+
+**63:9** (pt 63:9 · en 62:11-62:12)
+
+> **PT** Desaparecemos de sua presença por causa de nossas obras e todos nossos pecados foram contabilizados justamente.
+
+> **EN** He has no regard to persons in his judgments, and we must depart from his presence on account of our evil deeds. And all our sins are truly without number.
+
+**63:10** (pt 63:10 · en 62:14)
+
+> **PT** Depois eles se dirão: Nossas almas estão cheias de riquezas injustas mas elas não nos preservam de descender no meio do peso da morte.
+
+> **EN** But that prevents us not from descending to the troublesome heat of hell.
+
+**63:11** (pt 63:11 · en 62:15)
+
+> **PT** Logo, seus rostos estarão cheios de escuridão e de vergonha ante o Filho do Homem, serão expulsos de sua presença e a espada permanecerá frente a suas caras.
+
+> **EN** And hereafter their faces shall be filled with darkness and shame before the Son of man, from whose face they shall be driven away, and before whom the sword shall remain in the midst to expel them.
+
+**63:12** (pt 63:12 · en 62:16)
+
+> **PT** Então disse o Senhor dos espíritos: Tal é a sentença e o julgamento com respeito aos poderosos, os reis, os dignitários e aqueles que dominaram a terra frente ao Senhor dos espíritos.
+
+> **EN** Thus saith the Lord of spirits. This is the decree and the judgment against the mighty, the kings, the elevated, and those who possess the earth in the presence of the Lord of spirits.
+
+### Capítulo 64
+
+**64:1** (pt 64:1)
+
+> **PT** Depois, vi outras figuras ocultas nesse lugar.
+
+> **EN** —
+
+**64:2** (pt 64:2 · en 63:1)
+
+> **PT** Escutei a voz de um anjo dizendo: Estes são quão vigilantes descenderam sobre a terra e revelaram aos humanos o que era secreto e os induziram a pecar.
+
+> **EN** I also saw other faces in that secret place, I heard the voice of an angel who said, These are the angels who have descended from heaven to earth, and have discovered secrets to the sons of men, and have seduced the sons of men to commit sin.
+
+### Capítulo 65
+
+**65:1** (pt 65:1 · en 64:1)
+
+> **PT** Nesses dias Noé viu que a terra estava ameaçada de ruína e que sua destruição era iminente;
+
+> **EN** In those days Noah saw that the earth was bent down, and that destruction was near.
+
+**65:2** (pt 65:2 · en 64:2-64:3)
+
+> **PT** e partiu dali e foi até os extremos da terra; gritou-lhe forte a seu avô Enoque e disse três vezes com voz amargurada: me escute, me escute, me escute!
+
+> **EN** Then he lifted up his feet from there, and went to the ends of the earth, to the dwelling of his great grandfather Enoch. And Noah cried with a mournful voice, Hear me, hear me, hear me, three times. And he said to him, Tell me what is doing on the earth, for the earth weakens, and is violently shaken; surely I shall perish with it.
+
+**65:3** (pt 65:3)
+
+> **PT** Eu lhe disse: me diga, O que é o que está passando sobre a terra para que sofra tão grave apuro e trema? Possivelmente eu perecerei com ela.
+
+> **EN** —
+
+**65:4** (pt 65:4 · en 64:4)
+
+> **PT** Atrás disto houve uma grande sacudida sobre a terra e logo uma voz se fez ouvir do céu e eu caí sobre meu rosto.
+
+> **EN** After this there was a great disturbance on earth, and a voice was heard from heaven, I fell upon my face, when my great-grandfather Enoch came and drew near to me.
+
+**65:5** (pt 65:5 · en 64:5)
+
+> **PT** E Enoque, meu avô veio, manteve-se perto de mim e me disse: por que me gritaste com amargura e pranto?
+
+> **EN** He said to me, Wherefore criest thou out to me with a mournful cry and lamentation?
+
+**65:6** (pt 65:6 · en 64:6)
+
+> **PT** Depois foi expedida uma ordem da presença do Senhor dos espíritos sobre os que vivem na terra, para que se cumprisse sua ruína, porque todos conheceram os mistérios dos Vigilantes, toda a violência dos Satãs, todos seus poderes secretos, o poder dos malefícios, o poder dos feiticeiros e o poder de quem funde artigos de metal para toda a terra:
+
+> **EN** A commandment has gone forth from the Lord against those who dwell on the earth, that their end may be, for they know every secret of the angels, and every oppression of the devils, and all their secret power, and the power of those who commit sorcery, and the power of binding, and the power of those who pour forth molten images over all the earth.
+
+**65:7** (pt 65:7)
+
+> **PT** como a prata se produz da poeira, como o estanho se origina na terra,
+
+> **EN** —
+
+**65:8** (pt 65:8 · en 64:7-64:8)
+
+> **PT** mas o chumbo e o bronze não são produzidos pela terra como a primeira, mas sim uma fonte os produz e há um anjo proeminente permanece ali.
+
+> **EN** They know how silver is produced from the dust of the earth, and how the drop increases under the earth, for lead and tin are not produced from the earth, as if that were the first fountain from which they are produced. There is an angel stands thereon, and that angel comes forth.
+
+**65:9** (pt 65:9 · en 64:9)
+
+> **PT** Logo, meu avô Enoque tomou pela mão, levantou-me e me disse: Vete, porque lhe perguntei ao Senhor dos espíritos sobre esta sacudida da terra;
+
+> **EN** Afterwards my great-grandfather Enoch held me with his hand, and said, Go, for I have asked the Lord of spirits concerning this disturbance of the earth; and he said to me on account of their wickedness, innumerable judgments have been consummated before me; they have enquired of me concerning the moons, and they know that the earth with those who dwell upon it shall perish, and for these there will be no refuge for ever.
+
+**65:10** (pt 65:10)
+
+> **PT** Ele me há dito: Por causa de sua injustiça se determinou seu julgamento e não será detido por mim nunca porque as bruxarias que eles procuraram e aprendeu, a terra e os que habitam nela, serão destruídos.
+
+> **EN** —
+
+**65:11** (pt 65:11 · en 64:10)
+
+> **PT** Quanto a esses anjos, não haverá lugar para seu arrependimento, porque revelaram o que era secreto e estão malditos, mas quanto a ti, meu filho, o Senhor dos espíritos sabe que é puro, e sem culpa nem recriminação a respeito dos segredos.
+
+> **EN** They have disclosed secrets, and they are those who have been judged, but not thou my son, for the Lord of spirits knows that thou art pure and good, free from the blame of disclosing secrets.
+
+**65:12** (pt 65:12 · en 64:11)
+
+> **PT** Ele destinou seu nome entre os Santos e te preservará entre os que vivem sobre a terra. Ele destinou sua linhagem para a realeza e para grandes honras e de sua semente brotará uma fonte de justos e de Santos inumeráveis, por sempre.
+
+> **EN** He the Holy One has established thy name in the midst of the saints, and will save thee from those who dwell on the earth, and he has established thy seed in righteousness to a king and great glory, and from thy seed shall go forth a spring of righteous and holy men without number for ever.
+
+### Capítulo 66
+
+**66:1** (pt 66:1 · en 65:1-65:2)
+
+> **PT** Depois me mostrou os anjos de castigo que estavam preparados para vir e desatar a força das águas que estão debaixo da terra.
+
+> **EN** After this he shewed me the angels of punishment, who were ready to come, and to open all the power of waters under the earth. That they may be for judgment, and for the destruction of all those who live together, and dwell upon the earth.
+
+**66:2** (pt 66:2 · en 65:3)
+
+> **PT** e o Senhor dos espírito mandou aos anjos que foram saindo que não levantassem as águas mas sim as represarão, já que estes anjos estavam encarregados da potência das águas.
+
+> **EN** And the Lord of spirits commanded those angels who were to go forth, not to take up the men and save them.
+
+**66:3** (pt 66:3 · en 65:4)
+
+> **PT** E eu me retirei da presença do Enoque.
+
+> **EN** For these angels were over all the power of water. Then I went away from the presence of Enoch.
+
+### Capítulo 67
+
+**67:1** (pt 67:1 · en 66:1)
+
+> **PT** Nesses dias a palavra do Senhor do universo veio para mim e Ele me disse: Noé, seu destino chegou até mim, um destino sem mancha, um destino de amor e retidão.
+
+> **EN** In those days the voice of the great Ruler came to me, and he said to me, Noah, behold thy portion has ascended up to me, a portion wherein there is no blame, a portion of love, and of justice.
+
+**67:2** (pt 67:2 · en 66:2)
+
+> **PT** Agora os anjos estão construindo uma casa de madeira e quando terminarem sua tarefa, estenderei minha mão sobre ela e a preservarei e a semente de vida germinará dela e se produzirá uma mudança para que a terra não fique desocupada.
+
+> **EN** And now the angel shall prepare the places shut up, but when they shall proceed to this business, I will put my hand upon it, and save it.
+
+**67:3** (pt 67:3 · en 66:3)
+
+> **PT** Eu consolidarei sua linhagem ante mim para sempre, disseminarei aos que vivem contigo e não será estéril, a não ser será benta e multiplicada sobre a superfície da terra no nome do Senhor.
+
+> **EN** The seed of life shall be from this, and a change shall come, that the dry land may not remain empty. I will establish thy seed before me for ever and ever, and the seed of those who shall dwell with thee on the surface of the earth shall never be destroyed from the surface of the earth, and it shall be blessed and multiplied through the earth in the name of the Lord.
+
+**67:4** (pt 67:4 · en 66:4)
+
+> **PT** Ele encarcerará a quão vigilantes demonstraram injustiça, neste vale ardente que antes me tinha mostrado meu avô Enoque no ocidente, perto das montanhas de ouro, prata, ferro, estanho e chumbo.
+
+> **EN** And they shall confine those angels who dis closed impiety in that burning valley, which at first my great-grandfather Enoch shewed me in the west, where there were mountains of gold, and silver, and iron, and fluid metal, and tin.
+
+**67:5** (pt 67:5 · en 66:5)
+
+> **PT** Vi esse vale onde havia grande perturbação e agitação de águas.
+
+> **EN** I saw that valley in which there was great disturbance, and the waters were troubled.
+
+**67:6** (pt 67:6 · en 66:6)
+
+> **PT** Quando tudo isto ocorreu, daquele ardente metal fundido e da agitação, nesse lugar se produziu um aroma de enxofre e se mesclou com as águas e esse vale onde estavam quão vigilantes tinham seduzido à humanidade, arde sob a terra.
+
+> **EN** And when all this was done, from the flowing of the fire, and the disturbance which troubled them in that place, there was produced a smell of brimstone, which mixed with these waters, and the valley of the angels who seduced others, burned beneath that earth.
+
+**67:7** (pt 67:7 · en 66:7)
+
+> **PT** De seus vales saem rios de fogo onde são castigados esses Vigilantes que seduziram a quem habita sobre a terra.
+
+> **EN** And rivers of fire flowed through that valley, to which those angels shall be condemned, who seduced the inhabitants of the earth.
+
+**67:8** (pt 67:8 · en 66:8)
+
+> **PT** Essas águas servirão nestes dias aos reis, aos poderosos e aos dignitários e a aqueles que habitam sobre a terra, para saúde do corpo e para castigo do espírito, mas seu espírito está cheio de cobiça e sua carne será castigada porque rechaçaram ao Senhor dos espíritos. Serão castigados diariamente e mesmo assim não acreditarão no Senhor dos espíritos.
+
+> **EN** And in those days the waters shall be to kings, to the mighty, and the elevated, and to the inhabitants of the earth, for the healing of the soul and body, and for the judgment of the spirit.
+
+**67:9** (pt 67:9 · en 66:9-66:11)
+
+> **PT** Tanto como seu corpo é inflamado, produz-se uma mudança em seu espírito pelos séculos dos séculos, porque ninguém profere uma palavra vã ante o Senhor dos espíritos.
+
+> **EN** Their spirits shall be filled with sport, that they may be judged in their bodies, because they have denied the Lord of spirits, and they shall see their judgment every day, yet they acknowledge not his name. And as the ardour of their bodies shall be great, there shall be an alteration in their spirits for ever and ever. For no word which is spoken before the Lord of spirits shall be in vain.
+
+**67:10** (pt 67:10 · en 66:12)
+
+> **PT** Porque o julgamento virá sobre eles por causa de que eles acreditam no desejo de sua carne e rechaçam ao Espírito do Senhor.
+
+> **EN** Judgment shall come upon them, because they trusted in the sport of their bodies, and denied the Lord of spirits.
+
+**67:11** (pt 67:11 · en 66:13)
+
+> **PT** Nesses dias houve nessas águas uma mudança, pois quando os Vigilantes são castigados nelas as fontes de água trocam de temperatura, e quando os anjos sobem as águas se voltam fritem.
+
+> **EN** And in those days these waters shall suffer a change, for when the angels shall be judged, in those days the heat of these springs of water will be altered.
+
+**67:12** (pt 67:12 · en 66:14)
+
+> **PT** Ouvi o Miguel falar e dizer: Este julgamento no que os Vigilantes são sentenciados é um testemunho para os reis e quão poderosos dominam a terra;
+
+> **EN** And when the angels shall ascend, the water of these springs will be changed, and be frozen. Then I heard holy Michael answer and say, This judgment with which the angels shall be judged, is a witness against the kings, the mighty, and those who possess the earth,
+
+**67:13** (pt 67:13 · en 66:15)
+
+> **PT** porque estas águas de castigo proporcionam saúde aos corpos dos reis e curam a concupiscência de sua carne, entretanto eles não acreditam nem vêem que essas águas trocarão e se converterão em fogo que arderá para sempre.
+
+> **EN** For these waters of judgment shall be for the healing of the angels, and the death of their bodies, but they shall not see, and not believe, that the waters will be changed, and become a fire, which shall burn for ever.
+
+### Capítulo 68
+
+**68:1** (pt 68:1 · en 67:1)
+
+> **PT** depois disso, meu avô Enoque me deu a explicação de todos os mistérios em um livro e nas parábolas que lhe tinham sido dadas e ele as reuniu para mim nas palavras do Livro das Parábolas.
+
+> **EN** After this he gave me the direction of all the secrets in the book of my great-grandfather Enoch, and in the parables which had been given to him, and he inserted them for me among the words of the book of parables.
+
+**68:2** (pt 68:2 · en 67:2)
+
+> **PT** Esse dia Miguel falou e disse ao Rafael: O poder do Espírito me transporta e me faz estremecer por causa da severidade do julgamento pelos segredos e do castigo dos anjos. Quem poderá suportar a rigorosa sentença que foi executada e frente a qual eles se desfazem?
+
+> **EN** And on that day, holy Michael answered and said to Raphael, The power of the spirit seizes me, and moves me. The rigour of the judgment, the secret judgment of the angels, who is able to endure the sharp judgment which is finished and remains? And they were melted by it. Again holy Michael said to holy Raphael, Who is there whose heart is not softened over it, and whose reins are not moved at this voice?
+
+**68:3** (pt 68:3 · en 67:3)
+
+> **PT** Miguel falou de novo e disse ao Rafael: Existe alguém cujo coração não seja meio doido por isso e cujos rins não se turvem por esta sentença proferida contra aqueles que foram arrojados?
+
+> **EN** Judgment has gone forth against them by those who in such a manner have taken them away, and that was done when they stood before the Lord of spirits.
+
+**68:4** (pt 68:4 · en 67:4)
+
+> **PT** Mas aconteceu que quando Miguel chegou ante o Senhor do espíritos, disse ao Rafael: Não farei a defesa deles aos olhos do Senhor, pois o Senhor dos espíritos está furioso com eles, porque se comportaram como se fossem o Senhor.
+
+> **EN** Also holy Rakael said to Raphael, They shall not be before the eye of the Lord, for the Lord of spirits has been angry with them, for they have conducted themselves like lords, therefore a secret judgment shall come upon them for ever and ever.
+
+**68:5** (pt 68:5 · en 67:5)
+
+> **PT** Por isso, tudo o que é secreto virá contra eles pelos séculos dos séculos; pois nem anjo nem humano receberão sua porção, mas eles receberam sua sentença pelos séculos dos séculos.
+
+> **EN** For neither angel or man shall receive a portion of it, but they alone shall receive their own judgment for ever and ever.
+
+### Capítulo 69
+
+**69:1** (pt 69:1 · en 68:1)
+
+> **PT** depois deste julgamento estarão cheios de estupor e os farão tremer porque eles revelaram aquilo a quão humanos habitam a terra.
+
+> **EN** After this judgment they shall be put in amazement, and be excited, for it shall be shewn to the inhabitants of the earth.
+
+**69:2** (pt 69:2 · en 68:2)
+
+> **PT** Hei aqui os nomes destes Vigilantes: Samiaza, quem era o principal e em ordem com relação a ele, Artekifa, Armen, Akibu, Tamio, Ramio, Danju, Zekio, Baraku, Azaso, Harmer, Matréu, Ananu, Satã, Samio, Sahário, Tumã, Taru, Jomjã, e Jehádio.
+
+> **EN** Behold the names of these angels. These are their names. The first of them is Samiaza, the second Arstikapha, the third Armen, the fourth Akibeel, the fifth Tamiel, the sixth Ramiel, the seventh Danyal, the eighth Zakiel, the ninth Barakel, the tenth Azaziel, the eleventh Armers, the twelfth Bataryal, the thirteenth Ananel, the fourteenth Thausael, the fifteenth Samiel, the sixteenth Ertael, the seventeenth Tumael, the eighteenth Tarel, the nineteenth Yomyael, the twentieth Sariel.
+
+**69:3** (pt 69:3 · en 68:3)
+
+> **PT** E os que seguem são os nomes de seus anjos, de seus chefes de centenas e cinquentenas.
+
+> **EN** These are the heads of their angels, and the names of the leaders of their hundreds, and the leaders of their fifties, and the leaders of their tens.
+
+**69:4** (pt 69:4 · en 68:4)
+
+> **PT** O primeiro é Jekon, este Satanás induziu a todos os filhos do céu e os fez descender sobre a terra e os seduziu com as filhas dos homens.
+
+> **EN** The name of the first is Satan: it was he who seduced all the angels the sons of the holy One, and caused them to descend on earth and they corrupted the generation of men.
+
+**69:5** (pt 69:5 · en 68:5)
+
+> **PT** O nome do segundo é Asbeo, este deu um mau conselho aos filhos do céu e os conduziu a corromper-se a si mesmos com as filhas dos homens.
+
+> **EN** The name of the second is Kesabel, who gave evil counsel to the angels, the sons of the holy One, and seduced them to corrupt their bodies with the generation of men.
+
+**69:6** (pt 69:6 · en 68:6-68:7)
+
+> **PT** O nome do terceiro é Gadréu, este mostrou às filhas dos homens todas as formas de dar morte, foi ele quem seduziu a Eva e ele é quem ensinou aos filhos dos homens os escudos, as couraças, as espadas de combate e todas as armas de morte;
+
+> **EN** The name of the third is Gaderel, this is he who discovered every stroke of death to the children of men. He seduced Eve, and shewed the instruments of death to the children of men, the shield, the coat of mail, and the sword for slaughter, every instrument of death to the children of men.
+
+**69:7** (pt 69:7 · en 68:8)
+
+> **PT** desde sua mão eles procederam contra quem vive na terra desde esse dia e por todas as gerações.
+
+> **EN** From his hand went these to them who dwell on earth from that time and for ever.
+
+**69:8** (pt 69:8 · en 68:9-68:11)
+
+> **PT** O nome do quarto é Panamuo, este mostrou aos filhos dos homens o amargo e o doce, e lhes revelou todos os segredos de sua sabedoria:
+
+> **EN** The name of the fourth is Tenemue, he shewed to the children of men bitterness and sweetness, And shewed them all the secrets of their wisdom, And he taught men to write, and with ink and paper.
+
+**69:9** (pt 69:9 · en 68:12)
+
+> **PT** ensinou aos humanos a escrever com tinta e papiros e são muitos os que se desencaminharam por causa disso, do começo até este dia.
+
+> **EN** Therefore they have been numerous who have been mistaken, from every time of the world unto this day.
+
+**69:10** (pt 69:10 · en 68:13)
+
+> **PT** Porque os homens não foram gastos ao mundo com o propósito de afiançar sua crença na tinta e o papel,
+
+> **EN** For men were not born for that, with pen and ink to confirm their faith.
+
+**69:11** (pt 69:11 · en 68:14-68:16)
+
+> **PT** mas sim os humanos foram criados com a intenção de que vivessem puros e justos para que a morte que todo o destrói não pudesse lhes alcançar. Mas por culpa deste conhecimento dele, o poder dela me devora.
+
+> **EN** For they were created to remain righteous and pure like the angels; And death which destroys every thing, would not have been able to hurt them. But by this their knowledge of sin they perish, therefore the power of sin consumes them.
+
+**69:12** (pt 69:12 · en 68:17)
+
+> **PT** O nome do quinto é Kasdeiã, este mostrou aos filhos dos homens todas a pragas dos espíritos e os demónios: a praga de embrião no ventre para que aborte, a mordida de serpente, a praga que sobrevém com o calor de meio-dia, o filho da serpente cujo nome é Tabaet.
+
+> **EN** The name of the fifth is Kasyade, he shewed to the children of men every wicked stroke of spirits and of demons.
+
+**69:13** (pt 69:13 · en 68:18)
+
+> **PT** Esta é a tarefa de Kasbeel, mostrou aos Santos o chefe do juramento, cujo nome é Biqa.
+
+> **EN** The stroke of the embryo in the womb to crush it, the stroke of the spirit by the bite of the serpent, and the stroke which is at noon, the offspring of the serpent, the name of which is Tabaet.
+
+**69:14** (pt 69:14 · en 68:20)
+
+> **PT** Este pediu a Miguel que lhe revelasse o nome secreto para que o mencionasse no juramento, porque aqueles que revelaram aos filhos dos homens tudo o que é secreto, tremem ante este nome.
+
+> **EN** It's name is Beka. He spoke to holy Michael to shew to them the secret name, that they might see that secret name, and thus remember the decree, and that they might tremble at that name and decree, they who shewed any secret to the children of men.
+
+**69:15** (pt 69:15 · en 68:21-68:22)
+
+> **PT** Hei aqui que o poder deste juramento é forte e poderoso e Ele dispôs este juramento Akâe, na mão do Miguel.
+
+> **EN** This is the power of that decree, for it is powerful and strong. And he appointed this decree of Akae by the hands of the holy Michael.
+
+**69:16** (pt 69:16 · en 68:23-68:24)
+
+> **PT** Estes são os segredos deste juramento: eles são fortes em seu juramento e o céu foi suspenso antes de que o mundo fora criado;
+
+> **EN** These are the secrets of this decree, and by it they were confirmed. Heaven was suspended before the world was created, and for ever.
+
+**69:17** (pt 69:17 · en 68:25)
+
+> **PT** por isso a terra foi cimentada sobre a água e do mais recôndito das montanhas provêm águas formosas, da criação do mundo até a eternidade;
+
+> **EN** By it the earth has been fixed in suspense over the water, while from the concealed parts of the hills, the clear running waters come forth from the creation of the world, and for ever.
+
+**69:18** (pt 69:18 · en 68:26)
+
+> **PT** devido a este juramento o mar foi criado e para seu alicerce no tempo da cólera Lhe deu areia e ela não se atreve a ir-se mais à frente da criação do mundo até a eternidade;
+
+> **EN** By this decree the sea has been formed and its foundation.
+
+**69:19** (pt 69:19 · en 68:27)
+
+> **PT** por este juramento as profundidades são firmes e estáveis e não se movem de seu sítio, da eternidade até a eternidade;
+
+> **EN** During the time of its joy he has placed the sand against it, and it is unaltered from the creation of the world, and for ever, and by this decree the abyss has been strengthened, and remains, and it moves not from its place for ever and ever.
+
+**69:20** (pt 69:20 · en 68:28)
+
+> **PT** por este juramento o sol e a lua cumprem sua rota sem desobedecer suas leis, da eternidade até a eternidade;
+
+> **EN** By this decree the sun and moon fulfil their course, and never depart from their command for ever and ever.
+
+**69:21** (pt 69:21 · en 68:30)
+
+> **PT** por este juramente as estrelas seguem seu curso, Ele as chama por seu nome e elas lhe respondem, da eternidade até a eternidade.
+
+> **EN** And when he calls their names, they answer him for ever and ever.
+
+**69:22** (pt 69:22 · en 68:31)
+
+> **PT** De igual forma os espíritos da água, dos ventos e de todas as brisas desde todas as regiões da terra.
+
+> **EN** And thus the winds are on the waters, and truly they have spirits, and in their ways a combination of spirits.
+
+**69:23** (pt 69:23 · en 68:32-68:33)
+
+> **PT** Ali são preservadas a voz do trovão e a luz do relâmpago e ali são preservados os depósitos do granizo, a geada, a neve a chuva e o rocio.
+
+> **EN** There the treasures of the sounding thunder are preserved, and the splendour of the lightning. There are preserved the treasures of hail, and of frost, the treasures of snow, and the treasures of rain, and of dew.
+
+**69:24** (pt 69:24 · en 68:34-68:35)
+
+> **PT** Todos estes são fiéis e dão graças ante o Senhor dos espíritos e lhe elogiam com todas suas forças e seu alimento está em toda ação de graças e agradecem, elogiam e louvam o nome do Senhor dos espíritos pelos séculos dos séculos.
+
+> **EN** All these confess and praise before the Lord of spirits. They glorify him with all their power of praise, and he supports them in all that thanksgiving, and they praise, glorify, and exalt the name of the Lord of spirits for ever and ever.
+
+**69:25** (pt 69:25 · en 68:36)
+
+> **PT** Este juramento é poderoso e através dele, seus atalhos são preservados e seu curso não será destruído.
+
+> **EN** And with them he confirms this decree, by which they and their paths are preserved, and their progress never fails.
+
+**69:26** (pt 69:26 · en 68:38)
+
+> **PT** E houve grande alegria entre eles, benzeram, elogiaram e louvaram ao Senhor, porque lhes foi revelado o nome deste Filho do Homem.
+
+> **EN** They praised, glorified, and exalted, because the name of the Son of man was revealed to them.
+
+**69:27** (pt 69:27 · en 68:39)
+
+> **PT** O se sentou sobre o trono de sua glória e a soma do julgamento lhe foi dada ao Filho do Homem e Ele tem feito que os pecadores sejam expulsos e destruídos da face da terra;
+
+> **EN** He sat upon the throne of his glory, and the principal part of the judgment was given to him, the Son of man. Sinners shall disappear, and perish from the face of the earth, and those who deceived them shall be bound with chains for ever.
+
+**69:28** (pt 69:28 · en 68:40)
+
+> **PT** e os que desencaminharam ao mundo serão atados com cadeias e no lugar onde tinham sido reunidos para a destruição serão encarcerados e todas suas obras desaparecerão da face da terra.
+
+> **EN** According to their degrees of depravity, they shall be imprisoned, and all their works shall dis appear from the face of the earth, nor thenceforth shall there be any to corrupt, for the Son of man has been seen sitting on the throne of his glory.
+
+**69:29** (pt 69:29 · en 68:41-68:42)
+
+> **PT** A partir de então nada se corromperá, porque este Filho do Homem apareceu e se sentou no trono de sua glória, toda maldade se afastará de sua presença e a palavra deste Filho do Homem sairá e se fortalecerá ante o Senhor dos espíritos. Esta é a terceira parábola do Enoque.
+
+> **EN** Every wicked thing shall disappear, and depart from before his face, and the word of the Son of man shall be confirmed in the presence of the Lord of spirits. This is the third parable of Enoch.
+
+### Capítulo 70
+
+**70:1** (pt 70:1 · en 69:1)
+
+> **PT** E aconteceu depois isto: que seu nome foi elevado em vida, acima para este Filho do Homem e para o Senhor dos espíritos, longe dos que vivem na terra;
+
+> **EN** After this was done, the name of the Son of man living with the Lord of spirits, was exalted by those who dwell on the earth.
+
+**70:2** (pt 70:2 · en 69:2)
+
+> **PT** e foi elevado sobre o carro do espírito e o nome desapareceu de entre eles.
+
+> **EN** He was exalted by the chariots of the spirit, and his name went forth in the midst of them.
+
+**70:3** (pt 70:3 · en 69:3)
+
+> **PT** Desde esse dia não fui contado mais entre eles e Ele me fez sentar entre duas regiões, entre o norte e o ocidente, ali onde os anjos tinham tomado cordas para medir para mim o lugar para os escolhidos e os justos.
+
+> **EN** From that day I was not drawn in the midst of them, but he seated me between two spirits, between the north and the west, where the angels received their ropes to measure out a place for the elect and the righteous.
+
+**70:4** (pt 70:4 · en 69:4)
+
+> **PT** Ali vi os primeiros pais e a quão justos do começo habitam nesse lugar.
+
+> **EN** There I saw the first fathers, and the righteous who dwell in that place for ever.
+
+### Capítulo 71
+
+**71:1** (pt 71:1 · en 70:1)
+
+> **PT** E ocorreu então que meu espírito foi transladado e subiu aos céus e vi os filhos de Deus. Eles caminhavam sobre chamas de fogo, suas roupas eram brancas e sua cara resplandecia como o cristal.
+
+> **EN** After this my spirit was concealed, and ascended into the heavens, I saw the angels the sons of the holy One, treading on flaming fire, their garments and raiment were white, and their countenances transparent as crystal.
+
+**71:2** (pt 71:2 · en 70:2-70:3)
+
+> **PT** Vi dois rios de fogo, a luz deste fogo brilhava como o jacinto e caí sobre meu rosto ante o Senhor dos espíritos.
+
+> **EN** I saw two streams of fire, and the splendour of the fire shone like the hyacinth. And I fell on my face before the Lord of spirits.
+
+**71:3** (pt 71:3 · en 70:4)
+
+> **PT** O anjo Miguel me tirou da mão direita, levantou-me e me conduziu dentro de tusso os mistérios e me revelou os segredos dos justos;
+
+> **EN** And the angel Michael, one of the archangels, took me by my right hand, raised me up, and brought me out to where there was every secret of mercy, and secret of righteousness.
+
+**71:4** (pt 71:4 · en 70:5)
+
+> **PT** me revelou os segredos dos limites do céu e todos os depósitos das estrelas, das luminárias, por onde nascem em presença dos Santos.
+
+> **EN** He shewed me all the hidden things of the ends of the heavens, all the receptacles of the stars, and the splendours of all, from whence they went forth before the face of the holy One.
+
+**71:5** (pt 71:5 · en 70:6-70:7)
+
+> **PT** O transladou meu espírito dentro do céu dos céus e vi que ali havia uma edificação de cristal e entre esses cristais, línguas de fogo vivo.
+
+> **EN** And he concealed the spirit of Enoch in the heaven of heavens. And I saw there in the midst of that light, that there was a mansion built with stones of crystal.
+
+**71:6** (pt 71:6 · en 70:8)
+
+> **PT** Meu espírito viu um círculo que rodeava de fogo esta edificação e em suas quatro esquinas havia fontes de fogo vivo.
+
+> **EN** And in the midst of these stones were tongues of living fire. My spirit saw an enclosure which enclosed this mansion, and from its four ends came forth streams of living fire, and they encompassed that mansion.
+
+**71:7** (pt 71:7 · en 70:9)
+
+> **PT** Ao redor dela havia Serafines, Querubins e Ofanines, estes são os que não dormem e vigiam o trono de sua glória.
+
+> **EN** And the Cherubim, and Seraphim, and the Ophanin surrounded it, these are they who never sleep, but preserve the throne of his glory.
+
+**71:8** (pt 71:8 · en 70:10)
+
+> **PT** Vi inumeráveis anjos, milhares e milhares, miríades e miríades rodeando essa edificação
+
+> **EN** And I saw angels innumerable, thousands of thousands, and myriads of myriads, who surrounded that mansion.
+
+**71:9** (pt 71:9 · en 70:11)
+
+> **PT** e ao Miguel, Rafael, Gabriel e Fénuel e a uma multidão de Santos incontável.
+
+> **EN** Michael, Raphael, Gabriel, Phanuel, and the holy angels who were in the heavens above, went in and out of that mansion. Michael, Raphael, Gabriel and Phanuel, went out of that mansion and holy angels without number.
+
+**71:10** (pt 71:10 · en 70:12)
+
+> **PT** Com eles estava a cabeça dos Dias, sua cabeça era branca e pura como a lã e seus vestidos eram indescritíveis.
+
+> **EN** With them was the Creator of days, whose head was white like wool, and pure, and his robe could not be described.
+
+**71:11** (pt 71:11 · en 70:13-70:14)
+
+> **PT** Caí sobre meu rosto, todo meu corpo deprimiu, meu espírito foi transfigurado, gritei com voz forte, com espírito de poder e benzi, elogiei e exaltei.
+
+> **EN** Then I fell upon my face, while all my flesh was loosened, and my spirit became changed. I cried out with my voice, with the spirit of power, and I praised, glorified, and exalted.
+
+**71:12** (pt 71:12 · en 70:15)
+
+> **PT** Estas bênções que saíram de minha boca foro consideradas agradáveis ante esta Cabeça dos Dias.
+
+> **EN** And these praises which went out of my mouth, were pleasing in the presence of the Creator of days.
+
+**71:13** (pt 71:13 · en 70:16)
+
+> **PT** E esta Cabeça dos Dias veio com o Miguel, Gabriel, Rafael e Fénuel e uma multidão inumerável de anjos.
+
+> **EN** The Creator of days came with Michael, and Gabriel, Raphael and Phanuel, with thousands of thousands, and myriads of myriads of angels without number.
+
+**71:14** (pt 71:14 · en 70:17)
+
+> **PT** Veio para mim, saudou-me com sua voz e me disse: Este é o Filho do Homem que foi engendrado pela justiça, a justiça reside sobre ele e a Cabeça dos Dias não lhe abandonará.
+
+> **EN** And that angel came to me, and with his voice saluted me, and said to me, Thou art the offspring of man, who art born for righteousness, and with thee righteousness remains.
+
+**71:15** (pt 71:15 · en 70:19-70:20)
+
+> **PT** Me disse: Ele proclamará sobre ti a paz, em nome do mundo por vir, porque de ali proveio a paz da criação do mundo e assim a paz estará sobre ti para sempre e por toda a eternidade.
+
+> **EN** He said to me, He shall call to thee Salem by his Name, for the world which exists, for from thence peace has gone forth since the creation of the world. And so he will be with thee for ever and ever.
+
+**71:16** (pt 71:16 · en 70:22)
+
+> **PT** Tudo andará por seu caminho e enquanto, a justiça não o abandonará jamais, com Ele viverá, com Ele sua herança e Dele não será separada nunca nem por toda a eternidade.
+
+> **EN** Their habitations and their portions shall be with thee, and they shall not be separated from thee for ever and ever.
+
+**71:17** (pt 71:17 · en 70:23-70:24)
+
+> **PT** Serão muitos dias com este Broto do Homem e a paz e o caminho correto será para os justos em nome do senhor dos espíritos, eternamente.
+
+> **EN** And thus shall length of days be with the Son of man. And there will be peace to the righteous in the direct way of righteousness, in the name of the Lord of spirits for ever and ever.
+
+## Livro Astronômico · Astronomical Book (caps. 72–82)
+
+### Capítulo 72
+
+**72:1** (pt 72:1 · en 71:1)
+
+> **PT** O Livro do Movimento da Luminárias Celestiais, as relações entre elas, de acordo com sua classe, seu domínio e sua estação, cada uma segundo seu nome e o sítio de sua saída e segundo seus meses, as quais Uriel, o santo anjo que estava comigo e que é seu guia, mostrou-me e me revelou todas suas leis exatamente como são e como se observam todos os anos do mundo, até a eternidade, até que se complete a nova criação que durará até a eternidade.
+
+> **EN** The book of the revolutions of the lights of heaven, one according to another as they are, according to their particular divisions, their particular powers, their particular times, their particular names, according to the places of their beginnings, and according to their particular months, which Uriel the holy angel who was with me shewed to me, who is their conductor. The whole account of them he shewed to me according to every year of the world for ever, until a new work shall be formed, which shall be eternal.
+
+**72:2** (pt 72:2 · en 71:2)
+
+> **PT** Esta é a primeira lei das luminárias, a luminária do sol, que tem seu nascimento nas portas orientais do céu e sua posta nas portas ocidentais do céu.
+
+> **EN** This is the first law of the luminaries; the sun and the light come by the gates of heaven which are on the east, and on the west are the western gates of heaven.
+
+**72:3** (pt 72:3 · en 71:3-71:5)
+
+> **PT** Vi seis portas onde o sol nasce e seis portas onde o sol se oculta, e a lua nasce e se oculta por essas portas, assim como os líderes das estrelas e quem os guia a eles. São seis portas ao oriente e seis ao ocidente, uma depois da outra em rigorosa ordem e além muitas janelas à direita e à esquerda dessas portas.
+
+> **EN** I saw six gates where the sun rises, and six gates where it sets. In these gates also the moon rises and sets, and the conductors of the stars with those who conduct them; six gates were at the rising, and six at the setting of the sun. All these one after another are even, and many windows are on the right, and on the left side of these gates.
+
+**72:4** (pt 72:4 · en 71:6)
+
+> **PT** Primeiro ali aparecia a grande luminária cujo nome é o sol e cuja circunferência é como a circunferência do céu e está totalmente cheio de um fogo que ilumina e abrasa.
+
+> **EN** And first that great light which is called the sun goes forth, the orb of which is as the orb of heaven, and the whole is filled with shining and burning fire.
+
+**72:5** (pt 72:5 · en 71:7-71:8)
+
+> **PT** O vento leva o carro no que ele ascende e o sol se oculta e retorna através do norte para retornar ao oriente e é conduzido para que entre por essa porta e brilhe na face do céu.
+
+> **EN** Where its chariot ascends, the wind blows forth. The sun sets in heaven, and turns by the north to go to the east, is conveyed so as to come by that gate, and enlighten the face of heaven.
+
+**72:6** (pt 72:6 · en 71:9)
+
+> **PT** Nesta forma nasce no primeiro mês pela grande porta que é a quarta.
+
+> **EN** In the same manner it goes forth in the first month by a great gate.
+
+**72:7** (pt 72:7 · en 71:11)
+
+> **PT** Nesta quarta porta pela qual o sol nasce o primeiro mês há doze janelas abertas das quais procede uma chama quando estão abertas em sua estação.
+
+> **EN** And in the fourth gate, through which the sun goes in the first month, there are twelve open windows, from which goes forth a flame, when they are opened at their proper times.
+
+**72:8** (pt 72:8 · en 71:12)
+
+> **PT** Quando o sol nasce vem desde essa quarta porta por trinta manhãs seguidas e fica exatamente pela quarta porta no ocidente do céu.
+
+> **EN** When the sun rises in heaven, it goes forth through this fourth gate thirty days, and descends by the fourth gate even with it in the west of heaven.
+
+**72:9** (pt 72:9)
+
+> **PT** Durante este período cada dia chega a ser mais comprido que o anterior e cada noite chega a ser mais curta que a anterior:
+
+> **EN** —
+
+**72:10** (pt 72:10 · en 71:23)
+
+> **PT** Nesse momento o dia se alargou em uma novena parte para costa da noite: o dia equivale a dez partes e a noite exatamente a oito partes.
+
+> **EN** At that time the day becomes shortened two parts, and the day becomes ten parts, and the night eight parts.
+
+**72:11** (pt 72:11 · en 71:36 · transposto)
+
+> **PT** O sol nasce por essa quarta porta e fica pela quarta e volta para a quinta porta oriental às trinta manhãs e nasce pela quinta porta e fica pela quinta porta.
+
+> **EN** It comes into that gate for thirty days, and sets in the opposite part of heaven in the west.
+
+**72:12** (pt 72:12 · en 71:13 · transposto)
+
+> **PT** Então o dia se alargou em duas partes e é de onze partes e a noite é mais curta e é de sete partes.
+
+> **EN** During that time the days lengthened from the day, and the night shortened from the night for thirty mornings long, and then the day is longer by two parts than the night.
+
+**72:13** (pt 72:13 · en 71:40 · transposto)
+
+> **PT** E retorna ao oriente e entra na sexta porta e nasce; e se oculta pela sexta porta durante trinta e uma manhãs, por conta de seu signo.
+
+> **EN** And it turns by these heights, thirty days rising and setting.
+
+**72:14** (pt 72:14 · en 71:10 · transposto)
+
+> **PT** Nesse momento o dia é mais comprido que a noite, o dia chega a ser o dobro da noite e equivale a doze partes e a noite é cortada e equivale a seis partes.
+
+> **EN** It goes through the fourth of these six gates which are at the setting of the sun.
+
+**72:15** (pt 72:15 · en 71:40 · transposto)
+
+> **PT** Então o sol se eleva para cortar o dia e alargar a noite e o sol retorna ao oriente para entrar pela sexta porta e nasce por ela, e fica, durante trinta manhãs.
+
+> **EN** And it turns by these heights, thirty days rising and setting.
+
+**72:16** (pt 72:16 · en 71:16 · transposto)
+
+> **PT** E quando as trinta manhãs aconteceram o sol diminuiu em uma parte exatamente e equivale a onze partes e a noite a sete.
+
+> **EN** Then the day becomes longer by a second portion, so that it is eleven parts, and the night becomes shorter, and is only seven parts.
+
+**72:17** (pt 72:17 · en 71:15 · transposto)
+
+> **PT** O sol sai do ocidente por essa sexta porta e vai ao oriente e nasce pela quinta porta durante trinta manhãs e fica no ocidente, de novo pela quinta porta.
+
+> **EN** The sun goes forth through the fourth gate, and sets in it, and turns to the fifth gate, which is in the east during thirty days, after which it goes forth, and sets in the fifth gate.
+
+**72:18** (pt 72:18 · en 71:14, 71:18-71:19, 71:21)
+
+> **PT** Nesse momento o dia diminui em outra parte e equivale a dez partes e a noite a oito.
+
+> **EN** The day is exactly ten parts, and the night is eight parts. At that time the day is longer than the night being twice the night, and becomes twelve parts. But the night is shortened and becomes six parts. Then the sun rises up that the day may be shortened, and the night lengthened. When thirty days are expired, the day becomes shortened one part, so that it is eleven parts, and the night is seven parts.
+
+**72:19** (pt 72:19 · en 71:17, 71:20, 71:22, 71:24)
+
+> **PT** O sol vai desde essa quinta porta e se oculta pela quinta porta do ocidente e nasce pela quarta porta durante trinta e um manhãs por causa de seu signo e se oculta pelo ocidente.
+
+> **EN** The sun turns to the east, and comes into the sixth gate, and rises and sets in the sixth gate thirty one days on account of its signs. And the sun turns to the east, and comes to the sixth gate, and there it rises and sets for thirty days. Then the sun goes from the west out of that sixth gate, and goes to the east, and goes in at the fifth gate thirty days, and sets again in the west, in the fifth gate of the west. Then the sun goes forth from the fifth gate, as it sets in the fifth gate, and rises in the fourth gate thirty one days, on account of its signs, and sets in the west.
+
+**72:20** (pt 72:20 · en 71:25)
+
+> **PT** Nesse momento o dia é igual de noite, chegam a ser equivalentes: a noite tem nove partes e nos dia nove partes.
+
+> **EN** At that time the day becomes equal with the night, and being equal, the night becomes nine parts, and the day nine parts.
+
+**72:21** (pt 72:21 · en 71:26)
+
+> **PT** O sol que nasce por essa porta e se oculta pelo ocidente, volta para o oriente, nasce pela terceira porta por trinta manhãs a pôr ao ocidente pela terceira porta.
+
+> **EN** Then the sun goes from that gate, as it sets in the west, and turns to the east, and goes forth from the third gate, for thirty days, and sets in the third gate.
+
+**72:22** (pt 72:22 · en 71:27)
+
+> **PT** Nesse momento a noite é mais larga que o dia e que as noites anteriores e cada dia é mais curto que no dia anterior até a trigésima manhã; a noite equivale exatamente a dez partes e o dia a oito.
+
+> **EN** At that time the night is lengthened from the day during thirty mornings, and the day is shortened from the day during thirty days, the night being exactly ten parts, and the day eight parts.
+
+**72:23** (pt 72:23 · en 71:28-71:29)
+
+> **PT** O sol que nasce por aquela terceira porta e fica pela terceira porta no ocidente, retorna para sair pelo oriente e nasce pela segunda porta durante trinta manhãs e assim mesmo fica pela segunda porta ao ocidente do céu.
+
+> **EN** The sun now goes from the third gate, as it sets in the third gate in the west, and turns to the east, and goes forth by the second gate of the east for thirty days. And so it sets in the second gate in the west of heaven.
+
+**72:24** (pt 72:24 · en 71:30)
+
+> **PT** Nesse momento a noite equivale a onze partes e o dia a sete.
+
+> **EN** At that time the night is eleven parts, and the day seven parts.
+
+**72:25** (pt 72:25 · en 71:31-71:32)
+
+> **PT** O sol que sai durante esse período por essa segunda porta e fica ao ocidente pela segunda porta, volta para o oriente pela primeira porta durante trinta e uma manhãs e se oculta pela primeira porta ao ocidente do céu.
+
+> **EN** And at that time the sun goes from the second gate, as it sets in the second gate in the west, and turns towards the east by the first gate for thirty-one days, And sets in the west in the first gate.
+
+**72:26** (pt 72:26 · en 71:33-71:34)
+
+> **PT** Nesse momento a noite se alargou até chegar a ser duas vezes o dia: a noite equivale exatamente a doze partes e o dia a seis.
+
+> **EN** At that time the night is lengthened so as to be double the length of the day. It is exactly twelve parts, and the day six parts.
+
+**72:27** (pt 72:27 · en 71:35)
+
+> **PT** O sol que percorreu as secções de suas estações, volta de novo sobre elas e entra por cada uma de suas portas durante trinta manhãs e fica ao ocidente pela oposta.
+
+> **EN** The sun has arrived at its elevation, and a second time makes its progress from that elevation.
+
+**72:28** (pt 72:28 · en 71:37-71:38)
+
+> **PT** Então a noite diminui uma parte sua duração e a noite equivale a onze partes e o dia a sete.
+
+> **EN** All that time the night is shortened in its length one part, and becomes eleven parts, And the day seven parts.
+
+**72:29** (pt 72:29 · en 71:39)
+
+> **PT** O sol retornou e entrou pela segunda porta do oriente e retorna pelas secções de seu curso durante trinta manhãs nascendo e ocultando-se.
+
+> **EN** Then the sun turns and comes into the second gate of the east.
+
+**72:30** (pt 72:30)
+
+> **PT** Nesse momento a duração da noite diminui e equivale a dez partes e o dia a oito.
+
+> **EN** —
+
+**72:31** (pt 72:31 · en 71:41)
+
+> **PT** Então o sol nasce pela segunda porta e fica pelo ocidente e volta para o oriente e nasce pela terceira porta durante trinta e uma manhã e fica ao ocidente do céu.
+
+> **EN** At that time the night is shortened in its length, it becomes ten parts, and the day eight parts, then the sun goes from that second gate, and sets in the west, and it turns to the east, and rises in the east in the third gate thirty-one days, and sets in the west of heaven.
+
+**72:32** (pt 72:32 · en 71:42)
+
+> **PT** Nesse momento a noite se cortou e equivale a nove partes e o dia equivale a nove partes, a noite é igual ao dia e o ano tem exatamente trezentos e sessenta e quatro dias.
+
+> **EN** At that time the night becomes diminished, it is nine parts, and the day is nine parts, and the night is equal with the day. The year is exactly three hundred and sixty-four days.
+
+**72:33** (pt 72:33 · en 71:43)
+
+> **PT** A duração do dia e da noite e o encurtamento do dia ou da noite, são assinaladas pelo percurso do sol.
+
+> **EN** The lengthening of the day and the night, and the shortening of the day and the night, are made to differ from each other by the progress of the sun.
+
+**72:34** (pt 72:34 · en 71:44)
+
+> **PT** Assim nesse percorrido o dia se alarga e a noite se corta.
+
+> **EN** By reason of this progress the day is lengthened from the day, and the night shortened from the night.
+
+**72:35** (pt 72:35 · en 71:45)
+
+> **PT** Esta é a lei do percurso do sol e seu retorno, segundo a qual o volta e nasce sessenta vezes, assim a grande luminária que se chama sol, pelos séculos dos séculos.
+
+> **EN** This is the law and progress of the sun, and its turning when it turns back, it turns during sixty days and goes forth. This is the great everlasting light, that which he names the sun for ever and ever.
+
+**72:36** (pt 72:36 · en 71:46)
+
+> **PT** A que se levanta é a grande luminária, nomeada segundo sua própria aparência, como o ordenou o Senhor.
+
+> **EN** This also is that which goes forth a great light, which is named according to its appearance, as the Lord has commanded.
+
+**72:37** (pt 72:37 · en 71:47)
+
+> **PT** Assim como nasce-se oculta, sem decrescer nem descansar, a não ser percorrendo dia e noite; e sua luz brilha sete vezes mais que a da lua, embora ao observá-los a ambos tenham igual tamanho.
+
+> **EN** And so it goes in and out without diminishing, or resting, but runs day and night in its chariot, and its light enlightens seven parts from the moon, but the light of both is extended for the same purpose.
+
+### Capítulo 73
+
+**73:1** (pt 73:1 · en 72:1)
+
+> **PT** depois desta lei, vi outra lei, que trata sobre a pequena luminária, cujo nome é lua.
+
+> **EN** After this law I saw another law of lesser light, the name of which is the moon, the orb of which is as the orb of heaven.
+
+**73:2** (pt 73:2 · en 72:2)
+
+> **PT** Sua circunferência é como a circunferência do céu e o carro no qual subida e a luz lhe é dada com mesura;
+
+> **EN** And where its chariot ascends the wind blows forth, and light is given to it by measure.
+
+**73:3** (pt 73:3 · en 72:3-72:4)
+
+> **PT** e cada mês seu nascimento e sua posta se modificam; seus dias são como os dias do sol e quando sua luz é plena, é a sétima parte da luz do sol.
+
+> **EN** At the beginning and end of every month it is changed, and its days are as the days of the sun, and when in like manner its light is to be, its light is a seventh part from the light of the sun. And when it rises, its beginning is towards the east, it goes forth thirty days.
+
+**73:4** (pt 73:4 · en 72:5)
+
+> **PT** Assim nasce: em sua primeira fase nasce do lado do oriente o trigésimo dia e na época em que ela aparece é para vós o princípio do mês sobre o trigésimo dia, simultaneamente quando o sol está na porta pela qual nasce.
+
+> **EN** At that time it is seen and is to you the beginning of the month, it is thirty days with the sun in the gate from which the sun goes forth.
+
+**73:5** (pt 73:5 · en 72:6)
+
+> **PT** É visível na metade da sétima parte; toda sua circunferência está vazia sem luz, com exceção de sétimo meio, a décima quarta parte de sua luz.
+
+> **EN** One half of it being taken away, it is seven portions, and the whole of its orb is without any light, except a seventh portion out of the fourteen portions of its light, in a day it receives a seventh or half that portion of its light. Its light is by sevens, by one portion, and by the half of a portion it sets with the sun.
+
+**73:6** (pt 73:6 · en 72:7)
+
+> **PT** E quando recebe sétimo meio de sua luz, sua luz se incrementa a metade da sétima parte dela.
+
+> **EN** And when the sun rises, the moon rises with it, and receives a half portion of light.
+
+**73:7** (pt 73:7 · en 72:8)
+
+> **PT** fica com o sol e quando o sol nasce a lua nasce com ele e recebe a metade de uma sétima parte de luz e nessa noite, no começo de sua manhã, a lua se esconde com o sol e é invisível essa noite em sua décima quarta ou no sétimo meio.
+
+> **EN** And on that night in its beginning in the east, before the day of the month, the moon sets with the sun.
+
+**73:8** (pt 73:8 · en 72:9)
+
+> **PT** Ela nasce nesse momento exatamente com uma sétima parte e sai e se inclina por volta do nascimento do sol e no resto de seus dias chega a brilhar nas outras treze partes.
+
+> **EN** And it is dark on that night in its fourteen portions, that is in each half, but it rises on that day with a seventh portion exactly, and it goes forth and turns from the rising of the sun.
+
+### Capítulo 74
+
+**74:1** (pt 74:1 · en 73:1)
+
+> **PT** Vi outra rota, uma lei para ela, como por meio desta lei se cumpre o movimento de seus meses.
+
+> **EN** There I saw another progress and regulation which he made in the law of the moon. The progress of the moons, and every thing relating to them, Uriel the holy angel who conducted them all shewed to me.
+
+**74:2** (pt 74:2 · en 73:2-73:3)
+
+> **PT** Tudo isto me mostrou isso Uriel, o anjo santo que o líder de todos eles, anotou sua posição tal e como ele me revelou isso e anotou seus meses tal e como são e o aspecto de sua luz até que se cumpram quinze dias.
+
+> **EN** I wrote down all their situations, as he shewed them to me. I wrote down their months as they are, with the appearance of their light, until it is filled up in fifteen days.
+
+**74:3** (pt 74:3 · en 73:4)
+
+> **PT** Em cada sétima parte ela cumpre sua luz ao oriente e em cada sétima parte ela cumpre sua escuridão ao ocidente.
+
+> **EN** In each of its single seven portions, it completes all its light at rising, and in each of its single seven portions, it completes all its darkness at setting.
+
+**74:4** (pt 74:4)
+
+> **PT** Em certos meses ela altera suas postas e em certos meses ela segue seu próprio curso.
+
+> **EN** —
+
+**74:5** (pt 74:5 · en 73:5)
+
+> **PT** São dois os meses em que a lua se esconde com o sol, pelas duas portas que está na metade, a terceira e a quarta.
+
+> **EN** On appointed months it goes its course alone, and in two gates the moon sets with the sun, in the two gates which are in the middle, in the third and fourth gates. It goes forth seven days, and makes its circuit.
+
+**74:6** (pt 74:6 · en 73:6-73:7)
+
+> **PT** Ela sai por sete dias, vira e retorna pela porta por onde sai o sol.
+
+> **EN** And it turns again to the gate whence the sun goes forth, and in that makes full all its light, then it declines from the sun, and comes in eight days into the sixth gate, and returns in seven days into the third gate, from which the sun goes forth. When the sun goes forth from the fourth gate, the moon goes forth for seven days, until it goes forth from the fifth gate.
+
+**74:7** (pt 74:7 · en 73:8)
+
+> **PT** Quando o sol sai pela sétima porta, ela sai por sete dias, até que nasce pela quinta e vira e retorna de novo durante sete dia pela quarta porta, completa toda sua luz, afasta-se e entra pela primeira porta durante oito dias.
+
+> **EN** Again it turns in seven days to the fourth gate, and there makes full all its light, and turns, and comes by the first gate, eight days,
+
+**74:8** (pt 74:8 · en 73:9)
+
+> **PT** Ela retorna durante sete dias pela quarta porta pela que sai o sol.
+
+> **EN** And returns in seven days to the fourth gate, from which the sun goes forth.
+
+**74:9** (pt 74:9 · en 73:10)
+
+> **PT** Assim vi sua posição, como a lua sai e o sol fica durante esses dias.
+
+> **EN** Thus I saw their situations, according to the fixed order of the months the sun rises and sets.
+
+**74:10** (pt 74:10 · en 73:11)
+
+> **PT** Se acrescentarmos cinco anos o sol tem um excedente de trinta dias e todos os dias que suma um destes cinco anos ao completar-se, são trezentos e sessenta e quatro dias.
+
+> **EN** At these times there are in five years, thirty days belonging to the sun. All the days belonging to each year of the five years, when completed, amount to three hundred and sixty-four days, and to the sun and stars belong six days, six days in each of the five years, thus thirty days belong to them.
+
+**74:11** (pt 74:11 · en 73:12)
+
+> **PT** O excedente do sol e as estrelas chega a seis dia, em cinco anos da seis dias por ano são trinta dias e à lua faltam trinta dias com respeito ao sol e as estrelas.
+
+> **EN** So that the moon has thirty days less than the sun and stars.
+
+**74:12** (pt 74:12)
+
+> **PT** O sol e as estrelas têm completo o ano exatamente, tanto que eles não adiantam nem retrocedem sua posição nem um só dia por toda a eternidade e completam os anos com perfeita justiça cada trezentos e sessenta e quatro dias.
+
+> **EN** —
+
+**74:13** (pt 74:13 · en 73:13)
+
+> **PT** Em três anos há mil e noventa e dois dias, em cinco anos, mil oitocentos e vinte dias e em oito anos dois mil novecentos e doze dias.
+
+> **EN** The moon brings on all the years exactly, that their places may neither be before, or be delayed a single day, but that the exact changing of the year may be in three hundred and sixty-four days. Three years have one thousand and ninety-two days, and five years, one thousand eight hundred and twenty days: so there are in eight years two thousand nine hundred and twelve days.
+
+**74:14** (pt 74:14 · en 74:6 · transposto)
+
+> **PT** Mas para a lua só seus dias em três anos chegam a mil e sessenta e dois e aos cinco anos faltam cinquenta dias,
+
+> **EN** The years;
+
+**74:15** (pt 74:15 · en 73:14 · transposto)
+
+> **PT** Ela tem em cinco anos mil setecentos e setenta dias e assim há para a lua durante oito anos, dois mil oitocentos e trinta e dois dias.
+
+> **EN** To the moon alone come in three years one thousand and sixty-two days, in five years it has fifty days less than the sun, for an addition being made to the thousand and sixty-two days, in five years there are one thousand seven hundred and seventy days, and the days of the moon in eight years are two thousand eight hundred and thirty-two days.
+
+**74:16** (pt 74:16 · en 73:15)
+
+> **PT** Aos oito anos faltam oitenta dias.
+
+> **EN** For its days in eight years are less than the days of the sun by eighty days, and these eighty days are what it has less in eight years.
+
+**74:17** (pt 74:17 · en 73:16)
+
+> **PT** O ano se cumpre regularmente segundo as estações do mundo e a posição do sol, que sai pelas portas pelas quais nasce e se oculta durante trinta dias.
+
+> **EN** The year then becomes truly complete according to the place of the moons, and the place of the sun, which rise in the different gates, which rise and set in them for thirty days.
+
+### Capítulo 75
+
+**75:1** (pt 75:1 · en 74:1-74:2)
+
+> **PT** Os chefes das cabeças de mil que estão encarregados de toda a criação e de todas as estrelas têm o que fazer com os quatro dias intercalados, sendo inseparáveis de sua obra de acordo com o cômputo do ano, têm que emprestar serviço durante quatro dias que não são contabilizados.
+
+> **EN** These are the heads of the chiefs of thousands, which are over the whole creation, and over all the stars, with the four days which are added, and never separated from their place according to the exact account of the year. And these four days are wanted, which are not reckoned in the account of the year.
+
+**75:2** (pt 75:2 · en 74:3-74:4)
+
+> **PT** Por esta causa os homens se equivocam, pois estas luminárias emprestam serviço exatamente às estações do mundo, uma pela primeira porta, outra pela terceira, outra pela quarta e outra pela sexta porta, e a harmonia do mundo se cumpre em trezentos e sessenta e quatro estações.
+
+> **EN** And men err concerning them, for in truth these lights want, in the place of the course of the world, one day in the first gate, one in the third gate, one in the fourth, and one in the sixth gate. And the course of the world becomes exactly finished every three hundred and sixty-fourth state of it, for the signs;
+
+**75:3** (pt 75:3 · en 74:7-74:9)
+
+> **PT** Porque os signos, os tempos, os anos, e os dias me mostrou isso Uriel, o Vigilante a quem o Senhor de glória encarregou que todas as luminárias do céu e no mundo, para que reinem sobre a superfície do céu, sejam vistas da terra e sejam as guias do dia e da noite, assim o sol, a lua, as estrelas e todas as criaturas auxiliares que percorrem suas carreiras nos carros do céu.
+
+> **EN** And the days Uriel shewed me, the angel whom the Lord of glory, who is for ever, appointed over all the lights of heaven; In heaven, and in the world, that they might rule in the face of the sky, and appear over the earth, and become Conductors of the days and nights, the sun, the moon, the stars, and all the ministers of heaven, who make their revolutions with all the chariots of heaven.
+
+**75:4** (pt 75:4 · en 74:10)
+
+> **PT** Da mesma forma Uriel me mostrou doze portas abertas no percurso dos carros do sol nos céus; por elas saem os raios do sol e se expande o calor sobre a terra quando estão abertas nas estações que lhe são atribuídas.
+
+> **EN** Thus Uriel shewed me twelve gates open for the circuit of the chariots of the sun in heaven, from which the rays of the sun go forth.
+
+**75:5** (pt 75:5 · en 74:11)
+
+> **PT** Elas servem também para o vento e o espírito do rocio quando estão abertas nos limites dos céus.
+
+> **EN** And from these the heat goes forth over the earth, when they are opened at their appointed seasons, they are for the winds, and the spirit of the dew, when in their seasons they are opened at the ends of heavens.
+
+**75:6** (pt 75:6 · en 74:12)
+
+> **PT** São doze as portas do céu nos limites da terra, das quais saem o sol, a lua, as estrelas e toda criação no céu ao oriente e ao ocidente;
+
+> **EN** I saw twelve gates in heaven at the ends of the earth, through which the sun, moon, and stars, and all the works of heaven go forth at their rising and setting.
+
+**75:7** (pt 75:7 · en 74:14)
+
+> **PT** e há numerosas janelas abertas a sua direita e a sua esquerda e cada janela pulveriza calor em sua estação; elas corresponde a essas portas pelas que saem as estrelas e se ocultam de acordo com seu número, conforme o mandou Ele.
+
+> **EN** One window at a certain time grows very hot, so also are those gates from whence the stars go forth, according to their law, and in which they set according to their number.
+
+**75:8** (pt 75:8 · en 74:15)
+
+> **PT** Vi nos céus carros que percorrem o mundo por cima dessas portas e neles rodam as estrelas que não se ocultam.
+
+> **EN** I also saw the chariots of heaven running in the world above, and below these gates in which the stars turn, which never set. One of these is greater than all, and this goes round the whole world.
+
+**75:9** (pt 75:9)
+
+> **PT** Há um maior que todos, que lhe dá a volta ao mundo inteiro.
+
+> **EN** —
+
+### Capítulo 76
+
+**76:1** (pt 76:1 · en 75:1)
+
+> **PT** Nos limites da terra vi doze portas abertas para todas as regiões; por elas saem os ventos e desde elas sopram sobre a terra.
+
+> **EN** And at the ends of the earth I saw twelve gates open for all the winds, from which they come forth, and blow over the earth.
+
+**76:2** (pt 76:2 · en 75:2)
+
+> **PT** Três delas estão abertas sobre a face do céu, três ao ocidente, três à direita do céu e três à esquerda.
+
+> **EN** Three of them are open in the face of heaven, three in the west, three on the right side of heaven, and three on the left, the first three are those which are towards the east, three are towards the north, three behind those which are on the left towards the north, and three towards the west.
+
+**76:3** (pt 76:3)
+
+> **PT** As três primeiras são as que estão ao oriente, as três seguintes ao ao sul, as três seguintes ao norte e as três seguintes ao ocidente.
+
+> **EN** —
+
+**76:4** (pt 76:4 · en 75:3)
+
+> **PT** Por quatro delas saem os ventos que são para a cura da terra e para sua vivificação, e por oito saem os ventos prejudiciais que quando são enviados destroem toda a terra, as águas e tudo o que há nelas, o que cresce, floresce ou repta, tanto nas águas como na terra seca e tudo o que vive nela.
+
+> **EN** From four of these proceed winds of blessing and of health, and from the remaining eight go forth winds of punishment, when they are sent to destroy all the earth, and the water which is upon it, and all who dwell upon it, and all who are in the waters, or on the earth.
+
+**76:5** (pt 76:5 · en 75:4)
+
+> **PT** Primeiro sai o vento do oriente pela primeira porta oriental e se inclina para o sul. por ali sai a destruição, a seca, o calor e a desolação
+
+> **EN** The first of these winds goes forth from the gate called the eastern, through the first gate on the east, which inclines to the south. From this gate goes forth destruction, drought, heat, and perdition.
+
+**76:6** (pt 76:6 · en 75:5)
+
+> **PT** Pela segunda porta, a do meio, sai o vento do Esteja-este: a chuva, os frutos, a reanimação e o rocio. Pela terceira porta sai o vento do nordeste que está perto do vento do norte: frio e seca.
+
+> **EN** From the second gate, the middle one, proceeds equity, there come from it rain, fruitfulness, health, and dew; and from the third gate towards the north go forth cold and drought.
+
+**76:7** (pt 76:7 · en 75:6)
+
+> **PT** detrás deles, pelas três portas que estão ao sul dos céus, sai em primeiro lugar pela primeira porta um vento do sul que está ao sul e ao oriente um vento de calor.
+
+> **EN** After these the winds in the direction of the south go forth through three principal gates, through their first gate, which is towards the east goes forth a hot wind.
+
+**76:8** (pt 76:8 · en 75:7)
+
+> **PT** Pela segunda porta sai um vento do sul ao que chamam sul: rocio, chuva, bem-estar, reanimação.
+
+> **EN** But from the middle gate proceed pleasant odour, dew, rain, health, and life.
+
+**76:9** (pt 76:9 · en 75:8)
+
+> **PT** Pela terceira porta sai um vento do sudoeste: rocio, chuva, lagosta e destruição.
+
+> **EN** From the third gate which is towards the west, proceed dew rain, blight, and destruction.
+
+**76:10** (pt 76:10)
+
+> **PT** Atrás deste, sai um vento norte que vem da sétima porta, para o oriente, com rocio, chuva, lagostas e desolação.
+
+> **EN** —
+
+**76:11** (pt 76:11 · en 75:9)
+
+> **PT** Da porta do meio sai diretamente um vento com saúde, chuva, rocio e prosperidade. Pela terceira porta, a que se inclina ao ocidente, vem um vento com nuvens, geada, neve, chuva, rocio e lagostas.
+
+> **EN** After these are the winds towards the north which is called the sea, they proceed from three gates, the first gate is that which is on the east inclining to the south, from this go forth dew, rain, blight, and destruction; from the middle direct gate go forth rain, dew, life, and health; and from the third gate which is towards the west, inclining towards the north, proceed mist, frost, snow, rain, dew, and blight.
+
+**76:12** (pt 76:12 · en 75:10)
+
+> **PT** depois destes estão os ventos do ocidente. Pela primeira porta, que está inclinada para o norte, sai um vento com rocio, geada, frio, neve e geada.
+
+> **EN** After these in the fourth quarter are the winds to the west, and from the first gate inclining to the north, go forth dew, rain, frost, snow, cold, and chill; and from the middle gate go forth dew, rain, health, and blessing.
+
+**76:13** (pt 76:13 · en 75:11)
+
+> **PT** Pela porta de no meio sai um vento com rocio, chuva, prosperidade e bênção. Através da última porta, a que se inclina ao sul, sai um vento com carestia, ruína, queima e desolação.
+
+> **EN** And from the last gate which is southwards, proceed drought, destruction, scorching, and perdition.
+
+**76:14** (pt 76:14 · en 75:12-75:13)
+
+> **PT** Se acabaram as doze portas dos quatro pontos cardeais do céu. Ensinei-te sua explicação completa OH, meu filho, Matusalém!
+
+> **EN** The account of the twelve gates of the four quarters of heaven is ended. I have shewn all their laws, all their punishment, and all their health, to thee my son Mathusala.
+
+### Capítulo 77
+
+**77:1** (pt 77:1 · en 76:1-76:2)
+
+> **PT** Ao oriente o chamam este porque é o primeiro; ao sul o chamam meio-dia porque ali habita o Grande e nele reside o Bendito por sempre.
+
+> **EN** The first wind is called the eastern, because it is the first. The second is called the south, because there the Most High descends, and he chiefly there descends, who is praised for ever.
+
+**77:2** (pt 77:2 · en 76:3)
+
+> **PT** Ao grande ponto cardeal o chamam poente porque ali vão as estrelas do céu, por ali ficam e por ali se ocultam, por isso o chamam poente.
+
+> **EN** The western wind has the name of deficiency, because all the lights of heaven are there diminished, and descend.
+
+**77:3** (pt 77:3 · en 76:4)
+
+> **PT** Ao norte o chamam norte porque no se escondem, se reúnem e se voltam todos os astros do céu e se dirigem para o oriente dos céus. Ao oriente o chamam levante porque de ali se elevam os corpos celestes e de ali se levantam. Vi três secções da terra: uma para que nela habitem os filhos dos homens, outra para todos os mares e os rios e outra para Os Sete e para o Paraíso de Justiça.
+
+> **EN** The fourth wind which is named the north is divided into three parts, one of is them for the habitation of men, another for seas of water, with valleys, woods, rivers, darkness, and snow, and in the third is paradise.
+
+**77:4** (pt 77:4 · en 76:5)
+
+> **PT** Vi sete montanhas mais altas que todas as montanhas que há sobre a terra, a neve as cobre e delas vêm os dias, as estações e os anos.
+
+> **EN** I saw seven high mountains higher than all the mountains of the earth, and from them frost goes forth, while days, seasons, and years go on, and pass away.
+
+**77:5** (pt 77:5 · en 76:6)
+
+> **PT** Vi sete rios sobre a terra, maiores que todos os rios, um dos quais vem do ocidente e suas águas desembocam no Grande Mar.
+
+> **EN** I saw seven rivers upon earth greater than all rivers, of which one comes from the west, and its waters flow into a great sea.
+
+**77:6** (pt 77:6)
+
+> **PT** Outros dois vêm do norte por volta do mar e suas águas desembocam no Mar do Eritrea.
+
+> **EN** —
+
+**77:7** (pt 77:7 · en 76:7)
+
+> **PT** Os outros quatro saem do lado do norte cada um por volta de seu respetivo mar: dois deles por volta do Mar do Eritrea e dois dentro do Grande Mar.
+
+> **EN** Two come from the north to the sea, their waters flowing into the Erythroean sea on the east, and with respect to those which remain, four go forth into the cavity of the north, two to their sea the Erythroean sea, and two are poured into a great sea, where it is said there is a desert.
+
+**77:8** (pt 77:8 · en 76:8)
+
+> **PT** Vi sete grandes ilhas no mar e o continente, dois por volta do continente e cinco em alta mar.
+
+> **EN** I saw seven great islands on the sea and on the earth, seven in the great sea.
+
+### Capítulo 78
+
+**78:1** (pt 78:1 · en 77:1)
+
+> **PT** Os nomes do sol são os seguintes: o primeiro é Oranies e o segundo Tomam;
+
+> **EN** The names of the sun are these, one Oryares, the other Tomas.
+
+**78:2** (pt 78:2 · en 77:2)
+
+> **PT** e a lua tem quatro nomes: o primeiro é Asonia, o segundo Ebela, o terceiro Benase e o quarto Erao.
+
+> **EN** The moon has four names, the first is Asonya, the second Ebla, the third Benase, and the fourth Erae.
+
+**78:3** (pt 78:3 · en 77:3)
+
+> **PT** Estas são as duas grandes luminárias, sua circunferência é como a circunferência do céu e a talha de suas duas circunferências é similar.
+
+> **EN** These are the two great lights whose orbs are as the orbs of heaven, and the light of both is extended for the same purpose.
+
+**78:4** (pt 78:4 · en 77:4)
+
+> **PT** dentro da circunferência do sol há sete partes de luz que lhe são acrescentadas de mais com respeito à lua e com completa mesura lhe é transferida a ela até a sétima parte extraída ao sol.
+
+> **EN** In the orb of the sun there is a seventh portion of light, which is given to it from the moon, it is put on by measure, until a seventh part of the light of the sun is departed, they set, and come into the western gate, go round by the north, and by the gate of the east go forth over the face of heaven.
+
+**78:5** (pt 78:5)
+
+> **PT** Elas ficam e entram pelas portas do ocidente, fazem seu virar pelo norte e voltam pelas portas do oriente sobre a face do céu.
+
+> **EN** —
+
+**78:6** (pt 78:6 · en 77:6)
+
+> **PT** Quando a lua se levanta, a metade de um sétimo de sua luz brilha nos céus para aparecer sobre a terra e se completa de dia em dia, até nos dia quatorze quando toda sua luz está completa.
+
+> **EN** And in fourteen days the whole of its light is completed.
+
+**78:7** (pt 78:7 · en 77:7)
+
+> **PT** Sua luz cresce por o décimo quinto e se completa de dia em dia até nos dia quinze, no qual toda sua luz está completa, segundo o signo dos anos. A lua cresce e realiza suas fases da sétimos meios.
+
+> **EN** By three quintuples light is put into it, until its light is full in fifteen days, according to the signs of the year, it has three quintuples.
+
+**78:8** (pt 78:8 · en 77:9)
+
+> **PT** Em sua fase minguante a lua diminui sua luz: o primeiro dia um décimo quarto; o segundo, um décimo terceiro; o terceiro, um décimo segundo; o quarto, um décimo primeiro; o quinto, um décimo; o sexto, um nono; o sétimo, um oitavo; o oitavo, um sétimo; o nono, um sexto; o décimo, um quinto; o décimo primeiro, um quarto; o décimo segundo, um terço; o décimo terceiro, um meio; o décimo quarto a metade de um sétimo; até que o décimo quinto desaparece todo remanescente de luz.
+
+> **EN** During its diminution on the first day, its light decreases a fourteenth part, on the second day it decreases a thirteenth part, on the third day a twelfth part, on the fourth day an eleventh part, on the fifth day a tenth part, on the sixth day a ninth part, on the seventh day it decreases an eighth part on the eighth day a seventh part, on the ninth day a sixth part, on the tenth day a fifth part, on the eleventh day a fourth part, on the twelfth day a third part, on the thirteenth day a second part, and on the fourteenth day it decreases a half of its seventh part, and on the fifteenth day there is an end of all its light.
+
+**78:9** (pt 78:9 · en 77:10-77:11)
+
+> **PT** Em certos meses tem vinte e nove dias e outras vezes vinte e oito dias.
+
+> **EN** On fixed months the moon has twenty-nine days. It has also a time of twenty-eight days.
+
+**78:10** (pt 78:10 · en 77:12)
+
+> **PT** E Uriel me ensinou outro cálculo, me havendo mostrado quando a luz é transferida à lua e sobre qual lado a transfere o sol.
+
+> **EN** Uriel also shewed me another regulation, when light is conveyed into the moon, it is conveyed into it from the sun.
+
+**78:11** (pt 78:11 · en 77:13)
+
+> **PT** Durante toda a fase crescente da lua, transfere-se sua luz frente ao sol durante quatorze dias até que se ilumina toda e sua luz é completa no céu.
+
+> **EN** All the time that the moon advances with its light, it is conveyed into it from the sun, until in fourteen days its light is completed in heaven,
+
+**78:12** (pt 78:12 · en 77:14)
+
+> **PT** O primeiro dia é chamada lua nova, porque desde esse dia sua luz cresce.
+
+> **EN** And when it is all finished its light is consumed in heaven, and on the first day it is called the new moon, for on that day it has received light.
+
+**78:13** (pt 78:13 · en 77:15-77:16)
+
+> **PT** Chega a ser lua enche exatamente no momento em que o sol se oculta pelo ocidente e ela sobe do oriente de noite e a lua brilha durante toda a noite, até que o sol nasce frente a ela e a lua é observada frente ao sol.
+
+> **EN** It becomes exactly full on the day that the sun descends into the west, while the moon ascends from the east in the night. The moon then shines all the night until the sun rises before it, and the moon is seen before the sun.
+
+**78:14** (pt 78:14 · en 77:17)
+
+> **PT** Pelo lado por que a luz da lua chega, por aí decresce de novo, até que toda sua luz desaparece, os dias do mês se completam e sua circunferência está vazia, sem luz.
+
+> **EN** When light comes to the moon, there again it diminishes, until all its light is vanished, and the days of the moon pass away.
+
+**78:15** (pt 78:15 · en 77:19)
+
+> **PT** Por três meses ela sai de trinta dias e em seu tempo ela sai por três meses de vinte e nove dias cada um, nos quais ela cumpre seu minguante no primeiro período de tempo e no primeiro portal, por cinto setenta e sete dias.
+
+> **EN** And in three months it performs its course in thirty days, and in three more months it performs it in twenty-nine days each. These are the times in which it makes its decrease in the first time, and in the first gate, in one hundred and seventy-seven days.
+
+**78:16** (pt 78:16 · en 77:20)
+
+> **PT** No tempo de seu nascimento ela aparece por três meses de trinta dias cada um e por três meses aparece vinte e nove dias cada um.
+
+> **EN** And at the time of its going forth during three months it appears thirty days each, and during three months it appears twenty-nine days.
+
+**78:17** (pt 78:17 · en 77:21)
+
+> **PT** Na noite ela aparece por vinte dias cada mês.
+
+> **EN** For each twenty days it appears in the night as a man, and in the day as heaven, for there is nothing in it except its* light,
+
+### Capítulo 79
+
+**79:1** (pt 79:1 · en 78:1)
+
+> **PT** Meu filho: já te ensinei tudo e a lei de todas as estrelas dos céus concluiu.
+
+> **EN** And now my son Mathusala, I have shewn thee every thing, and the account of every ordinance of the stars of heaven is ended.
+
+**79:2** (pt 79:2 · en 78:2 · transposto)
+
+> **PT** Me ensinou todas suas leis para todos os dias, para todas as estações imperantes, para todos os anos e sua finalização para a ordem prescrita para todos os meses e todas as semanas, por vinte dias cada mês;
+
+> **EN** Uriel shewed me all their ordinances, which are on all days, and in every time, which are under every power, and in every year, at its egression, according to its law, in every month, and in every week, and the decrease of the moon, which is effected in the sixth gate, for in that gate its light is ended.
+
+**79:3** (pt 79:3 · en 77:5 · transposto)
+
+> **PT** e o minguante da lua que começa através da sexta porta na qual se completa sua luz,
+
+> **EN** When the moon rises, it appears in heaven, and the half of a seventh portion of light is all which is in it.
+
+**79:4** (pt 79:4 · en 78:3)
+
+> **PT** que ocorre no primeiro portal em seu tempo e se completa aos cento e setenta e sete dias ou contado em semanas, vinte e cinco semanas e dois dias.
+
+> **EN** The beginning of the month is from this, and its decrease which is effected in the sixth gate in its time to the end are one hundred and seventy seven days, according to its ordinance by twenty-five weeks, and two days.
+
+**79:5** (pt 79:5 · en 78:4)
+
+> **PT** Ela se atrasa exatamente cinco dias no curso de um período, com em relação ao sol e da ordem das estrelas e ao ocorrer isto é corrigida. Parece como a imagem de uma visão quando sua luz se atrasa.
+
+> **EN** And its time is less than that of the sun according to the ordinance of the stars by five days in one half year exactly, when they are at the end of that situation which thou seest.
+
+**79:6** (pt 79:6 · en 78:5)
+
+> **PT** Quando ela se encontra em sua plenitude, na noite esta visão parece como um homem, na noite aparece como a imagem do sol no céu e não há nada mais nela, salvo sua luz. Tal é a visão e a imagem de todas as luminárias, que me mostrou Uriel, o grande anjo.
+
+> **EN** Such is the appearance and likeness of every light, which Uriel shewed to me, the great angel who is their conductor.
+
+### Capítulo 80
+
+**80:1** (pt 80:1 · en 79:1-79:2)
+
+> **PT** Nesses dias Uriel me dirigiu a palavra e me disse: Olhem que te revelei tudo, Enoque, ensinei-te tudo para que pudesse ver este sol, esta lua, as guias das estrelas dos céus e todos aqueles que as fazem percorrer e suas tarefas, tempos e saídas.
+
+> **EN** In those days Uriel answered and said to me, Behold, Oh Enoch, I have shewed thee all things, And I have revealed all things to thee. Thou seest the sun, and the moon, and those which conduct the stars of heaven, and all those which cause all their operations, times, and egressions.
+
+**80:2** (pt 80:2 · en 79:3)
+
+> **PT** Nos dias dos pecadores os anos serão cortados e sua semente chegará tarde a suas terras e campos; todas as coisas sobre a terra se alterarão e não sairão ao seu devido tempo; a chuva será retida e os céus a reterão.
+
+> **EN** In the days of sinners the years shall be shortened.
+
+**80:3** (pt 80:3 · en 79:4 · transposto)
+
+> **PT** Nessa época os frutos da terra serão retidos, não crescerão a tempo os frutos das árvores, serão retardados;
+
+> **EN** Their seed shall be backward on the earth, and on their pasturage, and every thing done on earth shall be turned back, and not appear in its time, the rain shall be kept back, and heaven shall stand still.
+
+**80:4** (pt 80:4 · en 77:8 · transposto)
+
+> **PT** a lua alterará sua ordem e não aparecerá ao seu devido tempo
+
+> **EN** There will be to the moon the half of a seventh portion.
+
+**80:5** (pt 80:5 · en 79:6)
+
+> **PT** Nesses dias o sol será visto no céu ardente estendendo a esterilidade e viajará de noite sobre o limite do grande carro do ocidente e brilhará mais que o que corresponde à ordem de sua luz.
+
+> **EN** The moon shall change its laws, and not be seen at its time, but in those days heaven shall be seen, and unfruitfulness shall take place in the frontiers of the great chariots in the west, and he shall shine more than the orders of lights, and many heads among the stars of power shall err, perverting their ways and works.
+
+**80:6** (pt 80:6 · en 79:7)
+
+> **PT** Muitas guias das estrelas trasgredirão a ordem, alterarão suas órbitas e tarefas e não aparecerão no momento prescrito para elas.
+
+> **EN** They shall not appear in their season who command them, and all the orders of the stars shall be shut up against sinners.
+
+**80:7** (pt 80:7 · en 79:8-79:9)
+
+> **PT** Todas as leis das estrelas serão ocultas aos pecadores; os pensamentos de quem vive sobre a terra estarão errados a respeito a elas, equivocarão seus caminhos e terão às estrelas como deuses.
+
+> **EN** The thoughts of those who dwell on earth shall transgress within them, and they shall be perverted in all their ways. They shall transgress and hold themselves to be gods, while misery shall be great among them,
+
+**80:8** (pt 80:8 · en 79:10)
+
+> **PT** O mal se multiplicará sobre eles e o castigo contra eles chegará para aniquilá-los a todos.
+
+> **EN** And punishment shall come upon them, so that they all shall be destroyed.
+
+### Capítulo 81
+
+**81:1** (pt 81:1 · en 80:1-80:2)
+
+> **PT** Me disse: Olhe Enoque estas tabuletas celestiais, lê o que está escrito ali e assinala cada dado.
+
+> **EN** He said to me, Oh Enoch, look on the book which heaven has dropped down, and read that which is written therein, and understand every part. Then I looked on that which dropped from heaven, and read all that was written, and under stood all, and read the book, and all which was written therein, and all the works of men,
+
+**81:2** (pt 81:2 · en 80:3)
+
+> **PT** Olhei as tabuletas celestiais e li tudo o que estava escrito e o compreendi tudo; li o livro de todas as ações da humanidade e de todos os filhos da carne que estão sobre a terra, até as gerações remotas.
+
+> **EN** And of all the children of flesh upon earth during the regeneration of the world.
+
+**81:3** (pt 81:3 · en 80:4)
+
+> **PT** Em seguida benzi ao grande Senhor, Rei de Glória pela eternidade, porque tem feito todas as criaturas do universo, e elogiei ao Senhor por sua paciência e lhe benzi pelos filhos do Adão.
+
+> **EN** Immediately after I praised the Lord, the King of glory, who has thus made the whole work of the world.
+
+**81:4** (pt 81:4 · en 80:6)
+
+> **PT** Então disse: Bem-aventurado o homem que mora em justiça e bondade e contra o qual não se escrito um livro de injustiça nem se encontre um o dia do julgamento.
+
+> **EN** I said at that time, Blessed is the man who shall die righteous and good, against whom a record of wickedness has not been written, and with whom a crime is not found.
+
+**81:5** (pt 81:5 · en 80:7)
+
+> **PT** Esses sete Santos me levaram e me colocaram sobre a terra frente ao portão de minha casa e me disseram: Dá a conhecer tudo a Matusalém seu filho; ensina a todos seus filhos que nenhum ser de carne é justo ante o Senhor, porque Ele é seu Criador.
+
+> **EN** Then these three holy ones brought me near, and set me on the earth before the door of my house.
+
+**81:6** (pt 81:6 · en 80:8)
+
+> **PT** Deixaremo-lhe um ano ao lado de seu filho até que dê suas instruções, para que ensine a seu filho, escrever para eles o que viu e o ateste a todos seus filhos; logo, no segundo ano te separará deles.
+
+> **EN** And they said unto me, Explain every thing to Mathusala thy son, and inform all thy children that what is flesh shall not be justified before the Lord, for he is their Creator.
+
+**81:7** (pt 81:7 · en 80:9)
+
+> **PT** Que seu coração seja forte porque os bons anunciarão a justiça aos bons, os justos com os justos se alegrarão e se felicitarão a um ao outro.
+
+> **EN** We will leave thee for one year with thy children, until thou again art strong, that thou mayest teach thy children, write for them, and explain all to thy children; but in another year they will take thee from the midst of them, and thy heart shall be strengthened, for the good shall declare righteousness to the good, the righteous shall rejoice with the righteous, and profess among one another, but sinners with sinners shall die.
+
+**81:8** (pt 81:8 · en 80:11)
+
+> **PT** Em troca o pecador morrerá com o pecador e o apóstata se afundará com o apóstata.
+
+> **EN** And those who act righteously shall die by reason of the works of men, and shall be gathered together by reason of the works of the ungodly.
+
+**81:9** (pt 81:9 · en 80:13 · transposto)
+
+> **PT** Os que praticam a justiça morrerão por obra dos homens e serão levados por causa das ações dos malvados.
+
+> **EN** And I came to my fellow men, while I praised the Lord of worlds.
+
+**81:10** (pt 81:10 · en 80:12 · transposto)
+
+> **PT** Nesses dias terminaram de me falar e eu retornei com minha gente, benzendo ao Senhor do universo.
+
+> **EN** In those days they ceased to converse with me.
+
+### Capítulo 82
+
+**82:1** (pt 82:1 · en 81:2)
+
+> **PT** Meu filho, Matusalém, agora te estou contando e escrevendo todas estas coisas; manifestei-te tudo e te dei os livros concernentes a elas; preserva meu filho, Matusalém, o livro da mão de seu pai e entrega-o às gerações do mundo.
+
+> **EN** My son Mathusala, preserve thou the books received from the hand of thy father, that thou mayest give them to the generations of the world.
+
+**82:2** (pt 82:2 · en 81:3)
+
+> **PT** Te dei sabedoria a ti e a seus filhos para que eles a entreguem a seus filhos por gerações, sabedoria que está por cima de seus pensamentos.
+
+> **EN** I have given wisdom to thee, and to thy children and to those who shall proceed from their children, that this wisdom may be in the thoughts of their children, and in the thoughts of the generation of generations for ever, and that those who understand it may not slumber, but ear with their ears, that they may learn this wisdom, and that they may be thought worthy of eating this wholesome food, which shall be eaten by the righteous.
+
+**82:3** (pt 82:3 · en 81:4)
+
+> **PT** Aqueles que a compreendam não dormirão, mas sim emprestarão ouvido para que possam aprender esta sabedoria e a quem a coma, gostará mais que um alimento delicioso.
+
+> **EN** Blessed are all the righteous, blessed are all who walk in the ways of righteousness, in whom there are no sins like those of sinners, when all their days are numbered.
+
+**82:4** (pt 82:4 · en 81:5)
+
+> **PT** Ditosos todos os justos; ditosos todos os que caminham pelo caminho da justiça e que não pecam como os pecadores no cálculo dos dias: quando o sol percorre os céus, entra e sai por cada porta durante trinta dias, junto com os chefes de milhar da espécie das estrelas, acrescentando os quatro dias que são intercalados para separar as quatro partes do ano, as quais os guiam e entram com elas quatro dias.
+
+> **EN** Concerning the progress of the sun in heaven, it goes in and out of each gate for thirty days, with the leaders of the thousand classes of the stars, with four days which are added, and divide the four quarters of the year which they conduct, and come with the four days.
+
+**82:5** (pt 82:5 · en 81:6)
+
+> **PT** devido a isso os homens se equivocam e não os contam dentro do cômputo completo do ano, estão no engano e não o reconhecem devidamente,
+
+> **EN** Men greatly err concerning these, and count them not in the account of the course of the world, for they greatly err concerning them, and they are not exactly shewn to men, but they are in the account of the course of the world, and certainly they are united together for ever, one in the first gate, one in the third, one in the fourth, and one in the sixth.
+
+**82:6** (pt 82:6 · en 81:7)
+
+> **PT** porque eles estão incluídos no cômputo dos anos e estão verdadeiramente atribuídos para sempre, um à primeira porta, outro à terceira, outro à quarta e outro à sexta e o ano está completo em trezentos e sessenta e quatro dias.
+
+> **EN** And the year is finished in three hundred and sixty-four days.
+
+**82:7** (pt 82:7 · en 81:8)
+
+> **PT** O cômputo deles é correto e a conta registrada deles exata, das luminárias, meses, festas, anos e dias; mostrou-me isso e revelou Uriel a quem é Senhor da criação do mundo subordinou as hostes dos céus.
+
+> **EN** And truly this is an exact and just account of their stations which is put together, for the lights, the months, the appointed times, the years, and the days Uriel has shewed, and communicated to me, whom for me the Lord of the creation of the world, according to the power of heaven, and the dominion which it possesses both by day and by night, commanded to explain to man the laws of the light of the sun, moon, and stars, and of all the powers of heaven, which are turned round in their orbits.
+
+**82:8** (pt 82:8 · en 81:25 · transposto)
+
+> **PT** Ele tem poder sobre a noite e sobre o dia, para fazer brilhar a luz sobre os humanos: o sol, a lua, as estrelas e todas as potências dos céus que giram em seus circuitos.
+
+> **EN** And to the end of these are the days of his power.
+
+**82:9** (pt 82:9 · en 81:9 · transposto)
+
+> **PT** Esta é a lei das estrelas com relação a suas constelações, suas luas novas e seus signos.
+
+> **EN** And these are the orders of the stars, which set in their places, in their times, in their appointed days, and in their months.
+
+**82:10** (pt 82:10 · en 81:10)
+
+> **PT** Estes são os nomes de quem as guia, de quem vigia que entrem em seu tempo, em ordem em sua estação, seu mês, em seu período, com sua potência e em sua posição.
+
+> **EN** And these are the names of those who conduct them, who watch and come in their times, according to their order, in their periods, in their months, in their power, and in their places.
+
+**82:11** (pt 82:11 · en 81:11)
+
+> **PT** Seus quatro guias, quem divide as quatro partes do ano, entram primeiro, em seguida os doze chefes da classe que separam os meses e pelos trezentos e sessenta dias estão os chefes de milhar, dividindo os dias, e pelos quatro que são intercalados, estão quem como guias dividem as quatro partes do ano.
+
+> **EN** Four conductors of them come first, who divide the four quarters of the year, and after these twelve conductors of their orders, who divide the months and the year into three hundred and sixty four days, with the leaders of a thousand, who divide the days, and the four which are joined among them, which as conductors divide the four quarters of the year.
+
+**82:12** (pt 82:12 · en 81:12)
+
+> **PT** Os chefes de milhar estão intercalados entre guia e guia, cada lubrifico depois de uma estação, as que seus guias separam.
+
+> **EN** These leaders of a thousand are in the midst of the conductors, and the conducting, and the conductors each at his place make the division. These are the names of the conductors who divide the four quarters of the year, who are appointed; Melkel, Helammelek,
+
+**82:13** (pt 82:13 · en 81:12)
+
+> **PT** Estes são os nomes dos guias que separam as quatro partes do ano que foram fixadas: Melkio, Helimelek, Melaio e Naro.
+
+> **EN** These leaders of a thousand are in the midst of the conductors, and the conducting, and the conductors each at his place make the division. These are the names of the conductors who divide the four quarters of the year, who are appointed; Melkel, Helammelek,
+
+**82:14** (pt 82:14 · en 81:14-81:15)
+
+> **PT** E os nomes de quem os conduz: Adnaro, Jeasusao e Ilumeo; estes três são os que seguem aos chefes de classes das estrelas e há outro que vem detrás dos três jéfes de classes que seguem aos guias das estações que separam as quatro estações do ano.
+
+> **EN** And the names of those who conduct them are Adnarel, Jyasusael, and Jyelumiel. These are the three which follow after the conductors of the orders, each following after the three conductors of the orders, which themselves follow after these conductors of the places, who divide the four quarters of the year.
+
+**82:15** (pt 82:15 · en 81:16-81:17)
+
+> **PT** Ao princípio do ano se levanta primeiro Melkio, quem é chamado Tamaini e sol, e todos os dias de seu governo, sobre os quais ele domina, são noventa e um dias.
+
+> **EN** In the first part of the year Melkias rises, and rules, who also is called Temani, and the sun. All the days of his power, which he rules are ninety-one days.
+
+**82:16** (pt 82:16 · en 81:18)
+
+> **PT** hei aqui os signos dos dias que aparecem sobre a terra durante o tempo de seu domínio: calor, suor e calma; todas as árvores produzem frutos e as folhas crescem sobre eles; a colheita do trigo; a rosa floresce, mas as árvores de inverno chega a secar-se.
+
+> **EN** And these are the signs which are seen on earth in the days of his power, perspiration, heat, and trouble, all the trees become fruitful, the leaf of every tree goes forth, the wheat is reaped, the rose and every species of flowers blossom in the fields, and the trees of winter are dry.
+
+**82:17** (pt 82:17 · en 81:19)
+
+> **PT** Estes são os nomes dos líderes que estão sobre eles: Berkaio, Zalbesao e o outro que se acrescenta, um chefe de milhar chamado Hilujasef, com o qual terminam os dias de seu domínio.
+
+> **EN** And these are the names of the conductors who are under them: Barkel, Zelsabel, and another conductor of a thousand is added, whose name is Heloyaleph, and at the end of the days of his power, the conductor after him Helemmelek, by name they call the splendid sun.
+
+**82:18** (pt 82:18 · en 81:20)
+
+> **PT** O seguinte guia é Helimelek, chamado sol brilhante e o total de dias de sua luz é de noventa e um dias.
+
+> **EN** And all the days of his light are ninety-nine days.
+
+**82:19** (pt 82:19 · en 81:21-81:22)
+
+> **PT** Estes são os signos de seus dias, sobre a terra: ardente calor e secura; maturam os frutos das árvores, que produzem todos seus frutos amadurecidos e a ponto; as ovelhas se aparean e concebem; colhem-se todos os frutos da terra, tudo o que há no campo e se imprensa o vinho; isto ocorre nos dias de seu domínio.
+
+> **EN** And these are the signs of the days upon the earth, heat, and drought, and the trees bring forth their fruits warmed, and concocted, and give their fruits to dry. The flocks follow and receive, and all the fruits of the earth are gathered, and all which is in the fields, and the winepress is trodden, and this is done in the days of his power.
+
+**82:20** (pt 82:20 · en 81:23)
+
+> **PT** Estes são os nomes dos chefes de milhar: Gidajao, Keo, Heio e lhes acrescenta Asfao durante o qual seu domínio termina.
+
+> **EN** These are their names and orders, and the conductors who are under them, who are chiefs of thousands, are Gedaeyel, Keel, and Heel.
+
+## Livro das Visões Oníricas · Book of Dream Visions (caps. 83–90)
+
+### Capítulo 83
+
+**83:1** (pt 83:1 · en 82:1)
+
+> **PT** Agora, Matusalém, meu filho, manifestarei-te todas as visões que tive e as recapitularei ante ti.
+
+> **EN** And now my son Mathusala, I have shewn thee every sight which I saw before thee, I will relate two visions which I saw before I took a wife, and one of them is not like the other.
+
+**83:2** (pt 83:2 · en 82:2)
+
+> **PT** Tive duas visões antes de me casar, a uma bastante diferente da outra: a primeira quando aprendia a escrever e a segunda antes de tomar a sua mãe. Tive uma visão terrível e ao observá-la orei ao Senhor.
+
+> **EN** The first was when I learned a book, the other before I took thy mother. I saw a powerful vision,
+
+**83:3** (pt 83:3 · en 82:4)
+
+> **PT** Eu estava deitado na casa de meu avô Mahalalel e vi em uma visão como o céu paralisava, soltava-se e caía sobre a terra.
+
+> **EN** When I rested in the house of my grandfather Malaleel, I saw in a vision heaven purified, and taken away.
+
+**83:4** (pt 83:4 · en 82:5-82:6)
+
+> **PT** Quando caiu sobre a terra, vi a terra devorada por um grande abismo, montanhas suspensas sobre montanhas, colinas abatidas sobre colinas e as grandes árvores separadas de seus troncos, arrojados e afundados no abismo.
+
+> **EN** I fell on the earth, and when I fell, I saw the earth swallowed up in a great abyss, and mountains suspended over mountains. Hills were sinking upon hills, lofty trees were cut off from their roots, and were thrown, and sunk in the abyss.
+
+**83:5** (pt 83:5 · en 82:7)
+
+> **PT** Por isso alguém caiu dentro de minha boca e elevei minha voz para gritar e disse: A terra está destruída!
+
+> **EN** Therefore the word fell down in my mouth, I raised a cry, and said, The earth is destroyed. And when I had called my grandfather Malaleel, he raised me up, and said to me, Wherefore criest thou so, my son? and wherefore lamentest thou in this manner?
+
+**83:6** (pt 83:6 · en 82:8)
+
+> **PT** Então meu avô Mahalalel despertou, pois eu estava deitado perto dele; disse-me: por que gritas assim meu filho, por que profere semelhante lamento?
+
+> **EN** And I related to him all the vision which I had seen. He said to me, It is ponderous what thou sayest, my son;
+
+**83:7** (pt 83:7 · en 82:9)
+
+> **PT** Lhe contei toda a visão que tinha tido e me disse: Assim como você viu uma coisa terrível, meu filho, já que é terrível a visão de seu sonho sobre os mistérios de todos os pecados da terra, assim a terra está a ponto de ser devorada pelo abismo e aniquilada por uma grande destruição.
+
+> **EN** And the vision of thy dream is powerful concerning every secret sin of the earth, for it shall be plunged into the abyss, and sink below into a great destruction.
+
+**83:8** (pt 83:8)
+
+> **PT** Agora, meu filho, te levante e roga ao Senhor de glória, já que você é fiel, para que para que permaneça um resto sobre a terra e que Ele não aniquile completamente a terra.
+
+> **EN** —
+
+**83:9** (pt 83:9 · en 82:10)
+
+> **PT** Meu filho, do céu virá todo isso sobre a terra e sobre a terra haverá uma grande ruína.
+
+> **EN** Now my son rise up, and beseech the Lord of glory, (for thou art faithful) that a remnant may remain on the earth, and that he will not destroy it all. My son all this evil upon the earth is caused by heaven, for there shall be a great destruction upon the earth.
+
+**83:10** (pt 83:10 · en 82:11)
+
+> **PT** depois de que me levantei, orei, implorei e supliquei, e escrevi minha oração para as gerações do mundo; e te mostrarei todas estas coisas a ti Matusalém, meu filho.
+
+> **EN** Then I arose, prayed, and entreated, and wrote down my prayer for the generation of the world, and I have shewed all to thee Mathusala, my son.
+
+**83:11** (pt 83:11 · en 82:12)
+
+> **PT** Quando baixei, olhei ao céu e vi o sol sair pelo oriente e à lua ocultar-se pelo ocidente e a algumas estrelas e à totalidade da terra e todas as coisas que Ele criou desde o começo; então benzi ao Senhor do julgamento e o elogiei porque Ele faz sair o sol pelas janelas do oriente, de maneira que ascenda e brilhe na face do céu e vá e se mantenha pelo caminho que Lhe assinalou.
+
+> **EN** And I went out below, and saw the heaven and the sun going forth from the east, and every star, and the whole earth, and all which he has known from the beginning. I praised the Lord of judgment, and magnified him, because he has sent forth the sun from the windows of the east, that ascending and rising in the face of heaven, it might spring up, and go the way which for it had been appointed.
+
+### Capítulo 84
+
+**84:1** (pt 84:1 · en 83:1)
+
+> **PT** Levantei minhas mãos em justiça e benzi ao Santo e ao grande e falei com o fôlego de minha boca e com a língua de carne que Deus tem feito para os filhos de carne do homem, para que a utilizem ao falar, e lhes deu um fôlego, uma língua e uma boca para que falem com elas.
+
+> **EN** I lifted up my hands in righteousness, and praised the holy and the great One. I spake with the breath of my mouth, and with a tongue of flesh, which God has made for all the children of flesh, the men, that with it they may speak, and he gave them breath, a mouth, and a tongue, that with them they might speak.
+
+**84:2** (pt 84:2 · en 83:2-83:3)
+
+> **PT** Bendito seja, OH Senhor, Rei grande e poderoso em sua grandeza, Rei de reis, Senhor de todo o universo. Seu poder, reinado e grandeza permanecem para sempre; seu domínio por todas as gerações; os céus são seu trono eterno e a terra a banqueta de seus pés pelos séculos dos séculos.
+
+> **EN** Praised be you, Oh Lord the King, great and powerful in your greatness, Lord of all the creatures of heaven, King of Kings, whose kingdom, whose dominion, and whose majesty, remain through all eternity. Your dominion is from generation to generation, and all the heavens are your throne for ever, and all the earth your footstool for ever and ever.
+
+**84:3** (pt 84:3 · en 83:4)
+
+> **PT** Porque é você quem criou e quem governa todas as coisas, não há obra que seja difícil para ti; a sabedoria não se afasta de seu trono nem se vai de sua presença; Você sabe, vê e ouve todas as coisas, nada está oculto para ti, porque todo o vê.
+
+> **EN** For you have made them, and over all you reign, and to you no work is difficult, for with you wisdom remains, and is always before your throne, and before your presence, you know all things, you see and hear them, and nothing can be concealed from you, for you understand all things.
+
+**84:4** (pt 84:4 · en 83:5)
+
+> **PT** Agora os anjos do céu são réus de pecado e sobre a carne do homem recai sua cólera até o grande dia do julgamento.
+
+> **EN** And now the angels of your heavens have offended and on the flesh of men your wrath shall remain, until the day of the great judgment.
+
+**84:5** (pt 84:5 · en 83:6)
+
+> **PT** Agora OH Deus, Senhor e grande Rei, imploro e suplico que aceite minha oração, que me deixe uma descendência sobre a terra, que não aniquile toda carne humana, que não esvazie a terra e que a destruição não seja eterna.
+
+> **EN** And now Oh God, Lord, and mighty King, I supplicate and pray you to grant me my petition, that you will leave to me a remnant of posterity upon the earth, and that you will not destroy all the flesh of men.
+
+**84:6** (pt 84:6 · en 83:7-83:8)
+
+> **PT** Agora pois, OH Senhor, extermina da terra a carne que despertou sua cólera, mas a carne de justiça e retidão, estabelece-a como uma planta de semente eterna e não oculte seu rosto da oração de seu servo, OH Senhor!
+
+> **EN** And that you will not leave the earth destitute, and that destruction may not be for ever, And now my Lord, destroy from the earth the flesh which has offended you, but from the flesh of righteousness and integrity, establish you a plant of seed for ever. Oh Lord, hide not your face from the prayer of your servant.
+
+### Capítulo 85
+
+**85:1** (pt 85:1 · en 84:7 · transposto)
+
+> **PT** depois disso vi outro sonho e todo esse sonho lhe vou mostrar isso, meu filho.
+
+> **EN** After this I saw that from him came forth many animals like him, and following after him.
+
+**85:2** (pt 85:2 · en 84:1 · transposto)
+
+> **PT** Enoque levantou a voz e falou com seu filho Matusalém: A ti quero te falar, meu filho, escuta minhas palavras e ponha atenção à visão do sonho de seu pai.
+
+> **EN** After this, I saw another dream, and I explained it all to thee my son. Enoch arose and said to his son Mathusala, To thee my son I will speak. Hear my word, and incline thine ear to the vision of the dream of thy father. Before I took thy mother Edna, I saw a vision on my bed.
+
+**85:3** (pt 85:3 · en 84:4)
+
+> **PT** antes de tomar a sua mãe Edna, vi uma visão sobre minha cama e hei aí que um touro saía da terra e esse touro era branco. Depois do touro saiu uma novilha e com ela dois bezerros, um dos quais era negro e o outro vermelho.
+
+> **EN** Afterward a female heifer went forth, and with it went forth a pair of animals, one of them was black, and the other red.
+
+**85:4** (pt 85:4 · en 84:5)
+
+> **PT** Então o bezerro negro golpeou ao vermelho e lhe perseguiu sobre a terra e a partir de ali não pude ver esse bezerro vermelho.
+
+> **EN** And that black animal struck the red one, and followed it over the earth.
+
+**85:5** (pt 85:5 · en 84:7)
+
+> **PT** Logo o bezerro negro cresceu e essa novilha se foi com ele e vi sair dele numerosos bois que lhe semelhavam e lhe seguiam.
+
+> **EN** After this I saw that from him came forth many animals like him, and following after him.
+
+**85:6** (pt 85:6 · en 84:8-84:9)
+
+> **PT** E essa primeira novilha se afastou do primeiro touro para procurar o bezerro vermelho, mas não o encontrou e proferiu por ele um grande lamento e o buscou.
+
+> **EN** The first female young one went out from the presence of the first animal, and sought the red animal, but found him not. And she lamented with a great lamentation, and sought him.
+
+**85:7** (pt 85:7 · en 84:10)
+
+> **PT** Vi que veio o primeiro touro e a fez calar e não voltou a gritar.
+
+> **EN** And I saw that the first animal came to her afterwards, and made her quiet, and from that time she cried no more.
+
+**85:8** (pt 85:8 · en 84:11-84:12)
+
+> **PT** Ela pariu em seguida outro touro branco e depois de este, pariu numerosos touros e vacas negros.
+
+> **EN** Afterwards she brought forth another white animal, And after him brought forth many animals, and black cows.
+
+**85:9** (pt 85:9 · en 84:13)
+
+> **PT** Vi em meu sonho crescer a este touro branco até chegar a ser um grande touro branco, do qual saíram numerosos touros brancos semelhantes a ele.
+
+> **EN** And I saw in my sleep a white bull, which in like manner grew and became a great white bull.
+
+**85:10** (pt 85:10 · en 84:15)
+
+> **PT** E eles começaram a engendrar numerosos touros brancos que lhes pareciam e se seguiam o um ao outro.
+
+> **EN** And they began to shew many white animals which were like them, and followed each other.
+
+### Capítulo 86
+
+**86:1** (pt 86:1 · en 85:1-85:2)
+
+> **PT** De novo estive fixando meus olhos no sonho e vi o céu por cima e hei aqui que uma estrela caiu do céu em meio dos touros grandes e comeu e pastoreou em meio deles.
+
+> **EN** Again I saw with my eyes while I slept, and I saw heaven above. And behold a star fell from heaven,
+
+**86:2** (pt 86:2 · en 88:7 · transposto)
+
+> **PT** Então vi estes touros grandes e negros, todos eles intercambiavam seus pastos, estábulos e bezerros e começaram a viver uns com outros.
+
+> **EN** And I saw that all the animals which had been gathered together in that village, were drowned, swallowed up, and destroyed in that water.
+
+**86:3** (pt 86:3 · en 85:4 · transposto)
+
+> **PT** Observei de novo em meu sonho e olhei para o céu e hei aqui que muitas estrelas descendiam e caíam do céu em meio da primeira estrela e eram transformadas em touros em meio daqueles bezerros e pastavam com eles e entre eles.
+
+> **EN** After that I saw other large and black animals, and behold they all changed their stalls, and pastures, and their young began to lament one with another. Again I saw in my vision, and looked to heaven, and behold, I saw many stars, which descended, and cast themselves from heaven to that first star,
+
+**86:4** (pt 86:4 · en 85:6)
+
+> **PT** Os olhei e vi como todos tiraram seu membro sexual como cavalos e montaram as vacas dos touros e todas ficaram prenhes e pariram elefantes, camelos e asnos.
+
+> **EN** I looked at them and saw them, and behold they brought out their shame like those of horses, and began to ascend the young cows of the animals, and they all became pregnant, and brought elephants, camels and asses.
+
+**86:5** (pt 86:5 · en 85:7)
+
+> **PT** Todos os touros lhes tinham medo, aterrorizaram-se com eles e começaram a morder com seus dentes a devorar já cornear.
+
+> **EN** All the animals were afraid, and terrified for these, and they began to bite with their teeth, and to swallow them up, and to push with their horns.
+
+**86:6** (pt 86:6 · en 85:8 · transposto)
+
+> **PT** E além disso começaram a devorar a esses touros e hei aqui que todos os filhos da terra se começaram a tremer e a espantar-se ante eles e a fugir.
+
+> **EN** They also began to devour the animals, and behold all the children of the earth began to tremble, and to quake for them, and to flee away.
+
+### Capítulo 87
+
+**87:1** (pt 87:1 · en 84:2 · transposto)
+
+> **PT** Novamente vi como começavam a golpear o um ao outro e a devorar o um ao outro e a terra ficou a gritar.
+
+> **EN** And behold, an animal went forth from the earth;
+
+**87:2** (pt 87:2 · en 86:1)
+
+> **PT** Depois elevei de novo meus olhos ao céu e tubo uma visão; gela aqui: saíram do céu seres parecidos com homens brancos, saíram quatro desse lugar e três com eles.
+
+> **EN** Again I saw them when they began to push one another, and to swallow each other, and the earth began to cry out. And I raised my eyes again to heaven and saw in the vision, and behold, there came forth from heaven, as it were the appearance of white men. One came from that place, and three with him.
+
+**87:3** (pt 87:3 · en 86:2)
+
+> **PT** Assim, esses três que saíram de últimos me tiraram da mão e me levaram por sobre a geração terrestre até um lugar elevado e me mostraram uma torre alta construída sobre a terra e todas as colinas eram mais baixas.
+
+> **EN** And those three who came forth last, took me by my hand, and raised me up from the generations of the earth, and exalted me to a high place.
+
+**87:4** (pt 87:4 · en 86:3)
+
+> **PT** Me disseram: Permanece aqui até que tenha visto tudo o que acontecerá a estes elefantes, camelos e asnos e às estrelas, as vacas e a todos eles.
+
+> **EN** And they shewed me a lofty tower on the earth, and every hill appeared to be less, and they said to me, remain here, until thou seest what will come upon these elephants, camels, and asses, upon the stars, and upon all the animals.
+
+### Capítulo 88
+
+**88:1** (pt 88:1 · en 87:1-87:3)
+
+> **PT** Vi um dos quatro que tinha saído primeiro, agarrar à primeira estrela que tinha cansado do céu, atar a de pés e mãos e arrojá-la no abismo profundo, estreito, escarpado e escuro.
+
+> **EN** And I saw one of these four, who were come forth before. He seized the first star, which fell down from heaven, And he bound him hand and foot, and cast him into a cavern, a cavern narrow, and deep, dismal, and gloomy.
+
+**88:2** (pt 88:2 · en 87:4)
+
+> **PT** Depois um deles tirou a espada e a deu aos elefantes, camelos e asnos e eles começaram a ferir o um ao outro e toda a terra tremeu por causa disto.
+
+> **EN** And one of them drew his sword, and gave it to these elephants, camels, and asses, and they began to smite one another, and beneath them the whole earth was shaken.
+
+**88:3** (pt 88:3 · en 87:5)
+
+> **PT** Seguia observando meu sonho, quando hei aqui que a um dos quatro que tinham saído, chegou-lhe uma ordem do céu e ele tomou a todas as numerosas estrelas cujos membros sexuais eram como os dos cavalos e ele as atou a todas de pés e mãos e as jogou em um abismo da terra.
+
+> **EN** And then I saw in the vision, and behold the leader of these four angels, who were come, and descended from heaven, gathered together, and took all those great stars, whose shame were as the shame of horses, and bound them hand and foot, and cast them into the cavities of the earth.
+
+### Capítulo 89
+
+**89:1** (pt 89:1 · en 88:1)
+
+> **PT** Um dos quatro foi até onde um dos touros brancos e lhe ensinou e ele construiu para si um navio e habitou em seu interior. Os três touros entraram com ele no navio que foi coberto e coberto por cima deles.
+
+> **EN** And one of these four went to the white animals, and taught them a mystery, during which time the animal trembled, and it was born, and began to be a man, and built for himself a large ark, and in this he remained, and three animals remained with them in that ark, and there was a cover over them.
+
+**89:2** (pt 89:2 · en 88:2)
+
+> **PT** Eu estava olhando e vi sete jorros jogando muita água sobre a terra.
+
+> **EN** Again I lifted up my eyes to heaven, and saw a high roof and seven cataracts above it, which poured forth on a certain village much water.
+
+**89:3** (pt 89:3 · en 88:4-88:5)
+
+> **PT** Hei aqui que se abriram os depósitos de água do interior da terra e começaram a brotar e a subir as águas sobre ela. Segui olhando até que a terra foi coberta pelas águas,
+
+> **EN** And the water began to boil up, and to rise over the earth, and that village could not be seen, for all its ground was covered with water. And there was much water over it, and darkness and clouds, and I saw the height of this water, and it was above the height of the village.
+
+**89:4** (pt 89:4 · en 88:6)
+
+> **PT** pela escuridão e pela névoa que se abatia sobre ela.
+
+> **EN** And it overflowed the height of the village, and stood above all the earth.
+
+**89:5** (pt 89:5 · en 88:7)
+
+> **PT** Os touros foram inundados, afastados e aniquilados naquelas águas.
+
+> **EN** And I saw that all the animals which had been gathered together in that village, were drowned, swallowed up, and destroyed in that water.
+
+**89:6** (pt 89:6 · en 88:8)
+
+> **PT** O navio flutuou sobre as águas, mas todos os touros, asnos selvagens, camelos e elefantes se afundaram nas águas.
+
+> **EN** But the ark swam above the water; and all the animals, the elephants, the camels, and the asses were drowned upon the earth, and all cattle, and I could not see them again, for they were not able to get out, but went below, and sunk into the deep.
+
+**89:7** (pt 89:7 · en 88:9)
+
+> **PT** De novo vi em meu sonho como os jorros de água desapareceram do alto teto, as greta da terra foram niveladas mas outros abismos se abriram;
+
+> **EN** And again I saw in the vision that the cataracts were removed from that high roof, the fountains of the earth were turned back, and other depths were opened.
+
+**89:8** (pt 89:8 · en 88:10-88:11)
+
+> **PT** e a água começou a descender por eles, até que a terra ficou ao descoberto, a barco repousou sobre a terra, a escuridão se retirou e apareceu a luz.
+
+> **EN** And the water began to descend into these until the dry land appeared. The ark remained on the earth, the darkness was turned back, and it became light.
+
+**89:9** (pt 89:9 · en 88:12-88:13)
+
+> **PT** Então o touro branco que se converteu em homem saiu desta barco e com ele os três touros, um dos quais era branco e se parecia com esse touro, outro era vermelho como sangue e o outro negro.
+
+> **EN** Then the white animal which became a man went out of the ark, and the three animals with him. And one of the three animals was white like that animal, and one of them was red as blood, and one of them was black, and the white animal went away from them.
+
+**89:10** (pt 89:10 · en 88:14-88:17)
+
+> **PT** Começaram a engendrar bestas selvagens e aves. Houve uma multidão de toda espécie: leões, leopardos, cães, lobos, hienas, porcos selvagens, raposas, esquilos, javalis, falcões, abutres, gaviões, águias e corvos. Em meio deles nasceu outro touro branco.
+
+> **EN** And wild beasts of the field, and birds began to bring forth. The different kinds of these gathered together, lions, tigers, dogs, wolves, wild boars, foxes, rabbits, and swine. And the siset, vultures, gledes, the phonkas, and ravens. And a white animal was born in the midst of them.
+
+**89:11** (pt 89:11 · en 88:18)
+
+> **PT** Começaram a morder-se uns aos outros. O touro branco que tinha nascido em meio deles, engendrou um asno selvagem e também um bezerro branco. O asno selvagem se multiplicou.
+
+> **EN** And they began to bite one another, and the white animal which was born in the midst of them, produced a wild ass, and a white animal with him, and after that many wild asses, and the white animal which was born, brought forth a black wild boar, and a white sheep.
+
+**89:12** (pt 89:12 · en 88:19-88:20)
+
+> **PT** O bezerro branco, que tinha sido engendrado pelo touro branco, engendrou um javali negro e um carneiro branco. O javali engendrou muitos javalis e o carneiro engendrou doze ovelhas.
+
+> **EN** That wild boar brought forth many swine, And that sheep brought forth twelve sheep.
+
+**89:13** (pt 89:13 · en 88:21-88:23)
+
+> **PT** Quando estas doze ovelha tiveram crescido lhe deram uma ovelha de entre elas aos asnos selvagens, mas esses asnos a sua vez entregaram essa ovelha a lobos e a ovelha cresceu entre os lobos.
+
+> **EN** When these twelve sheep were grown up, they delivered one of them to the asses. Again the asses delivered that sheep to the wolves. And he increased in the midst of the wolves.
+
+**89:14** (pt 89:14 · en 88:24-88:25)
+
+> **PT** O carneiro guiou a todas as onze ovelhas a habitar e pastar com ele entre os lobos e elas se multiplicaram e se transformaram em um rebanhos de numerosas ovelhas.
+
+> **EN** And the Lord brought the eleven, sheep, that they might dwell with him, and feed in the middle of the wolves. And they multiplied, and there was plenty of pasture for them.
+
+**89:15** (pt 89:15 · en 88:26, 88:28-88:29)
+
+> **PT** Os lobos começaram a oprimir ao rebanho até fazer perecer a seus pequenos e a jogar em seus pequenos em uma correnteza. Então as ovelhas começaram a gritar por seus pequenos e a lamentar-se ante seu Senhor.
+
+> **EN** But the wolves began to frighten and oppress them, while they destroyed their young. And the sheep began to cry out on account of their young, and fled to their Lord, and a sheep which went with the wolves, escaped, and went away to the wild asses. And I saw the sheep lament, and cry, and petition their Lord,
+
+**89:16** (pt 89:16 · en 88:30)
+
+> **PT** Uma ovelha que tinha escapado dos lobos fugiu e foi até onde os asnos selvagens. Eu olhei enquanto o rebanho se queixava e gritava terrivelmente até que descendeu o Senhor do rebanho à voz das ovelhas, desde seu alto santuário veio a seu lado e as fez pastar.
+
+> **EN** With all their power, till at their call the Lord of the sheep descended from his elevated mansion, and went to them, and beheld them.
+
+**89:17** (pt 89:17 · en 88:31)
+
+> **PT** Chamou à ovelha que tinha escapado dos lobos e lhe falo sobre os lobos, para que os intimasse a não tocar mais às ovelhas.
+
+> **EN** And he called that sheep, who had secretly forsaken the wolves, and told him to declare to the wolves, that they were not to touch the sheep.
+
+**89:18** (pt 89:18 · en 88:32-88:33)
+
+> **PT** E esta ovelha foi aonde os lobos por ordem do Senhor e outra ovelha se encontro com ela e foi com ela. Foram e as duas entraram juntas na assembleia dos lobos, por ordem do Senhor, falaram-lhes e lhes intimaram para que não tocassem mais às ovelhas.
+
+> **EN** And that sheep went to the wolves with the word of the Lord, and another sheep met him, and went with him. They both together came to the dwelling of the wolves, and spake with them, and declared to them, that from thence forward they should not touch the sheep.
+
+**89:19** (pt 89:19 · en 88:34)
+
+> **PT** Após observei que os lobos oprimiram com mais dureza e com todas suas forças às ovelhas e as ovelhas gritaram forte.
+
+> **EN** And afterward I saw that the wolves with all their power were very severe against the sheep, but they cried, and their Lord came to the sheep.
+
+**89:20** (pt 89:20 · en 88:35)
+
+> **PT** E seu Senhor foi ao lado das ovelhas e ficou a golpear a esses lobos e os lobos começaram a lamentar-se, em troca as ovelhas chegaram a tranquilizasse e daí cessaram de gritar.
+
+> **EN** He began to strike the wolves, who began to lament, but the sheep were quiet, and from that time they cried no more.
+
+**89:21** (pt 89:21 · en 88:36)
+
+> **PT** Vi as ovelhas quando partiam de entre os lobos e os olhos dos lobos foram obscurecidos e esses lobos saíram perseguindo as ovelhas com todas suas forças.
+
+> **EN** And I saw the sheep until they went out from the wolves, but the eyes of the wolves were blind for they went forth and followed the sheep with all their power, but the Lord of the sheep went with them, and conducted them.
+
+**89:22** (pt 89:22 · en 88:37)
+
+> **PT** Mas o Senhor das ovelhas foi com elas as conduzindo, todas suas ovelhas lhe seguiam e seu rosto era resplandecente, glorioso e terrível à vista.
+
+> **EN** And all his sheep followed him.
+
+**89:23** (pt 89:23 · en 88:38)
+
+> **PT** Os lobos começaram a perseguir a essas ovelhas, até que as alcançaram perto de um lago de água.
+
+> **EN** And his countenance was splendid and terrific, and his aspect was glorious, yet the wolves began to follow the sheep until they came near them in a sea of water.
+
+**89:24** (pt 89:24 · en 88:39-88:40)
+
+> **PT** Mas este lago de água se dividiu e a água se levantou de um lado e do outro ante sua cara e o Senhor os conduziu e se colocou Ele mesmo entre eles e os lobos.
+
+> **EN** Then that sea of water went back, the water stood hither and thither before their face, And while their Lord conducted them, he placed himself between them and the wolves.
+
+**89:25** (pt 89:25 · en 88:41)
+
+> **PT** Como esses lobos não viam mais às ovelhas, elas andaram em meio deste lago e os lobos perseguiram as ovelhas e correram atrás delas, esses lobos neste lago de água.
+
+> **EN** The wolves however saw not the sheep, but went into the midst of the sea of water, and they followed the sheep and ran after them in the sea of water.
+
+**89:26** (pt 89:26 · en 88:42)
+
+> **PT** E quando eles viram o Senhor das ovelhas se retornaram para fugir de sua presença, mas este lago de água se fechou e voltou repentinamente para sua posição natural e se encheu de água.
+
+> **EN** But when they saw the Lord of the sheep, they turned themselves to fly from before his face.
+
+**89:27** (pt 89:27 · en 88:43)
+
+> **PT** Continuei olhando até que todos os lobos que foram perseguindo a este rebanho, pereceram inundados e afogados e as águas os cobriram.
+
+> **EN** Then the water of the sea turned again quickly, according to its nature, for it went forth, and rose up, until it covered the wolves, and I saw that all the wolves perished, and were drowned, that followed the sheep.
+
+**89:28** (pt 89:28 · en 88:44-88:45)
+
+> **PT** O rebanho se separou destas águas e foram a um lugar desolado no que não há água nem erva e seus olhos se abriram e viram. Olhei até que o Senhor do rebanho os apascentou, deu-lhes água e erva, e a ovelha foi e os guiou.
+
+> **EN** But the sheep went away from this water, and tarried in a desert in which there was neither water or grass, and they began to open their eyes, and to see. And I saw that the Lord of the sheep looked after them, and gave them water and grass.
+
+**89:29** (pt 89:29 · en 88:46-88:47)
+
+> **PT** A ovelha subiu ao topo de uma rocha elevada e o Senhor do rebanho a enviou no meio do rebanho e todos elas se mantinham a distância.
+
+> **EN** And that sheep continually went and led them. And when he had ascended up to the top of a lofty rock, the Lord of the sheep sent him to them.
+
+**89:30** (pt 89:30 · en 88:48-88:49)
+
+> **PT** Então olhei e hei aqui que o Senhor do rebanho se elevou frente ao rebanho e sua aparência era potente, grandiosa e terrível e todo o rebanho o viu e teve medo Dele.
+
+> **EN** And after that I saw the Lord of the sheep stand before them and his countenance was terrible and strong. And when all the sheep saw him, they were afraid at his appearance,
+
+**89:31** (pt 89:31 · en 88:50)
+
+> **PT** Todas estavam assustadas e tremendo ante Ele e lhe gritaram ao cordeiro que era seu segundo e que estava em meio delas: Nós não podemos estar diante do Senhor.
+
+> **EN** They were all afraid and trembled before him, and they cried out to that sheep who had been with him, and to the other who was in the midst of them, saying, We are not able to stand before our Lord, or to look upon him.
+
+**89:32** (pt 89:32 · en 88:51)
+
+> **PT** Então se voltou o cordeiro que as guiava e subiu pela segunda vez ao topo daquela rocha. Mas o rebanho começou a se cegar e a apartar do caminho que lhes tinha famoso, sem que o cordeiro soubesse tais coisas.
+
+> **EN** Then that sheep who conducted them turned back, and ascended the top of that rock.
+
+**89:33** (pt 89:33 · en 88:54)
+
+> **PT** O Senhor do rebanho se enfureceu muito contra o rebanho, o cordeiro soube e descendeu do topo daquela rocha e vinho ao rebanho e encontrou à maioria cegadas e extraviadas.
+
+> **EN** He descended from the top of the rock, and came to them, and found that there were a great number of them
+
+**89:34** (pt 89:34 · en 88:56)
+
+> **PT** Quando o viram começaram a atemorizar-se diante Dele, querendo voltar para seus redis.
+
+> **EN** And had turned from his path, and when they saw him they feared, and trembled at his presence,
+
+**89:35** (pt 89:35 · en 88:58-88:59)
+
+> **PT** O cordeiro tomou com ele a outras ovelhas e vinho ao rebanho, degolaram a todas as extraviadas e começaram a tremer ante Ele. Então esse cordeiro fez retornar a seus redis a todo o rebanho extraviado.
+
+> **EN** Then that sheep took with him other sheep, and came to those who had turned back, And afterwards began to kill them, and they were afraid at his countenance, then he caused those who had gone away to return back, who went to their fold.
+
+**89:36** (pt 89:36 · en 88:60)
+
+> **PT** Continuei vendo este sonho até que este cordeiro se transformou em homem, construiu um acampamento para o Senhor do rebanho e levou a todo o rebanho a este acampamento.
+
+> **EN** And I also saw in my vision, that this sheep became a man, built a house for the Lord of the sheep, and all the sheep stood in that house.
+
+**89:37** (pt 89:37 · en 88:61)
+
+> **PT** Segui olhando até que dormiu essa ovelha que se uniu ao cordeiro que dirigia às ovelhas. Observei até que todas as ovelhas maiores tiveram perecido e se levantaram em seu lugar umas menores e elas entraram em um pastizal e se aproximaram de um rio.
+
+> **EN** And I saw that the sheep died who went forth to meet the conductor of the sheep, and I saw that all the great sheep perished, and lesser ones rose up in their places, and came into a pasture, and drew near to a river of water.
+
+**89:38** (pt 89:38 · en 88:62-88:63)
+
+> **PT** Depois a ovelha que os guiava e que se converteu em homem, foi separada delas, dormiu e todas as ovelhas a buscaram e choraram por ela com grandes lamentos.
+
+> **EN** Then that sheep who had conducted them, who became a man, was separated from them and died. All the sheep sought him, and cried over him with a great cry.
+
+**89:39** (pt 89:39 · en 88:64-88:65)
+
+> **PT** Vi até que terminaram de chorar por esta ovelha. depois atravessaram este rio e vieram outras ovelhas que as guiaram em lugar das que dormiram depois das haver guiado.
+
+> **EN** I also saw that they left off crying after that sheep, and went over the river of water. And there arose other sheep, all of whom conducted them, of the plant of those who were dead, and had conducted them.
+
+**89:40** (pt 89:40 · en 88:66)
+
+> **PT** Vi as ovelhas até que entraram em uma região formosa, em uma terra agradável e esplêndida. Vi essas ovelhas até que foram saciadas e esse acampamento estava entre elas nessa terra agradável.
+
+> **EN** Then I saw that the sheep came to a good place, and to a delightful and glorious land.
+
+**89:41** (pt 89:41 · en 88:67)
+
+> **PT** logo que abriam os olhos se cegavam, até que se levantou outra ovelha e as guiou e as conduziu a todas e se abriram seus olhos.
+
+> **EN** I also saw that the sheep became satiated, that their house was in the middle of a delightful land, that at times their eyes were opened, and at times they were blind, until another sheep arose, and conducted them. He brought them all back, and their eyes were opened.
+
+**89:42** (pt 89:42 · en 88:68)
+
+> **PT** Os cães, as raposas e os javalis selvagens ficaram a devorar estas ovelhas até que o Senhor das ovelhas levantou um carneiro de em meio delas para as guiar.
+
+> **EN** Then dogs, foxes, and wild swine began to devour them, until another sheep arose, the lord of the flock, one of themselves, a ram to conduct them, and this ram began to toss hither and thither those dogs, foxes, and wild swine, until they all perished.
+
+**89:43** (pt 89:43 · en 88:79 · transposto)
+
+> **PT** Esse carneiro começou a investir de um lado e de outro a esses cães, raposas e javalis, até que fez perecer a todos eles.
+
+> **EN** And all the dogs, foxes, and wild swine feared, and fled from him.
+
+**89:44** (pt 89:44 · en 88:69 · transposto)
+
+> **PT** Essa ovelha cujos olhos foram abertos, viu que ao carneiro que estava entre as ovelhas o abandonava sua glória e começava a investir às ovelhas, às pisotear e a comportar-se em forma indevida.
+
+> **EN** But the former sheep opened his eyes, and saw the ram in the midst of the sheep who had laid aside his glory.
+
+**89:45** (pt 89:45 · en 88:70-88:71)
+
+> **PT** Então o Senhor das ovelhas enviou ao cordeiro a outro cordeiro e o ascendeu para que fora um carneiro e dirigisse às ovelhas em vez do carneiro ao que tinha abandonado sua glória.
+
+> **EN** And he began to push the sheep, and to tread on them, and to go on without honour. Then the Lord of the sheep sent the former sheep again to another, and raised him up to be a ram, to conduct the sheep instead of that sheep who had laid aside his glory;
+
+**89:46** (pt 89:46 · en 88:72)
+
+> **PT** Foi a seu lado e lhe falou em segredo e o subiu a carneiro, fez-o juiz e pastor das ovelhas, mas durante todos estes acontecimentos, os cães oprimiam às ovelhas.
+
+> **EN** Therefore he went to him, and talked to him alone, and raised up that ram, and made him a prince and a leader of the flock, all the time that the dogs troubled the sheep.
+
+**89:47** (pt 89:47 · en 88:73-88:74)
+
+> **PT** O primeiro carneiro perseguiu o segundo e este segundo saiu e fugiu de sua presença, mas vi até que os cães abateram a aquele primeiro carneiro.
+
+> **EN** And the first ram persecuted the latter ram. Then the latter ram arose, and fled from before his face, and I saw that these dogs caused the first ram to fall.
+
+**89:48** (pt 89:48 · en 88:75-88:77)
+
+> **PT** Depois esse segundo carneiro se levantou e conduziu às ovelhas e engendrou numerosas ovelhas e logo dormiu. Uma pequena ovelha se converteu em carneiro e foi o juiz e o líder em seu lugar.
+
+> **EN** But the latter ram arose, and conducted the smaller sheep. That ram also begat many sheep and died. Then there was a smaller sheep, a ram, in his place, who became a prince, and a conductor of the sheep.
+
+**89:49** (pt 89:49 · en 88:78, 88:80)
+
+> **PT** Essas ovelhas cresceram e se multiplicaram e todos esses cães, raposas e javalis tiveram medo e fugiram longe. Este carneiro investiu e matou a todas as bestas selvagens e essas bestas não tiveram mais poder entre as ovelhas nem lhes guiaram mais.
+
+> **EN** And these sheep increased, and multiplied. And that ram also struck and killed all the wild beasts, so that they could not again come into the middle of the sheep, nor at any time take them away.
+
+**89:50** (pt 89:50 · en 88:81, 88:83)
+
+> **PT** Essa casa chegou a ser grande e ampla e foi edificada por essas ovelhas. Uma torre elevada e grande foi construída sobre a casa, para o Senhor das ovelhas. O acampamento era baixo, mas a torre muita alta e o Senhor das ovelhas se mantinha sobre ela e ofereceram ante Ele uma mesa enche.
+
+> **EN** And that house was made great and wide, and a high tower was built upon that house by the sheep, for the Lord of the sheep. And the Lord of the sheep stood upon that tower, and they brought a full table before him.
+
+**89:51** (pt 89:51 · en 88:82, 88:84-88:85)
+
+> **PT** Depois vi essas ovelhas errar de novo e ir por uma multidão de caminhos e abandonar sua casa. O Senhor das ovelhas chamou de entre elas a algumas ovelhas e as enviou ao lado das ovelhas, mas as ovelhas começaram às assassinar.
+
+> **EN** The house was low, but the tower was elevated, and very high. Again I saw that those sheep turned, and went many ways, and forsook that house of the Lord. And their Lord called to some in the midst of them, and sent them to the sheep.
+
+**89:52** (pt 89:52 · en 88:86-88:87)
+
+> **PT** Mas, uma delas foi salva e não foi morta, saiu e gritou por causa das ovelhas e elas quiseram matá-la, mas o Senhor das ovelhas a salvou de entre as mãos das ovelhas, fez-a subir e habitar perto de mim.
+
+> **EN** But the sheep began to kill them, and when one of them was saved, and was not killed, he arose, and cried out against the sheep, who desired to kill him, But the Lord of the sheep delivered him out of their hands, and caused him to ascend to him, still there to remain.
+
+**89:53** (pt 89:53 · en 88:88)
+
+> **PT** Ele enviou entretanto muitas outras ovelhas a essas ovelhas para lhes atestar e para lamentar-se sobre elas.
+
+> **EN** And he also sent many others to the sheep, to bear witness and to lament over them.
+
+**89:54** (pt 89:54 · en 88:89)
+
+> **PT** Depois as vi abandonar a casa do Senhor e sua torre; erravam em tudo e seus olhos estavam fechado. Vi o Senhor das ovelhas fazer um grande açougue com elas, até que essas ovelhas provocaram o açougue e traíram seu posto.
+
+> **EN** And I also saw that they forsook the house of the Lord of the sheep, by reason of their turnings, and blinding their eyes.
+
+**89:55** (pt 89:55 · en 88:90-88:91)
+
+> **PT** Ele as abandonou nas mãos dos leões e os tigres, dos lobos e as hienas, das raposas e de todas as bestas selvagens, que começaram a despedaçar a esta ovelhas.
+
+> **EN** And I saw that the Lord of the sheep made a great slaughter among them in their pasture, until the sheep cried out to him by reason of that slaughter, and he gave up the praise of that place, and left them in the power of lions, tigers, wolves, and in the power of foxes, and of every beast of the field. And the wild beasts of the field began to tear the sheep.
+
+**89:56** (pt 89:56 · en 88:92)
+
+> **PT** as vi abandonar sua casa e sua torre e as entregar aos leões para que as destroçassem e devorassem.
+
+> **EN** And I also saw that he forsook the house of their fathers, and their tower, and gave them all into the power of lions, to tear and to devour them, and into the power of every beast.
+
+**89:57** (pt 89:57 · en 88:93)
+
+> **PT** Me pus a gritar com todas minhas forças e a chamar o senhor das ovelhas e lhe fiz ver que as ovelhas eram devoradas por todas as bestas selvagens.
+
+> **EN** Then I began to cry with all my power, and cried to the Lord of the sheep, and shewed that the sheep were devoured by all the beasts of the field.
+
+**89:58** (pt 89:58)
+
+> **PT** Mas Ele permaneceu imutável e quando as viu se alegrou ao ver que era devoradas, tragadas e roubadas e as abandono para que fossem pasto das bestas.
+
+> **EN** —
+
+**89:59** (pt 89:59 · en 88:94-88:95)
+
+> **PT** Ele chamou setenta pastores e entregou a essas ovelhas para que as levassem a pastar e disse aos pastores e a seus acompanhantes: Que cada um de vós leve de agora em diante às ovelhas a pastar e tudo o que lhes ordene, façam.
+
+> **EN** But in silence he beheld it, and rejoiced be cause they were devoured, swallowed up, and carried away, and he left them in the power of the beasts for food. He called also seventy shepherds, and gave up to them the sheep, that they might overlook them. And he said to the shepherds, and to their servants, From henceforth every one of you overlook the sheep, and do all that I command you, and I will deliver them to you by number.
+
+**89:60** (pt 89:60 · en 88:96)
+
+> **PT** Entregarei-lhes isso devidamente contadas e lhes direi quais devem ser destruídas e essas, as façam perecer. E lhes entregou aquelas ovelhas.
+
+> **EN** And I will tell you which of them shall go down, these destroy, and he delivered to them the sheep.
+
+**89:61** (pt 89:61 · en 88:97)
+
+> **PT** Depois o chamou a Outro e lhe disse: Observa e registra tudo o que os pastores fazem a estas ovelhas, já que eles destroem mais delas que eu lhes mandei;
+
+> **EN** Then he called to another, and said, Understand and see every thing which the shepherds shall do to these sheep, for among them there shall many more perish than I have commanded,
+
+**89:62** (pt 89:62 · en 88:98)
+
+> **PT** todo excesso e destruição que seja executado pelos pastores registra-o: quantos destroem de acordo com minha ordem e quantos de acordo com seu próprio capricho. Ponha na conta de cada pastor a destruição que efectuei.
+
+> **EN** And every excess and slaughter which the shepherds shall commit shall be written down, as, how many they have destroyed at my command, and how many they have destroyed of their own heads.
+
+**89:63** (pt 89:63 · en 88:99)
+
+> **PT** Lê logo o resultado ante mim: quantas destruíram e quantas lhes entreguei para sua destruição. Que isto possa ser um testemunho contra eles para saber toda ação dos pastores, que eu os avalie e vejam o que fazem e se se frequentam ou não ao que lhes ordenei.
+
+> **EN** And there shall be a written account of all the destruction by each of the shepherds, according to the number read before me, how many they have destroyed of their own heads, and how many they have delivered up to destruction, that I may have this testimony against them, that I may know all the deeds of the shepherds, and that delivering the sheep to them, I may see whether they will do according to my command, which I commanded them or not.
+
+**89:64** (pt 89:64 · en 88:100)
+
+> **PT** Mas, eles não devem inteirar-se, não deve contá-lo a eles nem deve lhes advertir, a não ser somente anotar cada destruição que os pastores executem, uma por uma e ao momento, e expor todo isso ante mim.
+
+> **EN** They shall not understand this, and thou shalt not make them to understand, neither shalt thou reprove them. But all the destruction of the shepherds every one in his time shall be written down, and brought to me. And I saw that there was an inspection of the shepherds at that time. Then they began to kill, and to destroy more than was commanded.
+
+**89:65** (pt 89:65 · en 88:116 · transposto)
+
+> **PT** Vi quando esses pastores pastorearam em seu tempo e começaram a matar e destruir a mais ovelhas das que foram oferecidas e eles entregaram a essas ovelhas em mãos dos leões.
+
+> **EN** And they were delivered up to the shepherds for the destruction of a great number, who trod the sheep under foot, and devoured them.
+
+**89:66** (pt 89:66 · en 88:101 · transposto)
+
+> **PT** os leões e os tigres devoraram a grande parte dessas ovelhas e os javalis comeram junto com eles. Eles queimaram essa torre e demoliram essa casa.
+
+> **EN** And they left the sheep in the power of the lions, and the greatest part of them were devoured and swallowed up by lions and tigers, and wild boars destroyed them. They burnt that tower, and overthrew that house.
+
+**89:67** (pt 89:67 · en 88:102-88:103)
+
+> **PT** Me entristeci muitíssimo por essa torre porque a casa das ovelhas foi demolida e já não pude ver se essas ovelhas entravam nessa casa.
+
+> **EN** And I was very sorrowful on account of the tower, and because the house of the sheep was over thrown. And afterwards I was not able to see that house.
+
+**89:68** (pt 89:68 · en 88:104)
+
+> **PT** Os pastores e seus cúmplices entregaram a essas ovelhas a todas as bestas selvagens, para que as devorassem mas cada um deles tinha recebido um número determinado e foi cotado para cada um deles, pelo Outro, em um livro, quantas delas tinham destruído.
+
+> **EN** And the shepherds and their servants gave these sheep to all the wild beasts, that they might devour them, and every one of them in his time and number was given up, and each of them one with another was described in a book, and how many of them one with another were destroyed, was described in a book.
+
+**89:69** (pt 89:69 · en 88:105-88:106)
+
+> **PT** Cada um matava e destruía mais das que foram prescritas e eu comecei a chorar e a me lamentar por causa dessas ovelhas.
+
+> **EN** But every shepherd killed, and destroyed more than was commanded. Then I began to weep, and was very angry on account of the sheep.
+
+**89:70** (pt 89:70 · en 88:107)
+
+> **PT** Então na visão observei ao que escrevia como anotava cada uma que era destruída por esses pastores dia por dia e ele levou e expôs todo seu livro e mostrou ao senhor do seu livro e mostrou ao senhor de ter feito eles e tudo o que cada um tinha feito e todas as que eles tinham entregue à destruição.
+
+> **EN** And I also saw in the vision him who wrote, how he wrote down one destroyed by the shepherds every day, and he ascended, remained, and shewed all his book to the Lord of the sheep, containing all which they had done, and all which each of them had put away from them,
+
+**89:71** (pt 89:71 · en 88:109)
+
+> **PT** E o livro foi lido ante o Senhor das ovelhas e Ele tomou o livro em sua mão, leu-o, selou-o e o arquivou
+
+> **EN** And the book was read before the Lord of the sheep, for he took up the book in his hands, and read it, and sealed it, and placed it there.
+
+**89:72** (pt 89:72 · en 88:110-88:112)
+
+> **PT** Atrás disso, vi que os pastores as levavam a pastar durante doze horas e hei aqui que três dessas ovelhas retornaram; atracaram, entraram e começaram edificar tudo o que se derrubou dessa casa, mas os javalis o impediram e elas não foram capazes.
+
+> **EN** After this I saw the conducting shepherds inspecting for twelve hours. And behold three of the sheep turned, and came, and went in, and began to build all that was fallen down of that house. But the boars of the field hindered them, but they prevailed not.
+
+**89:73** (pt 89:73 · en 88:113-88:114)
+
+> **PT** Depois, elas começaram de novo a construir, como antes elevaram a torre, que foi chamada torre alta, e começaram de novo a colocar uma mesa ante a torre, mas todo o pão que havia estava poluído e impuro.
+
+> **EN** Again they began to build as before, and raised up that tower, which was called a high tower. And again they began to place before the tower a table, with every kind of bread thereon, which was impure and unclean.
+
+**89:74** (pt 89:74 · en 88:115)
+
+> **PT** A respeito de tudo isto os olhos dessas ovelhas estavam cegados e não viam e seus pastores tampouco e ele as entregou para uma maior destruição a seus pastores que pisotearam as ovelha com seus pés e as devoraram.
+
+> **EN** Moreover the eyes of the sheep were blind, and they could not see, and the shepherds also were blind.
+
+**89:75** (pt 89:75 · en 88:116)
+
+> **PT** O Senhor das ovelhas se manteve indiferente até que todas as ovelhas foram dispersadas pelo campo e se mesclaram com elas, e eles não as salvaram das mãos das bestas.
+
+> **EN** And they were delivered up to the shepherds for the destruction of a great number, who trod the sheep under foot, and devoured them.
+
+**89:76** (pt 89:76 · en 88:117)
+
+> **PT** O que tinha escrito o livro o trouxe, mostrou-o e o leu ante o Senhor das ovelhas; implorou-lhe e suplicou por conta delas e lhe mostrou todos os atos dos pastores e deu testemunho ante Ele contra os pastores.
+
+> **EN** Yet the Lord was silent until all the sheep of the fields were diminished. The shepherds and the sheep were mixed together, but they delivered them not from the power of the beasts.
+
+**89:77** (pt 89:77 · en 88:118)
+
+> **PT** Tomou o livro vigente, depositou-o ao lado Dele e se foi.
+
+> **EN** Then he who wrote the book ascended, and shewed, and read it at the mansion of the Lord of the sheep, and on their account he petitioned him, and prayed, and shewed all the deeds of the shepherds, and testified before him against them all. Then he took the book, and deposited it near him, and departed.
+
+### Capítulo 90
+
+**90:1** (pt 90:1 · en 89:1)
+
+> **PT** Observei nesta forma até que trinta e cinco pastores empreenderam o pastoreio e eles cumpriram estritamente seus turnos: desde o primeiro, cada um foi recebendo em suas mãos, a fim das apascentar cada pastor em seu turno respectivo.
+
+> **EN** And I saw that up to the time in such a manner, thirty-seven conducting shepherds inspected, and they all finished in their times as the first, and others then received them into their hands, that they might inspect them in their times, every shepherd in his time.
+
+**90:2** (pt 90:2 · en 89:2-89:3)
+
+> **PT** depois disto, em uma visão vi vir a todas as aves raptores do céu: águias, abutres, gaviões e corvos; as águias guiavam a todas essas aves e ficaram a devorar a estas ovelhas, a lhes picar os olhos e a devorar suas carnes.
+
+> **EN** And after that, I saw in the vision, that all the birds of heaven came, eagles, vultures, kites, and ravens, and the eagle taught them all. They began to devour the sheep, to pick out their eyes, and to devour their bodies.
+
+**90:3** (pt 90:3 · en 89:4)
+
+> **PT** As ovelhas gritaram porque sua carne estava sendo devorada pelas aves. Eu olhava e me lamentava em meu sonho pelo pastor que apascentava as ovelhas.
+
+> **EN** And the sheep cried out, because their bodies were devoured by the birds.
+
+**90:4** (pt 90:4 · en 89:6)
+
+> **PT** Observei até que essas ovelhas foram devoradas pelas águias, os gaviões e os abutres, que não lhes deixaram nenhuma carne nem pele nem tendões sobre elas e não ficaram mais que seus ossos até que os ossos também caíram ao chão e as ovelhas chegaram a ser muito poucas.
+
+> **EN** And I looked till the sheep were eaten up by the dogs, by the eagles, and by the kites, and they left them neither body, nor skin, nor muscles, until their bones alone stood there, and their bones fell upon the earth, and the sheep were diminished.
+
+**90:5** (pt 90:5 · en 89:7)
+
+> **PT** Vi quando vinte e três pastores tinham apascentado e tinham completo estritamente seus turnos cinquenta e oito vezes.
+
+> **EN** And I saw during one time that twenty-three conducting shepherds inspected, who completed in their times fifty-eight times.
+
+**90:6** (pt 90:6 · en 89:8)
+
+> **PT** Hei aqui que uns cordeiros nasceram dessas ovelhas brancas e chegaram a abrir seus olhos e ver e baliram às ovelhas
+
+> **EN** Then small lambs were born of those white sheep, and they began to open their eyes, and to see, and to cry out to the sheep.
+
+**90:7** (pt 90:7 · en 89:9)
+
+> **PT** e lhes gritaram, mas não lhes escutaram o que diziam porque estavam extremamente surdas e muito cegas e cada vez pior.
+
+> **EN** But the sheep cried not out to them, and they heard not what they said, but were extremely deaf, and powerfully and strongly blinded their eyes.
+
+**90:8** (pt 90:8 · en 89:10-89:11)
+
+> **PT** Vi na visão como os corvos voavam sobre estes cordeiros e agarravam a um deles e desprezavam às ovelhas e as devoravam.
+
+> **EN** I saw in the vision that ravens flew down upon these lambs, And that they took one of these lambs, and they tore the sheep in pieces and devoured them.
+
+**90:9** (pt 90:9 · en 89:12, 89:14)
+
+> **PT** Observei até que brotaram de novo os chifres destes cordeiros e os corvos os faziam cair e vi até que ali um grande corno broto de novo em uma destas ovelhas e seus olhos se abriram.
+
+> **EN** And I saw that horns grew forth upon these lambs, and that the searching ravens came down upon these horns, And he looked at them, and placed himself before their eyes, and he cried to the sheep.
+
+**90:10** (pt 90:10 · en 89:15)
+
+> **PT** Ela os olhou e gritou às ovelhas e os carneiros a viram e acudiram todos a seu lado.
+
+> **EN** Then the dabela saw him, and they all ran to him.
+
+**90:11** (pt 90:11 · en 89:16)
+
+> **PT** Apesar disto, todas as águias, abutres, corvos e gaviões seguiam arrebatando às ovelhas, tornavam-se sobre elas e as devoravam. Até as ovelhas permaneciam em silêncio mas os carneiros gritavam e se lamentavam.
+
+> **EN** And contempt of these brought all the eagles, vultures, ravens, and kites, around the sheep, and they flew down upon them, and devoured them, and the sheep were silent, but the dabela lamented and cried out.
+
+**90:12** (pt 90:12 · en 89:17-89:18)
+
+> **PT** Logo estes corvos lutaram e batalharam com ela e quiseram tombar seu corno, mas não puderam fazê-lo.
+
+> **EN** Then the ravens fought and struggled with them. They wished among them to remove that horn, but they overcame him not.
+
+**90:13** (pt 90:13 · en 89:19)
+
+> **PT** Vi até que os pastores, as águias, os abutres e os gaviões vieram e gritaram aos corvos que rompessem o corno dessa esse carneiro e lutaram e batalharam contra ele e o combateu contra eles e gritou para que fossem em sua ajuda.
+
+> **EN** I looked at them until the shepherds, the eagles, the vultures, and the kites came,
+
+**90:14** (pt 90:14 · en 89:20)
+
+> **PT** Todas as águias, abutres, corvos e gaviões se congregaram e levaram com eles a todas as ovelhas do campo, uniram-se e se conjuraram para fazer pedaços este corno do carneiro.
+
+> **EN** And they cried out to the ravens to break the horn of the dabela, to contend with him, and to fight with him, but he struggled with them, and cried out that his help might come to him.
+
+**90:15** (pt 90:15 · en 89:21)
+
+> **PT** Vi o homem que tinha escrito o livro por ordem do Senhor, abrir o livro a respeito da destruição que tinham executado os doze últimos pastores, revelar ante o Senhor que eles tinham destruído muito mais que seus predecessores.
+
+> **EN** Then I looked until the man came who had written down the names of the shepherds, and who ascended up before the Lord of the sheep.
+
+**90:16** (pt 90:16 · en 89:22)
+
+> **PT** Vi esse homem que tinha cotado os nomes dos pastores e o tinha levado e apresentado ante o Senhor das ovelhas que chegou em ajuda daquele carneiro, socorreu-o, resgatou-o e lhe mostrou tudo.
+
+> **EN** He brought assistance and caused every one to see him descend to the help of the dabela.
+
+**90:17** (pt 90:17 · en 89:23)
+
+> **PT** E vi vir a seu lado ao Senhor das ovelhas, enfurecido; todos os que o viram fugiram e escureceram ante sua presença.
+
+> **EN** And I saw that the Lord of the sheep came to them in his wrath, and all those who saw him fled away, and all fell down in his tabernacle before his face, and all the eagles, vultures, ravens, and kites assembled together, and brought with them all the sheep of the field.
+
+**90:18** (pt 90:18 · en 89:24)
+
+> **PT** Observei o momento em que uma grande espada foi entregue às ovelhas e elas procederam contra todas as feras do campo para as matar e todas as bestas e as aves fugiram de sua presença.
+
+> **EN** And they all came assembled together, and strove to break the horn of the dabela.
+
+**90:19** (pt 90:19 · en 89:25-89:26, 89:31, 89:35)
+
+> **PT** E vi quando o Senhor das ovelhas foi junto a elas, tomou em suas mãos a vara de sua cólera, golpeou a terra e a terra se rachou e todas as bestas e as aves do céu caíram longe destas ovelhas e foram engolidas pela terra que se fechou sobre elas.
+
+> **EN** And I also saw that to them came the Lord of the sheep, and took in his hand the sceptre of his wrath, and smote the earth, which was rent asunder, and all the beasts and birds of heaven fell down from the sheep, and sunk into the earth, and there they were buried. * And I also saw that a mighty sword was given to the sheep, who went forth against all the beasts of the field to destroy them. And the Lord of the sheep was in the middle, and I saw all the sheep which remained, and all the beasts of the earth, and fowls of heaven, fell down, and cast themselves before the sheep, and supplicated them, and heard them in every word. And I saw that this house was great and wide and very full, and I saw that a white being was born, whose horns were great, and that all the beasts of the field and the fowls of heaven feared him, and prayed to him at all times.
+
+**90:20** (pt 90:20 · en 89:28-89:29, 89:34, 89:36, 89:38, 89:41-89:43)
+
+> **PT** Vi quando um trono foi ereto sobre a terra agradável, o Senhor das ovelhas se sentou sobre ele e o Outro tomou os livros selados e os abriu ante o Senhor das ovelhas.
+
+> **EN** Then I saw that the man who wrote the book at the word of the Lord, opened the book of destruction, of those who had been destroyed by the last twelve shepherds, and shewed before the Lord of the sheep, that they had destroyed more than those who had been before them. I stood and saw till he took down that ancient house, and they brought out its pillars, every plant, and the ivory of that house, with which it was overlaid, they brought it out and laid it on a place on the right side of the earth. All the sheep were enclosed in that house, but it did not contain them all at one time, and the eyes of all were open, and they saw the good One, and there was none among them who did not behold him. Then I saw that the nature of them all was changed, and that they all became white animals. And the Lord of the sheep rejoiced over them, and over all the animals. And I saw a throne erected in a delightful land; Upon this sat the Lord of the sheep, and received all the sealed books. And these books were opened before the Lord of the sheep.
+
+**90:21** (pt 90:21 · en 89:44)
+
+> **PT** O Senhor chamou a esses homens brancos, os sete primeiros e mandou que eles levassem ante Ele, começando pela primeira estrela que as guiava, a todas as estrelas cujo membro sexual era como o dos cavalos. e eles as levaram a todas ante Ele.
+
+> **EN** Then the Lord called the first seven white ones, and commanded them to bring before him the first of the stars, which went before the stars whose shame were like the shame of horses, and the first star which fell down first, and they brought them all before him.
+
+**90:22** (pt 90:22 · en 89:45)
+
+> **PT** Logo, Ele falou com homem que escrevia ante Ele, um dos sete homens brancos, e lhe disse: Toma esses setenta pastores a quem tinha encomendado as ovelhas e que depois das haver recebido degolaram a muitas mais das que lhes tinha mandado.
+
+> **EN** And he spake to that man who wrote before him who was one of the seven white ones, and said, Take those seventy shepherds, to whom I delivered the sheep, and who received them, and killed more than those which I had commanded them, and be hold, I saw them all bound, and all stand before him. And the judgment of the stars came on first, and they were all judged, and found guilty, and went to the place of punishment, and they thrust them into a deep full of burning fire, and full of pillars of fire. Then the seventy shepherds were judged, and were found guilty, and were thrust into the flaming abyss.
+
+**90:23** (pt 90:23)
+
+> **PT** Hei aqui que os vi todos encadeados e todos se prostraram ante Ele.
+
+> **EN** —
+
+**90:24** (pt 90:24)
+
+> **PT** O julgamento recaiu em primeiro lugar sobre as estrelas e elas foram julgadas, culpados e enviadas ao lugar de condenação, foram jogadas em um abismo cheios de fogo, chamas e colunas de fogo.
+
+> **EN** —
+
+**90:25** (pt 90:25)
+
+> **PT** Então os setenta pastores foram julgados, culpados e jogados no abismo ardente.
+
+> **EN** —
+
+**90:26** (pt 90:26 · en 89:46 · transposto)
+
+> **PT** Vi nesse momento como um precipício que se estava abrindo em meio da terra. Levaram a aquelas ovelhas cegas até ali e todas foram julgadas e culpados e jogadas no abismo em semelhante abismo de fogo e elas arderam nesse precipício que estava à direita dessa casa.
+
+> **EN** And I saw at that time, that in the middle of the earth one deep was opened which was full of fire,
+
+**90:27** (pt 90:27 · en 89:13 · transposto)
+
+> **PT** Vi arder a essas ovelhas e seus ossos também ardiam.
+
+> **EN** And I saw that a large horn sprouted forth on one of the sheep, and their eyes were opened,
+
+**90:28** (pt 90:28)
+
+> **PT** Me levantei para ver como Ele desarmou essa velha casa, levou-se todas suas colunas, vigas e adornos da casa que foram retirados ao mesmo tempo, e os levaram e os puseram em um lugar ao sul da terra.
+
+> **EN** —
+
+**90:29** (pt 90:29 · en 89:30 · transposto)
+
+> **PT** Vi quando o Senhor das ovelhas trouxe uma nova casa, maior e alta que a primeira e Ele a pôs no sítio da primeira que tinha sido desarmada. E todas suas colunas eram novas e seus adornos eram novos e maiores que os da primeira, a casa velha que se levou. Todas as ovelhas estavam dentro.
+
+> **EN** And I beheld the Lord of the sheep, until he produced anew house, greater and higher than the first, and he set it upon the place of the first, which was covered, and all its pillars were new, and its ivory new, and stronger than the first ivory, which he had brought out.
+
+**90:30** (pt 90:30 · en 89:27 · transposto)
+
+> **PT** Vi todas as ovelhas que ficavam, às bestas da terra e às aves do céu inclinar-se para render comemoração a estas ovelhas, lhes suplicar e lhes obedecer em todas as coisas.
+
+> **EN** But all the beasts and birds of heaven fled from before their face.
+
+**90:31** (pt 90:31 · en 89:40)
+
+> **PT** Logo esses três que estavam vestidos de branco, aqueles que me tinham elevado antes, tiraram-me da mão e também o carneiro tomo a mão e me fizeram subir e sentar em meio destas ovelhas, antes de que tivesse lugar o julgamento.
+
+> **EN** Then those three who were clothed in white, who before had caused me to ascend, they held me by my hand, and the hand of him who spake held me, and they raised me up, and set me in the middle of the sheep before the judgment began.
+
+**90:32** (pt 90:32 · en 89:47 · transposto)
+
+> **PT** Estas ovelhas eram todas brancas e sua lã abundante e pura.
+
+> **EN** And to this they brought the blind sheep, and they were judged, and found guilty, and were all thrust into the deep of fire on the earth, and burnt.
+
+**90:33** (pt 90:33 · en 89:32 · transposto)
+
+> **PT** E todas as que tinham sido destruídas ou dispersadas pelas bestas do campo e as aves do céu, congregaram-se nesta casa e o Senhor das ovelhas se regozijou com grande alegria porque todas eram boas e porque elas tinham retornado a sua casa.
+
+> **EN** And the sheep were all white, with their wool long and clean, and all who had perished, and had been destroyed, and all the beasts of the field, and all the fowls of heaven, turned back to that house, and the Lord of the sheep rejoiced with great joy, be cause they were all good, and had turned back again to his dwelling.
+
+**90:34** (pt 90:34 · en 89:33)
+
+> **PT** Vi quando elas depuseram essa espada que tinha sido dada às ovelhas: elas a levaram a casa e a selaram em presença do Senhor. E todas as ovelhas foram convidadas a esta casa embora não cabiam.
+
+> **EN** And I saw that they laid down the sword which had been given to the sheep, and brought it back to his house, and sealed it up in the presence of the Lord.
+
+**90:35** (pt 90:35)
+
+> **PT** Seus olhos foram abertos e elas viram bem e não houve nenhuma delas que não visse.
+
+> **EN** —
+
+**90:36** (pt 90:36 · en 89:48 · transposto)
+
+> **PT** Vi que esta casa era grande, ampla e estava completamente enche.
+
+> **EN** And this deep was on the right side of that house.
+
+**90:37** (pt 90:37 · en 89:37 · transposto)
+
+> **PT** Vi que um touro branco nasceu e seus chifres eram grandes e todas as bestas do campo e todas as aves do céu lhe temiam e lhe suplicavam a toda hora.
+
+> **EN** And that the first who was in the midst of them became a Word, and that Word became a large being, and on his head were great horns.
+
+**90:38** (pt 90:38 · en 89:49 · transposto)
+
+> **PT** Vi quando foram trocadas todas suas espécies e todos se converteram em touros brancos e o primeiro entre eles se transformou em um cordeiro que chegou a ser um grande búfalo que tinha sobre sua cabeça dois chifres negros e o Senhor das ovelhas se regozijou sobre ele e sobre todos os touros.
+
+> **EN** And I saw the sheep burning, and their bones. Consuming. *
+
+**90:39** (pt 90:39)
+
+> **PT** Eu estava dormido em meio deles e despertei depois de havê-lo visto tudo.
+
+> **EN** —
+
+**90:40** (pt 90:40 · en 89:39 · transposto)
+
+> **PT** Tal é a visão que tive quando estava dormindo e quando despertei benzi ao Senhor de Justiça e o glorifiquei.
+
+> **EN** I reposed in the middle of them, I awoke and saw the whole, and this is the vision which I saw while I slept, and when I awaked, I praised the Lord of righteousness, and gave him glory.
+
+**90:41** (pt 90:41 · en 89:50)
+
+> **PT** Então chorei muito e sem conter minhas abundantes lágrimas até mais não poder e quando eu olhava se deslizavam sobre o que via porque tudo ocorrerá e se cumprirá, porque um após o outro me foram revelados todos os atos dos homens.
+
+> **EN** Afterwards I wept a great weeping, and my tears ceased not, so that I was not able to bear it, and when I looked, they descended by reason of that which I had seen, for all was come and gone, for every particular part of the affairs of men was shewn to me.
+
+**90:42** (pt 90:42 · en 89:51)
+
+> **PT** Essa noite recordei meu primeiro sonho e chorei e me angustiei porque tinha tido essa visão.
+
+> **EN** In that night I remembered my former dream, therefore I wept and was troubled, because I had seen that vision.
+
+## Epístola de Enoque · Epistle of Enoch (caps. 91–108)
+
+### Capítulo 91
+
+**91:1** (pt 91:1 · en 90:1)
+
+> **PT** Agora, meu filho, Matusalém, convoca em torno de meus a todos seus irmãos, reúne a meu redor a todos os filhos de sua mãe, porque a palavra me chama e o espírito se verteu sobre mim, para que lhes revele tudo o que acontecerá, até a eternidade.
+
+> **EN** And now my son Mathusala, call to me all thy brethren, and gather to me all the children of thy mother, for a voice calls me, and the spirit is poured out upon me, that I may shew you every thing which shall happen to you for ever.
+
+**91:2** (pt 91:2 · en 90:2-90:3)
+
+> **PT** Assim Matusalém foi e se juntou com todos seus irmãos e congregou a seus parentes;
+
+> **EN** Then Mathusala went and called to him all his brethren, and gathered together all his relations. And he spake to all his children in truth;
+
+**91:3** (pt 91:3 · en 90:4)
+
+> **PT** e Enoque lhe falou com todos os filhos de justiça e lhes disse: Ouçam filhos do Enoque todas as palavras de seu pai e atendam a palavra de minha boca, pois é a vós a quem precatório e digo bem amados, amem a justiça e caminhem com ela.
+
+> **EN** Enoch said, Hear my children every word of your father, and listen in uprightness to the voice of my mouth, for I would gain your attention, while to you I speak. My beloved, love integrity, and walk in it.
+
+**91:4** (pt 91:4 · en 90:5)
+
+> **PT** Não lhes aproximem da justiça com um coração dobro nem lhes associem com os de dobro coração; caminhem com retidão meus filhos, guiará-lhes por bons caminhos e a justiça lhes acompanhará.
+
+> **EN** Approach not integrity with a double heart, and join not yourselves with those who are double hearted; but my children walk in righteousness, which will conduct you in good paths, and let truth be your companion.
+
+**91:5** (pt 91:5 · en 90:6)
+
+> **PT** Sei que a violência se incrementa sobre a terra e um grande castigo vai executar se sobre ela e toda injustiça será exterminada, atalho de raiz e suas estruturas serão completamente demolidas.
+
+> **EN** For I know that the state of oppression will be powerful on earth, and that it will be terminated by a great punishment on the earth, and there shall be an end of all unrighteousness which shall be cut off from its root, and all its fabric shall pass away. But unrighteousness shall be renewed again, and stand forth upon the earth, for every work of unrighteousness, and every work of oppression, and crime, shall be taken hold of a second time.
+
+**91:6** (pt 91:6 · en 90:7)
+
+> **PT** A injustiça vai a ser consumada de novo sobre a terra e todas as ações de injustiça, opressão e transgressão se duplicarão e prevalecerão.
+
+> **EN** Therefore when unrighteousness, sin, blasphemy, oppression, and every evil work shall increase, and also when transgression, impiety, and uncleanness shall increase, then upon them all there shall be inflicted a great punishment from heaven.
+
+**91:7** (pt 91:7 · en 90:8)
+
+> **PT** Mas quando toda classe de obras de pecado, injustiça, blasfémia e violência se incrementaram e a apostasia, a desobediência e a impureza aumentem, um grande castigo do céu virá sobre a terra e o Senhor santo virá com ira e castigo sobre a terra para executar o julgamento.
+
+> **EN** The holy Lord will go forth with wrath, and with punishment, that he may execute judgment on the earth.
+
+**91:8** (pt 91:8 · en 90:9)
+
+> **PT** Nessa época a violência serão atalho de raiz e da injustiça e do engano serão destruídas sob o céu.
+
+> **EN** In those days oppression shall be cut off from its roots, and the roots of iniquity together with fraud shall be rooted out from under heaven. *
+
+**91:9** (pt 91:9 · en 90:10-90:11)
+
+> **PT** Todos os ídolos das nações e seus templos serão abandonados, queimados com fogo e desterrados de toda a terra.
+
+> **EN** Every place of strength with its multitude shall be given up, and shall be burnt with fire. And they shall be brought from all the earth, and be cast into a judgment of fire, and they shall perish in wrath, and by a powerful judgment for ever.
+
+**91:10** (pt 91:10 · en 90:12, 90:15, 90:17-91:1)
+
+> **PT** Os justos se levantarão de seus sonhos, a sabedoria surgirá e lhes será dada e a terra descansará por todas as gerações futuras.
+
+> **EN** And the righteous shall be raised up from slumbers, and wisdom shall be raised up, and shall be given to them. And now my children, I will describe and shew to you the way of righteousness, and the way of oppression. And now hear my children and walk in the way of righteousness, but go not in the way of oppression, for all who walk in the ways of iniquity shall. perish for ever. That was written by Enoch. He wrote all his instruction of wisdom for every man of renown, and for every judge of the earth, for all his children who shall dwell on the earth, and for succeeding generations who shall work righteousness and peace.
+
+**91:11** (pt 91:11)
+
+> **PT** E agora vou lhes falar meus filhos para lhes mostrar todos os caminhos de justiça e todos os caminhos de violência e de novo lhes mostrarei isso para que saibam o que vai ocorrer.
+
+> **EN** —
+
+**91:12** (pt 91:12)
+
+> **PT** Agora pois, meus filhos, me escutem e escolham os caminhos de justiça e rechacem os da violência, porque partem para a destruição completa todos os que vão pelo caminho da injustiça.
+
+> **EN** —
+
+**91:13** (pt 91:13)
+
+> **PT** O que escreveu Enoque e entregou a Matusalém seu filho, e a todos os que habitam a terra firme para que obrem o bem e a paz:
+
+> **EN** —
+
+**91:14** (pt 91:14 · en 91:2)
+
+> **PT** Não lhes angustiem em seu espírito por causa dos tempos, porque o Grande Santo deu um tempo para tudo.
+
+> **EN** Let not your spirit be sorrowful by reason of the times, for the holy, the great One has given days to all.
+
+**91:15** (pt 91:15)
+
+> **PT** Os justos se levantarão de seu sonho e avançarão por atalhos de justiça e todos seus caminhos e palavras serão de retidão e graça.
+
+> **EN** —
+
+**91:16** (pt 91:16 · en 91:3)
+
+> **PT** Ele outorgará a graça aos justos e lhes dará sua eterna justiça e seu poder; Ele permanecerá em bondade e justiça e partirá com luz eterna.
+
+> **EN** Let the righteous man arise from slumber, let him arise and walk in the ways of righteousness, and let his ways and his goings be in goodness and eternal clemency, for there shall be mercy for the righteous man, integrity and power shall be given to him for ever, he shall exist in goodness and in righteousness, and shall walk in everlasting light, but sin shall perish in eternal darkness, and from this time forward shall be seen no more for ever.
+
+**91:17** (pt 91:17 · en 92:1)
+
+> **PT** Em troca, o pecado se perderá nas trevas para sempre e não aparecerá mais desde esse dia até a eternidade.
+
+> **EN** After this, Enoch began to instruct from a book.
+
+**91:18** (pt 91:18 · en 92:2)
+
+> **PT** Enoque reatou seu discurso dizendo:
+
+> **EN** And Enoch said, Concerning the children of righteousness, concerning the elect of the world, and concerning the plant of righteousness and integrity;
+
+**91:19** (pt 91:19 · en 92:3)
+
+> **PT** A propósito dos filhos da Justiça e sobre o Eleito do mundo, que cresceu como planta de verdade e de justiça, falarei-lhes e lhes darei a conhecer eu mesmo, meus filhos, conforme entendi e me revelou tudo por uma visão celestial e pela voz dos Vigilantes e os Santos. Nas pranchas celestiais tenho lido e entendido tudo.
+
+> **EN** Concerning these things I will speak, and declare to you my children, I who am Enoch. By reason of that which has appeared to me in my heavenly visions, and from the voice of the holy angels I have obtained knowledge, and from the tablet of heaven I have obtained understanding.
+
+### Capítulo 92
+
+**92:1** (pt 92:1 · en 92:4, 92:6)
+
+> **PT** Continuou falando Enoque e disse: Eu, Enoque, nasci o sétimo, na primeira semana, na época em que a justiça ainda era firme.
+
+> **EN** Enoch then began to instruct from a book, and said, I have been born the seventh in the first week, so long as judgment and righteousness were with patience. In that week will be the end of the first, in which mankind will be safe.
+
+**92:2** (pt 92:2 · en 92:7)
+
+> **PT** depois de mim, virá a segunda semana em que crescerão a mentira e a violência e durante ela terá lugar o primeiro Final, e então, um homem será salvado. E quando esta semana tenha acabado, a injustiça crescerá, e Deus fará uma lei para os pecadores.
+
+> **EN** But when the second is completed, wickedness shall increase, and in the third week he shall execute the decree upon sinners.
+
+**92:3** (pt 92:3 · en 92:8)
+
+> **PT** Depois, por volta do final da terceira semana, um homem será eleito como planta de julgamento justo, depois do qual crescerá como planta de justiça para a eternidade.
+
+> **EN** Afterwards in the accomplishment of the third week a man for a plant of the judgment of righteousness shall be chosen, and after him the plant of righteousness shall come for ever.
+
+**92:4** (pt 92:4 · en 92:9)
+
+> **PT** Logo, ao terminar a quarta semana, as visões dos Santos e dos justos aparecerão e será preparada uma lei para gerações de gerações e um cercado.
+
+> **EN** Afterwards in the accomplishment of the fourth week, the visions of the holy and the righteous shall be seen, and the law from generation to generation, and a tabernacle shall be made for them; and after this in the accomplishment of the fifth week, the house of glory and dominion shall be erected for ever.
+
+**92:5** (pt 92:5)
+
+> **PT** Depois, ao final da quinta semana, uma casa de glória e poder será edificada para a eternidade.
+
+> **EN** —
+
+### Capítulo 93
+
+**93:1** (pt 93:1 · en 92:10)
+
+> **PT** Logo, na sexta semana, os que viverão durante ela serão cegados e seu coração, infielmente, afastará-se da sabedoria. Então um homem subirá ao céu e ao final desta semana, a casa de dominação será consumida pelo fogo e será dispersado toda a linhagem da raiz escolhida.
+
+> **EN** After that in the sixth week, all who are in it shall be darkened, and the hearts of them all will forget wisdom, and in it a man shall ascend to heaven.
+
+**93:2** (pt 93:2 · en 92:11)
+
+> **PT** Logo, na sétima semana surgirá uma geração perversa; numerosas serão suas obras, mas todas estarão no engano.
+
+> **EN** And in its accomplishment the house of dominion shall be burnt with fire, and in the same the whole generation of the elect root shall be dispersed.
+
+**93:3** (pt 93:3 · en 92:12)
+
+> **PT** E ao final desta semana serão escolhidos os escolhidos como testemunhas da verdade da planta de justiça eterna. Será-lhes dada sabedoria e conhecimento por setuplicado.
+
+> **EN** Afterwards, in the seventh week, a perverse generation shall arise, its deeds shall be many, and all its deeds perverse, but in its accomplishment the righteous chosen from the plants of eternal righteousness shall be rewarded, and to them shall be given sevenfold instruction concerning all his creation.
+
+**93:4** (pt 93:4)
+
+> **PT** Eles para executar o julgamento, arrancarão de raiz as causas da violência e nelas a obra da falsidade.
+
+> **EN** —
+
+**93:5** (pt 93:5 · en 92:13)
+
+> **PT** depois disto virá a oitava semana, a da justiça, na qual se entregará uma espada a todos os justos para que julguem justamente aos opressores, que serão entregues em suas mãos.
+
+> **EN** And afterwards there shall be another week, the eighth of righteousness, in which a sword shall be given to execute judgment and justice on all oppress ors.
+
+**93:6** (pt 93:6 · en 92:14)
+
+> **PT** E ao final desta semana os justos adquirirão honestamente riquezas e será construído o templo da realeza do Grande, em seu esplendor eterno, para todas as gerações.
+
+> **EN** And sinners shall be delivered into the hands of the righteous, and in its accomplishment they shall obtain habitations by their righteousness, and the house of the great King shall be built up for ever. And after that, in the ninth week, the judgment of righteousness shall be revealed to the whole world.
+
+**93:7** (pt 93:7 · en 92:15)
+
+> **PT** Depois disto, na novena semana se revelarão a justiça e o julgamento justo à totalidade dos filhos da terra inteira e todos os opressores desaparecerão totalmente da terra e serão jogados no poço eterno e todos os homem verão o caminho justo e eterno.
+
+> **EN** And all the works of the ungodly shall vanish away from all the earth, the destruction of the world shall be appointed, and all men shall look out for the way of righteousness.
+
+**93:8** (pt 93:8 · en 92:16)
+
+> **PT** depois disto, na décima semana, em sua sétima parte, terá lugar o Julgamento Eterno. Será o tempo do Grande Julgamento e Ele executará a vingança em meio dos Santos.
+
+> **EN** And after this on the seventh day of the tenth week, there shall be an everlasting judgment, which shall be executed upon the watchers, and an extensive heaven shall spring forth in the middle of the angels, which shall remain for evermore.
+
+**93:9** (pt 93:9 · en 92:17)
+
+> **PT** Então o primeiro céu passará e aparecerá um novo céu e todos os poderes dos céus se levantarão brilhando eternamente sete vezes mais.
+
+> **EN** The former heaven shall depart and pass away, a new heaven shall appear, and all the heavenly powers shall shine with sevenfold splendour for ever, and afterwards there shall be weeks without number, which shall exist in goodness and in righteousness for evermore.
+
+**93:10** (pt 93:10 · en 92:18)
+
+> **PT** E logo depois desta, haverá muitas semanas, cujo número nunca terá fim, nas quais se obrarão o bem e a justiça. O pecado já não será mencionado jamais.
+
+> **EN** And from that time sin shall not be mentioned there for ever and ever.
+
+**93:11** (pt 93:11 · en 92:19)
+
+> **PT** Quem entre todos os humanos pode escutar as palavras do Santo sem turvar-se, compreender seu mandamento do Senhor, ou pode imaginar seus pensamentos?
+
+> **EN** And who is there of all the children of men, who is able to hear the voice of the holy One, and not to be agitated?
+
+**93:12** (pt 93:12 · en 92:20-92:21)
+
+> **PT** Ou quem entre todos os humanos pode contemplar todas as obras dos céus ou as colunas angulares sobre as que descansam? E quem vê uma alma ou um espírito e pode voltar para contá-lo? Ou subir e ver todos seus limites e pensar ou obrar como eles?
+
+> **EN** And who is there that is able to think his thoughts? Who is able to behold all the work of the beautiful heavens? And who is there that can under stand the deeds of heaven? He may behold its animation, but not its spirit, and he may be able to speak about it, but he cannot ascend to it, and he may see the boundaries of these things, and consider them, but he can make nothing like them.
+
+**93:13** (pt 93:13 · en 92:22)
+
+> **PT** Ou quem entre os filhos dos homens pode conhecer e medir qual é a longitude e a largura de toda a terra? Ou a quem lhe mostraram todas suas dimensões e sua forma?
+
+> **EN** And who is there among all men who is able to understand the breadth and length of the earth?
+
+**93:14** (pt 93:14 · en 92:23-92:24)
+
+> **PT** Quem entre todos os humanos pode conhecer qual é a longitude dos céus e qual é sua altura ou como se sustentam ou quão grande é o número das estrelas?
+
+> **EN** And by whom hath the greatness of all these things been shewn? Is it every man who is able to know the extent of heaven, and find out its elevation, and whereon it is made to remain? And how great is the number of the stars? And where is the rest of the lights of heaven?
+
+### Capítulo 94
+
+**94:1** (pt 94:1 · en 93:1)
+
+> **PT** Agora lhes digo meus filhos: Amem a justiça e caminhem nela, porque os caminhos da justiça são dignos de ser aceitos, mas os caminhos da iniquidade serão destruídos e desaparecerão.
+
+> **EN** And now my children, I desire you to love righteousness, and to walk in it, for the paths of righteousness are worthy of being received, but the paths of iniquity shall suddenly be undone, and be diminished.
+
+**94:2** (pt 94:2 · en 93:2)
+
+> **PT** Aos filhos dos homens de certa geração lhes serão mostrados os caminhos da violência e da morte e se manterão longe deles e não os seguirão.
+
+> **EN** The ways of oppression and death have been shewn to men distinguished in their generation, but they keep far from them, and follow them not.
+
+**94:3** (pt 94:3 · en 93:3)
+
+> **PT** Agora lhes digo a vós justos: Não andem pelos caminhos da maldade nem pelos caminhos da morte porque serão destruídos.
+
+> **EN** And now I declare to you, to the righteous, Go not in the ways of wickedness and oppression, nor in the ways of death, come not nigh them, that you may not perish, but desire,
+
+**94:4** (pt 94:4 · en 93:4)
+
+> **PT** Em troca procurem e escolham para vós a justiça e escolham a vida; caminhem pelos atalhos de paz e viverão e prosperarão.
+
+> **EN** And choose for yourselves righteousness, and a pleasant life.
+
+**94:5** (pt 94:5 · en 93:5)
+
+> **PT** Mantenham minhas palavras em suas reflexões e não as façam padecer o ser apagadas de seus corações, pois sei que os pecadores tentarão às pessoas para que peça com má intenção a sabedoria e tanto que não lhe encontrará em nenhum lugar, e nenhuma prova pode evitar-se.
+
+> **EN** And go in the ways of peace, that ye may live, and be found worthy; retain my words in the thoughts of your hearts, and destroy them not from your hearts, for I know that sinners cause men to execute wicked deceit. They will not come to every place, nor is every consultation diminished by them.
+
+**94:6** (pt 94:6 · en 93:6)
+
+> **PT** Desgraça para quem edifica a injustiça e a opressão e as cimentam no engano, porque serão repentinamente derrubados e não haverá paz para eles!
+
+> **EN** Wo to them who build up wickedness, and oppression, and who lay the foundation of deceit, for they shall be suddenly overthrown, and to them there shall be no peace.
+
+**94:7** (pt 94:7 · en 93:7)
+
+> **PT** Desgraça para os que edificam suas casas com o pecado porque todos seus alicerces serão arrancados e pela espada cairão! Os que possuem o ouro e a prata perecerão repentinamente no julgamento.
+
+> **EN** Wo to them who build up their houses with sin, for from their foundations they shall be overthrown, and they shall fall by the sword. And they who possess gold and silver gotten by injustice shall suddenly perish in judgment. Wo to you who are rich, for upon your riches you have confided, but from your riches you shall be removed, because you have not remembered the Most High in the days of your riches.
+
+**94:8** (pt 94:8)
+
+> **PT** Desgraça para vós ricos porque confiastes em suas riquezas, de suas riquezas serão despojados por causa de que não lhes acordastes que Mais Alto na época de sua riqueza!
+
+> **EN** —
+
+**94:9** (pt 94:9 · en 93:8)
+
+> **PT** blasfemastes e cometeu injustiça e estão amadurecidos para o dia da matança e a escuridão, para o dia do grande julgamento.
+
+> **EN** You have committed blasphemy, and wickedness, and are prepared for the day of the shedding of blood, to the day of darkness, and to the day of the great judgment.
+
+**94:10** (pt 94:10 · en 93:9)
+
+> **PT** Digo-lhes e vos anúncio que quem lhes criou lhes derrocará e sobre sua ruína não haverá misericórdia pois seu Criador se alegrará de sua destruição.
+
+> **EN** This I declare and point out to you, that he who created you will destroy you.
+
+**94:11** (pt 94:11 · en 93:11)
+
+> **PT** E vós justos nesses dias serão uma recriminação para os pecadores e os ímpios.
+
+> **EN** And in those days your righteous shall be a disgrace to sinners and to the ungodly.
+
+### Capítulo 95
+
+**95:1** (pt 95:1 · en 94:1)
+
+> **PT** OH, se meus olhos fossem águas e eu pudesse chorar sobre vós, estenderia minhas lágrimas como nuvens e poderia consolar meu angustiado coração!
+
+> **EN** Oh that my eyes were clouds of water, that I might weep over you, and let my tears flow like a cloud of water, and rest from the sorrow of my heart.
+
+**95:2** (pt 95:2 · en 94:2)
+
+> **PT** Quem lhes permitiu fazer ofensas e praticar maldades? O julgamentos alcançará a vós, pecadores.
+
+> **EN** Who has permitted you to practise hatred and wickedness, the judgment shall extend to you, ye sinners.
+
+**95:3** (pt 95:3 · en 94:3)
+
+> **PT** Não temam aos pecadores, OH justos, porque o Soberano do Universo os entregará de novo em suas mãos para que vós os julguem a gosto.
+
+> **EN** The righteous shall not be afraid before sinners, because the Almighty again will bring them into your hands, that ye may take vengeance of them according to your pleasure.
+
+**95:4** (pt 95:4 · en 94:4)
+
+> **PT** Desgraça para vós que lançam anátemas que não se podem romper, o remédio está longe de vós por causa de seus pecados!
+
+> **EN** Wo unto you who are so execrable by execrations, that you cannot be set free, and the remedy is far from you by reason of your sins. Wo unto you who reward your neighbour with evil, for you shall be rewarded according to your works.
+
+**95:5** (pt 95:5)
+
+> **PT** Desgraça para vós que devolvem o mal a seu próximo, porque serão tratados de acordo a suas obras!
+
+> **EN** —
+
+**95:6** (pt 95:6 · en 94:5)
+
+> **PT** Desgraça para vós testemunhas falsas e para quem pesa o preço da injustiça, porque perecerão repentinamente!
+
+> **EN** Wo to you ye witnesses of falsehood, and those who declare unrighteousness, for you shall suddenly perish.
+
+**95:7** (pt 95:7 · en 94:6)
+
+> **PT** Desgraça para vós pecadores que perseguem os justos, porque vós mesmos serão entregues e perseguidos por causa dessa injustiça e o peso de seu jugo cairá sobre vós!
+
+> **EN** Wo to you ye sinners, for you expel the righteous, for you receive or expel at pleasure those who work wickedness, and their yoke shall be heavy upon you.
+
+### Capítulo 96
+
+**96:1** (pt 96:1 · en 95:1)
+
+> **PT** Tenham esperança OH justos, porque repentinamente perecerão os pecadores ante vós, e terão domínio sobre eles de acordo a seu desejo.
+
+> **EN** Wait in hope, ye righteous, for suddenly the sinners shall be destroyed before you, and you shall have dominion over them according to your will.
+
+**96:2** (pt 96:2 · en 95:2)
+
+> **PT** No dia da tribulação dos pecadores, seus filhos ascenderão e voarão como águias e seu ninho estará mais alto que o dos condores; como esquilos subirão e como coelhinhos poderão entrar nas fendas da terra e nas gretas das rochas, longe para sempre da presença dos injustos, que gemerão como sereias e chorarão por causa de vós.
+
+> **EN** In the day of the affliction of sinners your off spring shall be exalted, and lifted up like eagles, and your nest shall be higher than that of the vultures, you shall ascend and enter into the holes of the earth, and into the clefts of the rocks for ever, like rabbits from the sight of the unrighteous.
+
+**96:3** (pt 96:3 · en 95:3)
+
+> **PT** portanto, não vós temam os que sofrestes, porque a sanação será distribuída entre vós, uma luz radiante lhes iluminará e escutarão do céu a palavra de descanso.
+
+> **EN** And they shall groan over you, and weep like sirens.
+
+**96:4** (pt 96:4 · en 95:4)
+
+> **PT** Desgraça para vós pecadores porque sua riqueza lhes dá a aparência de justos, mas seus corações lhes convencem de que são pecadores e isso será um testemunho contra vós e suas más ações!
+
+> **EN** And you shall not fear those who trouble you, for there shall be healing for you, a brilliant light shall shine around, and the voice of peace shall be heard from heaven. Wo to you ye sinners, for your riches make you like the righteous, but your hearts reproach you that you are sinners. This word shall be a witness against you for the remembrance of wickedness.
+
+**96:5** (pt 96:5 · en 95:5)
+
+> **PT** Desgraça para vós que devoram a flor do trigo, que bebem vinho em grandes taças e que com seu poder pisoteiam aos humildes!
+
+> **EN** Wo to you who feed upon the best of the wheat, and drink the strength of the root of the spring, and in your power tread down the humble.
+
+**96:6** (pt 96:6 · en 95:6)
+
+> **PT** Desgraça para vós que podem beber água fresca em qualquer momento, porque de um momento a outro receberão sua recompensa: serão consumidos e espremidos até a última gota, porque rechaçaram a fonte da vida!
+
+> **EN** Wo to you who drink water at pleasure, for suddenly you shall be rewarded, for ye shall be consumed, and withered, because ye have forgotten the fountain of life.
+
+**96:7** (pt 96:7 · en 95:7)
+
+> **PT** Desgraça para vós que forjam a injustiça, a fraude e a blasfémia, porque contra vós haverá um memorial por delitos!
+
+> **EN** Wo to you, who practice wickedness, deceit, and blasphemy, there shall be a remembrance against you for the evil.
+
+**96:8** (pt 96:8 · en 95:8)
+
+> **PT** Desgraça para vós poderosos que com a violência oprimem ao justo, porque o dia de sua destruição está chegando, o dia de seu julgamento e nesse tempo virão dias numerosos e bons para os justos.
+
+> **EN** Wo to you, ye mighty, who with your power strike down righteousness, for the day of your destruction shall come, but at that time, the time of your judgment, there shall be many and delightful days for the righteous.
+
+### Capítulo 97
+
+**97:1** (pt 97:1 · en 96:1)
+
+> **PT** Acreditem, OH justos, porque os pecadores serão envergonhados e perecerão o dia da iniquidade.
+
+> **EN** The righteous are confident that sinners will be put to shame, and perish in the day of wickedness.
+
+**97:2** (pt 97:2)
+
+> **PT** Saibam pecadores que o Altíssimo está pendente de sua destruição e que os anjos do céu se alegram por sua perdição.
+
+> **EN** —
+
+**97:3** (pt 97:3 · en 96:2)
+
+> **PT** O que ides fazer pecadores e aonde fugirão o dia do julgamento quando escutarem o murmúrio da oração dos justos?
+
+> **EN** To you that shall be known, for the Most High will remember your destruction, and over that destruction the angels will rejoice. What will ye do, ye sinners, and where will ye fly in the day of judgment, when you shall hear the words of the prayer of the righteous.
+
+**97:4** (pt 97:4 · en 96:3)
+
+> **PT** Irá como a aqueles contra quem estas palavras serão um testemunho: São cúmplices de pecado.
+
+> **EN** And ye shall not be like them, who shall be witness against you with these words, Ye were companions of sinners.
+
+**97:5** (pt 97:5 · en 96:4)
+
+> **PT** Nesses dias a oração dos justos chegará até o Senhor e chegarão os dias do julgamento para vós.
+
+> **EN** And in those days the prayers of the righteous shall come up before the Lord, and when the day of your judgment shall come, and every word of your wickedness shall be declared before the great and holy One,
+
+**97:6** (pt 97:6 · en 96:5)
+
+> **PT** Se lerão ante o Santo e o Justo todas as palavras sobre sua injustiça, lhes encherá a cara de vergonha e Ele rechaçará toda obra apoiada na injustiça.
+
+> **EN** Your faces shall be ashamed, when ye shall be rejected for every deed, which is strong in wickedness.
+
+**97:7** (pt 97:7)
+
+> **PT** Desgraça que estão no meio do oceano ou sobre o continente, porque sua memória é funesta para vós!
+
+> **EN** —
+
+**97:8** (pt 97:8 · en 96:6)
+
+> **PT** Desgraça para vós que adquirem o ouro e a prata com a injustiça! Dizem: chegamos a ser ricos, a ter fortuna e propriedades e conseguimos o que desejamos;
+
+> **EN** Wo to you, ye sinners, for in the middle of the sea, and on the dry land, there is an evil report against you. Wo to you, who have in your possession silver and gold not obtained in righteousness, and say, We are rich, have obtained wealth, and we have possession of all that we can desire:
+
+**97:9** (pt 97:9 · en 96:7)
+
+> **PT** realizemos agora nossos projetos, porque acumulamos prata, enchem nossos depósitos até o bordo, como água, e numerosos são nossos trabalhadores.
+
+> **EN** And now we will do what we are inclined, for we have gathered silver, our barns are full, and the husbandmen of our household are like much water.
+
+**97:10** (pt 97:10 · en 96:8)
+
+> **PT** Como água se derramarão suas quimeras, porque sua riqueza não permanecerá, mas sim subitamente voasse de vós, porque a adquiristes com injustiça e serão entregues a uma grande maldição.
+
+> **EN** Your falsehood shall flow away like water, for your riches shall not remain, but shall suddenly ascend from you, because ye have obtained it all in unrighteousness; you shall be appointed to extreme malediction.
+
+### Capítulo 98
+
+**98:1** (pt 98:1)
+
+> **PT** Agora juro ante vós, para os sábios e para os parvos, que terão estranhas experiências sobre a terra.
+
+> **EN** —
+
+**98:2** (pt 98:2 · en 96:9)
+
+> **PT** Porque vós os homens lhes porão mais adornos que uma mulher e mais roupas de cores que uma moça. Na realeza, na grandeza e em poder; na prata, no ouro e no púrpura; no esplendor e nos manjares, eles serão derramados como água.
+
+> **EN** And now I declare to you ye cunning and fool ish, because ye often view the earth, and because ye men, spread more ornaments over you than any young woman, every where arraying yourselves in majesty, in elevation, in magnificence, in authority, and in silver; but gold, purple, honour, and riches, like water shall flow away.
+
+**98:3** (pt 98:3 · en 96:10)
+
+> **PT** Porque carecerão de conhecimento e sabedoria e por causa disso serão destruídos junto com suas propriedades, sua glória e seu esplendor, com opróbrio, mortandade e grande carestia, seu espírito será arrojado dentro de um forno ardente.
+
+> **EN** Therefore instruction and wisdom are not in them, and by this they shall perish, together with all their riches, with all their splendour, and with all their honours.
+
+**98:4** (pt 98:4 · en 96:12-96:13)
+
+> **PT** Juro ante vós pecadores que assim como uma montanha não se converte em um escravo nenhuma colina se converte em uma faxineira, assim o pecado não foi enviado sobre a terra mas sim o homem o cometeu e cai sob uma grande maldição quem o comete.
+
+> **EN** I have declared to you ye sinners, that neither mountain or hill has been or shall be a servant to women. In one year such a mass of sin has not been sent upon the earth, but men of their own heads have caused it, and a powerful malediction shall be the portion of those who this have done.
+
+**98:5** (pt 98:5 · en 96:14)
+
+> **PT** A esterilidade não foi dada à mulher mas sim é por causa da obra de suas mãos pela que morre sem filhos.
+
+> **EN** And barrenness shall not be inflicted upon women, but on account of the works of their hands they shall die childless.
+
+**98:6** (pt 98:6 · en 96:15)
+
+> **PT** Lhes juro a vós pecadores pelo Santo e o Grande que todas suas más ações são manifestas nos céus e que nenhum de seus atos de opressão está oculto ou secreto.
+
+> **EN** I have declared to you ye sinners, by the holy and great One, that all your evil deeds are revealed in the heavens, and that there is not one of the deeds of your oppression concealed and secret.
+
+**98:7** (pt 98:7 · en 96:16)
+
+> **PT** Não pensem em seu espírito nem digam em seu coração que não sabiam ou não viam que todo pecador é inscrito diariamente no céu ante a presença do Altíssimo.
+
+> **EN** Think not in your spirits, neither say in your hearts, that every crime is not seen, and written down, for what is done is written every day before the Most High in heaven, and from this time forth it shall be marked down, for all your oppression with which you have oppressed, shall be written every day until the day of your judgment.
+
+**98:8** (pt 98:8 · en 96:18 · transposto)
+
+> **PT** a partir de agora sabem que toda a opressão que exercem é registrada dia a dia até o dia do julgamento.
+
+> **EN** Now therefore know that you are appointed to the day of destruction, and expect not that sinners shall live, but you shall go on and die, for you are not pointed out for redemption.
+
+**98:9** (pt 98:9 · en 96:17 · transposto)
+
+> **PT** Desgraça para vós insensatos porque serão perdidos por sua tolice! Não escutaram aos sábios e a boa sorte não será sua herança.
+
+> **EN** Wo to you, ye fools, for ye shall perish in your folly, for you will not listen to the wise, and what is good you shall not find out.
+
+**98:10** (pt 98:10 · en 96:19)
+
+> **PT** Agora sabem que estão preparados para o dia da destruição, por isso não esperem viver vós, pecadores, a não ser apartar-se e morrer; porque vós não conhecerão redenção, já que estão preparados para o dia do grande julgamento, dia da grande tribulação e da grande vergonha para seus espíritos.
+
+> **EN** But you are appointed for the day of the great judgment, for the day of tribulation, and the extreme disgrace of your souls.
+
+**98:11** (pt 98:11 · en 96:20)
+
+> **PT** Desgraça para vós os de coração espesso que forjam a maldade e comem sangue! De onde comem tanto e tão bom e bebem e lhes fartam se não ser de todos os bens que o Senhor, o Altíssimo pôs sobre a terra? Vós não terão paz.
+
+> **EN** Wo to you, ye hardened in heart, who commit wickedness and feed on blood. Whence do you eat and drink what is good, and are satiated? Is it not because our Lord the Most High has richly given every good thing on earth? To you there shall be no peace.
+
+**98:12** (pt 98:12 · en 96:21)
+
+> **PT** Desgraça para vós que amam a injustiça! por que lhes prometeram a felicidade? Saibam que serão liberados às mãos dos justos que lhes cortarão a cabeça e lhes matarão e não terão piedade de vós.
+
+> **EN** Wo to you who love the deeds of unrighteousness. Wherefore do ye expect that which is good? Know that you shall be given into the hands of the righteous who shall cut off your necks, kill you, and shew you no compassion.
+
+**98:13** (pt 98:13 · en 96:22)
+
+> **PT** Desgraça para vós que lhes agradam pela tribulação dos justos, porque nenhuma tumba será escavada para vós!
+
+> **EN** Wo to you who have your joy at the trouble of the righteous, for a grave shall not be dug for you.
+
+**98:14** (pt 98:14 · en 96:23)
+
+> **PT** Desgraça para vós que têm em nada a palavra dos justos, porque não há para vós esperança de vida!
+
+> **EN** Wo to you who frustrate the word of the righteous, for to you there shall be no hope of life.
+
+**98:15** (pt 98:15 · en 96:24)
+
+> **PT** Desgraça para vós que escrevem mentiras e palavras ímpias! Porque escrevem suas mentiras para que a gente possa as escutar e façam mal a seu próximo; por isso eles não terão paz mas sim perecerão súbitamente.
+
+> **EN** Wo to you who write down the word of false hood, and the word of the ungodly, for they write down their falsehood, that they may hear, and not forget folly.
+
+### Capítulo 99
+
+**99:1** (pt 99:1 · en 97:1)
+
+> **PT** Desgraça para vós que atuam com impiedade, elogiam a mentira e a louvam: perecerão e não haverá vida feliz para vós!
+
+> **EN** Wo to them who commit wickedness, who praise and honour the word of falsehood; you have been lost in your way, and there is not in you a good life.
+
+**99:2** (pt 99:2 · en 97:2-97:3)
+
+> **PT** Desgraça para quem perverte as palavras de verdade, transgridem a lei eterna e se convertem no que não eram: sobre a terra serão pisoteados!
+
+> **EN** Wo to you who change the words of righteousness, ye transgress the everlasting decree, And make the heads of those who are not sinners to be trodden down upon the earth.
+
+**99:3** (pt 99:3 · en 97:4)
+
+> **PT** Nesses dias, estejam preparados, OH justos, para elevar suas orações e as pôr como testemunho ante os anjos, para que eles possam recordar os pecados dos pecadores ante o Altíssimo.
+
+> **EN** Oh ye righteous, in those days ye shall have been thought worthy of having your prayers to rise up for a remembrance, and they shall be set for a witness before the angels, that they may place the sins of sinners for a remembrance before the Most High.
+
+**99:4** (pt 99:4 · en 97:5)
+
+> **PT** Nesses dias as nações se agitarão e as famílias dos povos se levantarão no dia da destruição.
+
+> **EN** In those days the nations shall be amazed, but the generations of the nations shall be raised again in the day of destruction.
+
+**99:5** (pt 99:5 · en 97:6)
+
+> **PT** Nesses dias os miseráveis sairão e levarão a seus filhos e os abandonarão e seus filhos perecerão; abandonarão até a seus meninos de peito, não voltarão para eles e não terão compaixão de seus seres queridos.
+
+> **EN** And in those days they who shall become pregnant, shall go forth and tear their children, and for sake them, and their offspring shall fall from them, and while suckling them, they shall cast them away, and shall never return to them, and have no compassion for their beloved.
+
+**99:6** (pt 99:6 · en 97:7)
+
+> **PT** De novo lhes juro pecadores que o pecado está amadurecido para o dia do incessante derramamento de sangue.
+
+> **EN** Again I declare to you ye sinners, that crime has been appointed for the day of blood, which never ceases.
+
+**99:7** (pt 99:7)
+
+> **PT** Os que adoram a pedra e os que fabricam imagens de ouro, prata, madeira ou barro e os que adoram espíritos impuros ou demónios e toda classe de ídolos sem discernimento, a eles nenhuma ajuda chegará.
+
+> **EN** —
+
+**99:8** (pt 99:8 · en 97:8)
+
+> **PT** Eles caem na impiedade por causa da tolice de seus corações, seus olhos estão cegados ao temor de seus corações e à visão de seus sonhos.
+
+> **EN** They shall worship stones, and form images of gold, of silver, of wood, and of clay, and they shall worship unclean spirits, daemons, and every idol in temples, but no relief shall be found for them, and they shall become forgetful by reason of the folly of their hearts, and their eyes shall be blinded in the fears of their hearts, and in the visions of their dreams, in which they shall be wicked, and be afraid, because all their deeds are done in falsehood, and worshipping stones, and they shall be altogether destroyed.
+
+**99:9** (pt 99:9 · en 97:9 · transposto)
+
+> **PT** Por isso se voltam ímpios e temíveis, porque forjaram com toda sua obra um engano e adoraram a pedra perecerão em um instante.
+
+> **EN** But in those days they shall be blessed, who receive the word of wisdom, who proclaim and receive the way of the Most High, who walk in the ways of righteousness, and who are not wicked with those who are wicked.
+
+**99:10** (pt 99:10 · en 97:6 · transposto)
+
+> **PT** Em troca, nesses dias bem-aventurados quem aceite as palavras de sabedoria e as entendam, sigam os caminhos do Altíssimo, caminhem pelos atalhos de sua justiça e não se convertam à impiedade com os ímpios; porque eles serão salvos.
+
+> **EN** And in those days they who shall become pregnant, shall go forth and tear their children, and for sake them, and their offspring shall fall from them, and while suckling them, they shall cast them away, and shall never return to them, and have no compassion for their beloved.
+
+**99:11** (pt 99:11 · en 97:11)
+
+> **PT** Desgraça para vós que difundem a maldade entre seu próximo, porque ficarão mortos na tumba!
+
+> **EN** Wo to you who extend the wickedness of your neighbour, for in hell you shall be destroyed.
+
+**99:12** (pt 99:12 · en 97:12)
+
+> **PT** Desgraça para vós que usam uma medida de fraude e de armadilha e que provocam a amargura sobre a terra, porque por isso serão consumidos!
+
+> **EN** Wo to you who lay the foundation of sin, and who are bitter upon earth, for upon it you shall be destroyed.
+
+**99:13** (pt 99:13 · en 97:13)
+
+> **PT** Desgraça para vós que edificam sua casa graças ao trabalho de outros: todos os materiais de construção são tijolos e pedras de injustiça e lhes digo que não terão nem um momento de paz!
+
+> **EN** Wo to you who build your houses by the labour of others, and all its fabric is brick, and the stone of sin; to you I declare that peace you shall never obtain.
+
+**99:14** (pt 99:14 · en 97:14)
+
+> **PT** Desgraça para aqueles que rechaçam a mesura e a herança eterna de seus pais e cujas lamas seguem logo aos ídolos, porque eles não terão descanso!
+
+> **EN** Wo to you, who consume the measure of the portion of your father, which is for ever, and your spirits follow after idols; for you there shall be no repose.
+
+**99:15** (pt 99:15 · en 97:15)
+
+> **PT** Desgraça para aqueles que obram injustiça, colaboram com a opressão e assassinam a seu próximo, até o dia do grande julgamento!
+
+> **EN** Wo to them who work wickedness, and give aid to oppression, who slay their neighbour until the day of the great judgment, for your glory shall be cast down, malice shall be put in your hearts, and he shall stir up the spirit of his indignation, that he may destroy you all with the sword.
+
+**99:16** (pt 99:16 · en 97:16)
+
+> **PT** Porque Ele jogará por terra sua glória, causará dor em seus corações, suscitará sua cólera e lhes destruirá a todos com a espada e todos os Santos e os justos se lembrarão de seus pecados.
+
+> **EN** Then all the righteous and the holy shall remember your crimes.
+
+### Capítulo 100
+
+**100:1** (pt 100:1 · en 98:1)
+
+> **PT** Nesses dias em um mesmo lugar serão castigados juntos os pais e seus filhos, e os irmãos um com outro cairão na morte até que corra um rio com seu sangue.
+
+> **EN** And in those days fathers shall be slain with their children in one place, and brethren with their neighbours shall fall down in death, until a stream shall flow from their blood.
+
+**100:2** (pt 100:2 · en 98:2-98:3)
+
+> **PT** Porque um homem não poderá impedir a sua mão que assassine a seu filho e a seu neto, nem o pecador poderá impedir a sua mão que assassine a seu querido irmão, do amanhecer até que o sol se oculte, eles se degolarão entre si.
+
+> **EN** For a man shall not keep back his hand from his children, nor from his children's children, for he has been merciful, that he may kill them. And the sinner shall not keep back his hand from his honoured brother, for the slaughter shall continue from the appearance of day to the setting of the sun, and the horse shall wade up to his breast, and the chariot shall sink to its upper part in the blood of sinners.
+
+**100:3** (pt 100:3)
+
+> **PT** O cavalo avançará até que seu peito se banhe em sangue e o carro até que sua parte superior seja inundada.
+
+> **EN** —
+
+**100:4** (pt 100:4 · en 99:1)
+
+> **PT** Nesses dias os anjos descenderão em um sítio escondido, reunirão em só lugar a todos os que têm feito chegar o pecado e nesse dia do julgamento o Altíssimo se levantará para sentenciar o grande julgamento em meio dos pecadores.
+
+> **EN** And in those days the angels shall descend into lurking holes, and bring together into one place all those who have assisted in sin.
+
+**100:5** (pt 100:5 · en 99:2-99:3)
+
+> **PT** Para todos os justos e os Santos Ele designará Vigilantes de entre os Santos anjos, eles lhes guardarão como à menina de um olho até que Ele extermine toda maldade e tudo pecado e se os justos dormirem um sonho comprido, não terão do que preocupar-se.
+
+> **EN** In that day the Most High shall rise up to execute the great judgment upon all sinners, and he will appoint the holy angels to be watchers over all the righteous and the holy, that they may protect them as the pupil of an eye, until all wickedness and all sin be destroyed. And then all the righteous shall sleep a deep sleep, for there is nothing in them to make them afraid, and truly they shall see the wise men.
+
+**100:6** (pt 100:6 · en 99:4)
+
+> **PT** Então os filhos da terra observarão a sabedoria em segurança e entenderão todas as palavras deste livro e reconhecerão que a riqueza não pode salvar os da ruína de seu pecado.
+
+> **EN** And the children of the earth shall understand every word of that book, and know that their riches cannot save them from the ruin of their sins.
+
+**100:7** (pt 100:7 · en 99:5)
+
+> **PT** Desgraça para vós se no dia da terrível angustia atormenta aos justos ou os queimam com fogo, pois serão compensados de acordo com suas obras!
+
+> **EN** Wo to you, ye sinners, when ye shall be grieved before the righteous in the day of the violent oppression, ye shall be burnt in the fire, and rewarded according to your works.
+
+**100:8** (pt 100:8 · en 99:6)
+
+> **PT** Desgraça para vós duros de coração que velam para planejar a maldade, porque o terror se apoderará de vós e ninguém lhes ajudará!
+
+> **EN** Wo to you, ye corrupted in heart, who watch to understand wickedness, and to find out terrors, for you there will be no assistance.
+
+**100:9** (pt 100:9 · en 99:7)
+
+> **PT** Desgraça para vós pecadores por causa das palavras de suas bocas e das obras de suas mãos, as quais sua maldade forjou; em umas chamas ardentes piores que o fogo, queimarão-lhes!
+
+> **EN** Wo to you ye sinners, for on account of the words of your mouths, and the works of your hands, you have committed impiety, you shall be burnt in the heat of a flaming fire.
+
+**100:10** (pt 100:10 · en 99:8)
+
+> **PT** Agora, saibam que para Ele, os anjos do céu investigarão suas ações, do sol, a lua e as estrelas em referência a seu pecado, porque sobre a terra já executou o julgamento sobre os justos;
+
+> **EN** And now know ye, that the angels shall search out your deeds in heaven from the sun, and from the moon, and from the stars, on account of your wickedness; for upon the earth you exercised authority over the righteous.
+
+**100:11** (pt 100:11 · en 99:9)
+
+> **PT** mas Ele acrescentará como testemunho contra vós toda nuvem, neblina, rocio ou chuva que estarão impedidos para descender sobre vós e porão atenção a seus pecados.
+
+> **EN** Every cloud shall bear witness against you, the mist, and the dew, and the rain, they shall all be withholden from you, that they may not descend to you, and assist you because of your sins.
+
+**100:12** (pt 100:12 · en 99:10)
+
+> **PT** Agora lhe dê-em presentes à chuva a ver se não se nega a descender sobre vós! Quando aceitou o rocio oro e a prata para descender?
+
+> **EN** And now bring gifts to the Almighty for the rain, that it may not be withholden, but descend upon you, and for the dew, if you have received by it gold, or silver, but when the frost, snow, cold, and every snowy wind, and all their afflictions shall fall upon you, at that time, you shall not be able to stand before them.
+
+**100:13** (pt 100:13)
+
+> **PT** Quando caírem sobre vós a geada e a neve com seus calafrios e todas as tormentas de neve com suas calamidades, nesses dias não poderão lhes manter ante eles.
+
+> **EN** —
+
+### Capítulo 101
+
+**101:1** (pt 101:1 · en 100:1)
+
+> **PT** Filhos do céu observem o céu e toda a obra do Altíssimo, tremam ante Ele e não obrem o mal em sua presença.
+
+> **EN** Now seriously consider heaven, all ye children of heaven, and all ye works of the Most High, fear him, and do no evil before him.
+
+**101:2** (pt 101:2 · en 100:2)
+
+> **PT** Se o fechar as janela do céu e impede à chuva e ao rocio cair sobre vós o que farão?
+
+> **EN** When he shuts up the windows of heaven, and restrains the rain and the dew, that it may not descend on the earth on your account, what will ye do then?
+
+**101:3** (pt 101:3 · en 100:3)
+
+> **PT** Se envia contra vós sua cólera por causa de todas suas obras, não terão ocasião de lhe suplicar se pronunciarem contra sua justiça palavra soberbas e insolentes e assim não terão paz.
+
+> **EN** And when he sends his indignation upon you, and upon all your works, you are not they who can intreat him, you who speak great and powerful things against his righteousness, and to you there shall be no peace.
+
+**101:4** (pt 101:4 · en 100:4)
+
+> **PT** Não vê-em os pilotos quando são agitados seus navios pelas ondas e sacudidos pelos ventos e caem em perigo?
+
+> **EN** And do you not behold the governors of ships, how their ships are driven about by the waves, torn to pieces by the winds, and exposed to danger?
+
+**101:5** (pt 101:5 · en 100:5)
+
+> **PT** Por causa disto temem que todas suas magníficas propriedades se vão ao mar com eles e fazem maus presságios: que o mar lhes devorará e perecerão ali.
+
+> **EN** Therefore they are afraid, because all their valuable riches are with them on the ocean, and they think not good in their hearts, because the sea may swallow them up, and in it they may be destroyed.
+
+**101:6** (pt 101:6 · en 100:6)
+
+> **PT** Todo o mar, todas suas águas e todos seus movimentos não são acaso obra do Altíssimo, não pôs Ele seu selo sobre toda sua ação e não o encadeou à areia?
+
+> **EN** Is not the whole sea, all its waters, and all its commotions, the work of him the Most High? And he has sealed up all its operations, and enclosed it around with sand.
+
+**101:7** (pt 101:7 · en 100:7)
+
+> **PT** Em sua reprimenda está tremendo, seca-se e todos seus peixes morrem, assim como tudo o que contém, mas vós pecadores que estão sobre a terra, não lhe temem?
+
+> **EN** And at his rebuke it is dried up, and alarmed, and all which is in the same, and will ye not fear him ye sinners, who are upon the earth? Is he not the Creator of heaven and earth, and of all things which are in them?
+
+**101:8** (pt 101:8 · en 100:8)
+
+> **PT** Acaso não tem feito Ele o céu e a terra e tudo o que contêm? Quem a dado a ciência e a sabedoria a todos os que se movem na terra e no mar?
+
+> **EN** And who has given instruction and wisdom to all those who are upon the earth, and to those on the sea?
+
+**101:9** (pt 101:9 · en 100:9)
+
+> **PT** Os pilotos dos navios não lhe temem ao mar e os pecadores não lhe temem ao Altíssimo.
+
+> **EN** Are not the governors of ships afraid of the ocean? And shall not sinners be afraid before the Most High?
+
+### Capítulo 102
+
+**102:1** (pt 102:1 · en 102:1-102:2)
+
+> **PT** Nesses dias se Ele lançar sobre vós um fogo terrível aonde fugirão e como lhes salvarão? E se lança sua palavra sobre vós não estarão consternados e não tremerão?
+
+> **EN** In those days when he shall bring upon you ardent fire, where will you fly, and where will you be secure? And when he sends forth his word against you, are you not astonished and afraid?
+
+**102:2** (pt 102:2 · en 102:3)
+
+> **PT** Todas as luminárias serão presas de um grande temor e a terra inteira estará aterrada, tremerá e se alarmará.
+
+> **EN** All the luminaries are moved with great fear, and the whole earth is astonished, while it trembles, and suffers anxiety.
+
+**102:3** (pt 102:3 · en 102:4)
+
+> **PT** Todos os anjos executarão suas ordens e procurarão ocultar-se a si mesmos da presença da Grande Glorifica; os filhos da terra tremerão e se estremecerão e vós pecadores serão malditos para sempre e não terão paz.
+
+> **EN** All the angels perform the commands which they have received, and desire to be concealed from the presence of the great glory, while the children of the earth tremble, and are agitated.
+
+**102:4** (pt 102:4)
+
+> **PT** Não vocês temam, almas dos justos; tenham esperança vós que morrestes na justiça.
+
+> **EN** —
+
+**102:5** (pt 102:5 · en 102:5)
+
+> **PT** Não lhes entristeçam se sua alma à descendido com dor à tumba e se a seu corpo não foi em vida de acordo com sua bondade. Em troca, espera o dia do juízo dos pecadores, o dia da maldição e o castigo.
+
+> **EN** But you ye sinners are execrable for ever, for you there shall be no peace.
+
+**102:6** (pt 102:6 · en 102:6)
+
+> **PT** Quando morrem, os pecadores dizem de vós: Tal como nós estamos mortos, os justos estão mortos, que proveito tiraram quão suas obras?
+
+> **EN** Fear not ye souls of the righteous, but hope for the day of your death in righteousness, and be not sorrowful, because in great trouble, with groaning, lamentation, and sorrow, your souls descend to the repository of the dead, for in your lives your bodies have not received according to your goodness, but in the days in which you existed, many more sinners existed, in the days of execration and punishment.
+
+**102:7** (pt 102:7)
+
+> **PT** Ao igual a nós eles morreram na tristeza e nas trevas e o que têm de mais que nós? a partir de agora somos iguais.
+
+> **EN** —
+
+**102:8** (pt 102:8)
+
+> **PT** O que se levarão e o que verão na eternidade? Porque hei aqui que eles morreram também e a partir de agora não verão a luz.
+
+> **EN** —
+
+**102:9** (pt 102:9 · en 102:7)
+
+> **PT** Eu lhes digo: A vós pecadores lhes basta comer e beber, roubar, pecar, despojar aos homens, adquirir riquezas e viver felizes dias.
+
+> **EN** And when you die, the sinners say concerning you, As we die the righteous die: what advantage have they in their works? Behold like us they die in sorrow, and in darkness. What is their superiority before us? Henceforward we are equal, and from hence what will they obtain and what will they see forever? For behold they are dead, and from this time they never will again perceive the light. I say unto you ye sinners, Ye have been satisfied with meat, and drink, with spoil of men, with robbery, and sin, with the acquisition of wealth, and the sight of good days, but have you not seen the righteous, their end is in peace, because no oppression is found in them, even to the day of their death. They perish, and are as if they were not, while their souls descend in trouble to the repository of the dead.
+
+**102:10** (pt 102:10)
+
+> **PT** Viram o final dos justos? Não se encontrou neles nenhuma classe de violência até sua morte.
+
+> **EN** —
+
+**102:11** (pt 102:11)
+
+> **PT** Entretanto morreram, foi como se não tivessem sido e suas vidas baixaram à tumba na aflição.
+
+> **EN** —
+
+### Capítulo 103
+
+**103:1** (pt 103:1)
+
+> **PT** Mas, agora lhes juro a vós justos, pela glória do Grande, do Glorioso, do Poderoso em domínio e por sua grandeza:
+
+> **EN** —
+
+**103:2** (pt 103:2 · en 103:1)
+
+> **PT** Conheço o mistério, tenho-o lido nas tabuletas do céu, vi o livro dos Santos e encontrei escrito e registrado neles:
+
+> **EN** But now I declare to you ye righteous, by his great splendour and glory, by his renowned kingdom, and by his majesty, to you I declare that I understand this mystery, that I have read on the tablets of heaven, and have seen the book of the holy Ones, and I have seen what is written and impressed upon them.
+
+**103:3** (pt 103:3 · en 103:2)
+
+> **PT** que todo bem-estar, alegria e glória estão preparados para eles e escritos para os que morreram na justiça; numerosos bens lhes serão jogo de dados em recompensa de seus trabalhos e seu destino será melhor que o dos vivos.
+
+> **EN** For all goodness, joy, and glory has been prepared for them, and written down for the spirits of them who die in righteousness, and much goodness. It shall be given to you a plant of your suffering, and your portion shall far exceed the portion of the living.
+
+**103:4** (pt 103:4 · en 103:3)
+
+> **PT** As almas de vós os que morrestes na justiça viverão e se alegrarão e seu espírito e sua memória não perecerão ante a presença do Grande por todas as gerações do mundo e daí não temerão a afronta.
+
+> **EN** The spirits of you who die in righteousness shall live, and their spirits shall rejoice and exult, and their remembrance shall be before the face of the mighty One for all the generations of the world, and they shall not now fear their disgrace.
+
+**103:5** (pt 103:5 · en 103:4)
+
+> **PT** Desgraçados vós que morrestes pecadores! Se morrerem na riqueza de seus pecados, os que são como vós dizem: Ditosos estes pecadores que viram todos seus dias,
+
+> **EN** Wo to you ye sinners, when you die in your sins, and they who are like you say concerning you, Blessed are those sinners, they have seen all their days, and now they die in happiness, and in wealth, in their lives they saw not calamity and destruction, they die in honour, and in their lives they never were restrained by judgment.
+
+**103:6** (pt 103:6 · en 103:5)
+
+> **PT** e agora morreram no prazer e nas riquezas e não viram em sua vida a tribulação nem o assassinato, morreram na glória e não se proferiu julgamento contra eles em vida.
+
+> **EN** But has it not been shewn to them, that when their souls shall be made to descend to the repository of the deed, their wickedness will then become their greatest torment, for their spirits shall enter into darkness, into the snare, and into the flame, which shall burn to the great judgment, and the great judgment shall be for all generations and for ever.
+
+**103:7** (pt 103:7 · en 103:6)
+
+> **PT** Saibam o que fará descender suas almas ao sheol, serão ali desgraçadas e seu sofrimento será grande
+
+> **EN** Wo to you, for to you there shall be no peace, and ye cannot say to the righteous, and to the good who are alive, In the days of our distress we have been loaden with affliction, and every trouble we have seen, and much evil we have suffered;
+
+**103:8** (pt 103:8 · en 103:8)
+
+> **PT** nas trevas, as cadeias e o fogo ardente, ali aonde se executará o grande castigo. Desgraçados vós porque não terão paz!
+
+> **EN** We have been sentenced to the lowest places and there was nothing to help us in word or deed that we knew, and because we found none we have been oppressed, and condemned to misery.
+
+**103:9** (pt 103:9 · en 103:8)
+
+> **PT** Não digam ao observar aos justos e bons que estão com vida: Durante sua vida trabalharam laboriosamente e experiente muito sofrimento, conheceram muitos males, foram consumidos, diminuídos e seu espírito humilhado.
+
+> **EN** We have been sentenced to the lowest places and there was nothing to help us in word or deed that we knew, and because we found none we have been oppressed, and condemned to misery.
+
+**103:10** (pt 103:10 · en 103:9)
+
+> **PT** foram destruídos e não encontraram a ninguém que os ajude nem com uma palavra, foram torturados e não esperam ver a vida ao dia seguinte.
+
+> **EN** We have not expected to live from day to day:
+
+**103:11** (pt 103:11 · en 103:10)
+
+> **PT** Esperavam ser a cabeça mas são a cauda. sofreram trabalhando mas não dispõem do fruto de seu trabalho; são alimento dos pecadores e os malvado descarregaram seu jugo sobre eles.
+
+> **EN** And we hoped to become the head,
+
+**103:12** (pt 103:12 · en 103:11)
+
+> **PT** Dominaram-lhes os que os odeiam e os que os agridem. Ante quines os odeiam baixaram a cabeça e eles não tiveram piedade.
+
+> **EN** But we have become the tail. We have been oppressed when we laboured, but we had no power over our oppressors, we have been food for sinners, and the yoke of the ungodly has been heavy upon us.
+
+**103:13** (pt 103:13 · en 103:12)
+
+> **PT** tentaram afastar-se deles para escapar e descansar mas não encontraram aonde fugir nem como escapar deles.
+
+> **EN** Those who hate and afflict us were powerful over us, and to those who hate us we had bowed our neck, but towards us there was no compassion.
+
+**103:14** (pt 103:14 · en 103:13)
+
+> **PT** Queixaram-se ante os governantes por sua tribulação e gritaram contra quem os devora, mas seus gritos não foram atendidos nem escutariam sua voz,
+
+> **EN** We sought to go from them, that we might fly away, and have rest, but we found no place to which we could fly, and be secure from them. We have accused them before princes in our distress, and have cried out to those who were devouring us, but they regarded not our cry, and they were not disposed to hear our voice.
+
+**103:15** (pt 103:15 · en 103:14)
+
+> **PT** porque os governantes ajudam aos que os despojam e devoram, aos que reduziram seu número; encobrem a opressão; não retiram o jugo dos que os devoram, desagradem e matam; ocultam sua violência e não recordam que levantaram sua mão contra Ele.
+
+> **EN** But they assist those who rob and devour us, those who diminish us, and conceal their oppression, who remove not from us their yoke, but devour, enervate, and slay us, who conceal our slaughter, yet by that never remember, that they have lifted up their hands against us.
+
+### Capítulo 104
+
+**104:1** (pt 104:1 · en 104:1)
+
+> **PT** Lhes juro isso, no céu os anjos se lembram de vós para bem, em presença da Glória do Grande.
+
+> **EN** I declare to you ye righteous, that the angels record your goodness before the glory of the mighty One in heaven.
+
+**104:2** (pt 104:2 · en 104:2)
+
+> **PT** Esperem, embora primeiro fostes afligidos com a desgraça e o sofrimento, agora brilharão como as luminárias do céu. Aparecerão e brilharão e a porta do céu se abrirá ante vós.
+
+> **EN** Wait with patient hope, for formerly you have been injured with calamity and affliction, but now you shall shine like the lights of heaven, and you shall be seen, and the gates of heaven for you shall be opened, your cries have cried for judgment, and to you it will appear, for an account of all your sufferings, shall be required from the princes, and from all those who assisted those who robbed you.
+
+**104:3** (pt 104:3)
+
+> **PT** Com seu grito, gritem por justiça e ela aparecerá para vós, porque toda sua tribulação será visitada nos governantes e em todos os que ajudaram a quem lhes despoja.
+
+> **EN** —
+
+**104:4** (pt 104:4)
+
+> **PT** Esperem e não renunciem a sua esperança porque desfrutarão de uma grande alegria, como os anjos no céu.
+
+> **EN** —
+
+**104:5** (pt 104:5 · en 104:3)
+
+> **PT** O que devem fazer? Não terão que lhes esconder o dia do grande julgamento, não serão tomados por pecadores, o julgamento eterno cairá longe de vós para todas as gerações do mundo.
+
+> **EN** Wait with patience, and always retain your hope, for you shall have great joy, like that of the angels in heaven, and that which shall be done by you shall not be concealed in the day of the great judgment, for you will not be found like sinners, and eternal condemnation shall be far from you in every generation of the world.
+
+**104:6** (pt 104:6 · en 104:4)
+
+> **PT** Agora não temam, OH justos, quando virem aos pecadores crescer em força e prosperidade em seus caminhos nem lhes associem com eles a não ser lhes mantenha afastados de sua violência, porque vós serão sócios das hostes dos céus.
+
+> **EN** And now fear not ye righteous, when ye see sinners strong and prosperous in their ways.
+
+**104:7** (pt 104:7 · en 104:5)
+
+> **PT** Embora vós pecadores digam: Nenhum de nossos pecados deve ser investigado nem registrado, entretanto seus pecados são cotados todos os dias.
+
+> **EN** Be not companions with them, but keep your selves far from their oppression, be you companions of the host of heaven You ye sinners say, That all our sins will not be found out, they will not be recorded, but all your sins shall be recorded every day.
+
+**104:8** (pt 104:8)
+
+> **PT** Agora lhes mostro que a luz e as trevas, o dia e a noite vêm sobre vós.
+
+> **EN** —
+
+**104:9** (pt 104:9 · en 104:6)
+
+> **PT** Não sejam ímpios em seus corações, não mintam nem alterem a palavra da verdade, não acusem de mentirosa à palavra do Santo e do Grande, não tomem em conta a seus ídolos porque todas suas mentiras e impiedades não lhes serão imputadas como justiça mas sim como um grande pecado.
+
+> **EN** And now I shew you, that light and darkness, day and night, behold all your sins. Be not impious in your thoughts, lie not, give not up the word of perfection, speak nothing false of the word of the holy and mighty One, praise not your idols, for all your sin, and all your impiety is not for righteousness, but for great wickedness.
+
+**104:10** (pt 104:10 · en 104:7-104:8)
+
+> **PT** Agora sei este mistério: os pecadores alterarão e desnaturalizarão em muitas formas a palavra de verdade e proferirão palavras iníquas, mentirão e inventarão grandes falsidades e escreverão livros sobre suas palavras.
+
+> **EN** And now I will shew this mystery. Many sinners shall pervert and transgress against the word of perfection. They shall speak wicked words and lies, perform great works, and shall write books in their own words, but when they shall write all my words correctly in their own languages,
+
+**104:11** (pt 104:11 · en 104:9)
+
+> **PT** Entretanto se eles escreverem verdadeiramente toda minha palavra em seus idiomas e se não alterarem nem abreviam minhas palavras, mas sim escrevem tudo segundo a verdade, todo isso o atestarei de primeiro em favor deles.
+
+> **EN** They shall neither change nor diminish from my words, but shall write them all correctly, all which from the first I have communicated unto them.
+
+**104:12** (pt 104:12 · en 104:10)
+
+> **PT** Sei outro mistério: as escrituras serão dadas aos justos e aos sábios para comunicar alegria, retidão e muita sabedoria.
+
+> **EN** And I will shew you another mystery; To the righteous and the wise, there shall be given books of joy, of integrity, and of great wisdom, and to them shall books be given in which they shall all believe.
+
+**104:13** (pt 104:13 · en 104:11)
+
+> **PT** As escrituras lhes serão dadas, eles acreditarão e se regozijarão nelas; alegrarão-se todos os justos ao aprender delas todos os caminhos de justiça.
+
+> **EN** And over them they shall rejoice, and all the righteous shall be rewarded, who from these shall learn to know the way of righteousness.
+
+### Capítulo 105
+
+**105:1** (pt 105:1 · en 104:12)
+
+> **PT** Nesses dias o Senhor lhes designou entre os filhos da terra para as ler e para lhes dar testemunho sobre sua sabedoria, lhes dizendo: Acostumem porque serão seus guias e receberão as recompensas; entre todos os filhos da terra vós terão toda recompensa.
+
+> **EN** In those days saith the Lord, they shall call, and make the children of the earth to hear their wisdom, and shew them that you are their leaders.
+
+**105:2** (pt 105:2 · en 104:13)
+
+> **PT** Lhes alegre pois, filhos da justiça, terão paz! Amem
+
+> **EN** And that there shall be a reward over the whole earth, for I and my Son will be united with them for ever in the way of righteousness in their lives. And for you there shall be peace. Rejoice children of righteousness in the truth.
+
+### Capítulo 106
+
+**106:1** (pt 106:1 · en 105:1)
+
+> **PT** Passado um tempo tomei eu, Enoque, uma mulher para Matusalém meu filho e lhe pariu um filho a quem pôs por nomeie Lamec dizendo: Certamente foi humilhada a justiça até este dia. Quando chegou à maturidade tomou Matusalém para ele uma mulher e ela ficou grávida dele e deu a luz um filho.
+
+> **EN** After some time my son Mathusala took a wife for his son Lamech.
+
+**106:2** (pt 106:2 · en 105:2)
+
+> **PT** Quando o menino nasceu sua carne era mais branca que a neve mas vermelha que a rosa, seu cabelo era branco como a lã pura, espesso e brilhante. Quando abriu os olhos iluminou toda a casa como o sol e toda a casa esteve resplandecente.
+
+> **EN** She became pregnant by him, and brought forth a child, whose flesh was white as snow, and red as a rose, and the hair of his head white like wool to its top, and his eyes were beautiful, and when he opened them he enlightened all the house like the sun, the whole house was light.
+
+**106:3** (pt 106:3 · en 105:3)
+
+> **PT** Então o menino se levantou das mãos da parteira, abriu a boca e lhe falou com Senhor de justiça.
+
+> **EN** And when he was taken from the hand of the midwife, he opened his mouth and spoke to the Lord of righteousness. Then his father Lamech was afraid of him, and fled away, and came to his own father Mathusala, and said to him, I have begotten a son of a different appearance, he is not like men, but like the angels the children of heaven; for his nature is different, and he is not as we are.
+
+**106:4** (pt 106:4)
+
+> **PT** O temor se apoderou de seu pai Lamec e fugiu e foi até onde seu pai Matusalém.
+
+> **EN** —
+
+**106:5** (pt 106:5 · en 105:4)
+
+> **PT** Lhe disse: pus no mundo um filho diferente, não é como os homens mas sim parece um filho dos anjos do céu, sua natureza é diferente, não é como nós; seus olhos são como os raios do sol e seu rosto é esplendoroso.
+
+> **EN** His eyes are as the rays of the sun, his countenance glorious, and he appears as if he were not from me, but is like the angels.
+
+**106:6** (pt 106:6 · en 105:5)
+
+> **PT** Parece-me que não foi engendrado por mim mas sim pelos anjos e temo que se realize um prodígio durante sua vida.
+
+> **EN** I am afraid that something wonderful will in his day be done on earth.
+
+**106:7** (pt 106:7 · en 105:6)
+
+> **PT** Agora, meu pai, suplico-te e te imploro que vá a lado do Enoque nosso pai e conheça com ele a verdade, já que sua residência está com os anjos.
+
+> **EN** And now my father, I entreat and request of you to go to our father Enoch, and to hear from him the truth, for his dwelling is with the angels.
+
+**106:8** (pt 106:8 · en 105:7-105:8)
+
+> **PT** assim quando Matusalém teve ouvido as palavras de seu filho, veio havia mim nos limites da terra, porque se tinha informado que eu estava ali; gritou e ouvi sua voz; fui a ele e lhe disse: me haja aqui filho meu por que vieste para mim?
+
+> **EN** When Mathusala heard the words of his son, he came to me at the ends of the earth, for he had heard that I was there, and he cried out. I heard his voice, and went to him, saying, Behold, I am here, my son, since thou art come to me.
+
+**106:9** (pt 106:9 · en 105:9)
+
+> **PT** Me disse: vim para ti devido a uma grande inquietação e por causa de uma visão a que me aproximei.
+
+> **EN** He answered me, and said, On account of a great concern, I am come to thee, and by reason of a difficult sight, I have come near to thee.
+
+**106:10** (pt 106:10 · en 105:10)
+
+> **PT** Agora me escute meu pai, nasceu-lhe um filho a meu filho Lamec, que não se parece com ele, sua natureza não é como a natureza humana, sua cor é mais branca que a neve e mais vermelho que a rosa, os cabelos de sua cabeça são mais brancos que a lã branca, seus olhos são como os raios do sol e ao abrir-se iluminaram toda a casa.
+
+> **EN** And now my father hear me, for to my son Lamech a child has been born, whose resemblance is not like him, and whose nature is not like the nature of men. His colour is whiter than snow, and redder than the rose, the hairs of his head are whiter than white wool, his eyes like the rays of the sun, and when he opened them, he enlightened the whole house.
+
+**106:11** (pt 106:11 · en 105:11)
+
+> **PT** Levantou-se das mãos da parteira, tem aberto a boca e benzeu ao Senhor do céu.
+
+> **EN** And when he was taken from the hand of the midwife, he opened his mouth, and praised the Lord of heaven.
+
+**106:12** (pt 106:12 · en 105:12)
+
+> **PT** Seu pai Lamec foi presa do temor e fugiu para mim, não acredita que seja dele mas sim dos anjos do céu e me haja aqui que vim para ti para que me dê a conhecer a verdade.
+
+> **EN** His father Lamech feared, and fled to me, and believed the child not to be from him, but he thought he was like the angels of heaven, and behold, I am come to thee, that thou mightest shew the truth.
+
+**106:13** (pt 106:13 · en 105:13)
+
+> **PT** Então eu Enoque, respondi-lhe dizendo: Certamente restaurará o Senhor sua lei sobre a terra, conforme vi e te contei, meu filho. Nos dias do Jared, meu pai, transgrediram a palavra do Senhor.
+
+> **EN** Then I, Enoch, answered, and said, The Lord will perform a new work upon the earth, and this I have explained, and seen in a vision: I have declared to thee, that in the time of the companions of my father Jared, those who were from the height of heaven transgressed the commandment of the Lord; behold, they committed sins, and laid aside their order, and mingled with women, with them they transgressed, married with them, and begot children.
+
+**106:14** (pt 106:14)
+
+> **PT** Hei aqui que pecaram, transgrediram a lei do Senhor, trocaram-na para ir com mulheres e pecar com elas; desposaram a algumas delas, que deram a luz criaturas não semelhantes aos espíritos, a não ser carnais.
+
+> **EN** —
+
+**106:15** (pt 106:15 · en 105:14)
+
+> **PT** Haverá por isso grande cólera e dilúvio sobre a terra e se fará grande destruição durante um ano.
+
+> **EN** Therefore there shall be a great destruction upon all the earth, a flood, great destruction shall be in one year.
+
+**106:16** (pt 106:16 · en 105:15)
+
+> **PT** Mas esse menino que lhes nasceu e seus três filhos, serão salvos quando morrerem os que há sobre a terra.
+
+> **EN** This child who is born to you shall remain upon the earth, and his three sons shall be saved with him, for when all mankind who are upon the earth shall die, he shall be secure.
+
+**106:17** (pt 106:17)
+
+> **PT** Então descansará a terra e será desencardida da grande corrupção.
+
+> **EN** —
+
+**106:18** (pt 106:18 · en 105:16)
+
+> **PT** Agora dava ao Lamec: ele é seu filho na verdade e sem mentiras, é teu este menino que nasceu; que lhe chame Noé porque será seu descanso quando descansarem nele e será sua salvação, porque serão salvos ele e seus filhos da corrupção da terra, causada por todos os pecadores e pelos ímpios da terra, que haverá em seus dias.
+
+> **EN** And his posterity upon the earth shall beget giants, not spiritual, but carnal, and there shall be a great punishment upon the earth, and it shall be washed from all corruption. And now inform thy son Lamech, that he who is born is his child in truth, and he shall call his name Noah, for he shall be to you a survivor, and he and his children shall be secure from the corruption which shall come upon the earth, from all the sin and from all the wickedness, which shall be accomplished on the earth in his days. After that there shall be greater wickedness, than that which was first accomplished, on the earth, for I know the secrets of the holy One, because the Lord him self has revealed and declared them to me, and of them I have read in the tablets of heaven.
+
+**106:19** (pt 106:19)
+
+> **PT** A seguir haverá uma injustiça até maior que esta que se consumou em seus dias. Pois eu conheço os mistérios do Senhor, que os Santos me contaram e me revelaram e que li nas pranchas do céu.
+
+> **EN** —
+
+### Capítulo 107
+
+**107:1** (pt 107:1 · en 105:17)
+
+> **PT** Eu vi escrito nelas que geração detrás geração obrará o mal deste modo, e haverá maldade até que se levantem gerações de justiça, a impiedade e a maldade terminem e a violência desapareça da terra e até que o bem venha à terra sobre eles.
+
+> **EN** And upon them I saw it written, that generation after generation shall offend, until a righteous race shall arise, until offences and crime shall perish, and pass away, from off the earth, and all goodness shall come upon it.
+
+**107:2** (pt 107:2 · en 105:18)
+
+> **PT** Agora, vê Lamec, você filho, e lhe diga que este menino é, de verdade e sem mentiras, seu filho.
+
+> **EN** And now my son, inform thy son Lamech,
+
+**107:3** (pt 107:3 · en 105:20)
+
+> **PT** E quando Matusalém teve escutado a palavra de seu pai Enoque, que lhe tinha revelado todas as coisas secretas, ele retornou e a fez conhecer e deu a este menino o nome do Noé, pois ele devia consolar a terra de toda a destruição.
+
+> **EN** When Mathusala heard the words of his father Enoch, who had shewn him every thing which was concealed, he departed with seeing, and called the name of that child Noah, because he was to restore the earth after its total destruction.
+
+### Capítulo 108
+
+**108:1** (pt 108:1)
+
+> **PT** Outro livro que escreveu Enoque para seu filho Matusalém e para aqueles que virão depois dele e guardarão a lei nos últimos dias.
+
+> **EN** —
+
+**108:2** (pt 108:2)
+
+> **PT** Vós obrastes bem, esperem estes dias até que o final seja consumado para os que obram mau e até que seja consumido o poder dos pecadores.
+
+> **EN** —
+
+**108:3** (pt 108:3 · en 105:21)
+
+> **PT** Esperem porque verdadeiramente o pecado passará e o nome dos pecadores será apagado do livro da vida e do livro dos Santos; e sua semente será destruída para sempre, seus espíritos serão mortos, lamentarão-se em um deserto caótico e arderão no fogo porque ali não haverá terra.
+
+> **EN** Another book which Enoch wrote for his son Mathusala, and for those who should come after him, and preserve their state of life in the latter days. You who have laboured shall wait in those days until the workers of wickedness be destroyed, and the power of the guilty pass away. Wait until sin shall vanish away, for their names shall be blotted out of the books of the holy One, their seed shall be destroyed for ever, and their spirits slain, they shall cry out, and lament in the place of misery, where they cannot see, and they shall burn in the fire where there is no earth. There I saw as it were a cloud which could not be seen through, for by reason of the depth of it I was not able to behold its height. I saw a flame of fire burning brightly, and as it were splendid mountains whirled around and shaken hither and thither.
+
+**108:4** (pt 108:4)
+
+> **PT** Observei ali uma nuvem que não se via bem porque por causa de sua profundidade não podia olhar por cima; vi uma chama de fogo ardendo resplandecer e como montanhas brilhantes que davam voltas e se arrastavam de um lado para outro.
+
+> **EN** —
+
+**108:5** (pt 108:5 · en 105:22)
+
+> **PT** Perguntei a um dos anjos Santos, que ia comigo, e lhe disse: O que é se objeto brilhante? Porque não é o céu a não ser somente uma chama brilhante que arde e um estrondo de gritos, prantos, lamentos e grande sofrimento.
+
+> **EN** And I asked one of the holy angels who was with me, and said, What is this splendid object, for it is not heaven but a flame of fire which burns, and there is the voice of the cries of weeping, of lamentation, and of great torment.
+
+**108:6** (pt 108:6)
+
+> **PT** Me disse: A este lugar que vê ali são arrojadas as almas dos pecadores, dos ímpios, dos que obram mau e de todos aqueles que alterem o que o Senhor há dito por boca dos profetas, o que será.
+
+> **EN** —
+
+**108:7** (pt 108:7 · en 105:23)
+
+> **PT** Porque algumas destas coisas estão escritas em livros e outras gravadas no alto do céu para que os anjos e os Santos as leiam e saibam o que ocorrerá aos pecadores, aos espíritos humildes, a quem tem aflito seus corpos e foram recompensados Por Deus e a quem tem sido ultrajados pelos malvados;
+
+> **EN** And he said to me, In that place which thou seest, there the spirits of sinners and blasphemers shall be thrust, of those who shall do evil, and of those who shall pervert all which the Almighty has spoken by the mouth of the prophets, all which they ought to do; for concerning these things there shall be writings and books above in heaven, that the angels may read them, and know what shall be done both to sinners, and to the spirits of the humble, to those who have suffered in their flesh, but been rewarded by God, and of those who have been insulted by wicked men, who have loved God, who have been attached neither to gold, or silver, or to any good thing in the world, but have given their bodies to affliction,
+
+**108:8** (pt 108:8)
+
+> **PT** a quem tem amado a Deus e não amaram o ouro nem a prata nem nenhuma das riquezas deste mundo e seus corpos foram torturados;
+
+> **EN** —
+
+**108:9** (pt 108:9 · en 105:24)
+
+> **PT** a quem depois de existir não desejaram alimento terrestre, são olhados como uma brisa que passa e vivem de acordo com isso e o Senhor provou suas almas e as encontrou puras para benzer seu nome.
+
+> **EN** To those who from the time of their birth have not desired the riches of the earth, but have regarded themselves as a breath which passes away.
+
+**108:10** (pt 108:10)
+
+> **PT** Tenho exposto nos livros toda sua bênção: Ele lhes recompensou pois foi achado que amam mais ao céu que ao solo deste mundo e enquanto eram pisoteadas pelos malvados e ouviam as ofensas e maldições e eram ultrajadas, elas me benziam.
+
+> **EN** —
+
+**108:11** (pt 108:11 · en 105:25)
+
+> **PT** Agora apelarei aos espíritos dos bons ente as gerações de luz e transformarei a quem tem nascido em trevas e não receberam em seu corpo honra e glória nem recompensa como convinha a sua fé.
+
+> **EN** And this they have observed, and much the Lord has proved them, and their spirits have been found in purity, that they might praise his name. I have related all their blessings in a book, and the mighty One has rewarded them, for they have been found to love heaven with an aspiration for ever. God has said, While they have been trodden down by wicked men, they have heard from them invectives and blasphemies, and they have been insulted while they were praising me, and now I will call the spirits of the good from the generation of light, and will change those who have been born in darkness, who in their bodies have not received the honour which their faith deserved.
+
+**108:12** (pt 108:12 · en 105:26)
+
+> **PT** Exibirei em uma luz resplandecente a quem tem amado meu nome santo e os farei sentar em um trono.
+
+> **EN** I will bring them into the splendid light of those who love my holy, and I will place each of them on a throne of glory, of glory his own, and they shall be exalted for times without number. For the judgment of God is righteousness.
+
+**108:13** (pt 108:13)
+
+> **PT** Brilharão por tempos inumeráveis, pois o juízo de Deus é justo e Ele restaurará a fidelidade dos fiéis na morada dos caminhos da verdade.
+
+> **EN** —
+
+**108:14** (pt 108:14)
+
+> **PT** Eles verão jogar nas trevas a quem tem vivido nas trevas, enquanto que os justos brilharão.
+
+> **EN** —
+
+**108:15** (pt 108:15 · en 105:27)
+
+> **PT** Os pecadores clamarão e os verão brilhar a eles, que verdadeiramente sairão os dias e tempos que estão prescritos para eles.
+
+> **EN** For he will give faith to the faithful in the habitations of upright ways, and they shall see that those who are born in darkness shall be cast into darkness, while the righteous shall be exalted, sinners when they behold them shall cry out, while they exist in splendour, and proceed on to the days and times which before for them had been written.
+
+**
+
+*Here ends the vision of Enoch the prophet. May the benediction of his prayer, and the gift of his appointed time, be with his beloved. Amen*

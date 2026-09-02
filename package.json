@@ -13,6 +13,7 @@
     "typecheck": "tsc --noEmit",
     "download:protestant": "bun run src/protestant/download-all.ts",
     "download:catholic": "bun run src/catholic/download-all.ts",
+    "download:enoque": "bun run src/enoque/main.ts",
     "download:all": "bun run download:protestant && bun run download:catholic"
   },
   "dependencies": {
