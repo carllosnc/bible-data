@@ -64,6 +64,33 @@ It transforms the data into multiple useful formats for developers.
 
    The data will be saved in the `output/<category>/` directory (e.g., `output/protestant/` or `output/catholic/`).
 
+4. **Fix Spacing Issues:**
+
+   Automatically fix spacing issues (double spaces, missing spaces after punctuation, etc.) in all Bible JSON files:
+
+   ```bash
+   # Check for issues without modifying (dry run)
+   bun run fix:spacing:check
+
+   # Apply fixes
+   bun run fix:spacing
+   ```
+
+5. **Regenerate Gzip Files:**
+
+   Recreate all gzip files from the JSON source files (useful after fixing spacing or other modifications):
+
+   ```bash
+   # Check what would be regenerated (dry run)
+   bun run regen:gzip:check
+
+   # Regenerate gzip files
+   bun run regen:gzip
+
+   # Remove old gzip files first, then regenerate
+   bun run regen:gzip:clean
+   ```
+
 ## Output Formats
 
 The output is organized by category (protestant/catholic), format (json/gzip/sqlite), and language.

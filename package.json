@@ -14,7 +14,12 @@
     "download:protestant": "bun run src/protestant/download-all.ts",
     "download:catholic": "bun run src/catholic/download-all.ts",
     "download:enoque": "bun run src/enoque/main.ts",
-    "download:all": "bun run download:protestant && bun run download:catholic"
+    "download:all": "bun run download:protestant && bun run download:catholic",
+    "fix:spacing": "bun run src/fix-spacing.ts",
+    "fix:spacing:check": "bun run src/fix-spacing.ts --dry-run",
+    "regen:gzip": "bun run src/regen-gzip.ts",
+    "regen:gzip:clean": "bun run src/regen-gzip.ts --clean",
+    "regen:gzip:check": "bun run src/regen-gzip.ts --dry-run"
   },
   "dependencies": {
     "@inquirer/prompts": "^8.5.2",
