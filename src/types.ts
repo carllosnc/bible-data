@@ -10,7 +10,7 @@ export type BookCategory =
   "General Epistles" |
   "Prophetic"
 
-export type BibleCategory = "Protestant" | "Catholic" | "Orthodox"
+export type BibleCategory = "Protestant" | "Catholic" | "Orthodox" | "Apocryphal"
 
 export type Book = {
   name: string

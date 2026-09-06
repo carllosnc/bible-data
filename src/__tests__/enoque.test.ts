@@ -1,134 +1,133 @@
 import { describe, it, expect } from 'bun:test'
 import { Database } from 'bun:sqlite'
 import { existsSync } from 'node:fs'
-import type { ParallelEnoch, ParallelVerse } from '../enoque/types'
+import type { Bible } from '../types'
 import { getSource, parseVerses } from '../enoque/scrapper'
 
-const DATA_DIR = 'output/enoque'
+const DATA_DIR = 'output/apocryphal'
 const RAW_AVAILABLE =
-  existsSync(`${DATA_DIR}/raw/1ENOQUE.html`) && existsSync(`${DATA_DIR}/raw/1ENOCH.html`)
-const DATA_AVAILABLE = existsSync(`${DATA_DIR}/json/enoque.paralela.json`)
+  existsSync(`${DATA_DIR}/enoque/raw/1ENOQUE.html`) && existsSync(`${DATA_DIR}/enoque/raw/1ENOCH.html`)
+const PT_AVAILABLE = existsSync(`${DATA_DIR}/json/pt-BR/bible-enoque.json`)
+const EN_AVAILABLE = existsSync(`${DATA_DIR}/json/en/bible-enoque.json`)
 
-const data = DATA_AVAILABLE
-  ? (JSON.parse(await Bun.file(`${DATA_DIR}/json/enoque.paralela.json`).text()) as ParallelEnoch)
+const ptData: Bible | null = PT_AVAILABLE
+  ? (JSON.parse(await Bun.file(`${DATA_DIR}/json/pt-BR/bible-enoque.json`).text()) as Bible)
   : null
 
-function allVerses(enoch: ParallelEnoch): Array<ParallelVerse & { chapter: number }> {
-  const verses: Array<ParallelVerse & { chapter: number }> = []
-  for (const section of enoch.sections) {
-    for (const chapter of section.chapters) {
-      for (const verse of chapter.verses) {
-        verses.push({ ...verse, chapter: chapter.number })
-      }
-    }
-  }
-  return verses
+const enData: Bible | null = EN_AVAILABLE
+  ? (JSON.parse(await Bun.file(`${DATA_DIR}/json/en/bible-enoque.json`).text()) as Bible)
+  : null
+
+function allVerses(chapters: string[][]): string[] {
+  return chapters.flat()
 }
 
-function findVerse(enoch: ParallelEnoch, refPt: string): ParallelVerse | undefined {
-  return allVerses(enoch).find((v) => v.ref.pt === refPt)
-}
-
-describe.skipIf(!RAW_AVAILABLE)('enoque scrapper', () => {
-  it('parseia as duas fontes com os totais esperados', async () => {
-    const ptHtml = await getSource('pt')
-    const enHtml = await getSource('en')
+describe('enoque scrapper', () => {
+  it('parseia as duas fontes com totais consistentes', async () => {
+    if (!RAW_AVAILABLE) return
+    const [ptHtml, enHtml] = await Promise.all([getSource('pt'), getSource('en')])
     const ptVerses = parseVerses(ptHtml)
     const enVerses = parseVerses(enHtml)
     expect(ptVerses.length).toBe(1059)
     expect(enVerses.length).toBe(1179)
-  })
-
-  it('a fonte PT contem os 108 capitulos', async () => {
-    const ptVerses = parseVerses(await getSource('pt'))
-    const chapters = new Set(ptVerses.map((v) => v.ch))
-    for (let ch = 1; ch <= 108; ch++) {
-      expect(chapters.has(ch)).toBe(true)
-    }
+    const ptChapters = new Set(ptVerses.map((v) => v.ch))
+    expect(ptChapters.size).toBe(108)
+    const enChapters = new Set(enVerses.map((v) => v.ch))
+    expect(enChapters.size).toBe(103)
   })
 })
 
-describe.skipIf(!DATA_AVAILABLE)('enoque dataset', () => {
-  it('tem 5 secoes com os limites canonicos corretos', () => {
-    expect(data!.meta.structure.sections).toHaveLength(5)
-    expect(data!.meta.structure.canonicalChapters).toBe(108)
+describe('enoque bible format', () => {
+  it.each([
+    ['pt-BR', 'PT', ptData],
+    ['en', 'EN', enData],
+  ] as const)('%s: formato padrão bible (%s)', (lang, _label, data) => {
+    if (!data) return
 
-    const ranges = data!.meta.structure.sections.map((s) => s.chapterRange)
-    expect(ranges).toEqual([
-      [1, 36],
-      [37, 71],
-      [72, 82],
-      [83, 90],
-      [91, 108],
-    ])
+    expect(data.id).toBe('enoque')
+    expect(data.category).toBe('Apocryphal')
+    expect(data.lang).toBe(lang)
+    expect(data.books.length).toBe(1)
+
+    const book = data.books[0]
+    expect(book.abbrev).toBe('enq')
+    expect(book.category).toBe('Prophetic')
+    expect(book.testament).toBe(0)
+    expect(book.chapters.length).toBe(108)
+    expect(book.chapters.flat().length).toBe(1059)
   })
 
-  it('contem 108 capitulos e 1059 versiculos PT', () => {
-    const verses = allVerses(data!)
-    expect(verses.length).toBe(1059)
-
-    const chapters = new Set(verses.map((v) => v.chapter))
-    expect(chapters.size).toBe(108)
-    for (let ch = 1; ch <= 108; ch++) {
-      expect(chapters.has(ch)).toBe(true)
+  it('PT: todos os versículos presentes', () => {
+    if (!ptData) return
+    const book = ptData.books[0]
+    for (let ch = 0; ch < 108; ch++) {
+      const chapter = book.chapters[ch]
+      expect(chapter.length).toBeGreaterThan(0)
+      for (const verse of chapter) {
+        expect(verse.length).toBeGreaterThan(0)
+      }
     }
   })
 
-  it('todo versiculo tem texto PT e numeracao sequencial por capitulo', () => {
-    const byChapter = new Map<number, ParallelVerse[]>()
-    for (const v of allVerses(data!)) {
-      const list = byChapter.get(v.chapter) ?? []
-      list.push(v)
-      byChapter.set(v.chapter, list)
-    }
-    for (const [, verses] of byChapter) {
-      verses.forEach((v, idx) => {
-        expect(v.number).toBe(idx + 1)
-        expect(v.pt).toBeTruthy()
-        expect(v.ref.pt).toMatch(/^\d{1,3}:\d{1,3}$/)
-      })
-    }
+  it('PT: versículos-chave de teste', () => {
+    if (!ptData) return
+    const book = ptData.books[0]
+    expect(book.chapters[0][0]).toContain('Enoque')
+    expect(book.chapters[17][0]).toContain('ventos')
+    expect(book.chapters[88][0]).toContain('touros')
+    expect(book.chapters[93][0]).toContain('justi')
+    expect(book.chapters[107][0]).toContain('Outro livro')
   })
 
-  it('cobertura do alinhamento PT-EN >= 85%', () => {
-    const verses = allVerses(data!)
-    const matched = verses.filter((v) => v.en).length
-    expect(matched / verses.length).toBeGreaterThanOrEqual(0.85)
+  it('EN: Coverage aligns with PT (same grid, ~90% coverage)', () => {
+    if (!enData || !ptData) return
+    const enFlat = allVerses(enData.books[0].chapters)
+    const ptFlat = allVerses(ptData.books[0].chapters)
+    expect(enFlat.length).toBe(ptFlat.length)
+
+    const enEmpty = enFlat.filter((t) => t.length === 0).length
+    const pct = ((ptFlat.length - enEmpty) / ptFlat.length) * 100
+    expect(pct).toBeGreaterThanOrEqual(88)
+    expect(pct).toBeLessThanOrEqual(95)
   })
 
-  it('alinhamentos criticos conhecidos', () => {
-    expect(findVerse(data!, '1:1')?.ref.en).toBe('1:1')
-    expect(findVerse(data!, '89:1')?.ref.en).toBe('88:1')
-    expect(findVerse(data!, '104:1')?.ref.en).toBe('104:1')
-    expect(findVerse(data!, '106:1')?.ref.en).toBe('105:1')
-    expect(findVerse(data!, '106:2')?.ref.en).toBe('105:2')
-    expect(findVerse(data!, '108:15')?.ref.en).toBe('105:27')
+  it('EN: canonical position 106:1 matches Noah wife text', () => {
+    if (!enData) return
+    const verse106v1 = enData.books[0].chapters[105][0]
+    expect(verse106v1).toContain('Mathusala')
   })
+})
 
-  it('bloco transposto dos espiritos do clima esta anotado', () => {
-    const verse = findVerse(data!, '60:11')
-    expect(verse?.ref.en).toContain('58:1')
-    expect(verse?.notes).toContain('transposto')
-  })
+describe('enoque sqlite', () => {
+  it.each([
+    ['pt-BR', ptData],
+    ['en', enData],
+  ] as const)('%s: standard schema + counts', (lang, data) => {
+    if (!data) return
+    const sqlitePath = `${DATA_DIR}/sqlite/${lang}/bible-enoque.sqlite`
+    if (!existsSync(sqlitePath)) return
+    using db = new Database(sqlitePath, { readonly: true })
 
-  it('nota syncellus preservada no cap 16', () => {
-    const chapter16 = allVerses(data!).filter((v) => v.chapter === 16)
-    expect(chapter16.some((v) => v.notes.includes('syncellus'))).toBe(true)
-  })
+    const tables = db.query("SELECT name FROM sqlite_master WHERE type='table'").all()
+    const names = (tables as { name: string }[]).map((t) => t.name)
+    expect(names).toContain('info')
+    expect(names).toContain('books')
+    expect(names).toContain('verses')
 
-  it('sqlite com FTS5 responde a busca bilingue', () => {
-    using db = new Database(`${DATA_DIR}/sqlite/enoque.sqlite`, { readonly: true })
-    const count = db.query('SELECT COUNT(*) AS n FROM versos').get() as { n: number }
-    expect(count.n).toBe(1059)
+    const info = db.query('SELECT id, name, lang, category FROM info').get() as any
+    expect(info.id).toBe('enoque')
+    expect(info.category).toBe('Apocryphal')
+    expect(info.lang).toBe(lang)
 
-    const ftsPt = db
-      .query("SELECT COUNT(*) AS n FROM busca WHERE busca MATCH 'gigantes'")
-      .get() as { n: number }
-    expect(ftsPt.n).toBeGreaterThan(0)
+    const bookCount = (db.query('SELECT COUNT(*) as c FROM books').get() as any).c
+    expect(bookCount).toBe(1)
 
-    const ftsEn = db
-      .query("SELECT COUNT(*) AS n FROM busca WHERE busca MATCH 'watchers'")
-      .get() as { n: number }
-    expect(ftsEn.n).toBeGreaterThan(0)
+    const verseCount = (db.query('SELECT COUNT(*) as c FROM verses').get() as any).c
+    expect(verseCount).toBe(1059)
+
+    const uniqueBook = (
+      db.query('SELECT COUNT(DISTINCT book_abbrev) as c FROM verses').get() as any
+    ).c
+    expect(uniqueBook).toBe(1)
   })
 })
