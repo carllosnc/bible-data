@@ -15,6 +15,7 @@
     "download:catholic": "bun run src/catholic/download-all.ts",
     "download:enoque": "bun run src/enoque/main.ts",
     "download:judas": "bun run src/judas/main.ts",
+    "download:mary": "bun run src/mary/main.ts",
     "download:all": "bun run download:protestant && bun run download:catholic",
     "fix:spacing": "bun run src/fix-spacing.ts",
     "fix:spacing:check": "bun run src/fix-spacing.ts --dry-run",
