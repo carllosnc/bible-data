@@ -40,6 +40,22 @@ export async function getSource(force = false): Promise<string> {
 
 const PAGE_MARKER_RE = /<strong>\s*(\d{2,3})\s*<\/strong>\s*(?:&nbsp;|\s)*/g
 
+function extractNotesFromHtml(html: string): string[] {
+  const notes: string[] = []
+  const notesMatch = html.match(/Notes on Translation<\/strong>[\s\S]*$/i)
+  if (!notesMatch) return notes
+
+  const notesHtml = notesMatch[0]
+  const chunk$ = cheerio.load(notesHtml)
+  chunk$('p').each((_, el) => {
+    const text = cleanText(chunk$(el).text())
+    if (text && !/^Notes on Translation$/i.test(text)) {
+      notes.push(text)
+    }
+  })
+  return notes
+}
+
 export function parseSections(html: string): RawSection[] {
   const $ = cheerio.load(html)
   const contentDiv = $('.sqs-html-content')
@@ -49,7 +65,7 @@ export function parseSections(html: string): RawSection[] {
 
   const contentHtml = contentDiv.html() || ''
 
-  const pagePositions: { page: number; pos: number }[] = []
+  const pagePositions: { page: number; markerStart: number; contentStart: number }[] = []
   let m: RegExpExecArray | null
   let firstPage33Skipped = false
   while ((m = PAGE_MARKER_RE.exec(contentHtml)) !== null) {
@@ -59,15 +75,17 @@ export function parseSections(html: string): RawSection[] {
         firstPage33Skipped = true
         continue
       }
-      pagePositions.push({ page: num, pos: m.index + m[0].length })
+      pagePositions.push({ page: num, markerStart: m.index, contentStart: m.index + m[0].length })
     }
   }
 
   const sections: RawSection[] = []
   for (let i = 0; i < pagePositions.length; i++) {
-    const start = pagePositions[i].pos
-    const end = i + 1 < pagePositions.length ? pagePositions[i + 1].pos - 100 : contentHtml.length
-    const chunk = contentHtml.substring(start, Math.min(end, contentHtml.length))
+    const start = pagePositions[i].contentStart
+    const end = i + 1 < pagePositions.length ? pagePositions[i + 1].markerStart : contentHtml.length
+    const chunk = contentHtml
+      .substring(start, Math.min(end, contentHtml.length))
+      .replace(/<strong>\s*\d{2,3}\s*<\/strong>/g, '')
 
     const chunk$ = cheerio.load(chunk)
     const paragraphs: string[] = []
@@ -90,7 +108,13 @@ export function parseSections(html: string): RawSection[] {
       page: pagePositions[i].page,
       heading: '',
       paragraphs,
+      notes: [],
     })
+  }
+
+  const notesContent = extractNotesFromHtml(contentHtml)
+  if (notesContent.length && sections.length) {
+    sections[sections.length - 1].notes = notesContent
   }
 
   return sections

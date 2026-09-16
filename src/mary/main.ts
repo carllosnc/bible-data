@@ -4,7 +4,7 @@ import { getSource, parsePages, SOURCE } from './scrapper'
 
 const BOOK_ABBREV = 'mar'
 
-function buildBook(pages: string[][], lang: 'en' | 'pt-BR'): Book {
+function buildBook(pages: string[][], lang: 'en' | 'pt-BR', notes?: string[][]): Book {
   return {
     name: lang === 'pt-BR' ? 'O Evangelho de Maria' : 'The Gospel of Mary',
     link: SOURCE.url,
@@ -12,16 +12,17 @@ function buildBook(pages: string[][], lang: 'en' | 'pt-BR'): Book {
     abbrev: BOOK_ABBREV,
     testament: 0,
     chapters: pages,
+    notes,
   }
 }
 
-function buildBible(pages: string[][], lang: 'en' | 'pt-BR'): Bible {
+function buildBible(pages: string[][], lang: 'en' | 'pt-BR', notes?: string[][]): Bible {
   return {
     id: 'mary',
     name: lang === 'pt-BR' ? 'O Evangelho de Maria' : 'The Gospel of Mary',
     category: 'Apocryphal',
     lang,
-    books: [buildBook(pages, lang)],
+    books: [buildBook(pages, lang, notes)],
   }
 }
 
@@ -36,8 +37,10 @@ async function main(): Promise<void> {
   console.log(`Found ${pagesEn.length} pages (EN)`)
 
   const enChapters: string[][] = []
+  const enNotes: string[][] = []
   for (const page of pagesEn) {
     enChapters.push([...page.paragraphs])
+    enNotes.push([...page.notes])
   }
 
   console.log('Loading Portuguese translation...')
@@ -48,12 +51,14 @@ async function main(): Promise<void> {
   console.log(`Found ${pagesPt.length} pages (PT)`)
 
   const ptChapters: string[][] = []
+  const ptNotes: string[][] = []
   for (const page of pagesPt) {
     ptChapters.push([...page.paragraphs])
+    ptNotes.push([...page.notes])
   }
 
-  const enBible = buildBible(enChapters, 'en')
-  const ptBible = buildBible(ptChapters, 'pt-BR')
+  const enBible = buildBible(enChapters, 'en', enNotes)
+  const ptBible = buildBible(ptChapters, 'pt-BR', ptNotes)
 
   await saveBible(enBible, async (b) => b)
   await saveBible(ptBible, async (b) => b)

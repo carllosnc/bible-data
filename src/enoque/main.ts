@@ -29,7 +29,7 @@ function groupByChapter(verses: RawVerse[]): Map<number, RawVerse[]> {
   return chapters
 }
 
-function buildBook(lang: Lang, name: string, chapters: string[][]): Book {
+function buildBook(lang: Lang, name: string, chapters: string[][], notes?: string[][]): Book {
   return {
     name,
     link: SOURCES[lang].url,
@@ -37,16 +37,17 @@ function buildBook(lang: Lang, name: string, chapters: string[][]): Book {
     abbrev: BOOK_ABBREV,
     testament: 0,
     chapters,
+    notes,
   }
 }
 
-function buildBible(lang: Lang, name: string, bookName: string, chapters: string[][]): Bible {
+function buildBible(lang: Lang, name: string, bookName: string, chapters: string[][], notes?: string[][]): Bible {
   return {
     id: 'enoque',
     name,
     category: 'Apocryphal',
     lang: lang === 'pt' ? 'pt-BR' : 'en',
-    books: [buildBook(lang, bookName, chapters)],
+    books: [buildBook(lang, bookName, chapters, notes)],
   }
 }
 
@@ -85,6 +86,8 @@ async function main(): Promise<void> {
 
   const ptChaptersGrid: string[][] = []
   const enChaptersGrid: string[][] = []
+  const ptNotesGrid: string[][] = []
+  const enNotesGrid: string[][] = []
   const ptIndexByChapter = new Map<number, number[]>()
   let cursor = 0
   for (const verse of ptVerses) {
@@ -97,13 +100,15 @@ async function main(): Promise<void> {
     const indices = ptIndexByChapter.get(ch)!
     ptChaptersGrid.push(indices.map((i) => ptVerses[i].text))
     enChaptersGrid.push(indices.map((i) => enByPtIndex.get(i) ?? ''))
+    ptNotesGrid.push(indices.map((i) => ptVerses[i].notes.join(', ')))
+    enNotesGrid.push(indices.map((i) => enVerses[ptToEn[i]?.[0]]?.notes.join(', ') ?? ''))
   }
 
   const matched = [...enByPtIndex.keys()].length
   console.log(`EN coverage: ${matched}/${ptVerses.length} verses`)
 
-  const ptBible = buildBible('pt', 'O Livro de Enoque', 'Enoque', ptChaptersGrid)
-  const enBible = buildBible('en', 'The Book of Enoch', 'Enoch', enChaptersGrid)
+  const ptBible = buildBible('pt', 'O Livro de Enoque', 'Enoque', ptChaptersGrid, ptNotesGrid)
+  const enBible = buildBible('en', 'The Book of Enoch', 'Enoch', enChaptersGrid, enNotesGrid)
 
   await saveBible(ptBible, async () => ptBible)
   await saveBible(enBible, async () => enBible)

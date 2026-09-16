@@ -57,6 +57,23 @@ export async function getSource(lang: 'en' | 'pt' = 'en', force = false): Promis
 }
 
 const PAGE_MARKER_RE = /<strong>(\d{1,2})<\/strong>&nbsp;/g
+const SYMBOLS_RE = /[Ss]ímbolos|[Ss]ymbols/i
+
+function extractNotesFromHtml(html: string): string[] {
+  const notes: string[] = []
+  const notesMatch = html.match(/Notes on Translation<\/strong>[\s\S]*$/i)
+  if (!notesMatch) return notes
+
+  const notesHtml = notesMatch[0]
+  const chunk$ = cheerio.load(notesHtml)
+  chunk$('p').each((_, el) => {
+    const text = cleanText(chunk$(el).text())
+    if (text && !/^Notes on Translation$/i.test(text)) {
+      notes.push(text)
+    }
+  })
+  return notes
+}
 
 export function parsePages(html: string): RawPage[] {
   const $ = cheerio.load(html)
@@ -67,20 +84,26 @@ export function parsePages(html: string): RawPage[] {
 
   const contentHtml = contentDiv.html() || ''
 
-  const pagePositions: { page: number; pos: number }[] = []
+  const symbolsMatch = SYMBOLS_RE.exec(contentHtml)
+  const symbolsEnd = symbolsMatch ? symbolsMatch.index + 300 : 0
+
+  const pagePositions: { page: number; markerStart: number; contentStart: number }[] = []
   let m: RegExpExecArray | null
   while ((m = PAGE_MARKER_RE.exec(contentHtml)) !== null) {
+    if (m.index < symbolsEnd) continue
     const num = Number(m[1])
     if (num >= 7 && num <= 19) {
-      pagePositions.push({ page: num, pos: m.index + m[0].length })
+      pagePositions.push({ page: num, markerStart: m.index, contentStart: m.index + m[0].length })
     }
   }
 
   const pages: RawPage[] = []
   for (let i = 0; i < pagePositions.length; i++) {
-    const start = pagePositions[i].pos
-    const end = i + 1 < pagePositions.length ? pagePositions[i + 1].pos - 100 : contentHtml.length
-    const chunk = contentHtml.substring(start, Math.min(end, contentHtml.length))
+    const start = pagePositions[i].contentStart
+    const end = i + 1 < pagePositions.length ? pagePositions[i + 1].markerStart : contentHtml.length
+    const chunk = contentHtml
+      .substring(start, Math.min(end, contentHtml.length))
+      .replace(/<strong>\d{1,2}\s?<\/strong>/g, '')
 
     const chunk$ = cheerio.load(chunk)
     const paragraphs: string[] = []
@@ -90,7 +113,7 @@ export function parsePages(html: string): RawPage[] {
         .replace(/<br\s*\/?>/gi, '\n')
         .replace(/<[^>]+>/g, '')
       const text = cleanText(withBreaks)
-      if (text && !/^(Notes on Translation|The Gospel according to Mary|Pages? \d)/i.test(text) && !/^[A-Z][a-z]+$/i.test(text) && text.length > 1 && !/^(The Gospel|Mary and Jesus|Conflict over Authority|Overcoming the Powers|An Eternal Perspective|The GospelAccording toMary)$/i.test(text)) {
+      if (text && !/^(Notes on Translation|The Gospel according to Mary|Pages? \d|As páginas \d)/i.test(text) && !/^[A-Z][a-z]+$/i.test(text) && text.length > 1 && !/^(The Gospel|Mary and Jesus|Conflict over Authority|Overcoming the Powers|An Eternal Perspective|The GospelAccording toMary|O Evangelho|Maria e Jesus|Conflito sobre Autoridade|Superando os Poderes|Uma Perspectiva Eterna)$/i.test(text)) {
         paragraphs.push(text)
       }
     })
@@ -100,8 +123,14 @@ export function parsePages(html: string): RawPage[] {
         number: pagePositions[i].page,
         heading: '',
         paragraphs,
+        notes: [],
       })
     }
+  }
+
+  const notesContent = extractNotesFromHtml(contentHtml)
+  if (notesContent.length && pages.length) {
+    pages[pages.length - 1].notes = notesContent
   }
 
   return pages

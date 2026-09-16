@@ -39,6 +39,7 @@ export async function saveAsSqlite(bible: Bible): Promise<void> {
       book_name TEXT NOT NULL,
       chapter_number INTEGER NOT NULL,
       verse_number INTEGER NOT NULL,
+      notes TEXT,
       FOREIGN KEY (book_abbrev) REFERENCES books(abbrev),
       UNIQUE(book_abbrev, chapter_number, verse_number)
     );
@@ -58,8 +59,8 @@ export async function saveAsSqlite(bible: Bible): Promise<void> {
   `)
 
   const insertVerseStmt = db.prepare(`
-    INSERT INTO verses (content, book_abbrev, book_name, chapter_number, verse_number)
-    VALUES (?, ?, ?, ?, ?);
+    INSERT INTO verses (content, book_abbrev, book_name, chapter_number, verse_number, notes)
+    VALUES (?, ?, ?, ?, ?, ?);
   `)
 
   // Insert books
@@ -80,8 +81,9 @@ export async function saveAsSqlite(bible: Bible): Promise<void> {
       for (let verseIndex = 0; verseIndex < chapter.length; verseIndex++) {
         const verse = chapter[verseIndex]
         const verseNumber = verseIndex + 1
+        const verseNotes = book.notes?.[chapterIndex]?.[verseIndex] ?? null
 
-        insertVerseStmt.run(verse, book.abbrev, book.name, chapterNumber, verseNumber)
+        insertVerseStmt.run(verse, book.abbrev, book.name, chapterNumber, verseNumber, verseNotes)
       }
     }
   }

@@ -19,6 +19,7 @@ export type Book = {
   abbrev: string
   testament: number
   chapters: string[][]
+  notes?: string[][]
 }
 
 export type Bible = {
